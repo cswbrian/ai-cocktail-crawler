@@ -1,0 +1,177 @@
+{
+  "name": {
+    "en": "Singapore Sling",
+    "zh": "\u65b0\u52a0\u5761\u53f8\u4ee4"
+  },
+  "description": {
+    "en": "**A Classic Tropical Cocktail**\n\nThe Singapore Sling is a complex and refreshing cocktail with a balance of sweet, sour, and herbal flavors. It features:\n*   Gin as the base spirit\n*   Cherry liqueur (Cherry Heering) for sweetness and color\n*   Benedictine for herbal and honeyed notes\n*   Cointreau for citrus complexity\n*   Pineapple juice for tropical flavor\n*   Lime juice for acidity\n*   A dash of Angostura bitters for added depth",
+    "zh": "**\u7d93\u5178\u71b1\u5e36\u96de\u5c3e\u9152**\n\n\u65b0\u52a0\u5761\u53f8\u4ee4\u662f\u4e00\u6b3e\u8907\u96dc\u800c\u6e05\u723d\u7684\u96de\u5c3e\u9152\uff0c\u878d\u5408\u4e86\u751c\u3001\u9178\u548c\u8349\u672c\u98a8\u5473\u3002 \u7279\u8272\u5305\u62ec\uff1a\n*   \u4ee5\u7434\u9152\u70ba\u57fa\u9152\n*   \u6afb\u6843\u5229\u53e3\u9152\uff08\u6afb\u6843\u5e0c\u6797\uff09\u5e36\u4f86\u751c\u5473\u548c\u8272\u5f69\n*   \u6cd5\u570b\u5eca\u9152\u5e36\u4f86\u8349\u672c\u548c\u8702\u871c\u5473\n*   \u541b\u5ea6\u6a59\u9152\u5e36\u4f86\u67d1\u6a58\u7684\u8907\u96dc\u6027\n*   \u9cf3\u68a8\u6c41\u5e36\u4f86\u71b1\u5e36\u98a8\u5473\n*   \u840a\u59c6\u6c41\u5e36\u4f86\u9178\u5ea6\n*   \u5b89\u683c\u5f0f\u82e6\u5473\u9152\u589e\u6dfb\u98a8\u5473\u6df1\u5ea6"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Singapore, Raffles Hotel, early 20th Century.\n\n*   Created by bartender Ngiam Tong Boon.\n*   Originally conceived as a 'ladies' drink.\n*   Recipe variations exist, but the core ingredients remain consistent.",
+    "zh": "**\u8d77\u6e90**: \u65b0\u52a0\u5761\uff0c\u840a\u4f5b\u58eb\u9152\u5e97\uff0c20 \u4e16\u7d00\u521d\u3002\n\n*   \u7531\u8abf\u9152\u5e2b\u56b4\u5d07\u6587 (Ngiam Tong Boon) \u5275\u4f5c\u3002\n*   \u6700\u521d\u88ab\u8a2d\u8a08\u70ba\u201c\u5973\u58eb\u98f2\u54c1\u201d\u3002\n*   \u914d\u65b9\u5b58\u5728\u8b8a\u5316\uff0c\u4f46\u6838\u5fc3\u6210\u5206\u4fdd\u6301\u4e00\u81f4\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a hurricane glass filled with ice. Garnish.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u98b6\u98a8\u676f\u4e2d\u3002 \u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and Maraschino cherry",
+    "zh": "\u9cf3\u68a8\u89d2\u548c\u9183\u6f2c\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass",
+    "zh": "\u98b6\u98a8\u676f"
+  },
+  "appearance": {
+    "en": "Pink to reddish hue, frothy",
+    "zh": "\u7c89\u7d05\u8272\u81f3\u5fae\u7d05\u8272\u8272\u8abf\uff0c\u8d77\u6ce1"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic backbone and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u9152\u7cbe\u9aa8\u5e79\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "\u6afb\u6843\u5e0c\u6797"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds cherry flavor, sweetness, and color.",
+        "zh": "\u589e\u6dfb\u6afb\u6843\u98a8\u5473\u3001\u751c\u5473\u548c\u8272\u5f69\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cointreau",
+        "zh": "\u541b\u5ea6\u6a59\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and complexity.",
+        "zh": "\u589e\u6dfb\u6a59\u5b50\u98a8\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Benedictine",
+        "zh": "\u6cd5\u570b\u5eca\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds herbal and honeyed notes.",
+        "zh": "\u589e\u6dfb\u8349\u672c\u548c\u8702\u871c\u7684\u5473\u9053\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "\u9cf3\u68a8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and body.",
+        "zh": "\u589e\u52a0\u71b1\u5e36\u751c\u5473\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides acidity to balance the sweetness.",
+        "zh": "\u63d0\u4f9b\u9178\u5ea6\uff0c\u4ee5\u5e73\u8861\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds a touch of bitterness and complexity.",
+        "zh": "\u589e\u6dfb\u4e00\u7d72\u82e6\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

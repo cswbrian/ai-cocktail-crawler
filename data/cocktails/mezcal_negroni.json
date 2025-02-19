@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Mezcal Negroni",
+    "zh": "\u6885\u65af\u5361\u723e\u5c3c\u683c\u7f85\u5c3c"
+  },
+  "description": {
+    "en": "A smoky twist on the classic Negroni, substituting gin with mezcal. This cocktail offers a complex profile with bitter, herbal, and smoky notes.\n\n*   **Smoky Agave:** The mezcal brings a distinctive smoky character, setting it apart from the traditional gin-based Negroni.\n*   **Balanced Bitterness:** Equal parts mezcal, vermouth, and Campari create a harmonious balance of flavors.",
+    "zh": "\u7d93\u5178 Negroni \u7684\u7159\u71fb\u8b8a\u594f\u7248\uff0c\u7528\u6885\u65af\u5361\u723e\u4ee3\u66ff\u7434\u9152\u3002\u9019\u6b3e\u96de\u5c3e\u9152\u63d0\u4f9b\u8907\u96dc\u7684\u98a8\u5473\uff0c\u5e36\u6709\u82e6\u5473\u3001\u8349\u672c\u5473\u548c\u7159\u71fb\u5473\u3002\n\n*   **\u7159\u71fb\u9f8d\u820c\u862d\uff1a** \u6885\u65af\u5361\u723e\u5e36\u4f86\u7368\u7279\u7684\u7159\u71fb\u5473\uff0c\u4f7f\u5176\u6709\u5225\u65bc\u50b3\u7d71\u7684\u7434\u9152 Negroni\u3002\n*   **\u5e73\u8861\u7684\u82e6\u5473\uff1a** \u7b49\u91cf\u7684\u6885\u65af\u5361\u723e\u3001\u82e6\u827e\u9152\u548c\u91d1\u5df4\u5229\u5275\u9020\u51fa\u548c\u8ae7\u7684\u98a8\u5473\u5e73\u8861\u3002"
+  },
+  "historical_reference": {
+    "en": "The Negroni itself has a well-documented history, originating in Florence, Italy, in the early 20th century. The Mezcal Negroni is a more recent adaptation, gaining popularity in the 21st century as bartenders experiment with different spirits to create variations on classic cocktails.\n\n*   **Classic Negroni**: Originated in Florence, Italy around 1919.",
+    "zh": "Negroni \u672c\u8eab\u6709\u8457\u8a73\u7d30\u7684\u6b77\u53f2\u8a18\u8f09\uff0c\u8d77\u6e90\u65bc 20 \u4e16\u7d00\u521d\u7684\u7fa9\u5927\u5229\u4f5b\u7f85\u502b\u65af\u3002 Mezcal Negroni \u662f\u4e00\u7a2e\u8f03\u65b0\u7684\u6539\u7de8\uff0c\u96a8\u8457\u8abf\u9152\u5e2b\u5617\u8a66\u4f7f\u7528\u4e0d\u540c\u7684\u70c8\u9152\u4f86\u5275\u9020\u7d93\u5178\u96de\u5c3e\u9152\u7684\u8b8a\u9ad4\uff0c\u5728 21 \u4e16\u7d00\u8d8a\u4f86\u8d8a\u53d7\u6b61\u8fce\u3002\n\n*   **\u7d93\u5178 Negroni**\uff1a\u7d04\u65bc 1919 \u5e74\u8d77\u6e90\u65bc\u7fa9\u5927\u5229\u4f5b\u7f85\u502b\u65af\u3002"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a rocks glass with a large ice cube.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u652a\u62cc\u5747\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u88dd\u6709\u5927\u51b0\u584a\u7684\u5ca9\u77f3\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "\u6a59\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "\u5ca9\u77f3\u676f"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "\u6e05\u6f88\u3001\u6df1\u7425\u73c0\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Mezcal",
+        "zh": "\u6885\u65af\u5361\u723e"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the smoky, agave-forward base.",
+        "zh": "\u63d0\u4f9b\u7159\u71fb\u3001\u4ee5\u9f8d\u820c\u862d\u70ba\u4e3b\u7684\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "\u91d1\u5df4\u5229"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds the signature bitter note.",
+        "zh": "\u589e\u6dfb\u6a19\u8a8c\u6027\u7684\u82e6\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides sweetness and herbal complexity.",
+        "zh": "\u63d0\u4f9b\u751c\u5473\u548c\u8349\u672c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

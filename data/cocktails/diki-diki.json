@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Diki-Diki",
+    "zh": "\u8fea\u57fa-\u8fea\u57fa"
+  },
+  "description": {
+    "en": "**A citrusy and frothy gin-based cocktail.**\n\nThe Diki-Diki is a somewhat obscure classic cocktail known for its unique combination of gin, grapefruit juice, honey, and egg white, resulting in a sweet and tart flavor profile with a creamy texture. It's a pre-prohibition era drink that showcases the use of fresh ingredients.",
+    "zh": "**\u4e00\u6b3e\u67d1\u6a58\u5473\u6fc3\u90c1\u4e14\u6ce1\u6cab\u8c50\u5bcc\u7684\u7434\u9152\u96de\u5c3e\u9152\u3002**\n\nDiki-Diki \u662f\u4e00\u6b3e\u7565\u70ba\u9ed8\u9ed8\u7121\u805e\u7684\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u4ee5\u5176\u7434\u9152\u3001\u8461\u8404\u67da\u6c41\u3001\u8702\u871c\u548c\u86cb\u767d\u7684\u7368\u7279\u7d44\u5408\u800c\u805e\u540d\uff0c\u5e36\u4f86\u751c\u9178\u98a8\u5473\u548c\u5976\u6cb9\u822c\u7684\u8cea\u5730\u3002\u9019\u662f\u4e00\u6b3e\u7981\u9152\u4ee4\u4e4b\u524d\u7684\u98f2\u54c1\uff0c\u5c55\u73fe\u4e86\u65b0\u9bae\u98df\u6750\u7684\u904b\u7528\u3002"
+  },
+  "historical_reference": {
+    "en": "The Diki-Diki cocktail is first documented in *Harry Craddock's Savoy Cocktail Book* in 1930. Its origin before this is unclear.\n\n*   Attributed to being created sometime before the prohibition era.\n*   The name 'Diki-Diki' is of unknown origin.",
+    "zh": "Diki-Diki \u96de\u5c3e\u9152\u9996\u6b21\u8a18\u8f09\u65bc 1930 \u5e74\u7684\u300a\u54c8\u91cc\u00b7\u514b\u62c9\u591a\u514b\u85a9\u4f0f\u4f0a\u96de\u5c3e\u9152\u66f8\u300b\u4e2d\u3002\u5728\u6b64\u4e4b\u524d\u7684\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\u3002\n\n*   \u64da\u7a31\u662f\u5728\u7981\u9152\u4ee4\u6642\u4ee3\u4e4b\u524d\u5275\u9020\u7684\u3002\n*   \u300cDiki-Diki\u300d\u9019\u500b\u540d\u5b57\u7684\u7531\u4f86\u4e0d\u660e\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients vigorously with ice. Strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u5287\u70c8\u6416\u6643\u3002\u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Grapefruit peel twist",
+    "zh": "\u8461\u8404\u67da\u76ae\u626d\u82b1"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "\u90c1\u91d1\u9999\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head.",
+    "zh": "\u6df7\u6fc1\u7684\u6de1\u9ec3\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u7684\u767d\u8272\u9802\u90e8\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u9152\u7cbe\u57fa\u5e95\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Honey",
+        "zh": "\u8702\u871c"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a smooth texture.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u9806\u6ed1\u7684\u53e3\u611f\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Creates a frothy texture and silky mouthfeel.",
+        "zh": "\u7522\u751f\u6ce1\u6cab\u72c0\u7684\u8cea\u5730\u548c\u67d4\u6ed1\u7684\u53e3\u611f\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

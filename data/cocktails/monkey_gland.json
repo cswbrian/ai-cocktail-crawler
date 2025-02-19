@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Monkey Gland",
+    "zh": "\u7334\u817a"
+  },
+  "description": {
+    "en": "*A pre-Prohibition era cocktail*, the Monkey Gland is a quirky and somewhat controversial drink. It combines gin with orange juice, grenadine, and absinthe for a complex flavor profile.\n\n*The name is derived from a dubious medical procedure*, popularized in the early 20th century, involving grafting monkey testicle tissue onto humans in an attempt to restore vitality.",
+    "zh": "*\u7981\u9152\u4ee4\u4e4b\u524d\u7684\u96de\u5c3e\u9152*\uff0c\u7334\u817a\u662f\u4e00\u7a2e\u53e4\u602a\u4e14\u6709\u4e9b\u722d\u8b70\u7684\u98f2\u54c1\u3002\u5b83\u5c07\u7434\u9152\u8207\u6a59\u6c41\u3001\u77f3\u69b4\u7cd6\u6f3f\u548c\u82e6\u827e\u9152\u6df7\u5408\uff0c\u5f62\u6210\u8907\u96dc\u7684\u98a8\u5473\u3002\n\n*\u9019\u500b\u540d\u5b57\u6e90\u65bc\u4e00\u7a2e\u53ef\u7591\u7684\u91ab\u7642\u7a0b\u5e8f*\uff0c\u5728 20 \u4e16\u7d00\u521d\u6d41\u884c\uff0c\u6d89\u53ca\u5c07\u7334\u5b50\u776a\u4e38\u7d44\u7e54\u79fb\u690d\u5230\u4eba\u985e\u8eab\u4e0a\uff0c\u8a66\u5716\u6062\u5fa9\u6d3b\u529b\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Harry MacElhone at Harry's New York Bar in Paris in the 1920s.\n\n* Named after the rejuvenation treatments of Dr. Serge Voronoff.\n* The name reflects the era's fascination with dubious medical procedures.",
+    "zh": "**\u8d77\u6e90**: 1920 \u5e74\u4ee3\u7531 Harry MacElhone \u5728\u5df4\u9ece\u7684 Harry's New York Bar \u5275\u4f5c\u3002\n\n* \u4ee5 Serge Voronoff \u91ab\u751f\u7684\u56de\u6625\u7642\u6cd5\u547d\u540d\u3002\n* \u9019\u500b\u540d\u5b57\u53cd\u6620\u4e86\u90a3\u500b\u6642\u4ee3\u5c0d\u53ef\u7591\u91ab\u7642\u7a0b\u5e8f\u7684\u8ff7\u6200\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "\u6a59\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "\u9ad8\u8173\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy pink to orange, depending on grenadine, with an orange peel garnish.",
+    "zh": "\u6df7\u6fc1\u7684\u7c89\u7d05\u8272\u81f3\u6a59\u8272\uff0c\u53d6\u6c7a\u65bc\u77f3\u69b4\u7cd6\u6f3f\uff0c\u4e26\u4ee5\u6a59\u76ae\u88dd\u98fe\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u9152\u7cbe\u57fa\u5e95\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds a hint of anise and complexity.",
+        "zh": "\u6dfb\u52a0\u4e00\u7d72\u8334\u9999\u548c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes, balancing the gin.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u67d1\u6a58\u5473\uff0c\u5e73\u8861\u7434\u9152\u3002"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides sweetness and a red color.",
+        "zh": "\u63d0\u4f9b\u751c\u5473\u548c\u7d05\u8272\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

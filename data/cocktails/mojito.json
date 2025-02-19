@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Mojito",
+    "zh": "\u83ab\u5e0c\u6258"
+  },
+  "description": {
+    "en": "**Classic Cuban Refreshment**\n\nA vibrant and refreshing cocktail featuring:\n*   Muddled mint and lime for herbal and citrus notes\n*   Rum for a tropical kick\n*   Soda water for effervescence",
+    "zh": "**\u7d93\u5178\u53e4\u5df4\u98f2\u54c1**\n\n\u4e00\u6b3e\u5145\u6eff\u6d3b\u529b\u4e14\u4ee4\u4eba\u8033\u76ee\u4e00\u65b0\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u6417\u788e\u7684\u8584\u8377\u548c\u6ab8\u6aac\uff0c\u5e36\u4f86\u8349\u672c\u548c\u67d1\u6a58\u98a8\u5473\n*   \u862d\u59c6\u9152\u5e36\u4f86\u71b1\u5e36\u98a8\u5473\n*   \u8607\u6253\u6c34\u7522\u751f\u6c23\u6ce1"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Havana, Cuba\n\n*   Evolved from a medicinal drink\n*   Popularized during the Prohibition era\n*   Hemingway's favorite cocktail",
+    "zh": "**\u8d77\u6e90**: \u53e4\u5df4\uff0c\u54c8\u74e6\u90a3\n\n*   \u7531\u85e5\u7528\u98f2\u6599\u6f14\u8b8a\u800c\u4f86\n*   \u5728\u7981\u9152\u6642\u671f\u5ee3\u53d7\u6b61\u8fce\n*   \u6d77\u660e\u5a01\u6700\u559c\u6b61\u7684\u96de\u5c3e\u9152"
+  },
+  "technique": {
+    "en": "Muddle lime, mint, and sugar. Add rum and ice. Top with soda water.",
+    "zh": "\u6417\u788e\u6ab8\u6aac\u3001\u8584\u8377\u548c\u7cd6\u3002\u52a0\u5165\u862d\u59c6\u9152\u548c\u51b0\u584a\u3002\u5012\u5165\u8607\u6253\u6c34\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig and lime wedge",
+    "zh": "\u8584\u8377\u679d\u548c\u6ab8\u6aac\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u676f\u73bb\u7483\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green with mint sprigs and lime wedges",
+    "zh": "\u6df7\u6fc1\u7684\u6de1\u7da0\u8272\uff0c\u5e36\u6709\u8584\u8377\u679d\u548c\u6ab8\u6aac\u89d2"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "White Rum",
+        "zh": "\u767d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and tropical notes.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u71b1\u5e36\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Lime Wedges",
+        "zh": "\u6ab8\u6aac\u89d2"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus flavor.",
+        "zh": "\u589e\u6dfb\u9178\u5473\u548c\u67d1\u6a58\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 12,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "\u8584\u8377\u8449"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "\u7247"
+      },
+      "rationale": {
+        "en": "Provides aromatic and herbal notes.",
+        "zh": "\u63d0\u4f9b\u82b3\u9999\u548c\u8349\u672c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "\u8336\u5319"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\uff0c\u5e73\u8861\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "\u8607\u6253\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the mixture.",
+        "zh": "\u589e\u52a0\u6c23\u6ce1\u4e26\u7a00\u91cb\u6df7\u5408\u7269\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Grassy",
+      "zh": "\u9752\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

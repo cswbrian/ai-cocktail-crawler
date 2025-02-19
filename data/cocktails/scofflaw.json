@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Scofflaw",
+    "zh": "\u8511\u8996\u6cd5\u5f8b\u7684\u4eba"
+  },
+  "description": {
+    "en": "**A Prohibition-Era Sour**\n\nThe Scofflaw is a classic sour cocktail with a slightly tart and fruity profile, perfectly balancing the spiciness of rye whiskey with the sweetness of grenadine and the dryness of dry vermouth. A dash of orange bitters adds aromatic complexity.\n\nKey characteristics:\n*   Rye whiskey base for spiciness\n*   Dry vermouth contributes dryness and herbal notes\n*   Grenadine for sweetness and color\n*   Orange bitters for aromatic complexity",
+    "zh": "**\u7981\u9152\u6642\u671f\u7684\u9178\u5473\u96de\u5c3e\u9152**\n\nScofflaw\u662f\u4e00\u6b3e\u7d93\u5178\u7684\u9178\u5473\u96de\u5c3e\u9152\uff0c\u5e36\u6709\u7565\u5fae\u9178\u6f80\u548c\u679c\u9999\u7684\u5473\u9053\uff0c\u5b8c\u7f8e\u5e73\u8861\u4e86\u9ed1\u9ea5\u5a01\u58eb\u5fcc\u7684\u8f9b\u8fa3\u3001\u77f3\u69b4\u7cd6\u6f3f\u7684\u751c\u5473\u548c\u4e7e\u82e6\u827e\u9152\u7684\u4e7e\u6f80\u3002\u5c11\u91cf\u6a59\u5473\u82e6\u7cbe\u589e\u6dfb\u4e86\u9999\u6c23\u7684\u8907\u96dc\u6027\u3002\n\n\u4e3b\u8981\u7279\u5fb5\uff1a\n* \u9ed1\u9ea5\u5a01\u58eb\u5fcc\u57fa\u5e95\u5e36\u4f86\u8f9b\u8fa3\u5473\n* \u4e7e\u82e6\u827e\u9152\u5e36\u4f86\u4e7e\u6f80\u548c\u8349\u672c\u5473\n* \u77f3\u69b4\u7cd6\u6f3f\u589e\u6dfb\u751c\u5473\u548c\u984f\u8272\n* \u6a59\u5473\u82e6\u7cbe\u589e\u6dfb\u9999\u6c23\u7684\u8907\u96dc\u6027"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Paris, 1924. Created at Harry's New York Bar in Paris.\n\n*   Named to mock American Prohibitionists, calling them \"scofflaws.\"\n*   Became popular during the Prohibition era as Americans traveling abroad sought alcoholic beverages.\n*   The term \"scofflaw\" was coined during a contest to find a name for those who disregarded Prohibition laws.",
+    "zh": "**\u8d77\u6e90**: 1924\u5e74\u65bc\u5df4\u9ece\u3002\u5728\u5df4\u9ece\u7684\u54c8\u5229\u7d10\u7d04\u9152\u5427\u5275\u4f5c\u3002\n\n*   \u547d\u540d\u662f\u70ba\u4e86\u5632\u7b11\u7f8e\u570b\u7981\u9152\u4e3b\u7fa9\u8005\uff0c\u7a31\u4ed6\u5011\u70ba\u201c\u8511\u8996\u6cd5\u5f8b\u7684\u4eba\u201d\u3002\n*   \u5728\u7981\u9152\u6642\u671f\uff0c\u96a8\u8457\u51fa\u570b\u65c5\u884c\u7684\u7f8e\u570b\u4eba\u5c0b\u627e\u9152\u7cbe\u98f2\u6599\u800c\u8b8a\u5f97\u6d41\u884c\u3002\n*   \u201c\u8511\u8996\u6cd5\u5f8b\u7684\u4eba\u201d\u4e00\u8a5e\u662f\u5728\u4e00\u5834\u70ba\u90a3\u4e9b\u7121\u8996\u7981\u9152\u6cd5\u7684\u4eba\u5c0b\u627e\u540d\u7a31\u7684\u7af6\u8cfd\u4e2d\u5275\u9020\u7684\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "\u67f3\u6a59\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "\u9ad8\u8173\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Amber with a slight pink hue",
+    "zh": "\u7425\u73c0\u8272\uff0c\u7565\u5e36\u7c89\u7d05\u8272\u8abf"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "\u9ed1\u9ea5\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "\u63d0\u4f9b\u8f9b\u8fa3\u800c\u6fc3\u90c1\u7684\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u548c\u984f\u8272\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "\u6a59\u5473\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity.",
+        "zh": "\u589e\u52a0\u9999\u6c23\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "\u4e7e\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "\u589e\u6dfb\u4e7e\u6f80\u548c\u8349\u672c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4ee5\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

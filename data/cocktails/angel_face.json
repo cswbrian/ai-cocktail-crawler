@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Angel Face",
+    "zh": "\u5929\u4f7f\u4e4b\u984f"
+  },
+  "description": {
+    "en": "The Angel Face is a classic cocktail known for its equal parts of gin, apricot brandy, and apple brandy, resulting in a complex, floral, and fruity flavor profile.",
+    "zh": "\u5929\u4f7f\u4e4b\u984f\u662f\u4e00\u6b3e\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u4ee5\u7b49\u91cf\u7684\u7434\u9152\u3001\u674f\u6843\u767d\u862d\u5730\u548c\u860b\u679c\u767d\u862d\u5730\u8abf\u88fd\u800c\u6210\uff0c\u5448\u73fe\u51fa\u8907\u96dc\u3001\u82b1\u9999\u548c\u679c\u9999\u7684\u98a8\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin:** The Angel Face cocktail is a classic from the early 20th century.\n\n*   Its exact origin is somewhat obscure, but it gained popularity in cocktail books of the 1920s and 1930s.\n*   Notably featured in *Harry Craddock's Savoy Cocktail Book* (1930).",
+    "zh": "**\u8d77\u6e90\uff1a** \u5929\u4f7f\u4e4b\u984f\u96de\u5c3e\u9152\u662f 20 \u4e16\u7d00\u521d\u7684\u7d93\u5178\u4e4b\u4f5c\u3002\n\n*   \u5176\u78ba\u5207\u8d77\u6e90\u6709\u4e9b\u6a21\u7cca\uff0c\u4f46\u5728 1920 \u5e74\u4ee3\u548c 1930 \u5e74\u4ee3\u7684\u96de\u5c3e\u9152\u66f8\u7c4d\u4e2d\u5ee3\u53d7\u6b61\u8fce\u3002\n*   \u5c24\u5176\u4ee5\u300a*\u54c8\u5229\u00b7\u514b\u62c9\u591a\u514b\u7684\u85a9\u4f0f\u4f0a\u96de\u5c3e\u9152\u66f8*\u300b\uff081930 \u5e74\uff09\u70ba\u4ee3\u8868\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u6416\u6643\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u904e\u7684\u676f\u5b50\u3002"
+  },
+  "garnish": {
+    "en": "None typically, optional apple slice",
+    "zh": "\u901a\u5e38\u6c92\u6709\uff0c\u53ef\u9078\u860b\u679c\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Clear, pale golden",
+    "zh": "\u6e05\u6f88\u7684\u6de1\u91d1\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary alcoholic base and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u4e3b\u8981\u9152\u7cbe\u57fa\u5e95\u548c\u690d\u7269\u6027\u8907\u96dc\u5ea6\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Apricot Brandy",
+        "zh": "\u674f\u6843\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweet, fruity apricot notes and contributes to the cocktail's body.",
+        "zh": "\u589e\u6dfb\u751c\u7f8e\u3001\u679c\u9999\u7684\u674f\u6843\u5473\uff0c\u4e26\u6709\u52a9\u65bc\u96de\u5c3e\u9152\u7684\u53e3\u611f\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "\u860b\u679c\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides crisp apple flavors and enhances the overall complexity.",
+        "zh": "\u63d0\u4f9b\u6e05\u8106\u7684\u860b\u679c\u98a8\u5473\u4e26\u589e\u5f37\u6574\u9ad4\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

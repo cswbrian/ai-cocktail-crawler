@@ -1,0 +1,162 @@
+{
+  "name": {
+    "en": "Last of the Mohicans",
+    "zh": "\u6700\u5f8c\u7684\u83ab\u5e0c\u5e72\u4eba"
+  },
+  "description": {
+    "en": "**Bold and Complex Cocktail**\n\nA potent mix of whiskey, rum, and bitters, known for its:\n*   Strong, spicy flavor profile\n*   Aromatic bitters blend\n*   Foamy egg white texture",
+    "zh": "**\u5927\u81bd\u800c\u8907\u96dc\u7684\u96de\u5c3e\u9152**\n\n\u5a01\u58eb\u5fcc\u3001\u862d\u59c6\u9152\u548c\u82e6\u7cbe\u7684\u5f37\u6548\u6df7\u5408\u7269\uff0c\u4ee5\u5176\u805e\u540d\uff1a\n*   \u5f37\u70c8\u3001\u8f9b\u8fa3\u7684\u98a8\u5473\n*   \u82b3\u9999\u7684\u82e6\u7cbe\u6df7\u5408\n*   \u6ce1\u6cab\u72c0\u7684\u86cb\u767d\u53e3\u611f"
+  },
+  "historical_reference": {
+    "en": "**A Modern Creation**\n\n*   Created in the early 2000s at the Bourgeois Pig in Hollywood, CA\n*   Named after the 1992 film *The Last of the Mohicans*\n*   Inspired by classic whiskey cocktails with a modern twist",
+    "zh": "**\u73fe\u4ee3\u5275\u4f5c**\n\n*   2000 \u5e74\u4ee3\u521d\u671f\u5728\u52a0\u5dde\u597d\u840a\u5862\u7684 Bourgeois Pig \u5275\u5efa\n*   \u4ee5 1992 \u5e74\u7684\u96fb\u5f71\u300a*\u6700\u5f8c\u7684\u83ab\u5e0c\u5e72\u4eba*\u300b\u547d\u540d\n*   \u9748\u611f\u4f86\u81ea\u5e36\u6709\u73fe\u4ee3\u98a8\u5473\u7684\u7d93\u5178\u5a01\u58eb\u5fcc\u96de\u5c3e\u9152"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into a chilled coupe glass.",
+    "zh": "\u5148\u5c07\u6240\u6709\u6750\u6599\u4e7e\u6416\uff0c\u7136\u5f8c\u518d\u52a0\u51b0\u6416\u6643\u3002 \u96d9\u91cd\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u9ad8\u8173\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "\u6a59\u76ae\u626d\u8f49"
+  },
+  "serve_in_glass": {
+    "en": "Coupe Glass",
+    "zh": "\u9ad8\u8173\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, deep amber-red with a foamy white head",
+    "zh": "\u6df7\u6fc1\uff0c\u6df1\u7425\u73c0\u7d05\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u767d\u8272\u982d"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "\u9ed1\u9ea5\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the spicy and robust base for the cocktail.",
+        "zh": "\u70ba\u96de\u5c3e\u9152\u63d0\u4f9b\u8f9b\u8fa3\u800c\u6fc3\u90c1\u7684\u57fa\u5e95\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds depth and richness to the overall flavor profile.",
+        "zh": "\u589e\u52a0\u6574\u9ad4\u98a8\u5473\u7684\u6df1\u5ea6\u548c\u6fc3\u90c1\u5ea6\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cherry Liqueur",
+        "zh": "\u6afb\u6843\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinct cherry flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u7368\u7279\u7684\u6afb\u6843\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and foamy head.",
+        "zh": "\u589e\u52a0\u7d72\u6ed1\u7684\u8cea\u611f\u548c\u6ce1\u6cab\u72c0\u7684\u982d\u90e8\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "\u5b89\u54e5\u65af\u5716\u5a1c\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds a layer of complexity and spice.",
+        "zh": "\u589e\u52a0\u4e00\u5c64\u8907\u96dc\u6027\u548c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "\u4f69\u55ac\u6c0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds a floral and slightly sweet note.",
+        "zh": "\u589e\u6dfb\u82b1\u9999\u548c\u6de1\u6de1\u7684\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

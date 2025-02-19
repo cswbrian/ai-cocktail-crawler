@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Churchill",
+    "zh": "\u90b1\u5409\u723e"
+  },
+  "description": {
+    "en": "**A Strong and Smoky Concoction**\n\nThe Churchill cocktail is a potent mix designed for those who appreciate a robust and complex flavor profile.\n\nKey features:\n*   Heavy on the Scotch\n*   Subtle citrus notes\n*   Lightly sweetened with honey\n*   Topped with soda for a touch of fizz",
+    "zh": "**\u6fc3\u70c8\u4e14\u7159\u718f\u7684\u6df7\u5408\u7269**\n\n\u90b1\u5409\u723e\u96de\u5c3e\u9152\u662f\u4e00\u7a2e\u5f37\u6548\u7684\u6df7\u5408\u7269\uff0c\u5c08\u70ba\u90a3\u4e9b\u6b23\u8cde\u6fc3\u90c1\u548c\u8907\u96dc\u98a8\u5473\u7684\u4eba\u800c\u8a2d\u8a08\u3002\n\n\u4e3b\u8981\u7279\u9ede\uff1a\n*   \u4ee5\u8607\u683c\u862d\u5a01\u58eb\u5fcc\u70ba\u4e3b\n*   \u6de1\u6de1\u7684\u67d1\u6a58\u5473\n*   \u7528\u8702\u871c\u7565\u5fae\u8abf\u5473\n*   \u9802\u90e8\u6dfb\u52a0\u8607\u6253\u6c34\uff0c\u5e36\u4f86\u4e00\u7d72\u6c23\u6ce1"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after Sir Winston Churchill\n\n*   Said to be his preferred style of drink.\n*   Likely created sometime in the mid-20th century.\n*   The specific origin and creator are not definitively known, but the drink reflects the bold and distinctive character of its namesake.",
+    "zh": "**\u8d77\u6e90**: \u4ee5\u6eab\u65af\u9813\u00b7\u90b1\u5409\u723e\u7235\u58eb\u547d\u540d\n\n*   \u64da\u8aaa\u662f\u4ed6\u7684\u9996\u9078\u98f2\u54c1\u98a8\u683c\u3002\n*   \u53ef\u80fd\u662f\u572820\u4e16\u7d00\u4e2d\u8449\u7684\u67d0\u500b\u6642\u5019\u5275\u9020\u7684\u3002\n*   \u5177\u9ad4\u8d77\u6e90\u548c\u5275\u9020\u8005\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u9019\u7a2e\u98f2\u54c1\u53cd\u6620\u4e86\u5176\u540c\u540d\u4eba\u7269\u7684\u81bd\u5927\u548c\u7368\u7279\u500b\u6027\u3002"
+  },
+  "technique": {
+    "en": "Build. Combine whisky, lemon juice, and honey syrup in a highball glass filled with ice. Top with soda water and stir gently. Garnish with a lemon twist.",
+    "zh": "\u76f4\u63a5\u8abf\u88fd\u3002\u5c07\u5a01\u58eb\u5fcc\u3001\u6ab8\u6aac\u6c41\u548c\u8702\u871c\u7cd6\u6f3f\u5728\u9ad8\u7403\u676f\u4e2d\u8207\u51b0\u584a\u6df7\u5408\u3002 \u52a0\u5165\u8607\u6253\u6c34\u4e26\u8f15\u8f15\u652a\u62cc\u3002 \u7528\u6ab8\u6aac\u76ae\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "\u6ab8\u6aac\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a slight effervescence",
+    "zh": "\u6df7\u6fc1\u7684\uff0c\u6de1\u9ec3\u8272\uff0c\u7565\u5e36\u6c23\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "\u8607\u683c\u862d\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a smoky and complex base",
+        "zh": "\u63d0\u4f9b\u7159\u718f\u548c\u8907\u96dc\u7684\u57fa\u5e95"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a touch of acidity to balance the sweetness",
+        "zh": "\u589e\u52a0\u4e00\u7d72\u9178\u5ea6\u4ee5\u5e73\u8861\u751c\u5473"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "\u8702\u871c\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and adds a unique flavor note",
+        "zh": "\u4f7f\u98f2\u6599\u8b8a\u751c\u4e26\u6dfb\u52a0\u7368\u7279\u7684\u98a8\u5473"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "\u8607\u6253\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a refreshing effervescence",
+        "zh": "\u589e\u52a0\u6e05\u723d\u7684\u6c23\u6ce1"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 3,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": true
+  }
+}

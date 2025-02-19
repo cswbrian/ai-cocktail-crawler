@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Irish Coffee",
+    "zh": "\u611b\u723e\u862d\u5496\u5561"
+  },
+  "description": {
+    "en": "**Classic Warm Cocktail**\n\nA comforting blend of coffee, whiskey, sugar, and cream, featuring:\n*   Hot coffee to provide warmth\n*   Irish whiskey for a boozy kick\n*   Sugar for sweetness\n*   Fresh cream floated on top for richness",
+    "zh": "**\u7d93\u5178\u6696\u8abf\u96de\u5c3e\u9152**\n\n\u5496\u5561\u3001\u5a01\u58eb\u5fcc\u3001\u7cd6\u548c\u9bae\u5976\u6cb9\u7684\u8212\u9069\u6df7\u5408\uff0c\u7279\u8272\uff1a\n*   \u71b1\u5496\u5561\u63d0\u4f9b\u6eab\u6696\n*   \u611b\u723e\u862d\u5a01\u58eb\u5fcc\u5e36\u4f86\u9189\u4eba\u7684\u53e3\u611f\n*   \u7cd6\u63d0\u4f9b\u751c\u5473\n*   \u9802\u90e8\u6f02\u6d6e\u7684\u9bae\u5976\u6cb9\u589e\u52a0\u6fc3\u90c1\u5ea6"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to Joe Sheridan in 1943 at Foynes Port, Ireland\n\n*   Created to warm up passengers on a transatlantic flight\n*   Became popular at the Buena Vista Cafe in San Francisco\n*   A classic example of a hot alcoholic beverage",
+    "zh": "**\u8d77\u6e90**: \u6b78\u529f\u65bc 1943 \u5e74\u5728\u611b\u723e\u862d\u798f\u56e0\u65af\u6e2f\u7684 Joe Sheridan\n\n*   \u5275\u5efa\u76ee\u7684\u662f\u70ba\u4e86\u8b93\u8de8\u5927\u897f\u6d0b\u822a\u73ed\u4e0a\u7684\u4e58\u5ba2\u6696\u8eab\n*   \u5728\u820a\u91d1\u5c71\u7684 Buena Vista Cafe \u8b8a\u5f97\u6d41\u884c\n*   \u71b1\u9152\u7cbe\u98f2\u6599\u7684\u7d93\u5178\u7bc4\u4f8b"
+  },
+  "technique": {
+    "en": "Warm the glass, add sugar and whiskey, fill with coffee, float cream on top",
+    "zh": "\u6eab\u71b1\u676f\u5b50\uff0c\u52a0\u5165\u7cd6\u548c\u5a01\u58eb\u5fcc\uff0c\u5012\u5165\u5496\u5561\uff0c\u5728\u9802\u90e8\u6f02\u6d6e\u9bae\u5976\u6cb9"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or chocolate shavings (optional)",
+    "zh": "\u78e8\u788e\u7684\u8089\u8373\u853b\u6216\u5de7\u514b\u529b\u5c51\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Irish coffee glass or heat-resistant glass mug",
+    "zh": "\u611b\u723e\u862d\u5496\u5561\u676f\u6216\u8010\u71b1\u73bb\u7483\u99ac\u514b\u676f"
+  },
+  "appearance": {
+    "en": "Layered dark liquid with a thick white cream top",
+    "zh": "\u5206\u5c64\u7684\u6df1\u8272\u6db2\u9ad4\uff0c\u9802\u90e8\u6709\u6fc3\u539a\u7684\u767d\u8272\u5976\u6cb9"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "\u611b\u723e\u862d\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinct Irish whiskey flavor",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u7368\u7279\u7684\u611b\u723e\u862d\u5a01\u58eb\u5fcc\u98a8\u5473"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "\u7d05\u7cd6"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "\u8336\u5319"
+      },
+      "rationale": {
+        "en": "Adds sweetness and caramel notes",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u7126\u7cd6\u5473"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Coffee",
+        "zh": "\u71b1\u5496\u5561"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base and warmth",
+        "zh": "\u63d0\u4f9b\u57fa\u5e95\u548c\u6eab\u6696"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "\u9bae\u5976\u6cb9"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds richness and texture",
+        "zh": "\u589e\u52a0\u6fc3\u90c1\u5ea6\u548c\u8cea\u611f"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

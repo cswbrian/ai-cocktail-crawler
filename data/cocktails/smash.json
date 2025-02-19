@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Smash",
+    "zh": "\u601d\u7f8e\u5e0c"
+  },
+  "description": {
+    "en": "*   A **Smash** is a versatile cocktail built around a spirit, fresh fruit, herbs, and a sweetener. It's essentially a julep's freewheeling cousin.\n*   The drink can be easily adapted to utilize seasonal fruits and herbs, making it highly customizable.",
+    "zh": "*   **Smash** \u662f\u4e00\u7a2e\u591a\u529f\u80fd\u7684\u96de\u5c3e\u9152\uff0c\u4ee5\u70c8\u9152\u3001\u65b0\u9bae\u6c34\u679c\u3001\u9999\u8349\u548c\u751c\u5473\u5291\u70ba\u57fa\u790e\u3002\u5b83\u672c\u8cea\u4e0a\u662f\u6731\u5229\u666e\u96de\u5c3e\u9152\u7684\u81ea\u7531\u5954\u653e\u7684\u8868\u89aa\u3002\n*   \u6b64\u98f2\u54c1\u53ef\u4ee5\u8f15\u9b06\u8abf\u6574\u4ee5\u5229\u7528\u5b63\u7bc0\u6027\u6c34\u679c\u548c\u9999\u8349\uff0c\u4f7f\u5176\u5177\u6709\u9ad8\u5ea6\u7684\u5ba2\u88fd\u5316\u80fd\u529b\u3002"
+  },
+  "historical_reference": {
+    "en": "*   The **Smash** is a classic cocktail with a long history, dating back to the 19th century.\n*   It is considered a template or family of drinks, allowing for endless variations depending on available ingredients.\n*   Jerry Thomas' Bartenders Guide includes recipes for the Smash",
+    "zh": "*   **Smash** \u662f\u4e00\u7a2e\u6b77\u53f2\u60a0\u4e45\u7684\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u53ef\u4ee5\u8ffd\u6eaf\u5230 19 \u4e16\u7d00\u3002\n*   \u5b83\u88ab\u8a8d\u70ba\u662f\u4e00\u7a2e\u7bc4\u672c\u6216\u7cfb\u5217\u98f2\u54c1\uff0c\u53ef\u4ee5\u6839\u64da\u73fe\u6709\u98df\u6750\u9032\u884c\u7121\u6578\u7684\u8b8a\u5316\u3002\n*   Jerry Thomas \u7684\u300aBartenders Guide\u300b\u4e2d\u5305\u542b Smash \u7684\u98df\u8b5c"
+  },
+  "technique": {
+    "en": "Muddle fruit, herbs, and syrup in a shaker. Add spirit and ice. Shake briefly. Strain into glass filled with ice. Top with soda.",
+    "zh": "\u5728\u6416\u9152\u5668\u4e2d\u6417\u788e\u6c34\u679c\u3001\u9999\u8349\u548c\u7cd6\u6f3f\u3002\u52a0\u5165\u70c8\u9152\u548c\u51b0\u584a\u3002\u77ed\u66ab\u6416\u6643\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u676f\u5b50\u3002\u9802\u90e8\u52a0\u5165\u8607\u6253\u6c34\u3002"
+  },
+  "garnish": {
+    "en": "Fresh fruit and herbs",
+    "zh": "\u65b0\u9bae\u6c34\u679c\u548c\u9999\u8349"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass or Julep Cup",
+    "zh": "\u53e4\u5178\u676f\u6216\u6731\u5229\u666e\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant color depending on the fruit, garnished with herbs and fruit.",
+    "zh": "\u6839\u64da\u6c34\u679c\u5448\u73fe\u6df7\u6fc1\u3001\u9bae\u8c54\u7684\u984f\u8272\uff0c\u4e26\u4ee5\u9999\u8349\u548c\u6c34\u679c\u88dd\u98fe\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "\u901a\u7528\u70c8\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base. Can be whiskey, gin, rum, or brandy.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u3002\u53ef\u4ee5\u662f\u5a01\u58eb\u5fcc\u3001\u7434\u9152\u3001\u862d\u59c6\u9152\u6216\u767d\u862d\u5730\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Fruit (berries, stone fruit, citrus)",
+        "zh": "\u6c34\u679c\uff08\u8393\u679c\u3001\u6838\u679c\u3001\u67d1\u6a58\uff09"
+      },
+      "unit": {
+        "en": "pieces",
+        "zh": "\u584a"
+      },
+      "rationale": {
+        "en": "Adds sweetness, flavor, and body to the drink.",
+        "zh": "\u70ba\u98f2\u54c1\u589e\u6dfb\u751c\u5473\u3001\u98a8\u5473\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 4,
+      "name": {
+        "en": "Mint or other Herbs",
+        "zh": "\u8584\u8377\u6216\u5176\u4ed6\u9999\u8349"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "\u7247"
+      },
+      "rationale": {
+        "en": "Adds aroma and herbal notes to the drink.",
+        "zh": "\u70ba\u98f2\u54c1\u589e\u6dfb\u9999\u6c23\u548c\u8349\u672c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u6613\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Balances the sourness and adds sweetness.",
+        "zh": "\u5e73\u8861\u9178\u5473\u4e26\u589e\u52a0\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Soda Water",
+        "zh": "\u8607\u6253\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a refreshing effervescence and dilutes the cocktail.",
+        "zh": "\u589e\u6dfb\u6e05\u723d\u7684\u6c23\u6ce1\u611f\u4e26\u7a00\u91cb\u96de\u5c3e\u9152\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

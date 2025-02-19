@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Chartreuse Swizzle",
+    "zh": "\u67e5\u7279\u9152\u601d\u9189"
+  },
+  "description": {
+    "en": "**Complex Herbal Delight**\n\nA refreshing and complex cocktail showcasing Green Chartreuse.\n\n*   Features a unique blend of herbal and citrus notes.\n*   Has a frothy texture from the swizzling technique.\n*   Balanced with pineapple and lime.",
+    "zh": "**\u8907\u96dc\u7684\u8349\u672c\u4eab\u53d7**\n\n\u4e00\u6b3e\u6e05\u723d\u800c\u8907\u96dc\u7684\u96de\u5c3e\u9152\uff0c\u5c55\u793a\u4e86\u7da0\u8272\u67e5\u7279\u9152\u7684\u98a8\u5473\u3002\n\n*   \u5177\u6709\u7368\u7279\u7684\u8349\u672c\u548c\u67d1\u6a58\u98a8\u5473\u3002\n*   \u901a\u904e\u65cb\u8f49\u652a\u62cc\u7522\u751f\u6ce1\u6cab\u8cea\u5730\u3002\n*   \u4ee5\u9cf3\u68a8\u548c\u840a\u59c6\u5e73\u8861\u98a8\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "The Chartreuse Swizzle was created by Eveleigh bartender Matt Concannon in 2009. It quickly became a modern classic, showcasing the unique and complex flavor of Green Chartreuse in a refreshing and approachable way. Its rapid spread is due to the drink's balance, refreshing character, and the mystique of its key ingredient.",
+    "zh": "Chartreuse Swizzle \u7531 Eveleigh \u9152\u5427\u7684 Matt Concannon \u65bc 2009 \u5e74\u5275\u4f5c\u3002\u5b83\u8fc5\u901f\u6210\u70ba\u73fe\u4ee3\u7d93\u5178\uff0c\u4ee5\u6e05\u723d\u4e14\u5e73\u6613\u8fd1\u4eba\u7684\u65b9\u5f0f\u5c55\u793a\u4e86\u7da0\u8272\u67e5\u7279\u9152\u7368\u7279\u800c\u8907\u96dc\u7684\u98a8\u5473\u3002\u5176\u8fc5\u901f\u50b3\u64ad\u6b78\u529f\u65bc\u9019\u6b3e\u98f2\u54c1\u7684\u5e73\u8861\u3001\u6e05\u723d\u7684\u7279\u6027\u4ee5\u53ca\u5176\u95dc\u9375\u6210\u5206\u7684\u795e\u79d8\u611f\u3002"
+  },
+  "technique": {
+    "en": "Add all ingredients to a glass filled with crushed ice. Swizzle with a swizzle stick until a frost forms on the outside of the glass. Add more crushed ice to fill.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u52a0\u5165\u88dd\u6eff\u788e\u51b0\u7684\u676f\u5b50\u4e2d\u3002\u7528\u652a\u62cc\u68d2\u65cb\u8f49\u652a\u62cc\uff0c\u76f4\u5230\u676f\u5b50\u5916\u9762\u7d50\u971c\u3002\u52a0\u5165\u66f4\u591a\u788e\u51b0\u586b\u6eff\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig and a pineapple wedge",
+    "zh": "\u8584\u8377\u679d\u548c\u9cf3\u68a8\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or tiki mug",
+    "zh": "\u9ad8\u7403\u676f\u6216\u63d0\u57fa\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green liquid with a frothy top",
+    "zh": "\u6df7\u6fc1\u7684\u6dfa\u7da0\u8272\u6db2\u9ad4\uff0c\u9802\u90e8\u6709\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "\u7da0\u8272\u67e5\u7279\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the herbal and complex base flavor.",
+        "zh": "\u63d0\u4f9b\u8349\u672c\u548c\u8907\u96dc\u7684\u57fa\u5e95\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "\u9cf3\u68a8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical notes.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u71b1\u5e36\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u5e73\u8861\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the drink.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u98f2\u54c1\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

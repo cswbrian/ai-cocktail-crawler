@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Pickleback",
+    "zh": "\u9178\u9ec3\u74dc\u80cc"
+  },
+  "description": {
+    "en": "**Simple and Bold Combination**\n\nA shot of whiskey immediately followed by a shot of pickle brine.\n\n*   The whiskey provides a familiar warmth and base.\n*   The pickle brine offers a surprising salty, sour, and savory contrast.",
+    "zh": "**\u7c21\u55ae\u800c\u5927\u80c6\u7684\u7d44\u5408**\n\n\u4e00\u676f\u5a01\u58eb\u5fcc shot \u5f8c\u7acb\u5373\u559d\u4e00\u676f\u9178\u9ec3\u74dc\u9e7d\u6c34 shot\u3002\n\n*   \u5a01\u58eb\u5fcc\u63d0\u4f9b\u719f\u6089\u7684\u6eab\u6696\u57fa\u5e95\u3002\n*   \u9178\u9ec3\u74dc\u9e7d\u6c34\u63d0\u4f9b\u4ee4\u4eba\u9a5a\u8a1d\u7684\u9e79\u3001\u9178\u548c\u9e79\u9999\u5c0d\u6bd4\u3002"
+  },
+  "historical_reference": {
+    "en": "**Modern Invention**\n\n*   Believed to have originated in Brooklyn, New York, in the mid-2000s.\n*   Popularized by bars seeking unique and affordable shot combinations.\n*   Has gained widespread popularity as a bar staple.",
+    "zh": "**\u73fe\u4ee3\u767c\u660e**\n\n*   \u64da\u4fe1\u8d77\u6e90\u65bc 2000 \u5e74\u4ee3\u4e2d\u671f\u7d10\u7d04\u5e03\u9b6f\u514b\u6797\u3002\n*   \u56e0\u9152\u5427\u5c0b\u6c42\u7368\u7279\u4e14\u50f9\u683c\u5be6\u60e0\u7684 shot \u7d44\u5408\u800c\u666e\u53ca\u3002\n*   \u5df2\u5ee3\u6cdb\u6d41\u884c\uff0c\u6210\u70ba\u9152\u5427\u7684\u5fc5\u5099\u98f2\u54c1\u3002"
+  },
+  "technique": {
+    "en": "Serve a shot of whiskey, followed immediately by a shot of pickle brine.",
+    "zh": "\u5148\u4e0a\u5a01\u58eb\u5fcc shot\uff0c\u7136\u5f8c\u7acb\u5373\u4e0a\u9178\u9ec3\u74dc\u9e7d\u6c34 shot\u3002"
+  },
+  "garnish": {
+    "en": "None typically",
+    "zh": "\u901a\u5e38\u6c92\u6709"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "\u70c8\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Two-part drink; shot of whiskey followed by a shot of pickle brine, each typically clear.",
+    "zh": "\u7531\u5169\u90e8\u5206\u7d44\u6210\u7684\u98f2\u54c1\uff1b\u4e00\u676f\u5a01\u58eb\u5fcc shot \u5f8c\uff0c\u7dca\u63a5\u8457\u4e00\u676f\u9178\u9ec3\u74dc\u9e7d\u6c34 shot\uff0c\u901a\u5e38\u90fd\u662f\u6e05\u6f88\u7684\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 44,
+      "name": {
+        "en": "Whiskey (typically Bourbon)",
+        "zh": "\u5a01\u58eb\u5fcc\uff08\u901a\u5e38\u662f\u6ce2\u672c\u5a01\u58eb\u5fcc\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u7279\u8272\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 44,
+      "name": {
+        "en": "Pickle Brine",
+        "zh": "\u9178\u9ec3\u74dc\u9e7d\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a salty, sour, and savory contrast to the whiskey.",
+        "zh": "\u70ba\u5a01\u58eb\u5fcc\u63d0\u4f9b\u9e79\u3001\u9178\u548c\u9e79\u9999\u7684\u5c0d\u6bd4\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Sour",
+      "zh": "\u9178\u5473"
+    },
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

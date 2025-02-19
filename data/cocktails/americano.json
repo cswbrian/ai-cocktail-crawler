@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Americano",
+    "zh": "\u7f8e\u5f0f\u5496\u5561 (\u96de\u5c3e\u9152)"
+  },
+  "description": {
+    "en": "**Classic Italian Aperitivo**\n\nA simple yet sophisticated cocktail, perfect as an aperitif.\n\n*   Equal parts Campari and sweet vermouth.\n*   Topped with soda water for a refreshing fizz.\n*   Served over ice with an orange slice.",
+    "zh": "**\u7d93\u5178\u7fa9\u5927\u5229\u9910\u524d\u9152**\n\n\u7c21\u55ae\u800c\u7cbe\u7dfb\u7684\u96de\u5c3e\u9152\uff0c\u975e\u5e38\u9069\u5408\u4f5c\u70ba\u9910\u524d\u9152\u3002\n\n*   \u7b49\u91cf\u7684\u91d1\u5df4\u5229\u548c\u751c\u5473\u82e6\u827e\u9152\u3002\n*   \u52a0\u5165\u8607\u6253\u6c34\uff0c\u5e36\u4f86\u6e05\u723d\u7684\u6c23\u6ce1\u3002\n*   \u52a0\u51b0\u584a\u548c\u67f3\u6a59\u7247\u4e00\u8d77\u98f2\u7528\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: 1860s, Gaspare Campari's Bar in Milan\n\n*   A precursor to the Negroni (which adds gin).\n*   Named in honor of Italians who had migrated to America.\n*   Originally served without soda water, which was added later for refreshment.",
+    "zh": "**\u8d77\u6e90**: 1860\u5e74\u4ee3\uff0c\u7c73\u862d\u7684Gaspare Campari\u9152\u5427\n\n*   Negroni\uff08\u52a0\u5165\u7434\u9152\uff09\u7684\u524d\u8eab\u3002\n*   \u4ee5\u7d00\u5ff5\u79fb\u6c11\u5230\u7f8e\u570b\u7684\u7fa9\u5927\u5229\u4eba\u800c\u547d\u540d\u3002\n*   \u6700\u521d\u4e0d\u52a0\u8607\u6253\u6c34\uff0c\u5f8c\u4f86\u70ba\u4e86\u6e05\u723d\u53e3\u611f\u800c\u6dfb\u52a0\u3002"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "\u5728\u51b0\u4e0a\u8abf\u88fd"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "\u67f3\u6a59\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Highball glass",
+    "zh": "\u53e4\u5178\u676f\u6216\u9ad8\u676f"
+  },
+  "appearance": {
+    "en": "Reddish-brown, clear, bubbly",
+    "zh": "\u7d05\u68d5\u8272\u3001\u6e05\u6f88\u3001\u6709\u6c23\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Campari",
+        "zh": "\u91d1\u5df4\u5229"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the bitter, herbal base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u82e6\u5473\u8349\u672c\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u5473\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u548c\u8349\u672c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Soda Water",
+        "zh": "\u8607\u6253\u6c34"
+      },
+      "unit": {
+        "en": "Top",
+        "zh": "\u88dc\u6eff"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink slightly.",
+        "zh": "\u589e\u52a0\u6c23\u6ce1\u4e26\u7a0d\u5fae\u7a00\u91cb\u98f2\u6599\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

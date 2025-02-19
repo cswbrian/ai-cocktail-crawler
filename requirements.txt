@@ -1,0 +1,8 @@
+altgraph==0.17.2
+future==0.18.2
+macholib==1.15.2
+PyYAML==6.0.2
+six==1.15.0
+requests==2.31.0
+google-genai==0.8.4
+python-dotenv==1.0.0

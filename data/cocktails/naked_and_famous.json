@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Naked and Famous",
+    "zh": "\u8d64\u88f8\u8207\u8457\u540d"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA vibrant and complex cocktail with a balance of:\n*   Smoky mezcal\n*   Herbal Chartreuse\n*   Bitter Aperol\n*   Sour Lime Juice",
+    "zh": "**\u73fe\u4ee3\u7d93\u5178\u96de\u5c3e\u9152**\n\n\u5145\u6eff\u6d3b\u529b\u548c\u8907\u96dc\u6027\u7684\u96de\u5c3e\u9152\uff0c\u5e73\u8861\u4e86\uff1a\n*   \u7159\u71fb\u6885\u65af\u5361\u723e\u9152\n*   \u8349\u672c\u590f\u7279\u52d2\u8332\u9152\n*   \u82e6\u5473\u963f\u4f69\u7f85\u9152\n*   \u9178\u6f80\u7684\u840a\u59c6\u6c41"
+  },
+  "historical_reference": {
+    "en": "**Created by Joaquin Simo at Pouring Ribbons in New York City, 2011**\n\nA riff on the Last Word cocktail, replacing gin with mezcal and maraschino liqueur with Aperol.",
+    "zh": "**\u7531Joaquin Simo\u65bc2011\u5e74\u5728\u7d10\u7d04\u5e02\u7684Pouring Ribbons\u5275\u9020**\n\n\u5c0d\u300c\u6700\u5f8c\u4e00\u676f\u300d\u96de\u5c3e\u9152\u7684\u8b8a\u594f\uff0c\u7528\u6885\u65af\u5361\u723e\u9152\u4ee3\u66ff\u7434\u9152\uff0c\u7528\u963f\u4f69\u7f85\u9152\u4ee3\u66ff\u9ed1\u6afb\u6843\u5229\u53e3\u9152\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Lime wedge or zest (optional)",
+    "zh": "\u840a\u59c6\u89d2\u6216\u76ae\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow, frothy",
+    "zh": "\u6df7\u6fc1\u3001\u6de1\u9ec3\u8272\u3001\u8d77\u6ce1"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Mezcal",
+        "zh": "\u6885\u65af\u5361\u723e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a smoky and earthy base.",
+        "zh": "\u63d0\u4f9b\u7159\u718f\u548c\u6ce5\u571f\u7684\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "\u9ec3\u8272\u590f\u7279\u52d2\u8332\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds herbal and slightly sweet notes.",
+        "zh": "\u589e\u6dfb\u8349\u672c\u548c\u5fae\u751c\u7684\u5473\u9053\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Aperol",
+        "zh": "\u963f\u4f69\u7f85\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes bitterness and citrus notes.",
+        "zh": "\u5e36\u4f86\u82e6\u5473\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

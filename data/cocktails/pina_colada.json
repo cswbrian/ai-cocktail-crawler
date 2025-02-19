@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Pina Colada",
+    "zh": "\u9cf3\u68a8\u53ef\u6a02\u9054"
+  },
+  "description": {
+    "en": "**Tropical Creamy Delight**\n\nA classic blend of:\n*   Rum, pineapple juice and coconut cream\n*   Blended with ice for a smooth, refreshing texture.\n*   Perfect for a tropical getaway (or feeling like one!).",
+    "zh": "**\u71b1\u5e36\u5976\u6cb9\u7f8e\u5473**\n\n\u7d93\u5178\u6df7\u5408\u4e86\uff1a\n* \u862d\u59c6\u9152\uff0c\u9cf3\u68a8\u6c41\u548c\u6930\u5976\n* \u8207\u51b0\u6df7\u5408\uff0c\u5e36\u4f86\u67d4\u6ed1\uff0c\u6e05\u723d\u7684\u53e3\u611f\u3002\n* \u975e\u5e38\u9069\u5408\u71b1\u5e36\u5ea6\u5047\uff08\u6216\u611f\u89ba\u50cf\u5ea6\u5047\u4e00\u6a23\uff01\uff09"
+  },
+  "historical_reference": {
+    "en": "**Origin**: San Juan, Puerto Rico\n\n*   Several bartenders in Puerto Rico claim to have invented the Pi\u00f1a Colada.\n*   The most widely accepted story is that Ram\u00f3n \"Monchito\" Marrero, a bartender at the Caribe Hilton Hotel in San Juan, first created the drink in 1954.\n*   The drink quickly gained popularity, becoming the official drink of Puerto Rico in 1978.",
+    "zh": "**\u8d77\u6e90**: \u6ce2\u591a\u9ece\u5404\u8056\u80e1\u5b89\n\n* \u6ce2\u591a\u9ece\u5404\u7684\u5e7e\u4f4d\u8abf\u9152\u5e2b\u8072\u7a31\u767c\u660e\u4e86Pi\u00f1a Colada\u3002\n* \u6700\u5ee3\u70ba\u63a5\u53d7\u7684\u6545\u4e8b\u662f\uff0c\u4f4d\u65bc\u8056\u80e1\u5b89\u7684\u52a0\u52d2\u6bd4\u5e0c\u723e\u9813\u9152\u5e97\u7684\u8abf\u9152\u5e2b\u62c9\u8499\u201cMonchito\u201d\u99ac\u96f7\u7f85\u65bc1954\u5e74\u9996\u6b21\u5275\u9020\u4e86\u9019\u7a2e\u98f2\u6599\u3002\n* \u9019\u7a2e\u98f2\u6599\u8fc5\u901f\u666e\u53ca\uff0c\u4e26\u65bc1978\u5e74\u6210\u70ba\u6ce2\u591a\u9ece\u5404\u7684\u5b98\u65b9\u98f2\u6599\u3002"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass. Garnish.",
+    "zh": "\u5c07\u6240\u6709\u6210\u5206\u8207\u51b0\u6df7\u5408\u81f3\u5149\u6ed1\u3002\u5012\u5165\u676f\u4e2d\u3002\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or cherry",
+    "zh": "\u9cf3\u68a8\u89d2\u548c/\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or goblet",
+    "zh": "\u98b6\u98a8\u676f\u6216\u9ad8\u8173\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, off-white to light yellow, frothy",
+    "zh": "\u5976\u6cb9\u72c0\uff0c\u7070\u767d\u8272\u81f3\u6dfa\u9ec3\u8272\uff0c\u6709\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Light Rum",
+        "zh": "\u6de1\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a light, sweet flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u6de1\u6de1\u7684\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "\u6930\u5976"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds rich, creamy texture and coconut flavor.",
+        "zh": "\u589e\u52a0\u8c50\u5bcc\uff0c\u5976\u6cb9\u822c\u7684\u8cea\u5730\u548c\u6930\u5b50\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "\u9cf3\u68a8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u71b1\u5e36\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "name": {
+    "en": "Tomate",
+    "zh": "\u756a\u8304"
+  },
+  "description": {
+    "en": "A savory cocktail featuring tomato juice, gin, and a hint of heat. Refreshing and perfect for brunch.",
+    "zh": "\u4e00\u6b3e\u7f8e\u5473\u7684\u96de\u5c3e\u9152\uff0c\u4ee5\u756a\u8304\u6c41\u3001\u7434\u9152\u548c\u4e00\u7d72\u8f9b\u8fa3\u5473\u70ba\u7279\u8272\u3002 \u6e05\u723d\uff0c\u975e\u5e38\u9069\u5408\u65e9\u5348\u9910\u3002"
+  },
+  "historical_reference": {
+    "en": "The Tomate is a variation of the Bloody Mary, replacing vodka with gin. The exact origin is not clearly documented, but it likely emerged as bartenders experimented with different spirits in the classic Bloody Mary recipe. The Tomate likely originated in the mid-20th century.",
+    "zh": "Tomate \u662f\u8840\u8165\u746a\u9e97\u7684\u4e00\u7a2e\u8b8a\u9ad4\uff0c\u7528\u7434\u9152\u4ee3\u66ff\u4f0f\u7279\u52a0\u3002 \u78ba\u5207\u7684\u8d77\u6e90\u6c92\u6709\u660e\u78ba\u7684\u8a18\u9304\uff0c\u4f46\u5b83\u5f88\u53ef\u80fd\u662f\u8abf\u9152\u5e2b\u5728\u7d93\u5178\u7684\u8840\u8165\u746a\u9e97\u98df\u8b5c\u4e2d\u5617\u8a66\u4e0d\u540c\u7684\u70c8\u9152\u800c\u51fa\u73fe\u7684\u3002 Tomate \u53ef\u80fd\u8d77\u6e90\u65bc 20 \u4e16\u7d00\u4e2d\u8449\u3002"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake well and strain into a glass filled with ice.",
+    "zh": "\u5c07\u6240\u6709\u6210\u5206\u8207\u51b0\u584a\u653e\u5165\u6416\u9152\u5668\u4e2d\u3002 \u5145\u5206\u6416\u6643\u4e26\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Cherry tomato or celery stalk",
+    "zh": "\u5c0f\u756a\u8304\u6216\u82b9\u83dc\u8396"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "\u9ad8\u7403\u676f\u6216\u54c1\u812b\u676f"
+  },
+  "appearance": {
+    "en": "Reddish-orange, opaque, frothy",
+    "zh": "\u7d05\u6a59\u8272\uff0c\u4e0d\u900f\u660e\uff0c\u6709\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u690d\u7269\u7684\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "\u756a\u8304\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Main flavor component, provides body and savory notes.",
+        "zh": "\u4e3b\u8981\u98a8\u5473\u6210\u5206\uff0c\u63d0\u4f9b\u9152\u9ad4\u548c\u9e79\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u5e73\u8861\u611f\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Worcestershire Sauce",
+        "zh": "\u4f0d\u65af\u7279\u91ac"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds umami and complexity.",
+        "zh": "\u589e\u52a0\u9bae\u5473\u548c\u8907\u96dc\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Hot Sauce",
+        "zh": "\u8fa3\u6912\u91ac"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds heat and spice.",
+        "zh": "\u589e\u52a0\u71b1\u5ea6\u548c\u8f9b\u8fa3\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch Salt",
+        "zh": "\u5c11\u8a31\u9e7d"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Enhances flavors.",
+        "zh": "\u589e\u5f37\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch Black Pepper",
+        "zh": "\u5c11\u8a31\u9ed1\u80e1\u6912"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Adds a subtle spicy note.",
+        "zh": "\u589e\u6dfb\u5fae\u5999\u7684\u8f9b\u8fa3\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

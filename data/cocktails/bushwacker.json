@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Bushwacker",
+    "zh": "\u53e2\u6797\u884c\u8005"
+  },
+  "description": {
+    "en": "**A decadent, frozen cocktail reminiscent of a chocolate milkshake.**\n\n*   Originated in the U.S. Virgin Islands.\n*   Typically blended with ice and a variety of liqueurs and creams.\n*   Often garnished with chocolate syrup or shavings.",
+    "zh": "**\u4e00\u6b3e\u4ee4\u4eba\u6109\u6085\u7684\u51b7\u51cd\u96de\u5c3e\u9152\uff0c\u8b93\u4eba\u806f\u60f3\u5230\u5de7\u514b\u529b\u5976\u6614\u3002**\n\n*   \u8d77\u6e90\u65bc\u7f8e\u5c6c\u7dad\u723e\u4eac\u7fa4\u5cf6\u3002\n*   \u901a\u5e38\u8207\u51b0\u584a\u4ee5\u53ca\u5404\u7a2e\u5229\u53e3\u9152\u548c\u5976\u6cb9\u6df7\u5408\u3002\n*   \u7d93\u5e38\u4f7f\u7528\u5de7\u514b\u529b\u7cd6\u6f3f\u6216\u788e\u5c51\u88dd\u98fe\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Bushwacker originated at the Sandshaker Bar in Pensacola Beach, Florida.\n\n*   Created in 1975 by Angie Conigliaro and Tom Busby.\n*   Inspired by a similar drink served in the Virgin Islands.\n*   Quickly became a local favorite and spread in popularity.",
+    "zh": "**\u8d77\u6e90**: \u300c\u53e2\u6797\u884c\u8005\u300d\u8d77\u6e90\u65bc\u4f5b\u7f85\u91cc\u9054\u5dde\u5f6d\u85a9\u79d1\u62c9\u6d77\u7058\u7684Sandshaker\u9152\u5427\u3002\n\n*   \u7531\u5b89\u5409\u00b7\u79d1\u5c3c\u683c\u91cc\u4e9e\u7f85\u548c\u6e6f\u59c6\u00b7\u5df4\u65af\u6bd4\u65bc1975\u5e74\u5275\u5efa\u3002\n*   \u9748\u611f\u4f86\u81ea\u7dad\u723e\u4eac\u7fa4\u5cf6\u4f9b\u61c9\u7684\u985e\u4f3c\u98f2\u54c1\u3002\n*   \u8fc5\u901f\u6210\u70ba\u7576\u5730\u4eba\u7684\u6700\u611b\uff0c\u4e26\u5ee3\u53d7\u6b61\u8fce\u3002"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6df7\u5408\u81f3\u5747\u52fb\u3002"
+  },
+  "garnish": {
+    "en": "Chocolate shavings or syrup drizzle",
+    "zh": "\u5de7\u514b\u529b\u788e\u5c51\u6216\u7cd6\u6f3f\u6dcb\u9762"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass or milkshake glass",
+    "zh": "\u54c1\u812b\u676f\u6216\u5976\u6614\u676f"
+  },
+  "appearance": {
+    "en": "Dark brown, thick, milkshake-like consistency",
+    "zh": "\u6df1\u68d5\u8272\uff0c\u6fc3\u7a20\uff0c\u985e\u4f3c\u5976\u6614\u7684\u7a20\u5ea6"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base.",
+        "zh": "\u63d0\u4f9b\u8c50\u5bcc\u3001\u4ee5\u7cd6\u871c\u70ba\u57fa\u790e\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "\u5496\u5561\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds coffee notes that complements the chocolate.",
+        "zh": "\u6dfb\u52a0\u5496\u5561\u5473\uff0c\u8207\u5de7\u514b\u529b\u76f8\u5f97\u76ca\u5f70\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cr\u00e8me de Cacao",
+        "zh": "\u53ef\u53ef\u5976\u6cb9"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and sweetness.",
+        "zh": "\u589e\u52a0\u5de7\u514b\u529b\u98a8\u5473\u548c\u751c\u5ea6\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "\u6930\u5976"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical coconut flavor.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u548c\u71b1\u5e36\u6930\u5b50\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Ice",
+        "zh": "\u51b0\u584a"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Thickens and chills the cocktail.",
+        "zh": "\u589e\u7a20\u4e26\u51b0\u93ae\u96de\u5c3e\u9152\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    },
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

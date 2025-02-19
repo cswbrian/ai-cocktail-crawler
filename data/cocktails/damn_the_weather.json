@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Damn the Weather",
+    "zh": "\u53bb\u4ed6\u7684\u5929\u6c23"
+  },
+  "description": {
+    "en": "**Refreshing Gin Sour Variation**\n\nA delightful cocktail featuring:\n*   Gin base for a classic flavor.\n*   Lemon juice for sourness.\n*   Simple syrup for sweetness.\n*   Egg white for a creamy texture and foamy head.\n*   Dash of bitters for complexity.",
+    "zh": "**\u6e05\u723d\u7684\u7434\u9152\u9178\u9152\u8b8a\u594f**\n\n\u4e00\u6b3e\u4ee4\u4eba\u6109\u6085\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u7434\u9152\u57fa\u5e95\u5e36\u4f86\u7d93\u5178\u98a8\u5473\u3002\n*   \u6ab8\u6aac\u6c41\u5e36\u4f86\u9178\u5473\u3002\n*   \u7c21\u7cd6\u6f3f\u5e36\u4f86\u751c\u5473\u3002\n*   \u86cb\u767d\u5e36\u4f86\u5976\u6cb9\u822c\u7684\u8cea\u5730\u548c\u6ce1\u6cab\u3002\n*   \u5c11\u91cf\u82e6\u7cbe\u589e\u6dfb\u8907\u96dc\u6027\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Modern cocktail, exact origins unknown.\n\nA variation on the classic Gin Sour, employing egg white for texture.\n\n*   Likely created in the late 20th or early 21st century.",
+    "zh": "**\u8d77\u6e90**\uff1a\u73fe\u4ee3\u96de\u5c3e\u9152\uff0c\u78ba\u5207\u8d77\u6e90\u672a\u77e5\u3002\n\n\u7d93\u5178\u7434\u9152\u9178\u9152\u7684\u8b8a\u594f\uff0c\u4f7f\u7528\u86cb\u767d\u4f86\u589e\u52a0\u53e3\u611f\u3002\n\n*   \u53ef\u80fd\u572820\u4e16\u7d00\u672b\u621621\u4e16\u7d00\u521d\u5275\u4f5c\u3002"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Double strain into chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u4e7e\u6416\uff0c\u7136\u5f8c\u52a0\u51b0\u6416\u6643\u3002\u96d9\u91cd\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Angostura bitters droplets on foam, lemon twist (optional)",
+    "zh": "\u5b89\u683c\u5f0fatura\u82e6\u7cbe\u6ef4\u5728\u6ce1\u6cab\u4e0a\uff0c\u6ab8\u6aac\u76ae\u626d\u8f49\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow with a frothy white head",
+    "zh": "\u6e05\u6f88\u7684\u6de1\u9ec3\u8272\uff0c\u5e36\u6709\u84ec\u9b06\u7684\u767d\u8272\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic backbone.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u98a8\u5473\u548c\u9152\u7cbe\u9aa8\u5e79\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5473\u4e26\u5e73\u8861\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the sourness.",
+        "zh": "\u4f7f\u98f2\u6599\u8b8a\u751c\u4e26\u5e73\u8861\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds a creamy texture and frothy head.",
+        "zh": "\u589e\u52a0\u5976\u6cb9\u822c\u7684\u8cea\u5730\u548c\u6ce1\u6cab\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity.",
+        "zh": "\u6dfb\u52a0\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

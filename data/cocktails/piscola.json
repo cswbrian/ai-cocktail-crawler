@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Piscola",
+    "zh": "\u76ae\u65af\u53ef\u6a02"
+  },
+  "description": {
+    "en": "**Chilean Classic**\n\nA simple but iconic highball cocktail, extremely popular in Chile. Consists of:\n\n*   Pisco, a type of brandy produced in Chile and Peru.\n*   Cola, typically Coca-Cola, but other brands can be used.\n*   Served over ice in a tall glass.",
+    "zh": "**\u667a\u5229\u7d93\u5178**\n\n\u4e00\u6b3e\u7c21\u55ae\u4f46\u5177\u4ee3\u8868\u6027\u7684 Highball \u8abf\u9152\uff0c\u5728\u667a\u5229\u975e\u5e38\u53d7\u6b61\u8fce\u3002\u7d44\u6210\uff1a\n\n*   \u76ae\u65af\u53ef\u9152\uff0c\u4e00\u7a2e\u5728\u667a\u5229\u548c\u79d8\u9b6f\u751f\u7522\u7684\u767d\u862d\u5730\u3002\n*   \u53ef\u6a02\uff0c\u901a\u5e38\u662f\u53ef\u53e3\u53ef\u6a02\uff0c\u4f46\u4e5f\u53ef\u4ee5\u4f7f\u7528\u5176\u4ed6\u54c1\u724c\u3002\n*   \u5728\u9ad8\u676f\u4e2d\u52a0\u51b0\u98f2\u7528\u3002"
+  },
+  "historical_reference": {
+    "en": "**Ubiquitous Chilean Cocktail**\n\nThe Piscola's exact origin is debated, but it gained immense popularity in Chile during the latter half of the 20th century. It is considered a national drink, surpassing wine and beer in some regions. Its rise coincided with the increased availability of cola and pisco within the country.",
+    "zh": "**\u666e\u904d\u7684\u667a\u5229\u96de\u5c3e\u9152**\n\nPiscola \u7684\u78ba\u5207\u8d77\u6e90\u5c1a\u6709\u722d\u8b70\uff0c\u4f46\u5728 20 \u4e16\u7d00\u5f8c\u534a\u8449\u5728\u667a\u5229\u5ee3\u70ba\u6d41\u884c\u3002\u5b83\u88ab\u8a8d\u70ba\u662f\u4e00\u7a2e\u570b\u6c11\u98f2\u54c1\uff0c\u5728\u67d0\u4e9b\u5730\u5340\u8d85\u904e\u4e86\u8461\u8404\u9152\u548c\u5564\u9152\u3002\u5b83\u7684\u8208\u8d77\u8207\u8a72\u570b\u5167\u53ef\u6a02\u548c\u76ae\u65af\u53ef\u9152\u7684\u4f9b\u61c9\u589e\u52a0\u540c\u6642\u767c\u751f\u3002"
+  },
+  "technique": {
+    "en": "Pour pisco into a highball glass filled with ice. Top with cola. Stir gently.",
+    "zh": "\u5c07\u76ae\u65af\u53ef\u9152\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u9ad8\u676f\u4e2d\u3002\u52a0\u5165\u53ef\u6a02\u3002\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or lime wedge.",
+    "zh": "\u53ef\u9078\uff1a\u6ab8\u6aac\u6216\u840a\u59c6\u89d2\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u676f"
+  },
+  "appearance": {
+    "en": "Clear liquid, color varies from pale to dark amber depending on the cola used, with visible bubbles.",
+    "zh": "\u6e05\u6f88\u6db2\u9ad4\uff0c\u984f\u8272\u56e0\u4f7f\u7528\u7684\u53ef\u6a02\u800c\u7570\uff0c\u5f9e\u6de1\u7425\u73c0\u8272\u5230\u6df1\u7425\u73c0\u8272\uff0c\u5e36\u6709\u53ef\u898b\u7684\u6c23\u6ce1\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "\u76ae\u65af\u53ef\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinctive flavor of the cocktail.",
+        "zh": "\u63d0\u4f9b\u8abf\u9152\u7684\u9152\u7cbe\u57fa\u5e95\u548c\u7368\u7279\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cola",
+        "zh": "\u53ef\u6a02"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and characteristic flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u78b3\u9178\u548c\u7279\u5fb5\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

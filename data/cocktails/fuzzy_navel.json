@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en": "Fuzzy Navel",
+    "zh": "\u6a21\u7cca\u7684\u809a\u81cd"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA straightforward mix of peach schnapps and orange juice, resulting in a sweet and fruity drink:\n\n*   Easy to make and widely popular\n*   Ideal for casual settings and warm weather",
+    "zh": "**\u7c21\u55ae\u6e05\u723d\u7684\u96de\u5c3e\u9152**\n\n\u6c34\u871c\u6843\u9999\u751c\u9152\u548c\u67f3\u6a59\u6c41\u7684\u7c21\u55ae\u6df7\u5408\uff0c\u5e36\u4f86\u9999\u751c\u7684\u6c34\u679c\u98a8\u5473\uff1a\n\n*   \u5bb9\u6613\u88fd\u4f5c\u4e14\u5ee3\u53d7\u6b61\u8fce\n*   \u9069\u5408\u4f11\u9592\u5834\u5408\u548c\u6eab\u6696\u7684\u5929\u6c23"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Believed to have originated in the 1980s\n\n*   Popularized for its simplicity and sweet taste\n*   Name combines \"Fuzzy\" (referring to the peach fuzz) and \"Navel\" (a type of orange)",
+    "zh": "**\u8d77\u6e90**: \u64da\u4fe1\u8d77\u6e90\u65bc1980\u5e74\u4ee3\n\n*   \u56e0\u5176\u7c21\u55ae\u548c\u751c\u5473\u800c\u666e\u53ca\n*   \u540d\u7a31\u7d50\u5408\u4e86\u201cFuzzy\u201d\uff08\u6307\u6c34\u871c\u6843\u7684\u7d68\u6bdb\uff09\u548c\u201cNavel\u201d\uff08\u4e00\u7a2e\u6a59\u5b50\uff09"
+  },
+  "technique": {
+    "en": "Pour peach schnapps and orange juice into a highball glass filled with ice. Stir gently.",
+    "zh": "\u5c07\u6c34\u871c\u6843\u9999\u751c\u9152\u548c\u67f3\u6a59\u6c41\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u9ad8\u7403\u676f\u4e2d\u3002\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry (optional)",
+    "zh": "\u6a59\u7247\u6216\u6afb\u6843\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Opaque, bright orange",
+    "zh": "\u4e0d\u900f\u660e\uff0c\u9bae\u6a59\u8272"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Peach Schnapps",
+        "zh": "\u6c34\u871c\u6843\u9999\u751c\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary peach flavor and alcoholic base.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u6c34\u871c\u6843\u98a8\u5473\u548c\u9152\u7cbe\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "\u67f3\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and balances the sweetness of the schnapps.",
+        "zh": "\u589e\u52a0\u67d1\u6a58\u5473\uff0c\u5e73\u8861\u9999\u751c\u9152\u7684\u751c\u5ea6\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

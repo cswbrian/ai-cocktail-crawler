@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Sherry Cobbler",
+    "zh": "\u96ea\u8389\u67ef\u5e03\u52d2"
+  },
+  "description": {
+    "en": "*A refreshing and elegant fortified wine cocktail.*\n\nThis classic drink showcases the unique character of Sherry with:\n\n*   A touch of sweetness from sugar.\n*   Bright citrus notes from orange.\n*   Topped with seasonal fruits",
+    "zh": "*\u4e00\u6b3e\u6e05\u65b0\u512a\u96c5\u7684\u52a0\u5f37\u8461\u8404\u9152\u96de\u5c3e\u9152.*\n\n\u9019\u6b3e\u7d93\u5178\u98f2\u54c1\u5c55\u73fe\u4e86\u96ea\u8389\u9152\u7684\u7368\u7279\u98a8\u5473\uff1a\n\n*   \u4f86\u81ea\u7cd6\u7684\u4e9b\u8a31\u751c\u5473\u3002\n*   \u4f86\u81ea\u67f3\u6a59\u7684\u660e\u4eae\u67d1\u6a58\u6c23\u606f\u3002\n*   \u642d\u914d\u6642\u4ee4\u6c34\u679c"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Popularized in the 19th century\n\n*   Became a sensation in both the United States and England.\n*   Often served in elaborate glasses with a mound of crushed ice.\n*   One of the most popular drinks in the mid-1800s.",
+    "zh": "**\u8d77\u6e90**: \u65bc19\u4e16\u7d00\u666e\u53ca\n\n*   \u5728\u7f8e\u570b\u548c\u82f1\u570b\u90fd\u5f15\u8d77\u4e86\u8f5f\u52d5\u3002\n*   \u901a\u5e38\u5728\u7cbe\u7dfb\u7684\u73bb\u7483\u676f\u4e2d\u76db\u653e\uff0c\u4e26\u5806\u6eff\u788e\u51b0\u3002\n*   1800\u5e74\u4ee3\u4e2d\u671f\u6700\u53d7\u6b61\u8fce\u7684\u98f2\u54c1\u4e4b\u4e00\u3002"
+  },
+  "technique": {
+    "en": "Muddle sugar and orange, add sherry and ice, shake briefly, garnish.",
+    "zh": "\u5c07\u7cd6\u548c\u67f3\u6a59\u6417\u788e\uff0c\u52a0\u5165\u96ea\u8389\u9152\u548c\u51b0\u584a\uff0c\u7a0d\u5fae\u6416\u6643\uff0c\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Orange slice and seasonal berries",
+    "zh": "\u67f3\u6a59\u7247\u548c\u6642\u4ee4\u8393\u679c"
+  },
+  "serve_in_glass": {
+    "en": "Tall glass or goblet filled with crushed ice",
+    "zh": "\u88dd\u6eff\u788e\u51b0\u7684\u9ad8\u676f\u6216\u9ad8\u8173\u676f"
+  },
+  "appearance": {
+    "en": "Pale golden, crystal clear, with fresh fruit garnish",
+    "zh": "\u6de1\u91d1\u8272\uff0c\u6676\u7469\u5254\u900f\uff0c\u4ee5\u65b0\u9bae\u6c34\u679c\u88dd\u98fe"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Fino Sherry",
+        "zh": "\u83f2\u8afe\u96ea\u8389\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the dry, nutty base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u5e72\u723d\u3001\u5805\u679c\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "\u8336\u5319"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the dry sherry.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u5e72\u96ea\u8389\u9152\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Slice",
+        "zh": "\u67f3\u6a59\u7247"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u7247"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and aromatic oils.",
+        "zh": "\u589e\u52a0\u67d1\u6a58\u98a8\u5473\u548c\u82b3\u9999\u6cb9\u8102\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

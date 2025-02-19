@@ -1,0 +1,163 @@
+{
+  "name": {
+    "en": "Gl\u00f6gg",
+    "zh": "\u745e\u5178\u71b1\u7d05\u9152"
+  },
+  "description": {
+    "en": "**Warm and Spiced Wine**\n\nGl\u00f6gg is a traditional Scandinavian mulled wine, typically enjoyed during the Christmas season. It combines red wine, spices, and often a spirit for a warming and festive drink.\n\n*   Served hot, it is a perfect beverage for cold weather.\n*   Variations exist with different spirits and spice combinations.",
+    "zh": "**\u6eab\u6696\u7684\u9999\u6599\u9152**\n\nGl\u00f6gg \u662f\u4e00\u7a2e\u50b3\u7d71\u7684\u65af\u582a\u5730\u7d0d\u7dad\u4e9e\u71b1\u7d05\u9152\uff0c\u901a\u5e38\u5728\u8056\u8a95\u7bc0\u671f\u9593\u4eab\u7528\u3002 \u5b83\u7d50\u5408\u4e86\u7d05\u9152\u3001\u9999\u6599\uff0c\u901a\u5e38\u9084\u6709\u4e00\u7a2e\u70c8\u9152\uff0c\u662f\u4e00\u7a2e\u6eab\u6696\u800c\u559c\u6176\u7684\u98f2\u6599\u3002\n\n* \u71b1\u98f2\uff0c\u662f\u5bd2\u51b7\u5929\u6c23\u7684\u5b8c\u7f8e\u98f2\u54c1\u3002\n* \u5b58\u5728\u4e0d\u540c\u70c8\u9152\u548c\u9999\u6599\u7d44\u5408\u7684\u8b8a\u9ad4\u3002"
+  },
+  "historical_reference": {
+    "en": "**Scandinavian Tradition**\n\nGl\u00f6gg's origins can be traced back to medieval times, with spiced wines being consumed for their perceived health benefits. The modern version evolved over centuries and is now a staple of Scandinavian Christmas celebrations.\n\n*   Began as a way to preserve and flavor wine.\n*   Associated with the Yule season and festive gatherings.",
+    "zh": "**\u65af\u582a\u5730\u7d0d\u7dad\u4e9e\u50b3\u7d71**\n\nGl\u00f6gg \u7684\u8d77\u6e90\u53ef\u4ee5\u8ffd\u6eaf\u5230\u4e2d\u4e16\u7d00\uff0c\u7576\u6642\u4eba\u5011\u98f2\u7528\u9999\u6599\u9152\u662f\u70ba\u4e86\u7372\u5f97\u5176\u516c\u8a8d\u7684\u5065\u5eb7\u76ca\u8655\u3002 \u73fe\u4ee3\u7248\u672c\u6b77\u7d93\u6578\u500b\u4e16\u7d00\u7684\u767c\u5c55\uff0c\u73fe\u5728\u5df2\u6210\u70ba\u65af\u582a\u5730\u7d0d\u7dad\u4e9e\u8056\u8a95\u6176\u795d\u6d3b\u52d5\u7684\u4e3b\u8981\u5167\u5bb9\u3002\n\n* \u6700\u521d\u662f\u4fdd\u5b58\u8461\u8404\u9152\u548c\u8abf\u5473\u8461\u8404\u9152\u7684\u4e00\u7a2e\u65b9\u5f0f\u3002\n* \u8207\u8036\u8a95\u5b63\u7bc0\u548c\u7bc0\u65e5\u805a\u6703\u76f8\u95dc\u3002"
+  },
+  "technique": {
+    "en": "Combine all ingredients except almonds and raisins in a pot. Heat gently without boiling for at least 30 minutes to allow the flavors to meld. Strain before serving. Serve hot with almonds and raisins.",
+    "zh": "\u5c07\u9664\u674f\u4ec1\u548c\u8461\u8404\u4e7e\u5916\u7684\u6240\u6709\u6750\u6599\u653e\u5165\u934b\u4e2d\u3002 \u8f15\u8f15\u52a0\u71b1\uff0c\u4e0d\u8981\u716e\u6cb8\uff0c\u81f3\u5c11 30 \u5206\u9418\uff0c\u8b93\u5473\u9053\u878d\u5408\u3002 \u4e0a\u83dc\u524d\u904e\u6ffe\u3002 \u52a0\u5165\u674f\u4ec1\u548c\u8461\u8404\u4e7e\u5f8c\u8d81\u71b1\u98f2\u7528\u3002"
+  },
+  "garnish": {
+    "en": "Almonds and Raisins (added to each serving)",
+    "zh": "\u674f\u4ec1\u548c\u8461\u8404\u4e7e\uff08\u6dfb\u52a0\u5230\u6bcf\u4efd\u98f2\u54c1\u4e2d\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Heat-resistant glass or mug.",
+    "zh": "\u8010\u71b1\u73bb\u7483\u676f\u6216\u99ac\u514b\u676f\u3002"
+  },
+  "appearance": {
+    "en": "Dark red, opaque, with visible spices and fruit.",
+    "zh": "\u6df1\u7d05\u8272\uff0c\u4e0d\u900f\u660e\uff0c\u5e36\u6709\u53ef\u898b\u7684\u9999\u6599\u548c\u6c34\u679c\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 750,
+      "name": {
+        "en": "Red Wine",
+        "zh": "\u7d05\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base of the Gl\u00f6gg, providing tannins and body.",
+        "zh": "\u69cb\u6210 Gl\u00f6gg \u7684\u57fa\u5e95\uff0c\u63d0\u4f9b\u55ae\u5be7\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Aquavit",
+        "zh": "\u963f\u5938\u7dad\u7279\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a distinct caraway flavor and increases the alcoholic content.",
+        "zh": "\u589e\u6dfb\u7368\u7279\u7684\u845b\u7e37\u5b50\u98a8\u5473\u4e26\u63d0\u9ad8\u9152\u7cbe\u542b\u91cf\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the spices and wine.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u9999\u6599\u548c\u8461\u8404\u9152\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Cinnamon Sticks",
+        "zh": "\u8089\u6842\u68d2"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u6839"
+      },
+      "rationale": {
+        "en": "Adds a warm, spicy aroma and flavor.",
+        "zh": "\u589e\u6dfb\u6eab\u6696\u3001\u8f9b\u8fa3\u7684\u9999\u6c23\u548c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange Peel",
+        "zh": "\u6a58\u5b50\u76ae"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and aromatic complexity.",
+        "zh": "\u589e\u6dfb\u67d1\u6a58\u98a8\u5473\u548c\u9999\u6c23\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cloves",
+        "zh": "\u4e01\u9999"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u7c92"
+      },
+      "rationale": {
+        "en": "Adds a strong, pungent spice note.",
+        "zh": "\u589e\u6dfb\u6fc3\u90c1\u3001\u523a\u6fc0\u7684\u9999\u6599\u5473\u3002"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cardamom Pods",
+        "zh": "\u5c0f\u8373\u853b\u83a2"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u7c92"
+      },
+      "rationale": {
+        "en": "Adds a fragrant, slightly citrusy spice note.",
+        "zh": "\u589e\u6dfb\u82ac\u82b3\u3001\u7565\u5e36\u67d1\u6a58\u5473\u7684\u9999\u6599\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

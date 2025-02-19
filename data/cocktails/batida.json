@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Batida",
+    "zh": "\u5df4\u897f\u679c\u6614"
+  },
+  "description": {
+    "en": "**Brazilian Smoothie Cocktail**\n\nA Batida is a blended Brazilian cocktail, similar to a smoothie. The most common version is made with cacha\u00e7a, fruit (often coconut or passion fruit), condensed milk, and ice. It's a refreshing and creamy drink, perfect for warm weather.\n\nKey characteristics:\n*   Creamy texture from condensed milk.\n*   Fruity flavor from the added fruit.\n*   Versatile, allowing for many fruit variations.",
+    "zh": "**\u5df4\u897f\u601d\u6155\u96ea\u96de\u5c3e\u9152**\n\nBatida \u662f\u4e00\u7a2e\u6df7\u5408\u7684\u5df4\u897f\u96de\u5c3e\u9152\uff0c\u985e\u4f3c\u65bc\u601d\u6155\u96ea\u3002 \u6700\u5e38\u898b\u7684\u7248\u672c\u662f\u7528\u5361\u6c99\u590f\u3001\u6c34\u679c\uff08\u901a\u5e38\u662f\u6930\u5b50\u6216\u767e\u9999\u679c\uff09\u3001\u7149\u4e73\u548c\u51b0\u88fd\u6210\u7684\u3002 \u5b83\u662f\u6e05\u723d\u53c8\u6fc3\u90c1\u7684\u98f2\u6599\uff0c\u975e\u5e38\u9069\u5408\u6eab\u6696\u7684\u5929\u6c23\u3002\n\n\u4e3b\u8981\u7279\u9ede\uff1a\n*   \u7149\u4e73\u5e36\u4f86\u7684\u5976\u6cb9\u8cea\u5730\u3002\n*   \u6dfb\u52a0\u6c34\u679c\u5e36\u4f86\u7684\u679c\u5473\u3002\n*   \u591a\u529f\u80fd\uff0c\u5141\u8a31\u591a\u7a2e\u6c34\u679c\u8b8a\u5316\u3002"
+  },
+  "historical_reference": {
+    "en": "**Brazilian Origins**\n\nThe Batida is a traditional Brazilian cocktail whose origins are not precisely documented, but it is believed to have evolved from simpler fruit and cacha\u00e7a mixtures. It's a popular drink throughout Brazil, enjoyed in homes and bars alike.\n\n*   Name translates to \"shaken\" or \"beaten\" in Portuguese.\n*   Reflects Brazil's abundance of fresh fruit.\n*   A simpler, less formal cocktail compared to the Caipirinha.",
+    "zh": "**\u5df4\u897f\u8d77\u6e90**\n\nBatida \u662f\u4e00\u7a2e\u50b3\u7d71\u7684\u5df4\u897f\u96de\u5c3e\u9152\uff0c\u5176\u8d77\u6e90\u6c92\u6709\u7cbe\u78ba\u7684\u8a18\u8f09\uff0c\u4f46\u64da\u4fe1\u5b83\u662f\u7531\u66f4\u7c21\u55ae\u7684\u6c34\u679c\u548c\u5361\u6c99\u590f\u6df7\u5408\u7269\u6f14\u8b8a\u800c\u4f86\u7684\u3002 \u9019\u662f\u4e00\u7a2e\u5728\u6574\u500b\u5df4\u897f\u90fd\u5f88\u53d7\u6b61\u8fce\u7684\u98f2\u6599\uff0c\u5728\u5bb6\u5ead\u548c\u9152\u5427\u90fd\u5f88\u53d7\u6b61\u8fce\u3002\n\n*   \u5728\u8461\u8404\u7259\u8a9e\u4e2d\uff0c\u540d\u7a31\u7ffb\u8b6f\u70ba\u300c\u6416\u6643\u300d\u6216\u300c\u6572\u6253\u300d\u3002\n*   \u53cd\u6620\u4e86\u5df4\u897f\u8c50\u5bcc\u7684\u65b0\u9bae\u6c34\u679c\u3002\n*   \u8207 Caipirinha \u76f8\u6bd4\uff0c\u5b83\u662f\u4e00\u7a2e\u66f4\u7c21\u55ae\u3001\u66f4\u4e0d\u6b63\u5f0f\u7684\u96de\u5c3e\u9152\u3002"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6df7\u5408\u652a\u62cc\u81f3\u5149\u6ed1\u3002"
+  },
+  "garnish": {
+    "en": "Fruit slice or wedge, sprinkle of cinnamon (optional)",
+    "zh": "\u6c34\u679c\u7247\u6216\u89d2\uff0c\u6492\u4e0a\u5c11\u8a31\u8089\u6842\u7c89\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or highball glass",
+    "zh": "\u98b6\u98a8\u676f\u6216\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "A creamy, frothy beverage, often pale in color, reflecting the fruit used.",
+    "zh": "\u4e00\u7a2e\u5976\u6cb9\u822c\u7684\u6ce1\u6cab\u98f2\u6599\uff0c\u901a\u5e38\u984f\u8272\u8f03\u6de1\uff0c\u53cd\u6620\u4e86\u6240\u4f7f\u7528\u7684\u6c34\u679c\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cacha\u00e7a",
+        "zh": "\u5361\u6c99\u590f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinctive Brazilian flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u7368\u7279\u7684\u5df4\u897f\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Fruit (e.g., coconut, passion fruit)",
+        "zh": "\u6c34\u679c\uff08\u4f8b\u5982\u6930\u5b50\u3001\u767e\u9999\u679c\uff09"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Provides the main flavor profile of the drink.",
+        "zh": "\u63d0\u4f9b\u98f2\u6599\u7684\u4e3b\u8981\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Condensed Milk",
+        "zh": "\u7149\u4e73"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a creamy texture.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u5976\u6cb9\u822c\u7684\u8cea\u5730\u3002"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Ice Cubes",
+        "zh": "\u51b0\u584a"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "To chill and thicken the drink.",
+        "zh": "\u7528\u65bc\u51b7\u537b\u548c\u589e\u7a20\u98f2\u6599\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Sweet",
+      "zh": "\u751c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

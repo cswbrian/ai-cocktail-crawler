@@ -1,0 +1,187 @@
+{
+  "name": {
+    "en": "Zombie",
+    "zh": "\u6bad\u5c4d"
+  },
+  "description": {
+    "en": "**Potent and Complex Tiki Cocktail**\n\nA strong and complex rum-based cocktail known for its high alcohol content and blend of exotic flavors. The Zombie is a true test of a mixologist's skill, balancing sweetness, sourness, and spice with a blend of different rums and liqueurs. It is garnished elaborately to enhance its tropical appeal.\n\nKey Characteristics:\n*   High alcohol content, be cautious when consuming.\n*   Complex blend of rums and liqueurs.\n*   Tropical flavors with spice and fruit notes.",
+    "zh": "**\u5f37\u52c1\u800c\u8907\u96dc\u7684\u63d0\u57fa\u96de\u5c3e\u9152**\n\n\u9019\u662f\u4e00\u6b3e\u4ee5\u862d\u59c6\u9152\u70ba\u57fa\u5e95\u7684\u70c8\u6027\u4e14\u8907\u96dc\u7684\u96de\u5c3e\u9152\uff0c\u4ee5\u5176\u9ad8\u9152\u7cbe\u542b\u91cf\u548c\u7570\u570b\u98a8\u5473\u7684\u6df7\u5408\u800c\u805e\u540d\u3002 \u6bad\u5c4d\u662f\u5c0d\u8abf\u9152\u5e2b\u6280\u80fd\u7684\u771f\u6b63\u8003\u9a57\uff0c\u5b83\u901a\u904e\u6df7\u5408\u4e0d\u540c\u7684\u862d\u59c6\u9152\u548c\u5229\u53e3\u9152\u4f86\u5e73\u8861\u751c\u5473\u3001\u9178\u5473\u548c\u9999\u6599\u5473\u3002 \u5b83\u7684\u88dd\u98fe\u5f88\u7cbe\u7dfb\uff0c\u4ee5\u589e\u5f37\u5176\u71b1\u5e36\u5438\u5f15\u529b\u3002\n\n\u4e3b\u8981\u7279\u5fb5\uff1a\n* \u9152\u7cbe\u542b\u91cf\u9ad8\uff0c\u98f2\u7528\u6642\u8acb\u5c0f\u5fc3\u3002\n* \u862d\u59c6\u9152\u548c\u5229\u53e3\u9152\u7684\u8907\u96dc\u6df7\u5408\u3002\n* \u5e36\u6709\u9999\u6599\u548c\u6c34\u679c\u5473\u7684\u71b1\u5e36\u98a8\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Don the Beachcomber (Donn Beach) in 1934.\n\n*   First served at his Hollywood restaurant.\n*   The recipe was a closely guarded secret for many years.\n*   Known for its potent effects and blend of rums.",
+    "zh": "**\u8d77\u6e90**\uff1a\u7531\u5510\u00b7\u6bd4\u5947\u5eb7\u4f2f\uff08\u5510\u00b7\u6d77\u7058\uff09\u65bc 1934 \u5e74\u5275\u4f5c\u3002\n\n* \u9996\u6b21\u5728\u4ed6\u7684\u597d\u840a\u5862\u9910\u5ef3\u4f9b\u61c9\u3002\n* \u591a\u5e74\u4f86\uff0c\u8a72\u98df\u8b5c\u4e00\u76f4\u88ab\u56b4\u5bc6\u4fdd\u5b88\u3002\n* \u4ee5\u5176\u5f37\u5927\u7684\u529f\u6548\u548c\u862d\u59c6\u9152\u6df7\u5408\u800c\u805e\u540d\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice. Garnish elaborately.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u73bb\u7483\u676f\u4e2d\u3002 \u7cbe\u5fc3\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig, cherry, orange slice",
+    "zh": "\u8584\u8377\u679d\u3001\u6afb\u6843\u3001\u67f3\u6a59\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Tiki Mug",
+    "zh": "\u9ad8\u7403\u676f\u6216\u63d0\u57fa\u99ac\u514b\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, dark amber to brown color with a frothy head",
+    "zh": "\u6df7\u6fc1\u7684\u6df1\u7425\u73c0\u8272\u81f3\u68d5\u8272\uff0c\u5e36\u6709\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gold Rum",
+        "zh": "\u91d1\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a rich, caramel base and contributes to the overall rum profile.",
+        "zh": "\u589e\u6dfb\u8c50\u5bcc\u7684\u7126\u7cd6\u57fa\u5e95\uff0c\u4e26\u6709\u52a9\u65bc\u6574\u9ad4\u862d\u59c6\u9152\u7684\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides depth and complexity with molasses and spice notes.",
+        "zh": "\u63d0\u4f9b\u6df1\u5ea6\u548c\u8907\u96dc\u6027\uff0c\u5e36\u6709\u7cd6\u871c\u548c\u9999\u6599\u7684\u5473\u9053\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Overproof Rum",
+        "zh": "\u9ad8\u6fc3\u5ea6\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a potent kick and contributes to the drink's 'zombie' effect.",
+        "zh": "\u589e\u52a0\u5f37\u52c1\u7684\u885d\u64ca\u529b\uff0c\u4e26\u6709\u52a9\u65bc\u98f2\u6599\u7684\u201c\u6bad\u5c4d\u201d\u6548\u679c\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "\u674f\u6843\u9999\u751c\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes a fruity and slightly nutty flavor.",
+        "zh": "\u8ca2\u737b\u6c34\u679c\u548c\u7565\u5e36\u5805\u679c\u7684\u5473\u9053\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Falernum",
+        "zh": "\u6cd5\u52d2\u5357\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a complex blend of spice, citrus, and almond notes.",
+        "zh": "\u589e\u6dfb\u9999\u6599\u3001\u67d1\u6a58\u548c\u674f\u4ec1\u7684\u8907\u96dc\u6df7\u5408\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds necessary acidity to balance the sweetness.",
+        "zh": "\u589e\u52a0\u5fc5\u8981\u7684\u9178\u5ea6\u4ee5\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u7d05\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a hint of fruit flavor and red color.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u6de1\u6de1\u7684\u6c34\u679c\u98a8\u5473\u548c\u7d05\u8272\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic notes.",
+        "zh": "\u589e\u52a0\u8907\u96dc\u6027\u548c\u82b3\u9999\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 10,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

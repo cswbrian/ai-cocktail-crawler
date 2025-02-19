@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Medicina Latina",
+    "zh": "\u62c9\u4e01\u7642\u6cd5"
+  },
+  "description": {
+    "en": "**Medicina Latina: A Latin Remedy**\n\nA modern classic, this cocktail is a twist on the classic Penicillin cocktail, replacing the Scotch with Reposado Tequila.\n\n*   Reposado Tequila for a rich agave base\n*   Honey syrup for sweetness\n*   Ginger for spice\n*   Lemon juice for acidity",
+    "zh": "**Medicina Latina\uff1a\u62c9\u4e01\u7642\u6cd5**\n\n\u9019\u6b3e\u73fe\u4ee3\u7d93\u5178\u96de\u5c3e\u9152\u662f\u7d93\u5178\u76e4\u5c3c\u897f\u6797\u96de\u5c3e\u9152\u7684\u8b8a\u594f\uff0c\u7528Reposado\u9f8d\u820c\u862d\u53d6\u4ee3\u4e86\u8607\u683c\u862d\u5a01\u58eb\u5fcc\u3002\n\n*   Reposado\u9f8d\u820c\u862d\u63d0\u4f9b\u6fc3\u90c1\u7684\u9f8d\u820c\u862d\u57fa\u5e95\n*   \u8702\u871c\u7cd6\u6f3f\u5e36\u4f86\u751c\u5473\n*   \u751f\u8591\u5e36\u4f86\u8f9b\u8fa3\u5473\n*   \u6ab8\u6aac\u6c41\u5e36\u4f86\u9178\u5ea6"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Inspired by the Penicillin cocktail created by Sam Ross at Milk & Honey in New York City.\n\n*   A modern twist on a medicinal-inspired drink.\n*   Replaces Scotch with Reposado Tequila for a Latin American flavor profile.",
+    "zh": "**\u8d77\u6e90**\uff1a\u9748\u611f\u4f86\u81ea\u85a9\u59c6\u00b7\u7f85\u65af\u5728\u7d10\u7d04\u5e02\u725b\u5976\u8207\u8702\u871c\u9152\u5427\u5275\u4f5c\u7684\u76e4\u5c3c\u897f\u6797\u96de\u5c3e\u9152\u3002\n\n*   \u5c0d\u85e5\u7528\u98a8\u5473\u98f2\u54c1\u7684\u73fe\u4ee3\u6f14\u7e79\u3002\n*   \u7528Reposado\u9f8d\u820c\u862d\u53d6\u4ee3\u8607\u683c\u862d\u5a01\u58eb\u5fcc\uff0c\u5e36\u4f86\u62c9\u4e01\u7f8e\u6d32\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Muddle ginger, add remaining ingredients, shake with ice and double strain into a rocks glass filled with ice.",
+    "zh": "\u6417\u788e\u751f\u8591\uff0c\u52a0\u5165\u5269\u9918\u6210\u5206\uff0c\u52a0\u51b0\u6416\u6643\uff0c\u7136\u5f8c\u96d9\u91cd\u904e\u6ffe\u5230\u88dd\u6eff\u51b0\u584a\u7684\u5ca9\u77f3\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Candied ginger",
+    "zh": "\u7cd6\u6f2c\u8591\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "\u5ca9\u77f3\u676f"
+  },
+  "appearance": {
+    "en": "Hazy amber color with a frothy white head",
+    "zh": "\u6726\u6727\u7684\u7425\u73c0\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u7684\u767d\u8272\u9152\u5e3d"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Reposado Tequila",
+        "zh": "Reposado\u9f8d\u820c\u862d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base with agave notes and oaky complexity.",
+        "zh": "\u63d0\u4f9b\u57fa\u5e95\uff0c\u5e36\u6709\u9f8d\u820c\u862d\u98a8\u5473\u548c\u6a61\u6728\u7684\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and spice.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\uff0c\u5e73\u8861\u751c\u5473\u548c\u8f9b\u8fa3\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Honey Syrup (3:1 Honey to Water)",
+        "zh": "\u8702\u871c\u7cd6\u6f3f\uff083:1 \u8702\u871c\u514c\u6c34\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a rich, floral aroma.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u53ca\u6fc3\u90c1\u7684\u82b1\u9999\u3002"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Ginger Coins",
+        "zh": "\u8591\u7247"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u7247"
+      },
+      "rationale": {
+        "en": "Adds a spicy and pungent kick.",
+        "zh": "\u589e\u52a0\u8f9b\u8fa3\u548c\u523a\u6fc0\u7684\u5473\u9053\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

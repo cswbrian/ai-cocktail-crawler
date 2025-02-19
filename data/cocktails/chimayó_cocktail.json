@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Chimay\u00f3 Cocktail",
+    "zh": "\u5947\u99ac\u7d04\u96de\u5c3e\u9152"
+  },
+  "description": {
+    "en": "**A Southwestern Delight**\n\nThe Chimay\u00f3 cocktail is a regional specialty from New Mexico. It combines tequila with apple cider and cr\u00e8me de cassis for a sweet and tart experience.\n\n*   Named after the town of Chimay\u00f3, NM\n*   A delicious blend of tequila, cider, and cassis",
+    "zh": "**\u897f\u5357\u98a8\u5473\u7684\u559c\u6085**\n\nChimay\u00f3\u96de\u5c3e\u9152\u662f\u65b0\u58a8\u897f\u54e5\u5dde\u7684\u5730\u5340\u7279\u8272\u3002 \u5b83\u5c07\u9f8d\u820c\u862d\u9152\u8207\u860b\u679c\u9152\u548c\u9ed1\u918b\u6817\u5229\u53e3\u9152\u7d50\u5408\uff0c\u5e36\u4f86\u9178\u751c\u7684\u9ad4\u9a57\u3002\n\n*   \u4ee5\u65b0\u58a8\u897f\u54e5\u5ddeChimay\u00f3\u93ae\u547d\u540d\n*   \u9f8d\u820c\u862d\u9152\u3001\u860b\u679c\u9152\u548c\u9ed1\u918b\u6817\u7684\u7f8e\u5473\u6df7\u5408"
+  },
+  "historical_reference": {
+    "en": "**New Mexican Heritage**\n\nThe Chimay\u00f3 cocktail originates from Chimay\u00f3, New Mexico. The cocktail is often associated with Rancho de Chimay\u00f3, a restaurant in the town that claims to be the home of the cocktail.\n\n*   Developed in the 1960s\n*   Named after Chimay\u00f3, New Mexico\n*   Represents the flavors of the region",
+    "zh": "**\u65b0\u58a8\u897f\u54e5\u5dde\u7684\u50b3\u7d71**\n\nChimay\u00f3\u96de\u5c3e\u9152\u8d77\u6e90\u65bc\u65b0\u58a8\u897f\u54e5\u5dde\u7684Chimay\u00f3\u3002 \u9019\u7a2e\u96de\u5c3e\u9152\u901a\u5e38\u8207Rancho de Chimay\u00f3\u9910\u5ef3\u6709\u95dc\uff0c\u8a72\u9910\u5ef3\u8072\u7a31\u662f\u9019\u7a2e\u96de\u5c3e\u9152\u7684\u767c\u6e90\u5730\u3002\n\n*   \u65bc1960\u5e74\u4ee3\u958b\u767c\n*   \u4ee5\u65b0\u58a8\u897f\u54e5\u5ddeChimay\u00f3\u547d\u540d\n*   \u4ee3\u8868\u8a72\u5730\u5340\u7684\u98a8\u5473"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice. Top with apple cider.",
+    "zh": "\u8207\u51b0\u6416\u52fb\u5f8c\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u73bb\u7483\u676f\u4e2d\u3002 \u52a0\u5165\u860b\u679c\u9152\u3002"
+  },
+  "garnish": {
+    "en": "Apple slice",
+    "zh": "\u860b\u679c\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or coupe",
+    "zh": "\u9ad8\u676f\u73bb\u7483\u676f\u6216\u6dfa\u789f\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Rosy pink, slightly cloudy",
+    "zh": "\u73ab\u7470\u7c89\u8272\uff0c\u7565\u5e36\u6df7\u6fc1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "\u767d\u8272\u9f8d\u820c\u862d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base and agave flavor.",
+        "zh": "\u63d0\u4f9b\u57fa\u5e95\u548c\u9f8d\u820c\u862d\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Creme de Cassis",
+        "zh": "\u9ed1\u918b\u6817\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds dark fruit sweetness.",
+        "zh": "\u589e\u6dfb\u9ed1\u8272\u6c34\u679c\u7684\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

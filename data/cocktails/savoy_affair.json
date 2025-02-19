@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Savoy Affair",
+    "zh": "\u85a9\u4f0f\u4f0a\u60c5\u4e8b"
+  },
+  "description": {
+    "en": "**Classic Gin Sour Variation**\n\nA delicate and refreshing cocktail featuring:\n*   Gin for a botanical backbone\n*   Lemon juice for brightness\n*   Raspberry syrup for sweetness and color\n*   Egg white for a silky texture",
+    "zh": "**\u7d93\u5178\u7434\u9152\u9178\u9152\u7684\u8b8a\u9ad4**\n\n\u4e00\u6b3e\u7cbe\u7dfb\u6e05\u723d\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u7434\u9152\u63d0\u4f9b\u690d\u7269\u98a8\u5473\u57fa\u5e95\n*   \u6ab8\u6aac\u6c41\u5e36\u4f86\u660e\u4eae\u611f\n*   \u8986\u76c6\u5b50\u7cd6\u6f3f\u5e36\u4f86\u751c\u5473\u548c\u8272\u5f69\n*   \u86cb\u767d\u5e36\u4f86\u7d72\u6ed1\u7684\u8cea\u611f"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Savoy Cocktail Book (1930) by Harry Craddock\n\n*   A popular gin-based cocktail from the early 20th century.\n*   Features raspberry syrup to create a pink hue and fruity flavor.",
+    "zh": "**\u8d77\u6e90**: \u54c8\u5229\u00b7\u514b\u62c9\u591a\u514b\u300a\u85a9\u4f0f\u4f0a\u96de\u5c3e\u9152\u66f8\u300b(1930)\n\n*   20 \u4e16\u7d00\u521d\u6d41\u884c\u7684\u7434\u9152\u96de\u5c3e\u9152\u3002\n*   \u4ee5\u8986\u76c6\u5b50\u7cd6\u6f3f\u71df\u9020\u7c89\u7d05\u8272\u548c\u6c34\u679c\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients vigorously with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u5145\u5206\u6416\u52fb\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Raspberries on a cocktail pick",
+    "zh": "\u8986\u76c6\u5b50\u4e32\u5728\u96de\u5c3e\u9152\u7c64\u4e0a"
+  },
+  "serve_in_glass": {
+    "en": "Coupe Glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Pale pink, slightly cloudy, with a frothy head.",
+    "zh": "\u6de1\u7c89\u8272\uff0c\u7565\u5e36\u6df7\u6fc1\uff0c\u6709\u6ce1\u6cab\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "\u63d0\u4f9b\u70c8\u9152\u57fa\u5e95\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "\u8986\u76c6\u5b50\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and raspberry flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u8986\u76c6\u5b50\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u5e73\u8861\u611f\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "\u589e\u52a0\u7d72\u6ed1\u7684\u8cea\u611f\u548c\u6ce1\u6cab\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Death in the Afternoon",
+    "zh": "\u5348\u5f8c\u4e4b\u6b7b"
+  },
+  "description": {
+    "en": "**A potent and celebratory cocktail**\n\nCombining the anise flavor of absinthe with the dryness of Champagne, this drink is:\n\n*   Simple yet sophisticated\n*   Strong and effervescent\n*   Best enjoyed as an aperitif",
+    "zh": "**\u4e00\u6b3e\u5f37\u52c1\u800c\u559c\u6176\u7684\u96de\u5c3e\u9152**\n\n\u5c07\u82e6\u827e\u9152\u7684\u8334\u9999\u5473\u9053\u8207\u9999\u6ab3\u7684\u4e7e\u5ea6\u76f8\u7d50\u5408\uff0c\u9019\u6b3e\u98f2\u54c1\uff1a\n\n*   \u7c21\u55ae\u800c\u7cbe\u7dfb\n*   \u6fc3\u70c8\u800c\u6709\u6c23\u6ce1\n*   \u6700\u9069\u5408\u4f5c\u70ba\u958b\u80c3\u9152\u4eab\u7528"
+  },
+  "historical_reference": {
+    "en": "**Created by Ernest Hemingway**\n\n*   Published in *So Red the Rose* cocktail book (1935)\n*   Hemingway's original recipe called for more absinthe\n*   Named for his novel, *Death in the Afternoon*",
+    "zh": "**\u7531\u6b50\u5167\u65af\u7279\u00b7\u6d77\u660e\u5a01\u5275\u4f5c**\n\n*   \u767c\u8868\u65bc\u300a\u5982\u6b64\u73ab\u7470\u7d05\u300b\u96de\u5c3e\u9152\u66f8 (1935)\n*   \u6d77\u660e\u5a01\u6700\u521d\u7684\u914d\u65b9\u9700\u8981\u66f4\u591a\u7684\u82e6\u827e\u9152\n*   \u4ee5\u4ed6\u7684\u5c0f\u8aaa\u300a\u5348\u5f8c\u4e4b\u6b7b\u300b\u547d\u540d"
+  },
+  "technique": {
+    "en": "Pour absinthe into a champagne flute, top with chilled champagne. Gently stir to combine.",
+    "zh": "\u5c07\u82e6\u827e\u9152\u5012\u5165\u9999\u6ab3\u7b1b\u578b\u676f\u4e2d\uff0c\u5012\u5165\u51b0\u93ae\u9999\u6ab3\u3002\u8f15\u8f15\u652a\u62cc\u5747\u52fb\u3002"
+  },
+  "garnish": {
+    "en": "None traditionally, optional anise-flavored liquorice stick",
+    "zh": "\u50b3\u7d71\u4e0a\u6c92\u6709\uff0c\u53ef\u9078\u64c7\u8334\u9999\u53e3\u5473\u7684\u7518\u8349\u68d2"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "\u9999\u6ab3\u7b1b\u578b\u676f"
+  },
+  "appearance": {
+    "en": "Opaque, pale yellow, effervescent",
+    "zh": "\u4e0d\u900f\u660e\u3001\u6de1\u9ec3\u8272\u3001\u6709\u6c23\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Champagne",
+        "zh": "\u9999\u6ab3"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base of the drink, providing effervescence and a dry, crisp character.",
+        "zh": "\u69cb\u6210\u98f2\u6599\u7684\u57fa\u790e\uff0c\u63d0\u4f9b\u6c23\u6ce1\u548c\u4e7e\u71e5\u6e05\u8106\u7684\u7279\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Absinthe",
+        "zh": "\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a strong anise flavor and a slightly bitter edge.",
+        "zh": "\u589e\u6dfb\u6fc3\u90c1\u7684\u8334\u9999\u5473\u548c\u7565\u5e36\u82e6\u6f80\u7684\u53e3\u611f\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

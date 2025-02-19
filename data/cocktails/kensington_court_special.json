@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Kensington Court",
+    "zh": "\u80af\u8f9b\u9813\u5bae\u5ef7"
+  },
+  "description": {
+    "en": "**A modern classic cocktail**\n\nThis vibrant cocktail offers a delightful balance of flavors:\n\n*   Gin provides a botanical base.\n*   Fresh raspberry provides tartness and fresh taste.\n*   Lemon juice adds brightness and acidity.\n*   Egg white creates a smooth, creamy texture.\n*   Sugar syrup balances the tartness.",
+    "zh": "**\u73fe\u4ee3\u7d93\u5178\u96de\u5c3e\u9152**\n\n\u9019\u6b3e\u5145\u6eff\u6d3b\u529b\u7684\u96de\u5c3e\u9152\u63d0\u4f9b\u4ee4\u4eba\u6109\u6085\u7684\u98a8\u5473\u5e73\u8861\uff1a\n\n*   \u7434\u9152\u63d0\u4f9b\u690d\u7269\u57fa\u5e95\u3002\n*   \u65b0\u9bae\u8986\u76c6\u5b50\u63d0\u4f9b\u9178\u5473\u548c\u6e05\u65b0\u7684\u5473\u9053\u3002\n*   \u6ab8\u6aac\u6c41\u589e\u52a0\u660e\u4eae\u611f\u548c\u9178\u5ea6\u3002\n*   \u86cb\u767d\u71df\u9020\u51fa\u67d4\u6ed1\u3001\u5976\u6cb9\u822c\u7684\u8cea\u5730\u3002\n*   \u7cd6\u6f3f\u5e73\u8861\u9178\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "**Created by a Bartender in London**\n\nInspired by classic sours, this cocktail was created in the early 2000s in London by a creative bartender who wanted to create an experience using local raspberries. It quickly became a popular choice for its well-balanced flavor profile and appealing presentation.",
+    "zh": "**\u7531\u502b\u6566\u7684\u8abf\u9152\u5e2b\u5275\u9020**\n\n\u53d7\u7d93\u5178\u9178\u9152\u7684\u555f\u767c\uff0c\u9019\u6b3e\u96de\u5c3e\u9152\u7531\u4e00\u4f4d\u5bcc\u6709\u5275\u610f\u7684\u8abf\u9152\u5e2b\u65bc 2000 \u5e74\u4ee3\u521d\u671f\u5728\u502b\u6566\u5275\u4f5c\uff0c\u4ed6\u5e0c\u671b\u4f7f\u7528\u7576\u5730\u8986\u76c6\u5b50\u5275\u9020\u4e00\u7a2e\u9ad4\u9a57\u3002 \u5b83\u4ee5\u5176\u5747\u8861\u7684\u98a8\u5473\u548c\u5438\u5f15\u4eba\u7684\u5916\u89c0\u8fc5\u901f\u6210\u70ba\u53d7\u6b61\u8fce\u7684\u9078\u64c7\u3002"
+  },
+  "technique": {
+    "en": "Muddle raspberries, then combine all ingredients in a shaker with ice. Shake vigorously until well-chilled. Double strain into a chilled coupe glass. Garnish with fresh raspberries.",
+    "zh": "\u5c07\u8986\u76c6\u5b50\u6417\u788e\uff0c\u7136\u5f8c\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u653e\u5165\u6416\u9152\u5668\u4e2d\u3002 \u5287\u70c8\u6416\u6643\u76f4\u81f3\u5b8c\u5168\u51b7\u537b\u3002 \u7528\u96d9\u91cd\u6ffe\u7db2\u904e\u6ffe\u5230\u51b0\u93ae\u7684coupe\u676f\u4e2d\u3002 \u7528\u65b0\u9bae\u8986\u76c6\u5b50\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "3 Fresh Raspberries",
+    "zh": "3\u500b\u65b0\u9bae\u8986\u76c6\u5b50"
+  },
+  "serve_in_glass": {
+    "en": "Coupe Glass",
+    "zh": " coupe\u676f"
+  },
+  "appearance": {
+    "en": "Opaque, deep red with a frothy white head.",
+    "zh": "\u4e0d\u900f\u660e\uff0c\u6df1\u7d05\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u767d\u8272\u9802\u5c64\u3002"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "\u63d0\u4f9b\u70c8\u9152\u57fa\u5e95\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the acidity.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4e26\u5e73\u8861\u9178\u5ea6\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Fresh Raspberry",
+        "zh": "\u65b0\u9bae\u8986\u76c6\u5b50"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds fresh raspberry flavor and aroma.",
+        "zh": "\u589e\u52a0\u65b0\u9bae\u8986\u76c6\u5b50\u98a8\u5473\u548c\u9999\u6c23\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "\u65b0\u9bae\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a smooth, creamy texture.",
+        "zh": "\u63d0\u4f9b\u67d4\u6ed1\u3001\u5976\u6cb9\u822c\u7684\u8cea\u5730\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

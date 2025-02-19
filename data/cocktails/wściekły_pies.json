@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "W\u015bciek\u0142y Pies (Mad Dog)",
+    "zh": "\u760b\u72d7"
+  },
+  "description": {
+    "en": "*W\u015bciek\u0142y Pies* translates to 'Mad Dog'. It's a popular layered shot known for its sweet and sour taste and dramatic presentation. The Tabasco sauce adds a surprising kick.",
+    "zh": "\u300c*W\u015bciek\u0142y Pies*\u300d\u7ffb\u8b6f\u70ba\u300c\u760b\u72d7\u300d\u3002\u9019\u662f\u4e00\u7a2e\u6d41\u884c\u7684\u5206\u5c64\u70c8\u9152\uff0c\u4ee5\u5176\u9178\u751c\u7684\u53e3\u611f\u548c\u5f15\u4eba\u6ce8\u76ee\u7684\u5916\u89c0\u800c\u805e\u540d\u3002Tabasco \u8fa3\u6912\u91ac\u589e\u6dfb\u4e86\u610f\u60f3\u4e0d\u5230\u7684\u523a\u6fc0\u611f\u3002"
+  },
+  "historical_reference": {
+    "en": "The origin of *W\u015bciek\u0142y Pies* (Mad Dog) is uncertain, but it is believed to have originated in Poland. It is a common party shot.",
+    "zh": "\u300c*W\u015bciek\u0142y Pies*\u300d\uff08\u760b\u72d7\uff09\u7684\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u64da\u4fe1\u8d77\u6e90\u65bc\u6ce2\u862d\u3002\u9019\u662f\u4e00\u7a2e\u5e38\u898b\u7684\u6d3e\u5c0d\u70c8\u9152\u3002"
+  },
+  "technique": {
+    "en": "Layer ingredients carefully, starting with raspberry syrup, then vodka, and finally, Tabasco sauce on top.",
+    "zh": "\u5c0f\u5fc3\u5730\u5206\u5c64\u6dfb\u52a0\u914d\u6599\uff0c\u9996\u5148\u662f\u8986\u76c6\u5b50\u7cd6\u6f3f\uff0c\u7136\u5f8c\u662f\u4f0f\u7279\u52a0\uff0c\u6700\u5f8c\u5728\u9802\u90e8\u6dfb\u52a0 Tabasco \u8fa3\u6912\u91ac\u3002"
+  },
+  "garnish": {
+    "en": "Few drops of Tabasco sauce on top",
+    "zh": "\u9802\u90e8\u6ef4\u5e7e\u6ef4 Tabasco \u8fa3\u6912\u91ac"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "\u70c8\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Layered shot with red grenadine at the bottom and clear vodka on top.",
+    "zh": "\u5206\u5c64\u7684\u70c8\u9152\uff0c\u5e95\u90e8\u662f\u7d05\u8272\u77f3\u69b4\u7cd6\u6f3f\uff0c\u9802\u90e8\u662f\u900f\u660e\u4f0f\u7279\u52a0\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u4e2d\u6027\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Raspberry syrup",
+        "zh": "\u8986\u76c6\u5b50\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color to the base of the shot.",
+        "zh": "\u70ba\u70c8\u9152\u7684\u5e95\u90e8\u589e\u6dfb\u751c\u5473\u548c\u8272\u5f69\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Flip",
+    "zh": "\u83f2\u529b\u6d66"
+  },
+  "description": {
+    "en": "**Warm and Comforting Classic**\n\nThe Flip is a classic cocktail known for its warming and comforting nature, featuring:\n*   Richness from egg and cream\n*   Spice, often nutmeg, for aroma and warmth\n*   Fortified wine or beer can be used",
+    "zh": "**\u6eab\u6696\u8212\u9069\u7684\u7d93\u5178\u98f2\u54c1**\n\nFlip \u662f\u4e00\u7a2e\u4ee5\u5176\u6eab\u6696\u548c\u8212\u9069\u7279\u6027\u800c\u805e\u540d\u7684\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u5176\u7279\u8272\u5305\u62ec\uff1a\n*   \u96de\u86cb\u548c\u9bae\u5976\u6cb9\u5e36\u4f86\u7684\u6fc3\u90c1\u53e3\u611f\n*   \u9999\u6599\uff08\u901a\u5e38\u662f\u8089\u8373\u853b\uff09\u5e36\u4f86\u7684\u9999\u6c23\u548c\u6eab\u6696\u611f\n*   \u53ef\u4ee5\u4f7f\u7528\u52a0\u5f37\u8461\u8404\u9152\u6216\u5564\u9152"
+  },
+  "historical_reference": {
+    "en": "**Historical Roots**\n\n*   A Flip traditionally included beer, rum, and sugar, heated with a hot poker. (1690s)\n*   Evolved over time to include egg and cream.\n*   Popular in the 18th and 19th centuries as a cold-weather drink.\n*   The *Savoy Cocktail Book* includes several Flip variations.",
+    "zh": "**\u6b77\u53f2\u6df5\u6e90**\n\n*   \u50b3\u7d71\u7684 Flip \u5305\u62ec\u5564\u9152\u3001\u862d\u59c6\u9152\u548c\u7cd6\uff0c\u7528\u71b1\u9435\u68d2\u52a0\u71b1\u3002\uff081690\u5e74\u4ee3\uff09\n*   \u96a8\u8457\u6642\u9593\u7684\u63a8\u79fb\uff0c\u6f14\u8b8a\u6210\u5305\u542b\u96de\u86cb\u548c\u9bae\u5976\u6cb9\u3002\n*   \u5728 18 \u548c 19 \u4e16\u7d00\uff0c\u4f5c\u70ba\u4e00\u7a2e\u5bd2\u51b7\u5929\u6c23\u98f2\u54c1\u800c\u5ee3\u53d7\u6b61\u8fce\u3002\n*   \u300a\u85a9\u4f0f\u4f0a\u96de\u5c3e\u9152\u66f8\u300b\u6536\u9304\u4e86\u591a\u7a2e Flip \u8b8a\u9ad4\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice, then strain into a glass. Alternatively, can be served warm.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u73bb\u7483\u676f\u4e2d\u3002 \u6216\u8005\uff0c\u53ef\u4ee5\u52a0\u71b1\u98f2\u7528\u3002"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or cinnamon",
+    "zh": "\u78e8\u788e\u7684\u8089\u8373\u853b\u6216\u8089\u6842"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heatproof glass",
+    "zh": "\u99ac\u514b\u676f\u6216\u8010\u71b1\u73bb\u7483\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, frothy, often with a dusting of spice on top",
+    "zh": "\u5976\u6cb9\u72c0\uff0c\u8d77\u6ce1\uff0c\u901a\u5e38\u5728\u9802\u90e8\u6492\u4e0a\u9999\u6599\u7c89"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "\u4e73\u88fd\u54c1"
+    },
+    {
+      "en": "Egg",
+      "zh": "\u96de\u86cb"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and rich flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u6fc3\u90c1\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream",
+        "zh": "\u9bae\u5976\u6cb9"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds creaminess and a velvety texture.",
+        "zh": "\u589e\u52a0\u5976\u6cb9\u5473\u548c\u5929\u9d5d\u7d68\u822c\u7684\u8cea\u5730\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "\u86cb\u9ec3"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds richness and body.",
+        "zh": "\u589e\u52a0\u6fc3\u90c1\u5ea6\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the drink.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4e26\u5e73\u8861\u98f2\u54c1\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

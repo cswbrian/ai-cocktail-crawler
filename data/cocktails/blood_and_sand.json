@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Blood and Sand",
+    "zh": "\u8840\u8207\u6c99"
+  },
+  "description": {
+    "en": "**A Classic Equal-Parts Cocktail**\n\nThe Blood and Sand is named after the 1922 bullfighting film *Blood and Sand*, starring Rudolph Valentino. It features a unique combination of ingredients:\n\n*   Scotch whisky provides a smoky base.\n*   Sweet vermouth adds a layer of herbal sweetness.\n*   Cherry Heering offers a distinctive cherry flavor.\n*   Fresh orange juice brightens the drink with citrus notes.",
+    "zh": "**\u7d93\u5178\u7684\u7b49\u6bd4\u4f8b\u96de\u5c3e\u9152**\n\n\u8840\u8207\u6c99\u662f\u4ee5 1922 \u5e74\u7531\u9b6f\u9053\u592b\u00b7\u74e6\u502b\u8482\u8afe\u4e3b\u6f14\u7684\u9b25\u725b\u96fb\u5f71\u300a*\u8840\u8207\u6c99*\u300b\u547d\u540d\u7684\u3002\u5b83\u5177\u6709\u7368\u7279\u7684\u6210\u5206\u7d44\u5408\uff1a\n\n* \u8607\u683c\u862d\u5a01\u58eb\u5fcc\u63d0\u4f9b\u7159\u718f\u57fa\u5e95\u3002\n* \u751c\u5473\u7f8e\u601d\u589e\u6dfb\u4e86\u4e00\u5c64\u8349\u672c\u751c\u5473\u3002\n* \u6afb\u6843\u5e0c\u6797\u63d0\u4f9b\u7368\u7279\u7684\u6afb\u6843\u98a8\u5473\u3002\n* \u65b0\u9bae\u6a59\u6c41\u4ee5\u67d1\u6a58\u5473\u9ede\u4eae\u98f2\u54c1\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins in the Early 20th Century**\n\nThe Blood and Sand cocktail is believed to have been created around 1922, inspired by the eponymous film *Blood and Sand*, a silent movie about bullfighting starring Rudolph Valentino.\n\nThe cocktail gained popularity in the 1930s, appearing in cocktail books of the era. Despite its somewhat unusual combination of ingredients, it remains a recognized classic.",
+    "zh": "**\u8d77\u6e90\u65bc 20 \u4e16\u7d00\u521d**\n\n\u8840\u8207\u6c99\u96de\u5c3e\u9152\u64da\u4fe1\u5275\u4f5c\u65bc 1922 \u5e74\u5de6\u53f3\uff0c\u9748\u611f\u4f86\u81ea\u540c\u540d\u96fb\u5f71\u300a*\u8840\u8207\u6c99*\u300b\uff0c\u9019\u662f\u4e00\u90e8\u7531\u9b6f\u9053\u592b\u00b7\u74e6\u502b\u8482\u8afe\u4e3b\u6f14\u7684\u95dc\u65bc\u9b25\u725b\u7684\u9ed8\u7247\u3002\n\n\u9019\u6b3e\u96de\u5c3e\u9152\u5728 1930 \u5e74\u4ee3\u5ee3\u53d7\u6b61\u8fce\uff0c\u51fa\u73fe\u5728\u7576\u6642\u7684\u96de\u5c3e\u9152\u66f8\u7c4d\u4e2d\u3002\u5118\u7ba1\u5176\u6210\u5206\u7d44\u5408\u6709\u4e9b\u4e0d\u5c0b\u5e38\uff0c\u4f46\u5b83\u4ecd\u7136\u662f\u4e00\u7a2e\u516c\u8a8d\u7684\u7d93\u5178\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel or brandied cherry (optional)",
+    "zh": "\u6a59\u76ae\u6216\u767d\u862d\u5730\u6afb\u6843\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "\u9ad8\u8173\u676f\u6216 Nick & Nora \u676f"
+  },
+  "appearance": {
+    "en": "Deep red to amber hue, depending on ingredient ratios and freshness, no garnish",
+    "zh": "\u6df1\u7d05\u8272\u81f3\u7425\u73c0\u8272\uff0c\u53d6\u6c7a\u65bc\u6210\u5206\u6bd4\u4f8b\u548c\u65b0\u9bae\u5ea6\uff0c\u6c92\u6709\u88dd\u98fe"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "\u8607\u683c\u862d\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the foundation with a smoky and malty flavor profile.",
+        "zh": "\u63d0\u4f9b\u5e36\u6709\u7159\u718f\u548c\u9ea5\u82bd\u98a8\u5473\u7684\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "\u6afb\u6843\u5e0c\u6797"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes a rich cherry flavor and sweetness.",
+        "zh": "\u63d0\u4f9b\u6fc3\u90c1\u7684\u6afb\u6843\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u5473\u7f8e\u601d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds herbal and spiced notes, contributing to the complexity.",
+        "zh": "\u6dfb\u52a0\u8349\u672c\u548c\u9999\u6599\u5473\uff0c\u6709\u52a9\u65bc\u589e\u52a0\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Orange Juice",
+        "zh": "\u65b0\u9bae\u67f3\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds brightness and acidity to balance the drink.",
+        "zh": "\u589e\u52a0\u4eae\u5ea6\u548c\u9178\u5ea6\uff0c\u4ee5\u5e73\u8861\u98f2\u54c1\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

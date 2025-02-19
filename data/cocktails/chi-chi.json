@@ -1,0 +1,104 @@
+{
+  "name": {
+    "en": "Chi-Chi",
+    "zh": "\u5947\u5947"
+  },
+  "description": {
+    "en": "**Tropical Delight**\n\nA creamy and refreshing cocktail, the Chi-Chi is essentially a Pi\u00f1a Colada made with vodka instead of rum. It's a simple, crowd-pleasing drink perfect for warm weather.\n\n*   Creamy texture\n*   Sweet and fruity flavor",
+    "zh": "**\u71b1\u5e36\u4eab\u53d7**\n\n\u5947\u5947\u662f\u4e00\u6b3e\u5976\u6cb9\u822c\u6e05\u723d\u7684\u96de\u5c3e\u9152\uff0c\u672c\u8cea\u4e0a\u662f\u7528\u4f0f\u7279\u52a0\u4ee3\u66ff\u862d\u59c6\u9152\u7684\u9cf3\u68a8\u53ef\u6a02\u9054\u3002 \u9019\u662f\u4e00\u6b3e\u7c21\u55ae\u3001\u9069\u5408\u5927\u773e\u7684\u98f2\u54c1\uff0c\u975e\u5e38\u9069\u5408\u6eab\u6696\u7684\u5929\u6c23\u3002\n\n* \u5976\u6cb9\u8cea\u5730\n* \u751c\u871c\u7684\u679c\u5473"
+  },
+  "historical_reference": {
+    "en": "The Chi-Chi is a variation of the Pi\u00f1a Colada, swapping out rum for vodka. Its exact origin is murky, but it likely emerged after the Pi\u00f1a Colada's widespread popularity in the mid-20th century as a way to offer a similar drink with a different spirit base.",
+    "zh": "\u5947\u5947\u662f\u9cf3\u68a8\u53ef\u6a02\u9054\u7684\u4e00\u7a2e\u8b8a\u9ad4\uff0c\u7528\u4f0f\u7279\u52a0\u4ee3\u66ff\u4e86\u862d\u59c6\u9152\u3002 \u5b83\u7684\u78ba\u5207\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u5b83\u53ef\u80fd\u662f\u5728 20 \u4e16\u7d00\u4e2d\u8449\u9cf3\u68a8\u53ef\u6a02\u9054\u5ee3\u6cdb\u6d41\u884c\u4e4b\u5f8c\u51fa\u73fe\u7684\uff0c\u76ee\u7684\u662f\u63d0\u4f9b\u4e00\u7a2e\u4f7f\u7528\u4e0d\u540c\u70c8\u9152\u57fa\u5e95\u7684\u985e\u4f3c\u98f2\u6599\u3002"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6df7\u5408\u5747\u52fb\u3002 \u5012\u5165\u73bb\u7483\u676f\u4e2d\u4e26\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Pineapple wedge or Maraschino cherry",
+    "zh": "\u9cf3\u68a8\u89d2\u6216\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or Collins glass",
+    "zh": "\u98b6\u98a8\u676f\u6216\u67ef\u6797\u65af\u676f"
+  },
+  "appearance": {
+    "en": "Creamy white, often served with a pineapple wedge or cherry.",
+    "zh": "\u5976\u6cb9\u767d\u8272\uff0c\u901a\u5e38\u642d\u914d\u9cf3\u68a8\u89d2\u6216\u6afb\u6843\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u4e7e\u6de8\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "\u6930\u5976"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds rich coconut flavor and creamy texture.",
+        "zh": "\u589e\u52a0\u6fc3\u9b31\u7684\u6930\u5b50\u5473\u548c\u5976\u6cb9\u822c\u7684\u8cea\u5730\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "\u9cf3\u68a8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the tropical, sweet, and slightly acidic flavor.",
+        "zh": "\u63d0\u4f9b\u71b1\u5e36\u3001\u751c\u7f8e\u548c\u7565\u5e36\u9178\u5473\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Champagne Cocktail",
+    "zh": "\u9999\u6ab3\u96de\u5c3e\u9152"
+  },
+  "description": {
+    "en": "**Classic Sparkling Cocktail**\n\nA simple yet elegant combination that delivers:\n* Bubbly texture from champagne\n* Suble sweetness to enhance the bubbly foundation",
+    "zh": "**\u7d93\u5178\u6c23\u6ce1\u96de\u5c3e\u9152**\n\n\u4e00\u500b\u7c21\u55ae\u800c\u512a\u96c5\u7684\u7d44\u5408\uff0c\u63d0\u4f9b\uff1a\n* \u9999\u6ab3\u7684\u6c23\u6ce1\u53e3\u611f\n* \u7d30\u81a9\u7684\u751c\u5473\u589e\u5f37\u6c23\u6ce1\u57fa\u790e"
+  },
+  "historical_reference": {
+    "en": "**Origins in the 19th Century**\n\n* Popularized in the late 1800s\n* Often served as a celebration drink\n* Simple recipes varied by region",
+    "zh": "**\u8d77\u6e90\u65bc19\u4e16\u7d00**\n\n* 1800\u5e74\u4ee3\u5f8c\u671f\u958b\u59cb\u6d41\u884c\n* \u7d93\u5e38\u4f5c\u70ba\u6176\u795d\u98f2\u54c1\u4f9b\u61c9\n* \u7c21\u55ae\u914d\u65b9\u56e0\u5730\u5340\u800c\u7570"
+  },
+  "technique": {
+    "en": "Place sugar cube in glass, add bitters, top with chilled champagne.",
+    "zh": "\u5c07\u65b9\u7cd6\u653e\u5165\u676f\u4e2d\uff0c\u52a0\u5165\u82e6\u7cbe\uff0c\u5012\u5165\u51b0\u93ae\u9999\u6ab3\u3002"
+  },
+  "garnish": {
+    "en": "Sugar cube (optional), lemon twist (optional)",
+    "zh": "\u65b9\u7cd6\uff08\u53ef\u9078\uff09\uff0c\u6ab8\u6aac\u76ae\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Pale golden, effervescent",
+    "zh": "\u6de1\u91d1\u8272\uff0c\u6709\u6c23\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Champagne",
+        "zh": "\u9999\u6ab3"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the bubbly foundation of the cocktail.",
+        "zh": "\u69cb\u6210\u96de\u5c3e\u9152\u7684\u6c23\u6ce1\u57fa\u790e\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "\u65b9\u7cd6"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fizz as the champagne dissolves it.",
+        "zh": "\u7576\u9999\u6ab3\u6eb6\u89e3\u65b9\u7cd6\u6642\uff0c\u6703\u589e\u52a0\u751c\u5473\u548c\u6c23\u6ce1\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds flavor complexity.",
+        "zh": "\u589e\u6dfb\u98a8\u5473\u7684\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Division Bell",
+    "zh": "\u5206\u88c2\u9418"
+  },
+  "description": {
+    "en": "A modern classic cocktail created by Sam Ross at Attaboy in New York City. It is a variation of the Last Word, replacing the Chartreuse with gentian liqueur.",
+    "zh": "\u4e00\u6b3e\u73fe\u4ee3\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u7531\u85a9\u59c6\u00b7\u7f85\u65af\u5728\u7d10\u7d04\u5e02\u7684 Attaboy \u5275\u9020\u3002 \u5b83\u662f\u300c\u6700\u5f8c\u4e00\u676f\u300d\u7684\u8b8a\u9ad4\uff0c\u7528\u9f8d\u81bd\u5229\u53e3\u9152\u53d6\u4ee3\u4e86 Chartreuse\u3002"
+  },
+  "historical_reference": {
+    "en": "* Created by Sam Ross at Attaboy (New York City). \n* A modern variation of the *Last Word* cocktail. \n* Named after a Pink Floyd album, *The Division Bell*.",
+    "zh": "* \u7531\u85a9\u59c6\u00b7\u7f85\u65af\u5728 Attaboy\uff08\u7d10\u7d04\u5e02\uff09\u5275\u4f5c\u3002\n* \u300c\u6700\u5f8c\u4e00\u676f\u300d\u96de\u5c3e\u9152\u7684\u73fe\u4ee3\u8b8a\u9ad4\u3002\n* \u4ee5 Pink Floyd \u7684\u5c08\u8f2f *The Division Bell* \u547d\u540d\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled coupe glass. Garnish with a cherry.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u6416\u52fb\u3002 \u6ffe\u5165\u51b0\u93ae\u7684\u789f\u578b\u9999\u6ab3\u676f\u4e2d\u3002 \u7528\u6afb\u6843\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Cherry",
+    "zh": "\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "\u789f\u578b\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Clear, pale golden hue.",
+    "zh": "\u6e05\u6f88\u7684\u6de1\u91d1\u8272\u8272\u8abf\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u70c8\u9152\u57fa\u5e95\u548c\u690d\u7269\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and cherry flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u6afb\u6843\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gentian Liqueur",
+        "zh": "\u9f8d\u81bd\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a unique bitter and herbal flavor.",
+        "zh": "\u589e\u52a0\u7368\u7279\u7684\u82e6\u5473\u548c\u8349\u672c\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u5e73\u8861\u611f\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

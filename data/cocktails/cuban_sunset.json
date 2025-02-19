@@ -1,0 +1,97 @@
+{
+  "name": {
+    "en": "Cuban Sunset",
+    "zh": "\u53e4\u5df4\u65e5\u843d"
+  },
+  "description": {
+    "en": "**Tropical Layered Cocktail**\n\nA visually stunning cocktail designed to resemble a Cuban sunset, featuring:\n\n*   Grenadine sinking to the bottom for a red layer\n*   Orange juice creating the orange hue\n*   White rum providing the alcoholic base",
+    "zh": "**\u71b1\u5e36\u5206\u5c64\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u8996\u89ba\u4e0a\u4ee4\u4eba\u9a5a\u8c54\u7684\u96de\u5c3e\u9152\uff0c\u65e8\u5728\u6a21\u4eff\u53e4\u5df4\u65e5\u843d\uff0c\u5176\u7279\u8272\uff1a\n\n*   \u77f3\u69b4\u7cd6\u6f3f\u6c89\u5230\u5e95\u90e8\uff0c\u5f62\u6210\u7d05\u8272\u5c64\n*   \u6a59\u6c41\u71df\u9020\u51fa\u6a59\u8272\u8272\u8abf\n*   \u767d\u862d\u59c6\u9152\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Exact origin unknown, but likely a creation of the tropical cocktail era.\n\n*   Inspired by the colors of a sunset in the Caribbean, particularly Cuba\n*   Popularized in bars and resorts as a visually appealing and refreshing drink\n*   Variations exist with different fruit juices and spirits to achieve the layered effect",
+    "zh": "**\u8d77\u6e90**: \u78ba\u5207\u8d77\u6e90\u672a\u77e5\uff0c\u4f46\u53ef\u80fd\u662f\u71b1\u5e36\u96de\u5c3e\u9152\u6642\u4ee3\u7684\u7522\u7269\u3002\n\n*   \u9748\u611f\u4f86\u81ea\u52a0\u52d2\u6bd4\u6d77\uff0c\u7279\u5225\u662f\u53e4\u5df4\u7684\u65e5\u843d\u984f\u8272\n*   \u5728\u9152\u5427\u548c\u5ea6\u5047\u6751\u4e2d\u6d41\u884c\uff0c\u4f5c\u70ba\u4e00\u7a2e\u8996\u89ba\u4e0a\u5438\u5f15\u4eba\u4e14\u6e05\u723d\u7684\u98f2\u54c1\n*   \u5b58\u5728\u4f7f\u7528\u4e0d\u540c\u679c\u6c41\u548c\u70c8\u9152\u4ee5\u9054\u5230\u5206\u5c64\u6548\u679c\u7684\u8b8a\u9ad4"
+  },
+  "technique": {
+    "en": "Layer ingredients carefully over ice, starting with grenadine.",
+    "zh": "\u5c0f\u5fc3\u5730\u5c07\u914d\u6599\u5206\u5c64\u758a\u5728\u51b0\u584a\u4e0a\uff0c\u5f9e\u77f3\u69b4\u7cd6\u6f3f\u958b\u59cb\u3002"
+  },
+  "garnish": {
+    "en": "Orange slice and cherry",
+    "zh": "\u6a59\u7247\u548c\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u676f"
+  },
+  "appearance": {
+    "en": "Layered drink with vibrant red and orange hues, mimicking a sunset.",
+    "zh": "\u5206\u5c64\u98f2\u6599\uff0c\u5177\u6709\u9bae\u8c54\u7684\u7d05\u8272\u548c\u6a59\u8272\u8272\u8abf\uff0c\u6a21\u4eff\u65e5\u843d\u3002"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "White Rum",
+        "zh": "\u767d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base and alcoholic backbone of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u57fa\u5e95\u548c\u9152\u7cbe\u9aa8\u5e79\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Creates the red layer at the bottom, adding sweetness and color.",
+        "zh": "\u5728\u5e95\u90e8\u5f62\u6210\u7d05\u8272\u5c64\uff0c\u589e\u52a0\u751c\u5ea6\u548c\u984f\u8272\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Sweet",
+      "zh": "\u751c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

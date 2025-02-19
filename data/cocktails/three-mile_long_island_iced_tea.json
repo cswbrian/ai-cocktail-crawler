@@ -1,0 +1,164 @@
+{
+  "name": {
+    "en": "Three-Mile Long Island Iced Tea",
+    "zh": "\u4e09\u82f1\u91cc\u9577\u5cf6\u51b0\u8336"
+  },
+  "description": {
+    "en": "A potent variation of the Long Island Iced Tea, this cocktail blends four base spirits with triple sec and sweet and sour mix, topped with cola for color and fizz. It's named \"Three-Mile\" for its strong alcoholic content and the punch it packs.",
+    "zh": "\u9019\u662f\u9577\u5cf6\u51b0\u8336\u7684\u5f37\u529b\u8b8a\u9ad4\uff0c\u5c07\u56db\u7a2e\u57fa\u9152\u8207\u6a59\u76ae\u9152\u548c\u9178\u751c\u6c41\u6df7\u5408\uff0c\u518d\u52a0\u5165\u53ef\u6a02\u4ee5\u589e\u52a0\u984f\u8272\u548c\u6c23\u6ce1\u3002\u5b83\u88ab\u547d\u540d\u70ba\u201c\u4e09\u82f1\u91cc\u201d\uff0c\u56e0\u70ba\u5b83\u5177\u6709\u5f88\u9ad8\u7684\u9152\u7cbe\u542b\u91cf\u548c\u885d\u64ca\u529b\u3002"
+  },
+  "historical_reference": {
+    "en": "A variation on the Long Island Iced Tea, likely created after the original to increase alcoholic strength.\n\n*   The exact origin is unknown.\n*   The name suggests a stronger effect than the original.",
+    "zh": "\u9577\u5cf6\u51b0\u8336\u7684\u8b8a\u9ad4\uff0c\u53ef\u80fd\u662f\u5728\u539f\u7248\u4e4b\u5f8c\u5275\u5efa\u7684\uff0c\u4ee5\u589e\u52a0\u9152\u7cbe\u5f37\u5ea6\u3002\n\n*   \u78ba\u5207\u7684\u8d77\u6e90\u672a\u77e5\u3002\n*   \u9019\u500b\u540d\u5b57\u8868\u660e\u6bd4\u539f\u7248\u6709\u66f4\u5f37\u7684\u6548\u679c\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except cola) with ice. Strain into ice-filled glass. Top with cola and garnish.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\uff08\u53ef\u6a02\u9664\u5916\uff09\u8207\u51b0\u584a\u6416\u52fb\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u73bb\u7483\u676f\u4e2d\u3002\u9802\u90e8\u653e\u4e0a\u53ef\u6a02\u548c\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon wedge",
+    "zh": "\u6ab8\u6aac\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Iced tea color, transparent",
+    "zh": "\u51b0\u7d05\u8336\u8272\uff0c\u900f\u660e"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Vodka",
+        "zh": "\u901a\u7528\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a neutral alcoholic base.",
+        "zh": "\u589e\u52a0\u4e2d\u6027\u7684\u9152\u7cbe\u57fa\u5e95\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Gin",
+        "zh": "\u901a\u7528\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds botanical complexity.",
+        "zh": "\u589e\u52a0\u690d\u7269\u7684\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic White Rum",
+        "zh": "\u901a\u7528\u767d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "\u901a\u7528\u9f8d\u820c\u862d\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds earthy and agave notes.",
+        "zh": "\u6dfb\u52a0\u6ce5\u571f\u548c\u9f8d\u820c\u862d\u7684\u5473\u9053\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Triple Sec",
+        "zh": "\u901a\u7528\u6a59\u76ae\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "\u589e\u52a0\u67d1\u6a58\u5473\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Sweet and Sour Mix",
+        "zh": "\u9178\u751c\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweet and sour balance.",
+        "zh": "\u589e\u52a0\u9178\u751c\u5e73\u8861\u3002"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cola",
+        "zh": "\u53ef\u6a02"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds color, sweetness, and fizz.",
+        "zh": "\u589e\u52a0\u984f\u8272\u3001\u751c\u5ea6\u548c\u6c23\u6ce1\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 9,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

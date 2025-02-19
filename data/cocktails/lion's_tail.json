@@ -1,0 +1,158 @@
+{
+  "name": {
+    "en": "Lion's Tail",
+    "zh": "\u7345\u5c3e"
+  },
+  "description": {
+    "en": "**A pre-Prohibition sour showcasing bourbon and allspice.**\n\nThe Lion's Tail is a somewhat obscure classic cocktail that offers a delightful balance of flavors:\n\n*   Bourbon for depth and warmth\n*   Allspice Dram for spicy complexity\n*   Lime juice for bright acidity\n*   Simple syrup for balance\n*   Angostura bitters for added depth\n*   Egg white (optional) for texture",
+    "zh": "**\u4e00\u6b3e\u7981\u9152\u4ee4\u524d\u7d93\u5178\u9178\u5473\u96de\u5c3e\u9152\uff0c\u7a81\u986f\u6ce2\u672c\u5a01\u58eb\u5fcc\u548c\u591a\u9999\u679c\u7684\u98a8\u5473\u3002**\n\n\u7345\u5c3e\u662f\u4e00\u6b3e\u7565\u70ba\u9ed8\u9ed8\u7121\u805e\u7684\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u63d0\u4f9b\u4ee4\u4eba\u6109\u6085\u7684\u98a8\u5473\u5e73\u8861\uff1a\n\n*   \u6ce2\u672c\u5a01\u58eb\u5fcc\u5e36\u4f86\u6df1\u5ea6\u548c\u6eab\u6696\n*   \u591a\u9999\u679c\u5229\u53e3\u9152\u5e36\u4f86\u8f9b\u8fa3\u7684\u8907\u96dc\u6027\n*   \u9752\u6ab8\u6c41\u5e36\u4f86\u660e\u4eae\u7684\u9178\u5ea6\n*   \u7c21\u7cd6\u6f3f\u7528\u65bc\u5e73\u8861\n*   \u5b89\u683c\u5f0f\u82e6\u7cbe\u589e\u52a0\u6df1\u5ea6\n*   \u86cb\u767d\uff08\u53ef\u9078\uff09\u589e\u52a0\u8cea\u5730"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in the early 20th century, but the exact creator and date are unknown.\n\n*   First documented in *Patrick Gavin Duffy's Official Mixer's Manual* (1934)\n*   Features uncommon allspice dram liqueur",
+    "zh": "**\u8d77\u6e90**: \u64da\u4fe1\u8d77\u6e90\u65bc20\u4e16\u7d00\u521d\uff0c\u4f46\u78ba\u5207\u7684\u5275\u4f5c\u8005\u548c\u65e5\u671f\u4e0d\u8a73\u3002\n\n*   \u9996\u6b21\u8a18\u9304\u5728*Patrick Gavin Duffy's Official Mixer's Manual* (1934)\u4e2d\n*   \u4ee5\u4e0d\u5e38\u898b\u7684\u591a\u9999\u679c\u5229\u53e3\u9152\u70ba\u7279\u8272"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Lime wedge or zest",
+    "zh": "\u9752\u6ab8\u89d2\u6216\u9752\u6ab8\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "\u9ad8\u8173\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, golden-yellow with a frothy white head",
+    "zh": "\u6df7\u6fc1\uff0c\u91d1\u9ec3\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u7684\u767d\u8272\u982d\u90e8"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "\u6ce2\u672c\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base, adding notes of vanilla and caramel.",
+        "zh": "\u63d0\u4f9b\u57fa\u5e95\uff0c\u589e\u6dfb\u9999\u8349\u548c\u7126\u7cd6\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Allspice Dram",
+        "zh": "\u591a\u9999\u679c\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a unique spicy flavor.",
+        "zh": "\u589e\u6dfb\u7368\u7279\u7684\u8f9b\u8fa3\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u9752\u6ab8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u5e73\u8861\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Balances the acidity of the lime juice.",
+        "zh": "\u5e73\u8861\u9752\u6ab8\u6c41\u7684\u9178\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and depth.",
+        "zh": "\u589e\u52a0\u8907\u96dc\u6027\u548c\u6df1\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "\u86cb\u767d\uff08\u53ef\u9078\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "\u589e\u52a0\u67d4\u6ed1\u7684\u8cea\u5730\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "name": {
+    "en": "Vieux Carr\u00e9",
+    "zh": "\u8001\u5ee3\u5834"
+  },
+  "description": {
+    "en": "**A sophisticated and complex classic cocktail**\n\nThe Vieux Carr\u00e9 is a New Orleans classic, a potent mix of rye whiskey, cognac, sweet vermouth, Benedictine, and bitters. It's stirred and served up or on the rocks. The result is a layered and complex drink that is both strong and flavorful.\n\nKey characteristics:\n*   Spirit-forward and complex\n*   Rich and aromatic\n*   Well-balanced sweetness and bitterness",
+    "zh": "**\u7cbe\u7dfb\u800c\u8907\u96dc\u7684\u7d93\u5178\u96de\u5c3e\u9152**\n\nVieux Carr\u00e9\u662f\u4e00\u6b3e\u7d10\u5967\u826f\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u7531\u9ed1\u9ea5\u5a01\u58eb\u5fcc\u3001\u5e72\u9091\u767d\u862d\u5730\u3001\u751c\u5473\u82e6\u827e\u9152\u3001\u73ed\u5c3c\u8fea\u514b\u4e01\u548c\u82e6\u7cbe\u7d44\u6210\u3002 \u5b83\u7d93\u904e\u652a\u62cc\u5f8c\u76f4\u63a5\u98f2\u7528\u6216\u52a0\u51b0\u98f2\u7528\u3002 \u6700\u7d42\u5448\u73fe\u7684\u662f\u4e00\u6b3e\u5c64\u6b21\u8c50\u5bcc\u4e14\u8907\u96dc\u7684\u98f2\u54c1\uff0c\u65e2\u6fc3\u70c8\u53c8\u7f8e\u5473\u3002\n\n\u4e3b\u8981\u7279\u5fb5\uff1a\n*   \u4ee5\u70c8\u9152\u70ba\u4e3b\uff0c\u98a8\u5473\u8907\u96dc\n*   \u6fc3\u90c1\u800c\u82b3\u9999\n*   \u751c\u5473\u548c\u82e6\u5473\u5747\u8861"
+  },
+  "historical_reference": {
+    "en": "**Created in New Orleans in the 1930s**\n\n*   Invented by Walter Bergeron at the Hotel Monteleone's Carousel Bar.\n*   Named after the French Quarter (Vieux Carr\u00e9) of New Orleans.\n*   Reflects the diverse cultural influences of the city.",
+    "zh": "**1930\u5e74\u4ee3\u65bc\u7d10\u5967\u826f\u5275\u4f5c**\n\n*   \u7531 Walter Bergeron \u5728 Monteleone \u9152\u5e97\u7684 Carousel Bar \u767c\u660e\u3002\n*   \u4ee5\u7d10\u5967\u826f\u7684\u6cd5\u570b\u5340 (Vieux Carr\u00e9) \u547d\u540d\u3002\n*   \u53cd\u6620\u4e86\u8a72\u57ce\u5e02\u591a\u5143\u7684\u6587\u5316\u5f71\u97ff\u3002"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into glass. Garnish with a lemon or orange peel.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u652a\u62cc\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u73bb\u7483\u676f\u4e2d\u3002 \u7528\u6ab8\u6aac\u6216\u6a59\u76ae\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon or orange peel",
+    "zh": "\u6ab8\u6aac\u6216\u6a59\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "\u53e4\u5178\u676f"
+  },
+  "appearance": {
+    "en": "Deep amber, clear",
+    "zh": "\u6df1\u7425\u73c0\u8272\uff0c\u6e05\u6f88"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "\u9ed1\u9ea5\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust backbone.",
+        "zh": "\u63d0\u4f9b\u8f9b\u8fa3\u548c\u9187\u539a\u7684\u9aa8\u5e79\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "\u5e72\u9091\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds fruity and complex notes.",
+        "zh": "\u589e\u6dfb\u679c\u9999\u548c\u8907\u96dc\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u5473\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u8349\u672c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "B\u00e9n\u00e9dictine",
+        "zh": "\u73ed\u5c3c\u8fea\u514b\u4e01"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds honeyed sweetness and herbal complexity.",
+        "zh": "\u589e\u52a0\u8702\u871c\u7684\u751c\u5473\u548c\u8349\u85e5\u7684\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "\u5b89\u683c\u4ed5\u82e6\u7cbe\u5c11\u91cf"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds bitterness and aromatic complexity.",
+        "zh": "\u589e\u52a0\u82e6\u5473\u548c\u82b3\u9999\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "Peychaud's \u82e6\u7cbe\u5c11\u91cf"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds a floral and slightly sweet bitterness.",
+        "zh": "\u589e\u6dfb\u82b1\u9999\u548c\u7565\u5e36\u751c\u5473\u7684\u82e6\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

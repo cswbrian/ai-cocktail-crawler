@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Aperol Spritz",
+    "zh": "\u963f\u4f69\u7f85\u6c23\u6ce1\u9152"
+  },
+  "description": {
+    "en": "**The quintessential Italian aperitivo.**\n\nA light and refreshing cocktail, perfect for warm weather, featuring:\n*   A simple mix of Aperol, Prosecco, and soda water.\n*   Low ABV, making it ideal for daytime sipping.\n*   Vibrant color and bubbly texture.",
+    "zh": "**\u5178\u578b\u7684\u7fa9\u5927\u5229\u9910\u524d\u9152\u3002**\n\n\u9019\u662f\u4e00\u6b3e\u6e05\u6de1\u4e14\u4ee4\u4eba\u8033\u76ee\u4e00\u65b0\u7684\u96de\u5c3e\u9152\uff0c\u975e\u5e38\u9069\u5408\u6eab\u6696\u7684\u5929\u6c23\uff0c\u5176\u7279\u9ede\u5305\u62ec\uff1a\n*   Aperol\u3001Prosecco \u548c\u8607\u6253\u6c34\u7684\u7c21\u55ae\u6df7\u5408\u3002\n*   \u4f4e\u9152\u7cbe\u6fc3\u5ea6\uff0c\u975e\u5e38\u9069\u5408\u767d\u5929\u98f2\u7528\u3002\n*   \u9bae\u8c54\u7684\u8272\u5f69\u548c\u6c23\u6ce1\u7684\u8cea\u5730\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins in Veneto, Italy.**\n\nThe Aperol Spritz is a relatively modern creation, gaining popularity in the 20th century.\n\n*   Evolved from the Venetian habit of adding soda water to wine.\n*   Aperol, created in 1919, became a key ingredient.\n*   Popularized in the 2000s through marketing campaigns.",
+    "zh": "**\u8d77\u6e90\u65bc\u7fa9\u5927\u5229\u5a01\u5c3c\u6258\u3002**\n\nAperol Spritz \u662f\u4e00\u7a2e\u76f8\u5c0d\u73fe\u4ee3\u7684\u5275\u4f5c\uff0c\u5728 20 \u4e16\u7d00\u958b\u59cb\u6d41\u884c\u3002\n\n*   \u7531\u5a01\u5c3c\u65af\u4eba\u5c07\u8607\u6253\u6c34\u52a0\u5165\u8461\u8404\u9152\u7684\u7fd2\u6163\u6f14\u8b8a\u800c\u4f86\u3002\n*   Aperol \u65bc 1919 \u5e74\u554f\u4e16\uff0c\u6210\u70ba\u95dc\u9375\u6210\u5206\u3002\n*   \u5728 2000 \u5e74\u4ee3\u900f\u904e\u884c\u92b7\u6d3b\u52d5\u800c\u5ee3\u53d7\u6b61\u8fce\u3002"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "\u5728\u51b0\u4e0a\u8abf\u88fd"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "\u6a59\u5b50\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or large goblet",
+    "zh": "\u8461\u8404\u9152\u676f\u6216\u5927\u9ad8\u8173\u676f"
+  },
+  "appearance": {
+    "en": "Bright orange, bubbly, with a slice of orange",
+    "zh": "\u660e\u4eae\u7684\u6a59\u8272\uff0c\u5e36\u6709\u6c23\u6ce1\uff0c\u4e26\u6709\u4e00\u7247\u6a59\u5b50"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Aperol",
+        "zh": "\u963f\u4f69\u7f85"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the signature bitter-orange flavor and vibrant color.",
+        "zh": "\u63d0\u4f9b\u6a19\u8a8c\u6027\u7684\u82e6\u6a59\u5473\u548c\u9bae\u8c54\u7684\u8272\u5f69\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Prosecco",
+        "zh": "\u666e\u7f85\u585e\u514b\u6c23\u6ce1\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds dryness, bubbles, and a light body.",
+        "zh": "\u589e\u6dfb\u4e7e\u5ea6\u3001\u6c23\u6ce1\u548c\u6e05\u6de1\u7684\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Soda Water",
+        "zh": "\u8607\u6253\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds dilution and effervescence.",
+        "zh": "\u589e\u52a0\u7a00\u91cb\u5ea6\u548c\u6c23\u6ce1\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

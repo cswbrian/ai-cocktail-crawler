@@ -1,0 +1,84 @@
+{
+  "name": {
+    "en": "Screwdriver",
+    "zh": "\u87ba\u7d72\u8d77\u5b50"
+  },
+  "description": {
+    "en": "*Simple and refreshing cocktail.* A combination of vodka and orange juice, typically served over ice. Its ease of preparation has made it a popular choice worldwide. Can be easily customized by varying the type and amount of juice.",
+    "zh": "*\u7c21\u55ae\u800c\u6e05\u723d\u7684\u96de\u5c3e\u9152\u3002* \u4f0f\u7279\u52a0\u548c\u67f3\u6a59\u6c41\u7684\u7d44\u5408\uff0c\u901a\u5e38\u52a0\u51b0\u98f2\u7528\u3002 \u5176\u6613\u65bc\u8abf\u88fd\u7684\u7279\u6027\u4f7f\u5176\u6210\u70ba\u5168\u7403\u71b1\u9580\u9078\u64c7\u3002 \u53ef\u4ee5\u901a\u904e\u6539\u8b8a\u679c\u6c41\u7684\u985e\u578b\u548c\u6578\u91cf\u8f15\u9b06\u5b9a\u5236\u3002"
+  },
+  "historical_reference": {
+    "en": "The origin of the Screwdriver is murky, but it's believed to have originated in the mid-20th century.\n\n*   Some attribute its creation to American oil workers in the Persian Gulf, who purportedly mixed vodka with orange juice using screwdrivers.\n*   The cocktail gained popularity in the United States in the 1950s.",
+    "zh": "\u87ba\u7d72\u8d77\u5b50\u7684\u8d77\u6e90\u5c1a\u4e0d\u660e\u78ba\uff0c\u4f46\u64da\u4fe1\u8d77\u6e90\u65bc20\u4e16\u7d00\u4e2d\u8449\u3002\n\n*   \u6709\u4e9b\u4eba\u5c07\u5176\u6b78\u529f\u65bc\u5728\u6ce2\u65af\u7063\u7684\u7f8e\u570b\u77f3\u6cb9\u5de5\u4eba\uff0c\u64da\u8aaa\u4ed6\u5011\u4f7f\u7528\u87ba\u7d72\u8d77\u5b50\u5c07\u4f0f\u7279\u52a0\u8207\u67f3\u6a59\u6c41\u6df7\u5408\u3002\n*   \u9019\u6b3e\u96de\u5c3e\u9152\u57281950\u5e74\u4ee3\u5728\u7f8e\u570b\u958b\u59cb\u6d41\u884c\u3002"
+  },
+  "technique": {
+    "en": "Pour vodka and orange juice into a highball glass filled with ice. Stir gently.",
+    "zh": "\u5c07\u4f0f\u7279\u52a0\u548c\u67f3\u6a59\u6c41\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u9ad8\u7403\u676f\u4e2d\u3002 \u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Orange slice or wedge.",
+    "zh": "\u67f3\u6a59\u7247\u6216\u89d2\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Bright, clear orange.",
+    "zh": "\u660e\u4eae\u3001\u6e05\u6f88\u7684\u6a58\u8272\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u4e2d\u6027\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "\u67f3\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and orange flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u9178\u5ea6\u548c\u67f3\u6a59\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

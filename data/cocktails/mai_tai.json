@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Mai Tai",
+    "zh": "\u7f8e\u6cf0"
+  },
+  "description": {
+    "en": "**A quintessential tiki cocktail**\n\nThe Mai Tai is a complex and flavorful cocktail featuring:\n*   A blend of rums for depth\n*   Orange cura\u00e7ao for citrus notes\n*   Orgeat syrup for almond sweetness\n*   Fresh lime juice for balance",
+    "zh": "**\u7d93\u5178\u7684\u63d0\u57fa\u96de\u5c3e\u9152**\n\nMai Tai \u662f\u4e00\u6b3e\u8907\u96dc\u4e14\u98a8\u5473\u5341\u8db3\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u6df7\u5408\u862d\u59c6\u9152\u4ee5\u589e\u52a0\u6df1\u5ea6\n*   \u6a59\u5473\u5eab\u62c9\u7d22\u5e36\u4f86\u67d1\u6a58\u98a8\u5473\n*   \u674f\u4ec1\u7cd6\u6f3f\u5e36\u4f86\u674f\u4ec1\u7684\u751c\u5473\n*   \u65b0\u9bae\u7684\u6ab8\u6aac\u6c41\u5e36\u4f86\u5e73\u8861"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in 1944 by Victor J. Bergeron (Trader Vic) at his restaurant in Oakland, California.\n\n*   The name \"Mai Tai\" comes from the Tahitian word *maita'i*, meaning \"good\".\n*   Bergeron claimed he created the drink for some Tahitian friends who exclaimed \"maita'i roa!\" after tasting it.",
+    "zh": "**\u8d77\u6e90**: 1944 \u5e74\u7531 Victor J. Bergeron (Trader Vic) \u5728\u5176\u4f4d\u65bc\u52a0\u5dde\u5967\u514b\u862d\u7684\u9910\u5ef3\u5275\u4f5c\u3002\n\n*   \u540d\u7a31\u201cMai Tai\u201d\u4f86\u81ea\u5854\u5e0c\u63d0\u8a9e *maita'i*\uff0c\u610f\u601d\u662f\u201c\u597d\u201d\u3002\n*   Bergeron \u8072\u7a31\u4ed6\u70ba\u4e00\u4e9b\u5854\u5e0c\u63d0\u670b\u53cb\u5275\u9020\u4e86\u9019\u7a2e\u98f2\u6599\uff0c\u4ed6\u5011\u5728\u54c1\u5690\u5f8c\u9a5a\u547c\u201cmaita'i roa!\u201d"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into glass filled with crushed ice. Garnish.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\u3002 \u6ffe\u5165\u88dd\u6eff\u788e\u51b0\u7684\u676f\u5b50\u4e2d\u3002 \u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig, lime wedge or shell, optional fruit skewer.",
+    "zh": "\u8584\u8377\u679d\u3001\u6ab8\u6aac\u89d2\u6216\u6ab8\u6aac\u6bbc\uff0c\u53ef\u9078\u6c34\u679c\u4e32\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned or Tiki Mug",
+    "zh": "\u96d9\u4efd\u53e4\u5178\u676f\u6216\u63d0\u57fa\u676f"
+  },
+  "appearance": {
+    "en": "Amber to dark amber, depending on the rums used, often with a frothy head.",
+    "zh": "\u7425\u73c0\u8272\u81f3\u6df1\u7425\u73c0\u8272\uff0c\u53d6\u6c7a\u65bc\u4f7f\u7528\u7684\u862d\u59c6\u9152\uff0c\u901a\u5e38\u5e36\u6709\u6ce1\u6cab\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Jamaican Rum",
+        "zh": "\u7259\u8cb7\u52a0\u9673\u5e74\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a rich, funky base with notes of molasses and spice.",
+        "zh": "\u63d0\u4f9b\u8c50\u5bcc\u3001\u7368\u7279\u7684\u57fa\u5e95\uff0c\u5e36\u6709\u7cd6\u871c\u548c\u9999\u6599\u7684\u5473\u9053\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Rhum Agricole",
+        "zh": "\u8fb2\u696d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds grassy, vegetal notes and complexity.",
+        "zh": "\u589e\u6dfb\u8349\u672c\u3001\u690d\u7269\u98a8\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Cura\u00e7ao",
+        "zh": "\u6a59\u5473\u5eab\u62c9\u7d22"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "\u589e\u52a0\u6a59\u5b50\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "\u674f\u4ec1\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides almond flavor and sweetness.",
+        "zh": "\u63d0\u4f9b\u674f\u4ec1\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "\u65b0\u9bae\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds essential sourness and balance.",
+        "zh": "\u589e\u52a0\u5fc5\u8981\u7684\u9178\u5ea6\u548c\u5e73\u8861\u611f\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

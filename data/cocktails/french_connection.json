@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "French Connection",
+    "zh": "\u6cd5\u570b\u60c5\u7de3"
+  },
+  "description": {
+    "en": "A simple yet sophisticated after-dinner drink featuring a blend of cognac and amaretto, offering a harmonious balance of fruity and nutty flavors. Typically served neat in an old-fashioned glass.",
+    "zh": "\u4e00\u6b3e\u7c21\u7d04\u800c\u7cbe\u7dfb\u7684\u9910\u5f8c\u98f2\u54c1\uff0c\u878d\u5408\u4e86\u5e72\u9091\u767d\u862d\u5730\u548c\u674f\u4ec1\u5229\u53e3\u9152\uff0c\u63d0\u4f9b\u6c34\u679c\u548c\u5805\u679c\u98a8\u5473\u7684\u5e73\u8861\u3002\u901a\u5e38\u4ee5\u7d14\u98f2\u65b9\u5f0f\u76db\u88dd\u5728\u53e4\u5178\u676f\u4e2d\u3002"
+  },
+  "historical_reference": {
+    "en": "The French Connection cocktail emerged in the 1970s, inspired by the eponymous 1971 film starring Gene Hackman. It combines the elegance of Cognac with the sweet almond notes of Amaretto, creating a simple yet sophisticated drink.\n\n*   **Origin**: United States\n*   **Era**: 1970s\n*   **Inspiration**: The film *The French Connection*",
+    "zh": "\u6cd5\u570b\u60c5\u7de3\u96de\u5c3e\u9152\u51fa\u73fe\u57281970\u5e74\u4ee3\uff0c\u9748\u611f\u4f86\u81ea\u540c\u540d\u96fb\u5f71\u300a\u9739\u9742\u795e\u63a2\u300b\uff081971\u5e74\uff09\uff0c\u7531\u91d1\u00b7\u54c8\u514b\u66fc\u4e3b\u6f14\u3002\u5b83\u7d50\u5408\u4e86\u5e72\u9091\u767d\u862d\u5730\u7684\u512a\u96c5\u548c\u674f\u4ec1\u5229\u53e3\u9152\u7684\u751c\u674f\u4ec1\u5473\uff0c\u5275\u9020\u51fa\u4e00\u6b3e\u7c21\u7d04\u800c\u7cbe\u7dfb\u7684\u98f2\u54c1\u3002\n\n*   **\u8d77\u6e90**: \u7f8e\u570b\n*   **\u5e74\u4ee3**: 1970\u5e74\u4ee3\n*   **\u9748\u611f**: \u96fb\u5f71\u300a\u9739\u9742\u795e\u63a2\u300b"
+  },
+  "technique": {
+    "en": "Pour both ingredients into an old-fashioned glass filled with ice. Stir gently.",
+    "zh": "\u5c07\u5169\u7a2e\u6210\u5206\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u53e4\u5178\u676f\u4e2d\u3002\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "\u7121"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "\u53e4\u5178\u676f"
+  },
+  "appearance": {
+    "en": "Clear amber liquid",
+    "zh": "\u6e05\u6f88\u7684\u7425\u73c0\u8272\u6db2\u9ad4"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Component A",
+        "zh": "\u6210\u5206A"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds rich, complex base flavour.",
+        "zh": "\u589e\u52a0\u6fc3\u90c1\u3001\u8907\u96dc\u7684\u57fa\u5e95\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Component B",
+        "zh": "\u6210\u5206B"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a nutty sweetness that complements the cognac.",
+        "zh": "\u589e\u52a0\u5805\u679c\u7684\u751c\u5473\uff0c\u8207\u5e72\u9091\u767d\u862d\u5730\u76f8\u5f97\u76ca\u5f70\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

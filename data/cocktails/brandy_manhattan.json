@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Brandy Manhattan",
+    "zh": "\u767d\u862d\u5730\u66fc\u54c8\u9813"
+  },
+  "description": {
+    "en": "A sophisticated twist on the classic Manhattan, using brandy as its base. The Brandy Manhattan offers a smoother, fruitier profile compared to its whiskey counterpart, while still maintaining a balanced sweetness and aromatic complexity.",
+    "zh": "\u7d93\u5178\u66fc\u54c8\u9813\u7684\u7cbe\u7dfb\u8b8a\u594f\uff0c\u4ee5\u767d\u862d\u5730\u70ba\u57fa\u9152\u3002\u76f8\u8f03\u65bc\u4ee5\u5a01\u58eb\u5fcc\u70ba\u57fa\u5e95\u7684\u7248\u672c\uff0c\u767d\u862d\u5730\u66fc\u54c8\u9813\u7684\u53e3\u611f\u66f4\u70ba\u6ed1\u9806\u3001\u679c\u9999\u66f4\u6fc3\u90c1\uff0c\u540c\u6642\u4fdd\u6709\u5747\u8861\u7684\u751c\u5ea6\u548c\u8907\u96dc\u7684\u9999\u6c23\u3002"
+  },
+  "historical_reference": {
+    "en": "The Manhattan cocktail emerged in the late 19th century. Substituting brandy for whiskey creates a Brandy Manhattan, offering a variation with a different flavor profile. While not as widely documented as the original, it's a recognized classic variation.",
+    "zh": "\u66fc\u54c8\u9813\u96de\u5c3e\u9152\u51fa\u73fe\u65bc 19 \u4e16\u7d00\u672b\u3002 \u4ee5\u767d\u862d\u5730\u4ee3\u66ff\u5a01\u58eb\u5fcc\u5275\u9020\u4e86\u767d\u862d\u5730\u66fc\u54c8\u9813\uff0c\u63d0\u4f9b\u4e86\u4e00\u7a2e\u5177\u6709\u4e0d\u540c\u98a8\u5473\u7684\u8b8a\u9ad4\u3002 \u96d6\u7136\u4e0d\u5982\u539f\u7248\u90a3\u6a23\u88ab\u5ee3\u6cdb\u8a18\u9304\uff0c\u4f46\u5b83\u662f\u4e00\u7a2e\u516c\u8a8d\u7684\u7d93\u5178\u8b8a\u9ad4\u3002"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "\u8207\u51b0\u584a\u652a\u62cc\u5f8c\uff0c\u6ffe\u5165\u51b0\u93ae\u904e\u7684\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Maraschino cherry or orange peel",
+    "zh": "\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843\u6216\u6a59\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass, or rocks glass.",
+    "zh": "\u51b0\u93ae\u904e\u7684\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u99ac\u4e01\u5c3c\u676f\uff0c\u6216\u53e4\u5178\u676f\u3002"
+  },
+  "appearance": {
+    "en": "Clear, deep amber with a reddish hue.",
+    "zh": "\u6e05\u6f88\u3001\u6df1\u7425\u73c0\u8272\uff0c\u7565\u5e36\u7d05\u8272\u8abf\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavor.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u6fc3\u90c1\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u5473\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, body, and herbal notes.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u9152\u9ad4\u548c\u8349\u672c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u8907\u96dc\u6027\u4e26\u5e73\u8861\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Last Word",
+    "zh": "\u6700\u5f8c\u4e00\u53e5"
+  },
+  "description": {
+    "en": "**A Balanced and Complex Classic**\n\nThe Last Word is a beautifully balanced cocktail, known for its:\n*   Equal parts of all ingredients, creating harmony\n*   Herbal and citrus notes, with a touch of sweetness and bitterness\n*   Refreshing and intriguing flavor profile",
+    "zh": "**\u5e73\u8861\u800c\u8907\u96dc\u7684\u7d93\u5178**\n\n\u6700\u5f8c\u4e00\u53e5\u662f\u4e00\u6b3e\u5b8c\u7f8e\u5e73\u8861\u7684\u96de\u5c3e\u9152\uff0c\u4ee5\u5176\uff1a\n*   \u6240\u6709\u6210\u5206\u7b49\u91cf\uff0c\u5275\u9020\u548c\u8ae7\n*   \u8349\u672c\u548c\u67d1\u6a58\u9999\u6c23\uff0c\u5e36\u6709\u4e00\u7d72\u751c\u5473\u548c\u82e6\u5473\n*   \u6e05\u65b0\u800c\u6709\u8da3\u7684\u98a8\u5473\u800c\u805e\u540d"
+  },
+  "historical_reference": {
+    "en": "**Prohibition-Era Classic**\n\n*   Created at the Detroit Athletic Club in the early 1920s.\n*   Popularized by Murray Stenson at the Zig Zag Cafe in Seattle in the early 2000s, leading to its resurgence.",
+    "zh": "**\u7981\u9152\u6642\u4ee3\u7684\u7d93\u5178**\n\n*   \u65bc 1920 \u5e74\u4ee3\u521d\u671f\u5728\u5e95\u7279\u5f8b\u904b\u52d5\u4ff1\u6a02\u90e8\u5275\u5efa\u3002\n*   2000 \u5e74\u4ee3\u521d\u671f\uff0c\u83ab\u96f7\u00b7\u65af\u6ed5\u68ee\u5728\u897f\u96c5\u5716\u7684 Zig Zag \u5496\u5561\u9928\u63a8\u5ee3\u4e86\u5b83\uff0c\u5f9e\u800c\u4f7f\u5176\u5fa9\u8208\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u3002"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Coupe or Martini glass",
+    "zh": "\u51b0\u93ae\u7684\u655e\u53e3\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Pale green and translucent",
+    "zh": "\u6de1\u7da0\u8272\u548c\u534a\u900f\u660e"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and botanical notes.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u9152\u7cbe\u9aa8\u5e79\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "\u7da0\u8272\u590f\u7279\u52d2\u8332"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes herbal complexity and sweetness.",
+        "zh": "\u8ca2\u737b\u8349\u672c\u8907\u96dc\u6027\u548c\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u9999\u751c\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry flavor and sweetness.",
+        "zh": "\u589e\u6dfb\u5fae\u5999\u7684\u6afb\u6843\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sourness and balance.",
+        "zh": "\u589e\u52a0\u9178\u5473\u548c\u5e73\u8861\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

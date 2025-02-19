@@ -1,0 +1,134 @@
+{
+  "name": {
+    "en": "Trumptini",
+    "zh": "\u5ddd\u666e\u63d0\u5c3c"
+  },
+  "description": {
+    "en": "**A Controversial Cocktail**\n\nA cocktail known for its bold (and some might say brash) flavor profile. It is an experience:\n\n*   Uses orange bitters generously\n*   Some recipes include a 'wall' of simple syrup for sweetness\n*   The use of food coloring is controversial",
+    "zh": "**\u4e00\u6b3e\u5099\u53d7\u722d\u8b70\u7684\u96de\u5c3e\u9152**\n\n\u9019\u6b3e\u96de\u5c3e\u9152\u4ee5\u5176\u5927\u81bd\uff08\u6709\u4e9b\u4eba\u53ef\u80fd\u6703\u8aaa\u9b6f\u83bd\uff09\u7684\u98a8\u5473\u800c\u805e\u540d\u3002\u9019\u662f\u4e00\u7a2e\u9ad4\u9a57\uff1a\n\n*   \u5927\u91cf\u4f7f\u7528\u6a59\u5473\u82e6\u7cbe\n*   \u6709\u4e9b\u98df\u8b5c\u5305\u62ec\u7528\u300c\u4e00\u9053\u7246\u300d\u7684\u7cd6\u6f3f\u4f86\u589e\u52a0\u751c\u5ea6\n*   \u98df\u7528\u8272\u7d20\u7684\u4f7f\u7528\u5099\u53d7\u722d\u8b70"
+  },
+  "historical_reference": {
+    "en": "**A Modern Creation (Possibly)**\n\n*   Attributed to various bartenders, origin is debated\n*   A playful cocktail referencing a political figure\n*   The exact recipe varies widely, reflecting its satirical nature.",
+    "zh": "**\u73fe\u4ee3\u5275\u4f5c\uff08\u53ef\u80fd\uff09**\n\n*   \u6b78\u529f\u65bc\u4e0d\u540c\u7684\u8abf\u9152\u5e2b\uff0c\u8d77\u6e90\u5b58\u5728\u722d\u8b70\n*   \u4e00\u6b3e\u4ee5\u653f\u6cbb\u4eba\u7269\u70ba\u9748\u611f\u7684\u8da3\u5473\u96de\u5c3e\u9152\n*   \u78ba\u5207\u7684\u914d\u65b9\u5dee\u7570\u5f88\u5927\uff0c\u53cd\u6620\u4e86\u5176\u8af7\u523a\u7684\u672c\u8cea\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u5012\u5165\u51b0\u93ae\u904e\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel, Maraschino cherry",
+    "zh": "\u6a59\u76ae\uff0c\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "\u99ac\u4e01\u5c3c\u676f\u6216\u6dfa\u789f\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Opaque, golden-orange with a frothy head",
+    "zh": "\u4e0d\u900f\u660e\uff0c\u91d1\u6a59\u8272\uff0c\u5e36\u6709\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a neutral base for the other flavors to shine through.",
+        "zh": "\u63d0\u4f9b\u4e2d\u6027\u57fa\u5e95\uff0c\u8b93\u5176\u4ed6\u98a8\u5473\u5f97\u4ee5\u5c55\u73fe\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur (e.g., Triple Sec)",
+        "zh": "\u6a59\u9152\uff08\u4f8b\u5982\uff1a\u541b\u5ea6\u6a59\u9152\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Enhances the orange flavor.",
+        "zh": "\u589e\u5f37\u6a59\u5b50\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "\u67f3\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "\u9cf3\u68a8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a hint of acidity.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u4e00\u7d72\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u7d05\u8272\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

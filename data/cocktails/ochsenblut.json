@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Ochsenblut",
+    "zh": "\u725b\u8840"
+  },
+  "description": {
+    "en": "**Simple and Bold Wine Cocktail**\n\nA straightforward wine cocktail, often enjoyed as an aperitif or a simple refreshment:\n*   Dry red wine provides the base.\n*   Cassis adds a touch of sweetness and dark fruit notes.\n*   Lemon twist expresses citrus oils to enhance the aroma.",
+    "zh": "**\u7c21\u55ae\u800c\u6fc3\u90c1\u7684\u8461\u8404\u9152\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u7c21\u55ae\u7684\u8461\u8404\u9152\u96de\u5c3e\u9152\uff0c\u5e38\u4f5c\u70ba\u9910\u524d\u9152\u6216\u7c21\u55ae\u7684\u63d0\u795e\u98f2\u54c1\u4eab\u7528\uff1a\n* \u4e7e\u7d05\u8461\u8404\u9152\u4f5c\u70ba\u57fa\u5e95\u3002\n* \u9ed1\u918b\u6817\u5229\u53e3\u9152\u589e\u6dfb\u4e00\u7d72\u751c\u5473\u548c\u6df1\u8272\u6c34\u679c\u98a8\u5473\u3002\n* \u6ab8\u6aac\u76ae\u626d\u8f49\u91cb\u653e\u67d1\u6a58\u6cb9\uff0c\u589e\u5f37\u9999\u6c23\u3002"
+  },
+  "historical_reference": {
+    "en": "The Ochsenblut, translating to \"ox blood\" in German, is a wine cocktail known for its deep red color. Its exact origin is unclear, but it's a simple classic likely created to make red wine more palatable or interesting.\n\n*   Likely originated in Germany or Austria.\n*   Name refers to the drink's blood-red appearance.",
+    "zh": "Ochsenblut \u5728\u5fb7\u8a9e\u4e2d\u7ffb\u8b6f\u70ba\u201c\u725b\u8840\u201d\uff0c\u662f\u4e00\u7a2e\u4ee5\u5176\u6df1\u7d05\u8272\u800c\u805e\u540d\u7684\u8461\u8404\u9152\u96de\u5c3e\u9152\u3002\u5176\u78ba\u5207\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u5b83\u662f\u4e00\u7a2e\u7c21\u55ae\u7684\u7d93\u5178\u98f2\u54c1\uff0c\u53ef\u80fd\u65e8\u5728\u4f7f\u7d05\u9152\u66f4\u7f8e\u5473\u6216\u66f4\u6709\u8da3\u3002\n\n* \u53ef\u80fd\u8d77\u6e90\u65bc\u5fb7\u570b\u6216\u5967\u5730\u5229\u3002\n* \u540d\u7a31\u6307\u7684\u662f\u98f2\u6599\u7684\u8840\u7d05\u8272\u5916\u89c0\u3002"
+  },
+  "technique": {
+    "en": "Build. Combine ingredients in a wine glass with ice. Stir gently.",
+    "zh": "\u76f4\u63a5\u8abf\u5408\u6cd5\u3002\u5c07\u6750\u6599\u653e\u5165\u88dd\u6709\u51b0\u584a\u7684\u8461\u8404\u9152\u676f\u4e2d\u3002\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "\u6ab8\u6aac\u76ae\u626d\u8f49"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass",
+    "zh": "\u8461\u8404\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Deep red, almost blood-like color",
+    "zh": "\u6df1\u7d05\u8272\uff0c\u5e7e\u4e4e\u50cf\u8840\u4e00\u6a23\u7684\u984f\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dry Red Wine",
+        "zh": "\u4e7e\u7d05\u8461\u8404\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the primary body and flavor profile.",
+        "zh": "\u69cb\u6210\u4e3b\u8981\u7684\u9152\u9ad4\u548c\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Creme de Cassis",
+        "zh": "\u9ed1\u918b\u6817\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and blackcurrant flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u9ed1\u918b\u6817\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Up to Date",
+    "zh": "\u6700\u65b0\u6b3e"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA refreshing and complex cocktail featuring:\n*   Fresh citrus for brightness\n*   Egg white for a silky texture\n*   Absinthe for a subtle anise note\n*   Sugar for balance",
+    "zh": "**\u73fe\u4ee3\u7d93\u5178\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u6e05\u65b0\u800c\u8907\u96dc\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u65b0\u9bae\u67d1\u6a58\u5e36\u4f86\u660e\u4eae\u611f\n*   \u86cb\u767d\u5e36\u4f86\u7d72\u6ed1\u53e3\u611f\n*   \u82e6\u827e\u9152\u5e36\u4f86\u5fae\u5999\u7684\u8334\u82b9\u5473\n*   \u7cd6\u5e36\u4f86\u5e73\u8861"
+  },
+  "historical_reference": {
+    "en": "**Created by Sam Ross in 2000s at Milk & Honey in New York City**\n\n*   A modern variation on the classic Gin Sour\n*   Features absinthe, which distinguishes it from other gin sours\n*   Named by combining the bartender's previous cocktail \"Down to Date\" and moving upwards alphabetically",
+    "zh": "**\u7531 Sam Ross \u65bc 2000 \u5e74\u4ee3\u5728\u7d10\u7d04\u5e02\u7684 Milk & Honey \u5275\u4f5c**\n\n*   \u7d93\u5178\u7434\u9152\u9178\u9152\u7684\u73fe\u4ee3\u8b8a\u9ad4\n*   \u4ee5\u82e6\u827e\u9152\u70ba\u7279\u8272\uff0c\u4f7f\u5176\u8207\u5176\u4ed6\u7434\u9152\u9178\u9152\u5340\u5206\u958b\u4f86\n*   \u900f\u904e\u7d50\u5408\u8abf\u9152\u5e2b\u4e4b\u524d\u7684\u96de\u5c3e\u9152\u201cDown to Date\u201d\u4e26\u6309\u5b57\u6bcd\u9806\u5e8f\u5411\u4e0a\u79fb\u52d5\u4f86\u547d\u540d"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u4e7e\u6416\uff0c\u7136\u5f8c\u518d\u6b21\u8207\u51b0\u584a\u6416\u52fb\u3002 \u96d9\u91cd\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel twist and/or a few drops of Angostura bitters on the foam",
+    "zh": "\u6a59\u76ae\u626d\u8f49\u548c/\u6216\u5728\u6ce1\u6cab\u4e0a\u6ef4\u5e7e\u6ef4\u5b89\u683c\u5f0f\u82e6\u5473\u9152"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216 Nick & Nora \u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head",
+    "zh": "\u6df7\u6fc1\u7684\u6de1\u9ec3\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u767d\u8272\u9152\u982d"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "London Dry Gin",
+        "zh": "\u502b\u6566 \u0441\u0443\u0445\u043e \u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base and botanical flavors.",
+        "zh": "\u63d0\u4f9b\u57fa\u5e95\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Absinthe",
+        "zh": "\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a distinct anise flavor and aromatic complexity.",
+        "zh": "\u589e\u6dfb\u7368\u7279\u7684\u8334\u82b9\u98a8\u5473\u548c\u8907\u96dc\u7684\u9999\u6c23\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "\u65b0\u9bae\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and sourness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sour.",
+        "zh": "\u589e\u52a0\u751c\u5473\u4ee5\u5e73\u8861\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "\u589e\u52a0\u7d72\u6ed1\u7684\u8cea\u5730\u548c\u6ce1\u6cab\u72c0\u7684\u9152\u982d\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

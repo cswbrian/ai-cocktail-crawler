@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Orgasm",
+    "zh": "\u9ad8\u6f6e"
+  },
+  "description": {
+    "en": "*A sweet and creamy cocktail.*\n\nOften considered an entry-level or dessert cocktail, it combines the richness of cream liqueurs with the kick of amaretto.",
+    "zh": "*\u4e00\u6b3e\u9999\u751c\u67d4\u6ed1\u7684\u96de\u5c3e\u9152.*\n\n\u901a\u5e38\u88ab\u8a8d\u70ba\u662f\u5165\u9580\u7d1a\u6216\u751c\u9ede\u96de\u5c3e\u9152\uff0c\u5b83\u7d50\u5408\u4e86\u5976\u6cb9\u5229\u53e3\u9152\u7684\u6fc3\u90c1\u8207\u674f\u4ec1\u9152\u7684\u98a8\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "The precise origins of the Orgasm cocktail are debated, but it gained popularity in the **1980s**. Its name and creamy texture suggest its intended effect.",
+    "zh": "\u9ad8\u6f6e\u96de\u5c3e\u9152\u7684\u78ba\u5207\u8d77\u6e90\u5c1a\u6709\u722d\u8b70\uff0c\u4f46\u5b83\u5728**1980\u5e74\u4ee3**\u5ee3\u53d7\u6b61\u8fce\u3002\u5b83\u7684\u540d\u5b57\u548c\u5976\u6cb9\u8cea\u5730\u6697\u793a\u4e86\u5176\u9810\u671f\u6548\u679c\u3002"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice.",
+    "zh": "\u8207\u51b0\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "None typically, optional grated nutmeg or chocolate shavings",
+    "zh": "\u901a\u5e38\u6c92\u6709\uff0c\u53ef\u9078\u64c7\u78e8\u788e\u7684\u8089\u8373\u853b\u6216\u5de7\u514b\u529b\u5c51"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or small coupe",
+    "zh": "\u53e4\u5178\u676f\u6216\u5c0f\u789f\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, light brown to tan",
+    "zh": "\u5976\u6cb9\u8272\uff0c\u6dfa\u68d5\u8272\u81f3\u68d5\u8910\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "\u5496\u5561\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds coffee notes and sweetness.",
+        "zh": "\u589e\u52a0\u5496\u5561\u98a8\u5473\u548c\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "\u611b\u723e\u862d\u5976\u6cb9\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes creamy texture and flavor.",
+        "zh": "\u6709\u52a9\u65bc\u5976\u6cb9\u8cea\u5730\u548c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto Liqueur",
+        "zh": "\u674f\u4ec1\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds almond flavor and aroma.",
+        "zh": "\u589e\u6dfb\u674f\u4ec1\u98a8\u5473\u548c\u9999\u6c23\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

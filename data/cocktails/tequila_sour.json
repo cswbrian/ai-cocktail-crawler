@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Tequila Sour",
+    "zh": "\u9f8d\u820c\u862d\u9178\u9152"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail with a Tequila Twist**\n\nA refreshing and balanced cocktail, featuring:\n*   Tequila as the base spirit\n*   Fresh lemon juice for tartness\n*   Agave nectar (or simple syrup) for sweetness\n*   Optional egg white for a silky texture",
+    "zh": "**\u7d93\u5178\u9178\u5473\u96de\u5c3e\u9152\uff0c\u5e36\u6709\u9f8d\u820c\u862d\u98a8\u5473**\n\n\u4ee4\u4eba\u8033\u76ee\u4e00\u65b0\u7684\u5747\u8861\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u9f8d\u820c\u862d\u9152\u4f5c\u70ba\u57fa\u9152\n*   \u65b0\u9bae\u6ab8\u6aac\u6c41\u5e36\u4f86\u9178\u5473\n*   \u9f8d\u820c\u862d\u82b1\u871c\uff08\u6216\u7c21\u6613\u7cd6\u6f3f\uff09\u5e36\u4f86\u751c\u5473\n*   \u53ef\u9078\u7684\u86cb\u767d\u5e36\u4f86\u7d72\u6ed1\u53e3\u611f"
+  },
+  "historical_reference": {
+    "en": "**Part of the Sour Family**\n\nThe Tequila Sour follows the classic sour template:\n\n*   Spirit, citrus, and sweetener\n*   Likely emerged as a variation on the whiskey sour in the early to mid 20th century with the increased popularity of Tequila.",
+    "zh": "**\u9178\u5473\u5bb6\u65cf\u7684\u4e00\u54e1**\n\n\u9f8d\u820c\u862d\u9178\u9152\u9075\u5faa\u7d93\u5178\u7684\u9178\u5473\u7bc4\u672c\uff1a\n\n*   \u70c8\u9152\u3001\u67d1\u6a58\u985e\u6c34\u679c\u548c\u751c\u5473\u5291\n*   \u96a8\u8457\u9f8d\u820c\u862d\u9152\u7684\u65e5\u76ca\u666e\u53ca\uff0c\u53ef\u80fd\u5728 20 \u4e16\u7d00\u521d\u81f3\u4e2d\u671f\u4f5c\u70ba\u5a01\u58eb\u5fcc\u9178\u9152\u7684\u8b8a\u7a2e\u800c\u51fa\u73fe\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. (Dry shake if using egg white.)",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u6416\u52fb\u3002\u6ffe\u5165\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002\uff08\u5982\u679c\u4f7f\u7528\u86cb\u767d\uff0c\u5247\u5148\u4e7e\u6416\u3002\uff09"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge/wheel",
+    "zh": "\u6ab8\u6aac\u6216\u840a\u59c6\u89d2/\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned or Coupe glass",
+    "zh": "\u53e4\u5178\u676f\u6216 coupe \u676f"
+  },
+  "appearance": {
+    "en": "Pale yellow, frothy",
+    "zh": "\u6de1\u9ec3\u8272\uff0c\u8d77\u6ce1"
+  },
+  "allergens": [
+    {
+      "en": "Egg (optional)",
+      "zh": "\u96de\u86cb\uff08\u53ef\u9078\uff09"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "\u9f8d\u820c\u862d\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic kick.",
+        "zh": "\u63d0\u4f9b\u57fa\u5e95\u98a8\u5473\u548c\u9152\u7cbe\u885d\u64ca\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "\u65b0\u9bae\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides acidity and balance.",
+        "zh": "\u63d0\u4f9b\u9178\u5ea6\u548c\u5e73\u8861\u611f\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Agave Nectar or Simple Syrup",
+        "zh": "\u9f8d\u820c\u862d\u82b1\u871c\u6216\u7c21\u6613\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "\u86cb\u767d\uff08\u53ef\u9078\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "\u589e\u52a0\u7d72\u6ed1\u7684\u8cea\u5730\u548c\u6ce1\u6cab\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

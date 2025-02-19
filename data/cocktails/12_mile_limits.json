@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "12 Mile Limit",
+    "zh": "12\u82f1\u91cc\u9650\u5236"
+  },
+  "description": {
+    "en": "**A Prohibition-Era Classic**\n\nThe 12 Mile Limit is a vibrant and refreshing cocktail that balances sweet, sour, and subtly spicy notes:\n\n*   Complex blend of rum, rye whiskey, and brandy.\n*   Grenadine adds sweetness and color.\n*   Lemon juice provides essential acidity.",
+    "zh": "**\u7981\u9152\u6642\u4ee3\u7684\u7d93\u5178\u4e4b\u4f5c**\n\n12\u82f1\u91cc\u9650\u5236\u662f\u4e00\u6b3e\u5145\u6eff\u6d3b\u529b\u4e14\u4ee4\u4eba\u8033\u76ee\u4e00\u65b0\u7684\u96de\u5c3e\u9152\uff0c\u5e73\u8861\u4e86\u751c\u3001\u9178\u548c\u5fae\u5999\u7684\u8f9b\u8fa3\u5473\uff1a\n\n*   \u862d\u59c6\u9152\u3001\u9ed1\u9ea5\u5a01\u58eb\u5fcc\u548c\u767d\u862d\u5730\u7684\u8907\u96dc\u6df7\u5408\u3002\n*   \u77f3\u69b4\u7cd6\u6f3f\u589e\u6dfb\u4e86\u751c\u5473\u548c\u8272\u5f69\u3002\n*   \u6ab8\u6aac\u6c41\u63d0\u4f9b\u5fc5\u8981\u7684\u9178\u5ea6\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins in the Prohibition Era**\n\nThis cocktail's name refers to the historical limit of US territorial waters enforced during Prohibition. It's thought that this cocktail was created at a bar just outside of that boundary so patrons could drink legally. \n\n*   Created during the Prohibition era.\n*   Named after the US territorial waters limit.",
+    "zh": "**\u8d77\u6e90\u65bc\u7981\u9152\u6642\u4ee3**\n\n\u9019\u6b3e\u96de\u5c3e\u9152\u7684\u540d\u7a31\u6307\u7684\u662f\u7981\u9152\u6642\u671f\u7f8e\u570b\u9818\u6d77\u7684\u6b77\u53f2\u9650\u5236\u3002\u64da\u8aaa\u9019\u6b3e\u96de\u5c3e\u9152\u662f\u5728\u8a72\u908a\u754c\u4e4b\u5916\u7684\u9152\u5427\u5275\u9020\u7684\uff0c\u56e0\u6b64\u9867\u5ba2\u53ef\u4ee5\u5408\u6cd5\u98f2\u9152\u3002\n\n*   \u5275\u5efa\u65bc\u7981\u9152\u6642\u4ee3\u3002\n*   \u4ee5\u7f8e\u570b\u9818\u6d77\u9650\u5236\u547d\u540d\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\u3002\u6ffe\u5165\u51b0\u93ae\u904e\u7684\u676f\u5b50\u3002"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge",
+    "zh": "\u6ab8\u6aac\u6216\u840a\u59c6\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a slight green hue",
+    "zh": "\u6df7\u6fc1\u3001\u6de1\u9ec3\u8272\uff0c\u7565\u5e36\u7da0\u8272\u8abf"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "\u767d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the foundational spirit, a light body, and subtle sweetness.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\uff0c\u9152\u9ad4\u8f15\u76c8\uff0c\u7565\u5e36\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Brandy",
+        "zh": "\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds depth, fruit notes, and complexity.",
+        "zh": "\u589e\u52a0\u6df1\u5ea6\u3001\u6c34\u679c\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "\u9ed1\u9ea5\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds spice, dryness, and a boozy kick.",
+        "zh": "\u589e\u52a0\u9999\u6599\u5473\u3001\u4e7e\u5ea6\u548c\u9152\u52c1\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u5e73\u8861\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, color, and a fruity note.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u984f\u8272\u548c\u679c\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

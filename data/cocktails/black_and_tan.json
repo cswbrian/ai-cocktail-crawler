@@ -1,0 +1,64 @@
+{
+  "name": {
+    "en": "Black and Tan",
+    "zh": "\u9ed1\u68d5\u5564\u9152"
+  },
+  "description": {
+    "en": "**Simple Beer Cocktail**\n\nA layered beer cocktail consisting of a pale ale or lager floated on top of a stout or porter.\n\n*   The density difference between the beers is what allows the layering to occur.\n*   Patience and a gentle pour are key to achieving a good separation.",
+    "zh": "**\u7c21\u55ae\u7684\u5564\u9152\u96de\u5c3e\u9152**\n\n\u4e00\u7a2e\u5206\u5c64\u7684\u5564\u9152\u96de\u5c3e\u9152\uff0c\u7531\u6de1\u5564\u9152\u6216\u62c9\u683c\u5564\u9152\u6f02\u6d6e\u5728\u70c8\u6027\u9ed1\u5564\u9152\u6216\u6ce2\u7279\u5564\u9152\u4e4b\u4e0a\u3002\n\n*   \u5564\u9152\u4e4b\u9593\u7684\u5bc6\u5ea6\u5dee\u7570\u662f\u5206\u5c64\u767c\u751f\u7684\u539f\u56e0\u3002\n*   \u8010\u5fc3\u548c\u8f15\u67d4\u7684\u5012\u5165\u662f\u5be6\u73fe\u826f\u597d\u5206\u96e2\u7684\u95dc\u9375\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins**:\n\n*   The Black and Tan gained prominence in the late 19th century in England.\n*   The name has become controversial due to its association with the Royal Irish Constabulary Auxiliary Division, nicknamed the \"Black and Tans\", known for their actions during the Irish War of Independence.",
+    "zh": "**\u8d77\u6e90**:\n\n*   \u9ed1\u68d5\u5564\u9152\u572819\u4e16\u7d00\u5f8c\u671f\u5728\u82f1\u570b\u958b\u59cb\u6d41\u884c\u3002\n*   \u7531\u65bc\u9019\u500b\u540d\u5b57\u8207\u7687\u5bb6\u611b\u723e\u862d\u8b66\u5bdf\u8f14\u52a9\u90e8\u968a\uff08\u7dbd\u865f\u201c\u9ed1\u68d5\u90e8\u968a\u201d\uff09\u6709\u95dc\uff0c\u9019\u500b\u540d\u5b57\u8b8a\u5f97\u5099\u53d7\u722d\u8b70\uff0c\u8a72\u90e8\u968a\u4ee5\u5176\u5728\u611b\u723e\u862d\u7368\u7acb\u6230\u722d\u671f\u9593\u7684\u884c\u52d5\u800c\u805e\u540d\u3002"
+  },
+  "technique": {
+    "en": "Gently pour the pale ale or lager over the back of a spoon onto the stout or porter to create a layered effect.",
+    "zh": "\u5c07\u6de1\u5564\u9152\u6216\u62c9\u683c\u5564\u9152\u8f15\u8f15\u5012\u5728\u9ed1\u5564\u9152\u6216\u6ce2\u7279\u5564\u9152\u7684\u6e6f\u5319\u80cc\u9762\uff0c\u4ee5\u7522\u751f\u5206\u5c64\u6548\u679c\u3002"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "\u7121"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass",
+    "zh": "\u54c1\u812b\u676f"
+  },
+  "appearance": {
+    "en": "Layered dark and light beer, with a clear distinction between the two.",
+    "zh": "\u5206\u5c64\u7684\u6df1\u8272\u548c\u6dfa\u8272\u5564\u9152\uff0c\u5169\u8005\u4e4b\u9593\u6709\u660e\u986f\u7684\u5340\u5225\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    },
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

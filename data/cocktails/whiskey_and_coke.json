@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Whiskey and Coke",
+    "zh": "\u5a01\u58eb\u5fcc\u53ef\u6a02"
+  },
+  "description": {
+    "en": "A simple highball cocktail made with whiskey and cola. It's a classic, easy-to-make drink often enjoyed for its refreshing and familiar taste.  The type of whiskey can significantly impact the overall flavor profile. Some variations include the Jack and Coke (using Jack Daniel's Tennessee Whiskey).",
+    "zh": "\u4e00\u7a2e\u7c21\u55ae\u7684\u9ad8\u676f\u96de\u5c3e\u9152\uff0c\u7531\u5a01\u58eb\u5fcc\u548c\u53ef\u6a02\u88fd\u6210\u3002\u5b83\u662f\u4e00\u7a2e\u7d93\u5178\u3001\u6613\u65bc\u88fd\u4f5c\u7684\u98f2\u54c1\uff0c\u901a\u5e38\u56e0\u5176\u6e05\u723d\u548c\u719f\u6089\u7684\u5473\u9053\u800c\u53d7\u5230\u559c\u611b\u3002\u5a01\u58eb\u5fcc\u7684\u7a2e\u985e\u6703\u986f\u8457\u5f71\u97ff\u6574\u9ad4\u98a8\u5473\u3002\u4e00\u4e9b\u8b8a\u9ad4\u5305\u62ec Jack and Coke\uff08\u4f7f\u7528\u5091\u514b\u4e39\u5c3c\u7530\u7d0d\u897f\u5a01\u58eb\u5fcc\uff09\u3002"
+  },
+  "historical_reference": {
+    "en": "The exact origin of the Whiskey and Coke is difficult to pinpoint, but it likely emerged in the early 20th century as cola became more widely available. It gained popularity as a simple and accessible mixed drink. Variations like the Cuba Libre (rum and coke) predate it, suggesting a similar trajectory.\n\n*   **Early 20th Century emergence**\n*   **Popularized by its simplicity and accessibility**",
+    "zh": "\u5a01\u58eb\u5fcc\u53ef\u6a02\u7684\u78ba\u5207\u8d77\u6e90\u5f88\u96e3\u78ba\u5b9a\uff0c\u4f46\u5b83\u53ef\u80fd\u5728 20 \u4e16\u7d00\u521d\u96a8\u8457\u53ef\u6a02\u7684\u666e\u53ca\u800c\u51fa\u73fe\u3002\u5b83\u4f5c\u70ba\u4e00\u7a2e\u7c21\u55ae\u6613\u5f97\u7684\u6df7\u5408\u98f2\u6599\u800c\u5ee3\u53d7\u6b61\u8fce\u3002\u53e4\u5df4\u81ea\u7531 (rum and coke) \u7b49\u8b8a\u9ad4\u65e9\u65bc\u5b83\uff0c\u8868\u660e\u4e86\u76f8\u4f3c\u7684\u767c\u5c55\u8ecc\u8de1\u3002\n\n*   **20 \u4e16\u7d00\u521d\u51fa\u73fe**\n*   **\u56e0\u5176\u7c21\u55ae\u6027\u548c\u6613\u5f97\u6027\u800c\u5ee3\u53d7\u6b61\u8fce**"
+  },
+  "technique": {
+    "en": "Pour whiskey into a highball glass filled with ice. Top with cola. Add garnish if desired.",
+    "zh": "\u5c07\u5a01\u58eb\u5fcc\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u9ad8\u676f\u676f\u4e2d\u3002\u5012\u5165\u53ef\u6a02\u3002\u5982\u679c\u9700\u8981\uff0c\u52a0\u5165\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Optional: Lime wedge or cherry.",
+    "zh": "\u53ef\u9078\uff1a\u6ab8\u6aac\u89d2\u6216\u6afb\u6843\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u676f\u676f"
+  },
+  "appearance": {
+    "en": "Dark amber to brown, depending on the cola used, with visible bubbles.",
+    "zh": "\u6df1\u7425\u73c0\u8272\u81f3\u68d5\u8272\uff0c\u53d6\u6c7a\u65bc\u4f7f\u7528\u7684\u53ef\u6a02\u54c1\u724c\uff0c\u5e36\u6709\u53ef\u898b\u7684\u6c23\u6ce1\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Whiskey",
+        "zh": "\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic whiskey flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u5a01\u58eb\u5fcc\u7684\u7279\u6027\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cola",
+        "zh": "\u53ef\u6a02"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and characteristic cola flavor.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u3001\u6c23\u6ce1\u548c\u53ef\u6a02\u7684\u7279\u6027\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

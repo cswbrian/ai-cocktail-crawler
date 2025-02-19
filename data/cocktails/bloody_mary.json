@@ -1,0 +1,190 @@
+{
+  "name": {
+    "en": "Bloody Mary",
+    "zh": "\u8840\u8165\u746a\u9e97"
+  },
+  "description": {
+    "en": "**Savory and Spicy Brunch Cocktail**\n\nA complex and customizable cocktail, the Bloody Mary is known for:\n*   Its savory tomato base\n*   Spicy kick from hot sauce and horseradish\n*   Wide array of garnishes, often including celery, olives, and even bacon",
+    "zh": "**\u9e79\u5473\u8f9b\u8fa3\u7684\u65e9\u5348\u9910\u96de\u5c3e\u9152**\n\n\u8840\u8165\u746a\u9e97\u662f\u4e00\u7a2e\u8907\u96dc\u4e14\u53ef\u5ba2\u88fd\u5316\u7684\u96de\u5c3e\u9152\uff0c\u4ee5\u4ee5\u4e0b\u7279\u9ede\u805e\u540d\uff1a\n*   \u5176\u9e79\u5473\u7684\u756a\u8304\u57fa\u5e95\n*   \u4f86\u81ea\u8fa3\u6912\u91ac\u548c\u8fa3\u6839\u7684\u8f9b\u8fa3\u5473\n*   \u5404\u5f0f\u5404\u6a23\u7684\u88dd\u98fe\uff0c\u901a\u5e38\u5305\u62ec\u82b9\u83dc\u3001\u6a44\u6b16\uff0c\u751a\u81f3\u57f9\u6839"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Fernand Petiot, Harry's New York Bar in Paris, 1920s\n\n*   Originally called \"Bucket of Blood\"\n*   Prohibition era drink\n*   Popularized in the United States after the repeal of Prohibition",
+    "zh": "**\u8d77\u6e90**: \u8cbb\u723e\u5357\u5fb7\u00b7\u4f69\u8482\u5967\uff0c\u5df4\u9ece\u54c8\u5229\u7d10\u7d04\u9152\u5427\uff0c1920\u5e74\u4ee3\n\n*   \u6700\u521d\u88ab\u7a31\u70ba\u300c\u8840\u6876\u300d\n*   \u7981\u9152\u4ee4\u6642\u671f\u7684\u98f2\u54c1\n*   \u5728\u7981\u9152\u4ee4\u5ee2\u9664\u5f8c\u65bc\u7f8e\u570b\u666e\u53ca"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Roll back and forth to mix well, or shake gently. Strain into a highball glass filled with ice. Garnish as desired.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u653e\u5165\u6416\u9152\u5668\u4e2d\u3002\u4f86\u56de\u6efe\u52d5\u4ee5\u5145\u5206\u6df7\u5408\uff0c\u6216\u8f15\u8f15\u6416\u6643\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u9ad8\u7403\u676f\u4e2d\u3002\u6839\u64da\u559c\u597d\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Celery stalk, olives, lemon wedge, lime wedge, bacon strip, pickled vegetables (optional)",
+    "zh": "\u82b9\u83dc\u8396\u3001\u6a44\u6b16\u3001\u6ab8\u6aac\u89d2\u3001\u840a\u59c6\u89d2\u3001\u57f9\u6839\u689d\u3001\u9183\u88fd\u852c\u83dc\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "A vibrant red, thick liquid with various garnishes.",
+    "zh": "\u9bae\u8c54\u7684\u7d05\u8272\u6fc3\u7a20\u6db2\u9ad4\uff0c\u642d\u914d\u5404\u5f0f\u5404\u6a23\u7684\u88dd\u98fe\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u9152\u7cbe\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "\u756a\u8304\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a rich, savory flavor.",
+        "zh": "\u69cb\u6210\u96de\u5c3e\u9152\u7684\u57fa\u5e95\uff0c\u63d0\u4f9b\u6fc3\u90c1\u7684\u9e79\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightens the flavors.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u63d0\u4eae\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "\u4f0d\u65af\u7279\u91ac"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds umami and savory notes.",
+        "zh": "\u589e\u52a0\u9bae\u5473\u548c\u9e79\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "\u8fa3\u6912\u91ac"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds heat and spiciness.",
+        "zh": "\u589e\u52a0\u71b1\u5ea6\u548c\u8f9b\u8fa3\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Horseradish",
+        "zh": "\u8fa3\u6839"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "\u8336\u5319"
+      },
+      "rationale": {
+        "en": "Adds a pungent and spicy kick.",
+        "zh": "\u589e\u52a0\u523a\u6fc0\u548c\u8f9b\u8fa3\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "\u82b9\u83dc\u9e7d"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavors and adds a hint of celery aroma.",
+        "zh": "\u589e\u5f37\u9e79\u5473\u4e26\u6dfb\u52a0\u4e00\u7d72\u82b9\u83dc\u9999\u6c23\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "\u9ed1\u80e1\u6912"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Adds a subtle spiciness and complexity.",
+        "zh": "\u589e\u52a0\u5fae\u5999\u7684\u8f9b\u8fa3\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Savory",
+      "zh": "\u9e79\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

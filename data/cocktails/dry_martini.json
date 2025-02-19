@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Dry Martini",
+    "zh": "\u4e7e\u99ac\u4e01\u5c3c"
+  },
+  "description": {
+    "en": "**Classic Cocktail Staple**\n\nThe Dry Martini is a quintessential cocktail known for its simplicity and sophistication. It typically consists of gin and dry vermouth, garnished with an olive or a lemon twist.\n\n*   Highly customizable ratios for personal preference\n*   Iconic and timeless appeal\n*   Emphasis on quality ingredients for optimal flavor",
+    "zh": "**\u7d93\u5178\u8abf\u9152\u7684\u4ee3\u8868**\n\nDry Martini \u662f\u4e00\u6b3e\u5178\u578b\u7684\u96de\u5c3e\u9152\uff0c\u4ee5\u5176\u7c21\u7d04\u548c\u7cbe\u7dfb\u800c\u805e\u540d\u3002\u5b83\u901a\u5e38\u7531\u7434\u9152\u548c\u4e7e\u82e6\u827e\u9152\u7d44\u6210\uff0c\u4e26\u4ee5\u6a44\u6b16\u6216\u6ab8\u6aac\u76ae\u88dd\u98fe\u3002\n\n*   \u9ad8\u5ea6\u53ef\u5b9a\u5236\u7684\u6bd4\u4f8b\u4ee5\u6eff\u8db3\u500b\u4eba\u559c\u597d\n*   \u6a19\u8a8c\u6027\u548c\u6c38\u6046\u7684\u5438\u5f15\u529b\n*   \u5f37\u8abf\u512a\u8cea\u539f\u6599\u4ee5\u7372\u5f97\u6700\u4f73\u98a8\u5473"
+  },
+  "historical_reference": {
+    "en": "**Origins**\n\nThe precise origin is debated. One theory suggests it evolved from the Martinez cocktail. It gained popularity in the early 20th century. The 'Dry' Martini emerged as preferences shifted towards less sweet cocktails.\n\n*   Possible Evolution from Martinez cocktail\n*   Popularized in early 20th Century\n*   Dry version reflects changing tastes",
+    "zh": "**\u8d77\u6e90**\n\n\u78ba\u5207\u7684\u8d77\u6e90\u5b58\u5728\u722d\u8b70\u3002 \u4e00\u7a2e\u7406\u8ad6\u8a8d\u70ba\u5b83\u662f\u7531\u99ac\u4e01\u5c3c\u8332\u96de\u5c3e\u9152\u6f14\u8b8a\u800c\u4f86\u7684\u3002 \u5b83\u5728 20 \u4e16\u7d00\u521d\u958b\u59cb\u6d41\u884c\u3002 \u96a8\u8457\u4eba\u5011\u7684\u559c\u597d\u8f49\u5411\u4e0d\u592a\u751c\u7684\u96de\u5c3e\u9152\uff0c\u300cDry\u300dMartini \u61c9\u904b\u800c\u751f\u3002\n\n*   \u53ef\u80fd\u5f9e\u99ac\u4e01\u5c3c\u8332\u96de\u5c3e\u9152\u6f14\u8b8a\u800c\u4f86\n*   20\u4e16\u7d00\u521d\u958b\u59cb\u6d41\u884c\n*   Dry \u7248\u672c\u53cd\u6620\u4e86\u4e0d\u65b7\u8b8a\u5316\u7684\u54c1\u5473"
+  },
+  "technique": {
+    "en": "Stir with ice until well-chilled. Strain into a chilled glass.",
+    "zh": "\u8207\u51b0\u584a\u652a\u62cc\u81f3\u5b8c\u5168\u51b7\u537b\u3002 \u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u3002"
+  },
+  "garnish": {
+    "en": "Green olive or Lemon twist",
+    "zh": "\u7da0\u6a44\u6b16\u6216\u6ab8\u6aac\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass (chilled)",
+    "zh": "\u99ac\u4e01\u5c3c\u676f\uff08\u51b0\u93ae\uff09"
+  },
+  "appearance": {
+    "en": "Clear, colorless",
+    "zh": "\u6e05\u6f88\uff0c\u7121\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base and provides the primary flavor profile.",
+        "zh": "\u69cb\u6210\u57fa\u5e95\u4e26\u63d0\u4f9b\u4e3b\u8981\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "\u4e7e\u5473\u7f8e\u601d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds dryness, herbal notes, and complexity.",
+        "zh": "\u589e\u6dfb\u4e7e\u723d\u611f\u3001\u8349\u672c\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

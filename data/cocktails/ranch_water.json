@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Ranch Water",
+    "zh": "\u7267\u5834\u4e4b\u6c34"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Tequila Cocktail**\n\nRanch Water is a minimalist highball cocktail originating from Texas. It typically includes:\n\n*   Tequila Blanco (or Tequila Reposado for oak and vanilla notes)\n*   Lime Juice for citrus and acidity\n*   Top with Topo Chico (or another mineral water)",
+    "zh": "**\u7c21\u55ae\u800c\u6e05\u723d\u7684\u9f8d\u820c\u862d\u96de\u5c3e\u9152**\n\nRanch Water \u662f\u4e00\u7a2e\u6975\u7c21\u7684\u9ad8\u676f\u96de\u5c3e\u9152\uff0c\u8d77\u6e90\u65bc\u5fb7\u514b\u85a9\u65af\u5dde\u3002\u5b83\u901a\u5e38\u5305\u542b\uff1a\n\n*   \u767d\u8272\u9f8d\u820c\u862d (\u6216\u9f8d\u820c\u862d Reposado \u5e36\u4f86\u6a61\u6728\u548c\u9999\u8349\u5473)\n*   \u9178\u6a59\u6c41\u5e36\u4f86\u67d1\u6a58\u5473\u548c\u9178\u5ea6\n*   \u6ce8\u5165 Topo Chico (\u6216\u5176\u4ed6\u7926\u6cc9\u6c34)"
+  },
+  "historical_reference": {
+    "en": "**Origin**: West Texas, USA\n\nThe true origin is debated, but it\u2019s generally agreed Ranch Water was created by ranchers in West Texas as a way to cool down during the hot days. It has gained popularity in recent years, becoming a staple in Texas bars and beyond.",
+    "zh": "**\u8d77\u6e90**: \u7f8e\u570b\u897f\u5fb7\u514b\u85a9\u65af\u5dde\n\n\u771f\u6b63\u7684\u8d77\u6e90\u5c1a\u6709\u722d\u8b70\uff0c\u4f46\u666e\u904d\u8a8d\u70ba Ranch Water \u662f\u7531\u897f\u5fb7\u514b\u85a9\u65af\u5dde\u7684\u7267\u5834\u4e3b\u5275\u9020\u7684\uff0c\u4f5c\u70ba\u5728\u708e\u71b1\u5929\u6c23\u4e2d\u964d\u6eab\u7684\u4e00\u7a2e\u65b9\u5f0f\u3002\u8fd1\u5e74\u4f86\u8d8a\u4f86\u8d8a\u53d7\u6b61\u8fce\uff0c\u6210\u70ba\u5fb7\u514b\u85a9\u65af\u5dde\u9152\u5427\u53ca\u5176\u4ed6\u5730\u65b9\u7684\u4e3b\u6d41\u98f2\u54c1\u3002"
+  },
+  "technique": {
+    "en": "Combine tequila and lime juice in a glass filled with ice. Top with Topo Chico. Garnish with a lime wedge or wheel.",
+    "zh": "\u5c07\u9f8d\u820c\u862d\u9152\u548c\u9178\u6a59\u6c41\u6df7\u5408\u5728\u88dd\u6eff\u51b0\u7684\u73bb\u7483\u676f\u4e2d\u3002\u52a0\u5165 Topo Chico\u3002\u7528\u9178\u6a59\u89d2\u6216\u7247\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "\u9178\u6a59\u89d2\u6216\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Collins glass",
+    "zh": "\u9ad8\u676f\u73bb\u7483\u676f\u6216\u67ef\u6797\u676f"
+  },
+  "appearance": {
+    "en": "Clear, bubbly, and colorless",
+    "zh": "\u6e05\u6f88\u3001\u6709\u6c23\u6ce1\u4e14\u7121\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Blanco Tequila",
+        "zh": "\u767d\u8272\u9f8d\u820c\u862d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and agave flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u9f8d\u820c\u862d\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u9178\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u67d1\u6a58\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Topo Chico",
+        "zh": "\u6258\u6ce2\u5947\u79d1"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides carbonation and mineral notes.",
+        "zh": "\u63d0\u4f9b\u6c23\u6ce1\u548c\u7926\u7269\u8cea\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

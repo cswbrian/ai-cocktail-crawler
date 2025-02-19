@@ -1,0 +1,181 @@
+{
+  "name": {
+    "en": "Hoppel Poppel",
+    "zh": "\u970d\u4f69\u723e\u00b7\u6ce2\u4f69\u723e"
+  },
+  "description": {
+    "en": "**Hoppel Poppel: A German-Inspired Egg Nog**\n\nA rich and creamy egg-based drink, similar to eggnog but with a distinctive flavor profile. It's a comforting and indulgent beverage, typically served warm.\n\n*   Features rum for a warming kick\n*   Milk and cream for richness\n*   Eggs for texture and flavor",
+    "zh": "**Hoppel Poppel\uff1a\u5fb7\u5f0f\u98a8\u5473\u86cb\u9152**\n\n\u4e00\u7a2e\u6fc3\u90c1\u4e14\u5976\u9999\u7684\u86cb\u985e\u98f2\u54c1\uff0c\u985e\u4f3c\u65bc\u86cb\u9152\uff0c\u4f46\u5177\u6709\u7368\u7279\u7684\u98a8\u5473\u3002\u9019\u662f\u4e00\u7a2e\u4ee4\u4eba\u611f\u5230\u8212\u9069\u548c\u653e\u7e31\u7684\u98f2\u6599\uff0c\u901a\u5e38\u662f\u6eab\u71b1\u4f9b\u61c9\u3002\n\n*   \u4ee5\u862d\u59c6\u9152\u70ba\u7279\u8272\uff0c\u5e36\u4f86\u6eab\u6696\u7684\u53e3\u611f\n*   \u725b\u5976\u548c\u5976\u6cb9\u589e\u6dfb\u8c50\u5bcc\u611f\n*   \u96de\u86cb\u63d0\u4f9b\u8cea\u5730\u548c\u98a8\u5473"
+  },
+  "historical_reference": {
+    "en": "**Origin**: German-inspired, likely a variation of traditional egg nog recipes.\n\n*   Evolved from European egg-based drinks\n*   Name may be derived from regional dialect.",
+    "zh": "**\u8d77\u6e90**\uff1a\u9748\u611f\u4f86\u81ea\u5fb7\u570b\uff0c\u53ef\u80fd\u662f\u50b3\u7d71\u86cb\u9152\u98df\u8b5c\u7684\u8b8a\u9ad4\u3002\n\n*   \u7531\u6b50\u6d32\u7684\u96de\u86cb\u985e\u98f2\u6599\u6f14\u8b8a\u800c\u4f86\n*   \u540d\u7a31\u53ef\u80fd\u6e90\u81ea\u7576\u5730\u65b9\u8a00\u3002"
+  },
+  "technique": {
+    "en": "Whisk egg yolks and sugar, then gradually add milk, cream, rum, and vanilla extract. Heat gently without boiling. Garnish.",
+    "zh": "\u5c07\u86cb\u9ec3\u548c\u7cd6\u652a\u62cc\u5747\u52fb\uff0c\u7136\u5f8c\u9010\u6f38\u52a0\u5165\u725b\u5976\u3001\u9bae\u5976\u6cb9\u3001\u862d\u59c6\u9152\u548c\u9999\u8349\u7cbe\u3002\u8f15\u8f15\u52a0\u71b1\uff0c\u4e0d\u8981\u716e\u6cb8\u3002\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or cinnamon stick",
+    "zh": "\u78e8\u788e\u7684\u8089\u8373\u853b\u6216\u8089\u6842\u68d2"
+  },
+  "serve_in_glass": {
+    "en": "Warm mug or heatproof glass",
+    "zh": "\u6eab\u6696\u7684\u99ac\u514b\u676f\u6216\u8010\u71b1\u73bb\u7483\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow to light brown",
+    "zh": "\u5976\u6cb9\u8272\uff0c\u6de1\u9ec3\u8272\u81f3\u6dfa\u68d5\u8272"
+  },
+  "allergens": [
+    {
+      "en": "Eggs",
+      "zh": "\u96de\u86cb"
+    },
+    {
+      "en": "Dairy (milk, cream)",
+      "zh": "\u4e73\u88fd\u54c1\uff08\u725b\u5976\u3001\u5976\u6cb9\uff09"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rum",
+        "zh": "\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and adds warmth.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u4e26\u589e\u52a0\u6eab\u6696\u611f\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "\u9999\u8349\u7cbe"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Enhances the sweetness and adds a vanilla note.",
+        "zh": "\u589e\u5f37\u751c\u5ea6\u4e26\u589e\u6dfb\u9999\u8349\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Egg yolks",
+        "zh": "\u86cb\u9ec3"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds richness and body to the drink.",
+        "zh": "\u589e\u52a0\u98f2\u54c1\u7684\u6fc3\u90c1\u5ea6\u548c\u53e3\u611f\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the other flavors.",
+        "zh": "\u4f7f\u98f2\u54c1\u8b8a\u751c\u4e26\u5e73\u8861\u5176\u4ed6\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Milk",
+        "zh": "\u725b\u5976"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds liquid volume and creaminess.",
+        "zh": "\u589e\u52a0\u6db2\u9ad4\u9ad4\u7a4d\u548c\u5976\u6cb9\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream",
+        "zh": "\u9bae\u5976\u6cb9"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds richness and smooth texture.",
+        "zh": "\u589e\u52a0\u8c50\u5bcc\u5ea6\u548c\u67d4\u6ed1\u8cea\u5730\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Almonds",
+        "zh": "\u674f\u4ec1"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds nutty flavours and complements the drink",
+        "zh": "\u6dfb\u52a0\u5805\u679c\u98a8\u5473\u4e26\u88dc\u5145\u98f2\u6599"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

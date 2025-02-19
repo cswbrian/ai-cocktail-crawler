@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Blackthorn",
+    "zh": "\u9ed1\u523a\u674e"
+  },
+  "description": {
+    "en": "The Blackthorn is a classic cocktail, similar to a Manhattan but using Irish whiskey and absinthe. It is a simple and refreshing drink with a complex flavor profile.",
+    "zh": "\u9ed1\u523a\u674e\u662f\u4e00\u7a2e\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u985e\u4f3c\u65bc\u66fc\u54c8\u9813\uff0c\u4f46\u4f7f\u7528\u611b\u723e\u862d\u5a01\u58eb\u5fcc\u548c\u82e6\u827e\u9152\u3002 \u5b83\u662f\u4e00\u7a2e\u7c21\u55ae\u800c\u6e05\u723d\u7684\u98f2\u54c1\uff0c\u5177\u6709\u8907\u96dc\u7684\u98a8\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "The Blackthorn cocktail appears in early cocktail books, often noted as an Irish variation on other whiskey cocktails. Its exact origin is unclear, but it has remained a consistent presence in cocktail culture.\n\n*   May have originated in Ireland.\n*   Similar to a Manhattan or Rob Roy, but with Irish Whiskey.",
+    "zh": "\u9ed1\u523a\u674e\u96de\u5c3e\u9152\u51fa\u73fe\u5728\u65e9\u671f\u7684\u96de\u5c3e\u9152\u66f8\u7c4d\u4e2d\uff0c\u901a\u5e38\u88ab\u8a8d\u70ba\u662f\u5176\u4ed6\u5a01\u58eb\u5fcc\u96de\u5c3e\u9152\u7684\u611b\u723e\u862d\u8b8a\u9ad4\u3002 \u5176\u78ba\u5207\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u5b83\u5728\u96de\u5c3e\u9152\u6587\u5316\u4e2d\u4e00\u76f4\u4fdd\u6301\u8457\u7a69\u5b9a\u7684\u5730\u4f4d\u3002\n\n* \u53ef\u80fd\u8d77\u6e90\u65bc\u611b\u723e\u862d\u3002\n* \u985e\u4f3c\u65bc\u66fc\u54c8\u9813\u6216\u7f85\u4f2f\u00b7\u7f85\u4f0a\uff0c\u4f46\u4f7f\u7528\u611b\u723e\u862d\u5a01\u58eb\u5fcc\u3002"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u652a\u62cc\uff0c\u7136\u5f8c\u5012\u5165\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Lemon twist or cherry",
+    "zh": "\u6ab8\u6aac\u76ae\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "\u99ac\u4e01\u5c3c\u676f\u6216\u789f\u578b\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Light amber, clear",
+    "zh": "\u6dfa\u7425\u73c0\u8272\uff0c\u6e05\u6f88"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "\u611b\u723e\u862d\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and backbone of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u57fa\u5e95\u98a8\u5473\u548c\u9aa8\u5e79\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u5473\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complexity.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds anise flavor.",
+        "zh": "\u589e\u52a0\u8334\u9999\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

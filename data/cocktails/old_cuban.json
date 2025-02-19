@@ -1,0 +1,157 @@
+{
+  "name": {
+    "en": "Old Cuban",
+    "zh": "\u8001\u53e4\u5df4"
+  },
+  "description": {
+    "en": "A sophisticated, sparkling cocktail that is often described as a rum-based Mojito with Champagne. It offers a refreshing balance of sweetness, acidity, and herbal notes, making it a perfect celebratory drink.",
+    "zh": "\u9019\u662f\u4e00\u6b3e\u7cbe\u7dfb\u7684\u6c23\u6ce1\u96de\u5c3e\u9152\uff0c\u901a\u5e38\u88ab\u63cf\u8ff0\u70ba\u4ee5\u862d\u59c6\u9152\u70ba\u57fa\u5e95\uff0c\u52a0\u4e0a\u9999\u6ab3\u7684\u83ab\u5409\u6258\u3002\u5b83\u63d0\u4f9b\u4e86\u6e05\u723d\u7684\u751c\u5473\u3001\u9178\u5ea6\u548c\u8349\u672c\u98a8\u5473\u7684\u5e73\u8861\uff0c\u4f7f\u5176\u6210\u70ba\u5b8c\u7f8e\u7684\u6176\u795d\u98f2\u54c1\u3002"
+  },
+  "historical_reference": {
+    "en": "Created by Audrey Saunders at the Pegu Club in New York City in the early 2000s, the Old Cuban is a modern classic that bridges the gap between a Mojito and a French 75. It quickly gained popularity for its refreshing taste and elegant presentation.",
+    "zh": "Old Cuban\u7531\u5967\u9edb\u9e97\u00b7\u6851\u5fb7\u65af (Audrey Saunders) \u65bc 2000 \u5e74\u4ee3\u521d\u671f\u5728\u7d10\u7d04\u5e02\u7684 Pegu Club \u5275\u4f5c\uff0c\u662f\u4e00\u6b3e\u73fe\u4ee3\u7d93\u5178\u4e4b\u4f5c\uff0c\u5f4c\u5408\u4e86\u83ab\u5409\u6258\u548c\u6cd5\u5f0f 75 \u4e4b\u9593\u7684\u5dee\u8ddd\u3002\u5b83\u4ee5\u5176\u6e05\u723d\u7684\u53e3\u611f\u548c\u512a\u96c5\u7684\u5448\u73fe\u65b9\u5f0f\u8fc5\u901f\u7372\u5f97\u6b61\u8fce\u3002"
+  },
+  "technique": {
+    "en": "Muddle mint, add other ingredients except sparkling wine. Shake with ice. Strain into chilled glass and top with sparkling wine. Garnish with a mint sprig.",
+    "zh": "\u5c07\u8584\u8377\u8449\u6417\u788e\uff0c\u52a0\u5165\u5176\u4ed6\u6750\u6599\uff08\u6c23\u6ce1\u9152\u9664\u5916\uff09\u3002\u52a0\u51b0\u6416\u52fb\u3002\u6ffe\u5165\u51b0\u93ae\u904e\u7684\u676f\u5b50\uff0c\u5012\u5165\u6c23\u6ce1\u9152\uff0c\u4e26\u7528\u8584\u8377\u679d\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "\u8584\u8377\u679d"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Champagne flute",
+    "zh": "\u9ad8\u8173\u676f\u6216\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent",
+    "zh": "\u6de1\u9ec3\u8272\uff0c\u8d77\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "\u9673\u5e74\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and a rich, complex flavor.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u8c50\u5bcc\u3001\u8907\u96dc\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Champagne or Sparkling Wine",
+        "zh": "\u9999\u6ab3\u6216\u6c23\u6ce1\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a dry, elegant finish.",
+        "zh": "\u589e\u52a0\u6c23\u6ce1\u611f\u548c\u4e7e\u71e5\u3001\u512a\u96c5\u7684\u9918\u97fb\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity of the lime.",
+        "zh": "\u589e\u52a0\u751c\u5473\uff0c\u5e73\u8861\u6ab8\u6aac\u7684\u9178\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u67d1\u6a58\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "\u8584\u8377\u8449"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "\u7247"
+      },
+      "rationale": {
+        "en": "Adds a refreshing herbal aroma and flavor.",
+        "zh": "\u589e\u6dfb\u6e05\u723d\u7684\u8349\u672c\u9999\u6c23\u548c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice.",
+        "zh": "\u589e\u52a0\u8907\u96dc\u6027\u548c\u8f9b\u8fa3\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

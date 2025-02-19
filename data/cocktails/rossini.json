@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Rossini",
+    "zh": "\u7f85\u897f\u5c3c"
+  },
+  "description": {
+    "en": "**Refreshing Italian Cocktail**\n\nA simple yet elegant cocktail that combines:\n*   Strawberry puree for a fruity sweetness.\n*   Prosecco for effervescence and dryness.\n*   Served chilled in a flute glass.",
+    "zh": "**\u6e05\u723d\u7684\u7fa9\u5927\u5229\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u7c21\u55ae\u800c\u512a\u96c5\u7684\u96de\u5c3e\u9152\uff0c\u7d50\u5408\u4e86\uff1a\n*   \u8349\u8393\u679c\u6ce5\uff0c\u5e36\u4f86\u6c34\u679c\u7684\u751c\u5473\u3002\n*   \u666e\u7f85\u585e\u514b\uff0c\u5e36\u4f86\u6c23\u6ce1\u548c\u6e05\u723d\u611f\u3002\n*   \u51b0\u93ae\u5f8c\u5728\u9ad8\u8173\u676f\u4e2d\u4f9b\u61c9\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after the Italian opera composer Gioachino Rossini.\n\n*   A variation of the Bellini cocktail, substituting peach puree with strawberry puree.\n*   Created in Venice, Italy.",
+    "zh": "**\u8d77\u6e90**: \u4ee5\u7fa9\u5927\u5229\u6b4c\u5287\u4f5c\u66f2\u5bb6\u7126\u963f\u57fa\u8afe\u00b7\u7f85\u897f\u5c3c\u547d\u540d\u3002\n\n*   \u8c9d\u91cc\u5c3c\u96de\u5c3e\u9152\u7684\u8b8a\u9ad4\uff0c\u7528\u8349\u8393\u679c\u6ce5\u4ee3\u66ff\u6843\u5b50\u679c\u6ce5\u3002\n*   \u5728\u7fa9\u5927\u5229\u5a01\u5c3c\u65af\u5275\u4f5c\u3002"
+  },
+  "technique": {
+    "en": "Pour strawberry puree into a chilled flute glass, top with Prosecco.",
+    "zh": "\u5c07\u8349\u8393\u679c\u6ce5\u5012\u5165\u51b0\u93ae\u7684\u9577\u7b1b\u676f\u4e2d\uff0c\u518d\u5012\u5165\u666e\u7f85\u585e\u514b\u3002"
+  },
+  "garnish": {
+    "en": "Strawberry slice (optional)",
+    "zh": "\u8349\u8393\u5207\u7247\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Flute Glass",
+    "zh": "\u9577\u7b1b\u676f"
+  },
+  "appearance": {
+    "en": "Pink or red, effervescent",
+    "zh": "\u7c89\u7d05\u8272\u6216\u7d05\u8272\uff0c\u6709\u6c23\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Prosecco",
+        "zh": "\u666e\u7f85\u585e\u514b"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the effervescence and forms the base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u6c23\u6ce1\u4e26\u69cb\u6210\u96de\u5c3e\u9152\u7684\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Strawberry Puree",
+        "zh": "\u8349\u8393\u679c\u6ce5"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and strawberry flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u8349\u8393\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Grassy",
+      "zh": "\u9752\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

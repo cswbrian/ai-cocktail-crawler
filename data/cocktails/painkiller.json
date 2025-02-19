@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Painkiller",
+    "zh": "\u6b62\u75db\u85e5"
+  },
+  "description": {
+    "en": "**A Tropical Escape in a Glass**\n\nThe Painkiller is a creamy and refreshing tropical cocktail:\n\n*   Dominant flavors of pineapple, coconut, and nutmeg\n*   Served over crushed ice, perfect for hot weather\n*   Trademarked by Pusser's Rum, although variations exist",
+    "zh": "**\u676f\u4e2d\u7684\u71b1\u5e36\u9003\u9038**\n\n\u6b62\u75db\u85e5\u662f\u4e00\u7a2e\u5976\u6cb9\u822c\u6e05\u723d\u7684\u71b1\u5e36\u96de\u5c3e\u9152\uff1a\n\n*   \u9cf3\u68a8\u3001\u6930\u5b50\u548c\u8089\u8373\u853b\u7684\u4e3b\u8981\u98a8\u5473\n*   \u5728\u788e\u51b0\u4e0a\u4f9b\u61c9\uff0c\u975e\u5e38\u9069\u5408\u708e\u71b1\u5929\u6c23\n*   \u7531Pusser's Rum\u5546\u6a19\u8a3b\u518a\uff0c\u5118\u7ba1\u5b58\u5728\u5dee\u7570\u7248\u672c"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Soggy Dollar Bar, British Virgin Islands\n\n*   Created in the 1970s at the Soggy Dollar Bar on Jost Van Dyke\n*   Originally made with Pusser's Rum, but now often made with other dark rums\n*   The name refers to the wet US dollars patrons would use to pay after swimming to the bar.",
+    "zh": "**\u8d77\u6e90**: \u82f1\u5c6c\u7dad\u4eac\u7fa4\u5cf6\u7684Soggy Dollar\u9152\u5427\n\n*   1970\u5e74\u4ee3\u5728Jost Van Dyke\u7684Soggy Dollar\u9152\u5427\u5275\u5efa\n*   \u6700\u521d\u4f7f\u7528Pusser's Rum\u88fd\u4f5c\uff0c\u4f46\u73fe\u5728\u901a\u5e38\u4f7f\u7528\u5176\u4ed6\u6df1\u8272\u862d\u59c6\u9152\u88fd\u4f5c\n*   \u9019\u500b\u540d\u5b57\u6307\u7684\u662f\u9867\u5ba2\u6e38\u6cf3\u5230\u9152\u5427\u5f8c\u7528\u4f86\u652f\u4ed8\u7684\u6fd5\u7f8e\u5143\u3002"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice, shake lightly, pour into glass with crushed ice. Garnish.",
+    "zh": "\u5c07\u6240\u6709\u6210\u5206\u8207\u51b0\u584a\u6df7\u5408\u5728\u6416\u9152\u5668\u4e2d\uff0c\u8f15\u8f15\u6416\u6643\uff0c\u5012\u5165\u88dd\u6709\u788e\u51b0\u7684\u73bb\u7483\u676f\u4e2d\u3002\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Grated nutmeg and pineapple wedge",
+    "zh": "\u78e8\u788e\u7684\u8089\u8373\u853b\u548c\u9cf3\u68a8\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Tall glass or mug filled with crushed ice",
+    "zh": "\u88dd\u6eff\u788e\u51b0\u7684\u9ad8\u73bb\u7483\u676f\u6216\u99ac\u514b\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, opaque, golden-brown with a frothy head, garnished with nutmeg and pineapple wedge.",
+    "zh": "\u5976\u6cb9\u8272\uff0c\u4e0d\u900f\u660e\uff0c\u91d1\u68d5\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\uff0c\u4ee5\u8089\u8373\u853b\u548c\u9cf3\u68a8\u89d2\u88dd\u98fe\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary flavor profile with rich molasses and caramel notes.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u4e3b\u8981\u98a8\u5473\uff0c\u5e36\u6709\u6fc3\u90c1\u7684\u7cd6\u871c\u548c\u7126\u7cd6\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "\u6930\u5976"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creamy texture with intense coconut flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u5976\u6cb9\u822c\u7684\u8cea\u5730\uff0c\u5e36\u6709\u6fc3\u90c1\u7684\u6930\u5b50\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "\u9cf3\u68a8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and tropical flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u9178\u5ea6\u548c\u71b1\u5e36\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

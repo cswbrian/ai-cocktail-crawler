@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "John Collins",
+    "zh": "\u7d04\u7ff0\u67ef\u6797\u65af"
+  },
+  "description": {
+    "en": "**Classic Gin Fizz Variation**\n\nA refreshing, long drink featuring:\n*   Gin base\n*   Lemon juice for tartness\n*   Sugar for sweetness\n*   Topped with carbonated water",
+    "zh": "**\u7d93\u5178\u7434\u8cbb\u58eb\u8b8a\u5316\u6b3e**\n\n\u4e00\u6b3e\u6e05\u723d\u7684\u9577\u98f2\uff0c\u7279\u8272\uff1a\n*   \u7434\u9152\u57fa\u5e95\n*   \u6ab8\u6aac\u6c41\u5e36\u4f86\u9178\u5473\n*   \u7cd6\u5e36\u4f86\u751c\u5473\n*   \u9802\u90e8\u52a0\u5165\u78b3\u9178\u6c34"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Named after a head waiter, John Collins, at Limmer's Old House in London in the 1800s.\n\n*   Originally made with genever, a Dutch spirit.\n*   Evolved to use Old Tom Gin and eventually London Dry Gin.",
+    "zh": "**\u8d77\u6e90**: \u4ee51800\u5e74\u4ee3\u502b\u6566Limmer's Old House\u7684\u9818\u73ed\u670d\u52d9\u54e1John Collins\u547d\u540d\u3002\n\n*   \u6700\u521d\u4f7f\u7528\u8377\u862d\u7434\u9152\uff08genever\uff09\u8abf\u88fd\u3002\n*   \u6f14\u8b8a\u70ba\u4f7f\u7528\u8001\u6e6f\u59c6\u7434\u9152\uff0c\u6700\u7d42\u6539\u7528\u502b\u6566\u4e7e\u7434\u9152\u3002"
+  },
+  "technique": {
+    "en": "Build in glass. Add gin, lemon juice, and simple syrup to a Collins glass filled with ice. Top with carbonated water and stir gently. Garnish with a lemon wedge or cherry.",
+    "zh": "\u5728\u676f\u4e2d\u8abf\u88fd\u3002\u5c07\u7434\u9152\u3001\u6ab8\u6aac\u6c41\u548c\u7cd6\u6f3f\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684\u67ef\u6797\u65af\u676f\u4e2d\u3002\u9802\u90e8\u52a0\u5165\u78b3\u9178\u6c34\u4e26\u8f15\u8f15\u652a\u62cc\u3002\u7528\u6ab8\u6aac\u89d2\u6216\u6afb\u6843\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "\u6ab8\u6aac\u89d2\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Collins glass",
+    "zh": "\u67ef\u6797\u65af\u676f"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow, fizzy",
+    "zh": "\u6e05\u6f88\u3001\u6de1\u9ec3\u8272\u3001\u6709\u6c23\u6ce1"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's spirituous base and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u8abf\u9152\u7684\u70c8\u9152\u57fa\u5e95\u548c\u690d\u7269\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 80,
+      "name": {
+        "en": "Carbonated Water",
+        "zh": "\u78b3\u9178\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds fizz and lengthens the drink.",
+        "zh": "\u589e\u52a0\u6c23\u6ce1\u4e26\u5ef6\u9577\u98f2\u7528\u6642\u9593\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Grassy",
+      "zh": "\u9752\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

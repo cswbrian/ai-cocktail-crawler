@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Alabama Slammer",
+    "zh": "\u963f\u62c9\u5df4\u99ac\u5927\u6eff\u8cab"
+  },
+  "description": {
+    "en": "A sweet and fruity cocktail with a nutty undertone. The Alabama Slammer is known for its easy-drinking nature and blend of several liqueurs and spirits. It's a popular choice for parties and casual gatherings.",
+    "zh": "\u4e00\u6b3e\u9999\u751c\u4e14\u5e36\u6709\u6c34\u679c\u98a8\u5473\u7684\u96de\u5c3e\u9152\uff0c\u4e26\u5e36\u6709\u5805\u679c\u5473\u3002 \u963f\u62c9\u5df4\u99ac\u5927\u6eff\u8cab\u4ee5\u5176\u6613\u98f2\u6027\u548c\u591a\u7a2e\u5229\u53e3\u9152\u548c\u70c8\u9152\u7684\u6df7\u5408\u800c\u805e\u540d\u3002 \u5b83\u662f\u6d3e\u5c0d\u548c\u4f11\u9592\u805a\u6703\u7684\u71b1\u9580\u9078\u64c7\u3002"
+  },
+  "historical_reference": {
+    "en": "The Alabama Slammer is believed to have originated in the Southern United States, although its exact origin is uncertain. \n\n*   Popularized in the 1970s and 1980s.\n*   Often associated with college campuses and parties due to its sweet and potent nature.",
+    "zh": "\u963f\u62c9\u5df4\u99ac\u5927\u6eff\u8cab\u64da\u4fe1\u8d77\u6e90\u65bc\u7f8e\u570b\u5357\u90e8\uff0c\u4f46\u5176\u78ba\u5207\u8d77\u6e90\u5c1a\u4e0d\u78ba\u5b9a\u3002\n\n*   \u5728 1970 \u5e74\u4ee3\u548c 1980 \u5e74\u4ee3\u666e\u53ca\u3002\n*   \u7531\u65bc\u5176\u9999\u751c\u548c\u70c8\u6027\u7684\u7279\u9ede\uff0c\u901a\u5e38\u8207\u5927\u5b78\u6821\u5712\u548c\u6d3e\u5c0d\u6709\u95dc\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u6416\u52fb\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u88dd\u6eff\u51b0\u584a\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry",
+    "zh": "\u6a59\u7247\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Highball or rocks glass",
+    "zh": "\u9ad8\u7403\u676f\u6216\u5ca9\u77f3\u676f"
+  },
+  "appearance": {
+    "en": "Pinkish-orange, slightly cloudy",
+    "zh": "\u7c89\u6a59\u8272\uff0c\u7565\u5e36\u6df7\u6fc1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto",
+        "zh": "\u963f\u746a\u96f7\u6258"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a nutty sweetness and almond flavor.",
+        "zh": "\u589e\u6dfb\u5805\u679c\u7684\u751c\u5473\u548c\u674f\u4ec1\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Southern Comfort",
+        "zh": "\u5357\u65b9\u5b89\u9038"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes stone fruit flavors and sweetness.",
+        "zh": "\u5e36\u4f86\u6838\u679c\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sloe Gin",
+        "zh": "\u9ed1\u523a\u674e\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds fruity and slightly tart flavor.",
+        "zh": "\u589e\u52a0\u6c34\u679c\u5473\u548c\u8f15\u5fae\u7684\u9178\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

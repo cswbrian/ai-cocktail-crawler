@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "White Russian",
+    "zh": "\u767d\u8272\u4fc4\u7f85\u65af"
+  },
+  "description": {
+    "en": "**Creamy and decadent cocktail**\n\nA simple yet luxurious cocktail featuring:\n*   Vodka for a smooth alcoholic base\n*   Coffee liqueur for rich coffee flavor\n*   Fresh cream for a velvety texture",
+    "zh": "**\u5976\u6cb9\u4e14\u9839\u5ee2\u7684\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u7c21\u55ae\u800c\u5962\u83ef\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u4f0f\u7279\u52a0\uff0c\u63d0\u4f9b\u9806\u6ed1\u7684\u9152\u7cbe\u57fa\u5e95\n*   \u5496\u5561\u5229\u53e3\u9152\uff0c\u63d0\u4f9b\u6fc3\u90c1\u7684\u5496\u5561\u5473\n*   \u9bae\u5976\u6cb9\uff0c\u63d0\u4f9b\u5929\u9d5d\u7d68\u822c\u7684\u8cea\u5730"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to be a variation of the Black Russian.\n\n*   The addition of cream transformed the Black Russian into the White Russian.\n*   Gained popularity in the 1990s due to the movie \"The Big Lebowski\".",
+    "zh": "**\u8d77\u6e90**: \u64da\u4fe1\u662f\u9ed1\u4fc4\u7f85\u65af\u7684\u4e00\u7a2e\u8b8a\u9ad4\u3002\n\n*   \u6dfb\u52a0\u5976\u6cb9\u5c07\u9ed1\u4fc4\u7f85\u65af\u8b8a\u6210\u4e86\u767d\u4fc4\u7f85\u65af\u3002\n*   \u7531\u65bc\u96fb\u5f71\u300a\u8b00\u6bba\u7da0\u8173\u8dbe\u300b\uff0c\u57281990\u5e74\u4ee3\u5ee3\u53d7\u6b61\u8fce\u3002"
+  },
+  "technique": {
+    "en": "Fill glass with ice, add vodka and coffee liqueur. Float fresh cream on top. Stir gently before drinking.",
+    "zh": "\u5728\u676f\u4e2d\u52a0\u5165\u51b0\u584a\uff0c\u52a0\u5165\u4f0f\u7279\u52a0\u548c\u5496\u5561\u5229\u53e3\u9152\u3002\u5728\u9802\u90e8\u6f02\u6d6e\u9bae\u5976\u6cb9\u3002\u98f2\u7528\u524d\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "None typically, but sometimes coffee beans or grated chocolate.",
+    "zh": "\u901a\u5e38\u6c92\u6709\u88dd\u98fe\uff0c\u4f46\u6709\u6642\u6703\u7528\u5496\u5561\u8c46\u6216\u78e8\u788e\u7684\u5de7\u514b\u529b\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "\u53e4\u5178\u676f"
+  },
+  "appearance": {
+    "en": "Layered white cream on top of dark brown coffee liqueur and clear vodka, creating a marbled effect when stirred.",
+    "zh": "\u5206\u5c64\u7684\u767d\u8272\u5976\u6cb9\u5728\u6df1\u68d5\u8272\u5496\u5561\u5229\u53e3\u9152\u548c\u900f\u660e\u4f0f\u7279\u52a0\u4e4b\u4e0a\uff0c\u652a\u62cc\u6642\u7522\u751f\u5927\u7406\u77f3\u82b1\u7d0b\u6548\u679c\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor that allows the coffee and cream to shine.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u4e2d\u6027\u98a8\u5473\uff0c\u4f7f\u5496\u5561\u548c\u5976\u6cb9\u7684\u5473\u9053\u66f4\u52a0\u7a81\u51fa\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee liqueur (e.g., Kahl\u00faa)",
+        "zh": "\u5496\u5561\u5229\u53e3\u9152 (\u5982\uff1a\u5361\u9b6f\u54c7)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a strong coffee flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u6fc3\u90c1\u7684\u5496\u5561\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Ice cubes",
+        "zh": "\u51b0\u584a"
+      },
+      "unit": {
+        "en": "as needed",
+        "zh": "\u4f9d\u9700\u6c42"
+      },
+      "rationale": {
+        "en": "To chill the drink and slightly dilute it.",
+        "zh": "\u51b7\u537b\u98f2\u6599\u4e26\u7565\u5fae\u7a00\u91cb\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

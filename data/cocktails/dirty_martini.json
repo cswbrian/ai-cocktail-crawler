@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Dirty Martini",
+    "zh": "\u9ad2\u99ac\u4e01\u5c3c"
+  },
+  "description": {
+    "en": "**The Dirty Martini: A Savory Twist on a Classic**\n\nA classic martini with olive brine added. Key characteristics include:\n*   Salty and savory flavor profile\n*   Cloudy appearance from the olive brine\n*   Customizable level of 'dirtiness' (amount of brine)",
+    "zh": "**\u9ad2\u99ac\u4e01\u5c3c\uff1a\u7d93\u5178\u7684\u9e79\u5473\u8f49\u6298**\n\n\u5728\u7d93\u5178\u99ac\u4e01\u5c3c\u4e2d\u52a0\u5165\u6a44\u6b16\u9e7d\u6c34\u3002 \u4e3b\u8981\u7279\u5fb5\u5305\u62ec\uff1a\n*   \u9e79\u5473\u548c\u9e79\u9999\u7684\u98a8\u5473\n*   \u6a44\u6b16\u9e7d\u6c34\u9020\u6210\u7684\u6df7\u6fc1\u5916\u89c0\n*   \u53ef\u81ea\u5b9a\u7fa9\u7684\u201c\u9ad2\u201d\u5ea6\uff08\u9e7d\u6c34\u91cf\uff09"
+  },
+  "historical_reference": {
+    "en": "**Origin and Evolution**\n\nThe exact origin is debated, but the Dirty Martini likely emerged in the early 20th century as a variation on the classic Dry Martini:\n\n*   Early versions may have used olive juice rather than brine.\n*   The popularity of the drink grew throughout the 20th century, solidifying its place as a modern classic.\n*   Variations exist using different types of olives or flavored brines.",
+    "zh": "**\u8d77\u6e90\u8207\u6f14\u8b8a**\n\n\u78ba\u5207\u7684\u8d77\u6e90\u5c1a\u6709\u722d\u8b70\uff0c\u4f46\u9ad2\u99ac\u4e01\u5c3c\u53ef\u80fd\u5728 20 \u4e16\u7d00\u521d\u4f5c\u70ba\u7d93\u5178 Dry Martini \u7684\u8b8a\u9ad4\u800c\u51fa\u73fe\uff1a\n\n*   \u65e9\u671f\u7248\u672c\u53ef\u80fd\u4f7f\u7528\u6a44\u6b16\u6c41\u4ee3\u66ff\u9e7d\u6c34\u3002\n*   \u9019\u7a2e\u98f2\u6599\u7684\u53d7\u6b61\u8fce\u7a0b\u5ea6\u5728\u6574\u500b 20 \u4e16\u7d00\u4e0d\u65b7\u589e\u9577\uff0c\u978f\u56fa\u4e86\u5176\u4f5c\u70ba\u73fe\u4ee3\u7d93\u5178\u7684\u5730\u4f4d\u3002\n*   \u5b58\u5728\u4f7f\u7528\u4e0d\u540c\u985e\u578b\u6a44\u6b16\u6216\u8abf\u5473\u9e7d\u6c34\u7684\u8b8a\u9ad4\u3002"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled martini glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u652a\u62cc\u5747\u52fb\u81f3\u51b0\u93ae\u3002 \u6ffe\u5165\u51b0\u93ae\u7684\u99ac\u4e01\u5c3c\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Olives (usually 3 on a skewer or cocktail pick)",
+    "zh": "\u6a44\u6b16\uff08\u901a\u5e38\u7528\u4e32\u6216\u96de\u5c3e\u9152\u7c64\u4e32\u8d77 3 \u9846\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass (chilled)",
+    "zh": "\u99ac\u4e01\u5c3c\u676f\uff08\u51b0\u93ae\uff09"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to greenish liquid",
+    "zh": "\u6df7\u6fc1\uff0c\u6de1\u9ec3\u8272\u81f3\u7da0\u8272\u7684\u6db2\u9ad4"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic base and botanical flavors.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u9152\u7cbe\u57fa\u5e95\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "\u4e0d\u751c\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds herbal and slightly bitter notes to balance the gin.",
+        "zh": "\u589e\u52a0\u8349\u672c\u548c\u7565\u5e36\u82e6\u5473\uff0c\u4ee5\u5e73\u8861\u7434\u9152\u3002"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Olive Brine",
+        "zh": "\u6a44\u6b16\u9e7d\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds the signature salty and savory flavor that defines a Dirty Martini.",
+        "zh": "\u589e\u52a0\u4e86\u6a19\u8a8c\u6027\u7684\u9e79\u5473\u548c\u9e79\u9999\u98a8\u5473\uff0c\u5b9a\u7fa9\u4e86\u9ad2\u99ac\u4e01\u5c3c\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Savory",
+      "zh": "\u9e79\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

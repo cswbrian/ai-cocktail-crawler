@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Monaco",
+    "zh": "\u6469\u7d0d\u54e5"
+  },
+  "description": {
+    "en": "**Simple layered drink**\n\nA non-alcoholic or low-alcohol beverage with a vibrant appearance, made by carefully layering grenadine, lemonade, and lager:\n*   Grenadine settles at the bottom due to its density.\n*   Lemonade forms the middle layer.\n*   Lager gently floats on top.",
+    "zh": "**\u7c21\u55ae\u7684\u5206\u5c64\u98f2\u6599**\n\n\u4e00\u7a2e\u975e\u9152\u7cbe\u6216\u4f4e\u9152\u7cbe\u98f2\u6599\uff0c\u5916\u89c0\u9bae\u8c54\uff0c\u900f\u904e\u4ed4\u7d30\u5206\u5c64\u77f3\u69b4\u7cd6\u6f3f\u3001\u6ab8\u6aac\u6c34\u548c\u62c9\u683c\u5564\u9152\u88fd\u6210\uff1a\n* \u77f3\u69b4\u7cd6\u6f3f\u56e0\u5176\u5bc6\u5ea6\u800c\u6c89\u6fb1\u5728\u5e95\u90e8\u3002\n* \u6ab8\u6aac\u6c34\u5f62\u6210\u4e2d\u9593\u5c64\u3002\n* \u62c9\u683c\u5564\u9152\u8f15\u8f15\u5730\u6f02\u6d6e\u5728\u9802\u90e8\u3002"
+  },
+  "historical_reference": {
+    "en": "The Monaco cocktail, or *Bi\u00e8re Monaco*, is a popular drink in France.\n\n*   It's a variation of the Panach\u00e9, which mixes beer and lemonade.\n*   The addition of grenadine gives it a distinctive color and flavor.\n*   Likely named after the city-state of Monaco due to its colors (red and white).",
+    "zh": "\u6469\u7d0d\u54e5\u96de\u5c3e\u9152\uff0c\u6216*Bi\u00e8re Monaco*\uff0c\u662f\u6cd5\u570b\u6d41\u884c\u7684\u98f2\u54c1\u3002\n\n* \u5b83\u662fPanach\u00e9\u7684\u8b8a\u9ad4\uff0c\u5f8c\u8005\u6df7\u5408\u4e86\u5564\u9152\u548c\u6ab8\u6aac\u6c34\u3002\n* \u6dfb\u52a0\u77f3\u69b4\u7cd6\u6f3f\u8ce6\u4e88\u5176\u7368\u7279\u7684\u984f\u8272\u548c\u98a8\u5473\u3002\n* \u53ef\u80fd\u56e0\u5176\u984f\u8272\uff08\u7d05\u8272\u548c\u767d\u8272\uff09\u800c\u4ee5\u6469\u7d0d\u54e5\u57ce\u90a6\u547d\u540d\u3002"
+  },
+  "technique": {
+    "en": "Layer the ingredients carefully to create distinct bands of color. Start with grenadine, then gently add lemonade, and finally top with lager.",
+    "zh": "\u5c0f\u5fc3\u5730\u5206\u5c64\u914d\u6599\u4ee5\u5275\u5efa\u4e0d\u540c\u7684\u984f\u8272\u5e36\u3002\u5f9e\u77f3\u69b4\u7cd6\u6f3f\u958b\u59cb\uff0c\u7136\u5f8c\u8f15\u8f15\u52a0\u5165\u6ab8\u6aac\u6c34\uff0c\u6700\u5f8c\u5728\u4e0a\u9762\u653e\u4e0a\u62c9\u683c\u5564\u9152\u3002"
+  },
+  "garnish": {
+    "en": "Lemon slice or wedge",
+    "zh": "\u6ab8\u6aac\u7247\u6216\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Pilsner glass or highball glass",
+    "zh": "\u76ae\u723e\u68ee\u5564\u9152\u676f\u6216\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Layered drink with red grenadine at the bottom, yellow lemonade in the middle, and pale lager at the top.",
+    "zh": "\u5206\u5c64\u98f2\u6599\uff0c\u5e95\u90e8\u70ba\u7d05\u8272\u77f3\u69b4\u7cd6\u6f3f\uff0c\u4e2d\u9593\u70ba\u9ec3\u8272\u6ab8\u6aac\u6c34\uff0c\u9802\u90e8\u70ba\u6de1\u5564\u9152\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Lager Beer",
+        "zh": "\u62c9\u683c\u5564\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a refreshing and slightly bitter component, forming the top layer.",
+        "zh": "\u589e\u52a0\u6e05\u723d\u548c\u7565\u5e36\u82e6\u5473\u7684\u90e8\u5206\uff0c\u5f62\u6210\u9802\u5c64\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color to the bottom layer.",
+        "zh": "\u70ba\u5e95\u5c64\u589e\u52a0\u751c\u5473\u548c\u7d05\u8272\u3002"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Lemonade",
+        "zh": "\u6ab8\u6aac\u6c34"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a sour and citrusy flavor to the middle layer.",
+        "zh": "\u70ba\u4e2d\u9593\u5c64\u589e\u52a0\u9178\u5473\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Sweet",
+      "zh": "\u751c\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 2,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

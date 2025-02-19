@@ -1,0 +1,172 @@
+{
+  "name": {
+    "en": "Test Pilot",
+    "zh": "\u8a66\u98db\u54e1"
+  },
+  "description": {
+    "en": "A complex and potent tiki cocktail with a blend of rums, citrus, and spice. This drink is known for its layered flavors and strong character, providing a multi-sensory experience.",
+    "zh": "\u4e00\u6b3e\u8907\u96dc\u800c\u5f37\u52c1\u7684\u63d0\u57fa\u96de\u5c3e\u9152\uff0c\u878d\u5408\u4e86\u591a\u7a2e\u862d\u59c6\u9152\u3001\u67d1\u6a58\u548c\u9999\u6599\u3002\u9019\u6b3e\u98f2\u54c1\u4ee5\u5176\u5c64\u6b21\u5206\u660e\u7684\u98a8\u5473\u548c\u5f37\u70c8\u7684\u500b\u6027\u800c\u805e\u540d\uff0c\u63d0\u4f9b\u591a\u91cd\u611f\u5b98\u9ad4\u9a57\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Concocted by Don the Beachcomber in 1941.\n\n*   Created in the heart of the Tiki craze.\n*   It is known for its potent blend of rums and unique flavor profile.\n*   It is considered one of the more complex recipes by Don.",
+    "zh": "**\u8d77\u6e90**: 1941\u5e74\u7531\u5510\u00b7\u6d77\u7058\u6d41\u6d6a\u8005\u8abf\u88fd\u3002\n\n*   \u5728\u63d0\u57fa\u71b1\u6f6e\u7684\u6838\u5fc3\u4e2d\u5275\u9020\u3002\n*   \u4ee5\u5176\u5f37\u52c1\u7684\u862d\u59c6\u9152\u6df7\u5408\u548c\u7368\u7279\u7684\u98a8\u5473\u800c\u805e\u540d\u3002\n*   \u5b83\u88ab\u8a8d\u70ba\u662f\u5510\u66f4\u8907\u96dc\u7684\u98df\u8b5c\u4e4b\u4e00\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice until well-chilled. Strain into a glass filled with ice.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u6416\u6643\u81f3\u5b8c\u5168\u51b7\u537b\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig, orange slice, and a cherry.",
+    "zh": "\u8584\u8377\u679d\u3001\u6a59\u7247\u548c\u6afb\u6843\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned or Tiki Mug",
+    "zh": "\u96d9\u4efd\u53e4\u5178\u676f\u6216\u63d0\u57fa\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to light brown color, with a frothy head.",
+    "zh": "\u6df7\u6fc1\u7684\uff0c\u6de1\u9ec3\u8272\u5230\u6dfa\u68d5\u8272\uff0c\u5e36\u6709\u6ce1\u6cab\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base with caramel notes.",
+        "zh": "\u63d0\u4f9b\u6fc3\u90c1\u3001\u4ee5\u7cd6\u871c\u70ba\u4e3b\u7684\u57fa\u5e95\uff0c\u5e36\u6709\u7126\u7cd6\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "\u767d\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a lighter, cleaner rum flavor.",
+        "zh": "\u589e\u6dfb\u66f4\u8f15\u76c8\u3001\u66f4\u4e7e\u6de8\u7684\u862d\u59c6\u9152\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Falernum",
+        "zh": "\u6cd5\u52d2\u5357\u59c6\u751c\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a sweet, spiced, and almond-like flavor.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u3001\u9999\u6599\u5473\u548c\u674f\u4ec1\u822c\u7684\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u751c\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry and nutty flavor.",
+        "zh": "\u589e\u6dfb\u5fae\u5999\u7684\u6afb\u6843\u548c\u5805\u679c\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides acidity and citrus notes.",
+        "zh": "\u63d0\u4f9b\u9178\u5ea6\u548c\u67d1\u6a58\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "\u8461\u8404\u67da\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a bittersweet citrus element.",
+        "zh": "\u589e\u52a0\u82e6\u6a02\u53c3\u534a\u7684\u67d1\u6a58\u5143\u7d20\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u5c11\u8a31"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice notes.",
+        "zh": "\u589e\u6dfb\u8907\u96dc\u6027\u548c\u9999\u6599\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 6,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

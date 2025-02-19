@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Grasshopper",
+    "zh": "\u86b1\u8722"
+  },
+  "description": {
+    "en": "**The Grasshopper Cocktail**\n\nA sweet, minty, after-dinner drink. Its vibrant green color and creamy texture make it a visually appealing and palatable choice. \n\n*   Often served as a dessert cocktail.\n*   Easy to drink and enjoy.\n*   Mint and chocolate notes combine for a pleasing flavor profile.",
+    "zh": "**\u86b1\u8722\u96de\u5c3e\u9152**\n\n\u4e00\u7a2e\u9999\u751c\u7684\u8584\u8377\u5473\u9910\u5f8c\u98f2\u54c1\u3002 \u9bae\u8c54\u7684\u7da0\u8272\u548c\u5976\u6cb9\u822c\u7684\u8cea\u5730\u4f7f\u5176\u6210\u70ba\u4e00\u7a2e\u8996\u89ba\u4e0a\u5438\u5f15\u4eba\u4e14\u53ef\u53e3\u7684\u9078\u64c7\u3002\n\n*   \u901a\u5e38\u4f5c\u70ba\u751c\u9ede\u96de\u5c3e\u9152\u4f9b\u61c9\u3002\n*   \u5bb9\u6613\u98f2\u7528\u548c\u4eab\u53d7\u3002\n*   \u8584\u8377\u548c\u5de7\u514b\u529b\u5473\u6df7\u5408\u5728\u4e00\u8d77\uff0c\u5e36\u4f86\u4ee4\u4eba\u6109\u6085\u7684\u98a8\u5473\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to Philibert Guichet, owner of *Tujaque's* restaurant in New Orleans, Louisiana, around 1918.\n\n*   Created for a cocktail competition.\n*   Became popular in the mid-20th century.\n*   Named for its green color, resembling a grasshopper.",
+    "zh": "**\u8d77\u6e90**\uff1a\u64da\u8aaa\u662f\u8def\u6613\u65af\u5b89\u90a3\u5dde\u7d10\u5967\u826f*Tujaque's*\u9910\u5ef3\u7684\u8001\u95c6Philibert Guichet\u65bc1918\u5e74\u5de6\u53f3\u767c\u660e\u7684\u3002\n\n*   \u70ba\u96de\u5c3e\u9152\u6bd4\u8cfd\u800c\u5275\u4f5c\u3002\n*   \u572820\u4e16\u7d00\u4e2d\u8449\u958b\u59cb\u6d41\u884c\u3002\n*   \u56e0\u5176\u7da0\u8272\u800c\u5f97\u540d\uff0c\u50cf\u4e00\u96bb\u86b1\u8722\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig or chocolate shavings (optional)",
+    "zh": "\u8584\u8377\u679d\u6216\u5de7\u514b\u529b\u5c51\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "\u9ad8\u8173\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Opaque, creamy green",
+    "zh": "\u4e0d\u900f\u660e\uff0c\u5976\u6cb9\u7da0\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cr\u00e8me de Menthe (Green)",
+        "zh": "\u7da0\u8584\u8377\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides mint flavor and green color.",
+        "zh": "\u63d0\u4f9b\u8584\u8377\u98a8\u5473\u548c\u7da0\u8272\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cr\u00e8me de Cacao (White)",
+        "zh": "\u767d\u8272\u53ef\u53ef\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and sweetness.",
+        "zh": "\u589e\u6dfb\u5de7\u514b\u529b\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Cream",
+        "zh": "\u9bae\u5976\u6cb9"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds creaminess and body.",
+        "zh": "\u589e\u52a0\u5976\u6cb9\u5473\u548c\u9152\u9ad4\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

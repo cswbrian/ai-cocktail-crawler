@@ -1,0 +1,136 @@
+{
+  "name": {
+    "en": "Sangrita",
+    "zh": "\u6851\u683c\u9e97\u5854"
+  },
+  "description": {
+    "en": "**Non-alcoholic accompaniment to tequila**\n\nSangrita is a traditional Mexican beverage served as a palate cleanser and complement to tequila, not mixed with it. It typically features:\n\n*   Tomato juice base\n*   Citrus elements, often lime and orange\n*   Spicy elements, such as chili powder or hot sauce",
+    "zh": "**\u975e\u9152\u7cbe\u7684\u9f8d\u820c\u862d\u9152\u4f50\u9910\u98f2\u6599**\n\nSangrita \u662f\u4e00\u7a2e\u50b3\u7d71\u7684\u58a8\u897f\u54e5\u98f2\u6599\uff0c\u7528\u4f5c\u5473\u857e\u6e05\u6f54\u5291\u548c\u9f8d\u820c\u862d\u9152\u7684\u88dc\u5145\uff0c\u800c\u4e0d\u662f\u8207\u4e4b\u6df7\u5408\u3002 \u5b83\u901a\u5e38\u5177\u6709\uff1a\n\n*   \u756a\u8304\u6c41\u5e95\n*   \u67d1\u6a58\u5143\u7d20\uff0c\u901a\u5e38\u662f\u9178\u6a59\u548c\u6a59\u5b50\n*   \u8f9b\u8fa3\u5143\u7d20\uff0c\u4f8b\u5982\u8fa3\u6912\u7c89\u6216\u8fa3\u6912\u91ac"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Mexico\n\n*   Sangrita's history is closely linked to tequila consumption in Mexico.\n*   The precise origins are somewhat obscure, but it's believed to have evolved as a way to soften the harshness of tequila and complement its flavors.\n*   The name translates to \"little blood\" in Spanish, referring to its color.",
+    "zh": "**\u8d77\u6e90**: \u58a8\u897f\u54e5\n\n*   Sangrita \u7684\u6b77\u53f2\u8207\u58a8\u897f\u54e5\u7684\u9f8d\u820c\u862d\u9152\u6d88\u8cbb\u5bc6\u5207\u76f8\u95dc\u3002\n*   \u78ba\u5207\u7684\u8d77\u6e90\u6709\u4e9b\u6a21\u7cca\uff0c\u4f46\u64da\u4fe1\u5b83\u662f\u4f5c\u70ba\u4e00\u7a2e\u8edf\u5316\u9f8d\u820c\u862d\u9152\u7684\u523a\u6fc0\u6027\u4e26\u88dc\u5145\u5176\u98a8\u5473\u7684\u65b9\u5f0f\u800c\u767c\u5c55\u8d77\u4f86\u7684\u3002\n*   \u9019\u500b\u540d\u5b57\u5728\u897f\u73ed\u7259\u8a9e\u4e2d\u7ffb\u8b6f\u70ba\u201c\u5c0f\u8840\u201d\uff0c\u6307\u7684\u662f\u5b83\u7684\u984f\u8272\u3002"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice; shake well. Strain into a shot glass or small tumbler. Serve alongside a shot of tequila.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u4e00\u8d77\u653e\u5165\u6416\u9152\u5668\u4e2d\uff1b \u5145\u5206\u6416\u52fb\u3002 \u6ffe\u5165\u5c0f\u9152\u676f\u6216\u5c0f\u73bb\u7483\u676f\u4e2d\u3002 \u8207\u4e00\u676f\u9f8d\u820c\u862d\u9152\u4e00\u8d77\u98df\u7528\u3002"
+  },
+  "garnish": {
+    "en": "None typically",
+    "zh": "\u901a\u5e38\u6c92\u6709"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass or small tumbler",
+    "zh": "\u5c0f\u9152\u676f\u6216\u5c0f\u73bb\u7483\u676f"
+  },
+  "appearance": {
+    "en": "Deep red, opaque, pulpy consistency",
+    "zh": "\u6df1\u7d05\u8272\uff0c\u4e0d\u900f\u660e\uff0c\u6709\u679c\u8089\u7684\u6fc3\u7a20\u5ea6"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "\u756a\u8304\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base of the drink, providing body and umami.",
+        "zh": "\u69cb\u6210\u98f2\u6599\u7684\u57fa\u790e\uff0c\u63d0\u4f9b\u9152\u9ad4\u548c\u9bae\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "\u65b0\u9bae\u9752\u6ab8\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Fresh Orange Juice",
+        "zh": "\u65b0\u9bae\u67f3\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus complexity.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u548c\u67d1\u6a58\u7684\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "\u8fa3\u6912\u91ac"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds spice and heat.",
+        "zh": "\u589e\u52a0\u8fa3\u5473\u548c\u71b1\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Salt",
+        "zh": "\u9e7d"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Enhances flavors.",
+        "zh": "\u589e\u5f37\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 0,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

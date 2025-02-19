@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Salty Dog",
+    "zh": "\u9e79\u72d7"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA variation of the Greyhound cocktail, distinguished by:\n*   Salted rim for enhanced flavor\n*   Simple mixture of vodka and grapefruit juice",
+    "zh": "**\u7c21\u55ae\u6e05\u723d\u7684\u96de\u5c3e\u9152**\n\n\u7070\u72d7\u96de\u5c3e\u9152\u7684\u8b8a\u9ad4\uff0c\u7279\u8272\u5728\u65bc\uff1a\n*   \u9e7d\u53e3\u4ee5\u589e\u5f37\u98a8\u5473\n*   \u4f0f\u7279\u52a0\u548c\u8461\u8404\u67da\u6c41\u7684\u7c21\u55ae\u6df7\u5408"
+  },
+  "historical_reference": {
+    "en": "**Evolved from the Greyhound**\n\n*   First appeared after the Greyhound cocktail.\n*   The addition of a salted rim is the defining factor.\n*   Name likely derived from the 'salty' character, the salt enhances the taste and sweetens the grapefruit.",
+    "zh": "**\u7531\u7070\u72d7\u6f14\u8b8a\u800c\u4f86**\n\n*   \u9996\u6b21\u51fa\u73fe\u5728\u7070\u72d7\u96de\u5c3e\u9152\u4e4b\u5f8c\u3002\n*   \u6dfb\u52a0\u9e7d\u5708\u662f\u6c7a\u5b9a\u6027\u56e0\u7d20\u3002\n*   \u540d\u7a31\u53ef\u80fd\u6e90\u81ea\u201c\u9e79\u201d\u7684\u7279\u6027\uff0c\u9e7d\u53ef\u4ee5\u589e\u5f37\u53e3\u611f\u4e26\u4f7f\u8461\u8404\u67da\u8b8a\u751c\u3002"
+  },
+  "technique": {
+    "en": "Salt the rim of a highball glass. Fill with ice, add vodka and grapefruit juice. Stir gently.",
+    "zh": "\u5728\u9ad8\u676f\u7684\u676f\u53e3\u4e0a\u6cbe\u9e7d\u3002 \u52a0\u5165\u51b0\u584a\uff0c\u52a0\u5165\u4f0f\u7279\u52a0\u548c\u8461\u8404\u67da\u6c41\u3002 \u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Salted rim; Grapefruit wedge (optional)",
+    "zh": "\u9e7d\u53e3\uff1b\u8461\u8404\u67da\u89d2\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u676f"
+  },
+  "appearance": {
+    "en": "Pale, translucent, with a salted rim",
+    "zh": "\u6de1\u8272\u534a\u900f\u660e\uff0c\u676f\u53e3\u6709\u9e7d\u5708"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u4e2d\u6027\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "\u8461\u8404\u67da\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds the citrusy and slightly bitter flavor.",
+        "zh": "\u589e\u6dfb\u67d1\u6a58\u5473\u548c\u7565\u5e36\u82e6\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Salt",
+        "zh": "\u9e7d"
+      },
+      "unit": {
+        "en": "gram",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Used for rimming the glass, enhancing the overall flavor.",
+        "zh": "\u7528\u65bc\u88dd\u98fe\u676f\u7de3\uff0c\u589e\u5f37\u6574\u9ad4\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

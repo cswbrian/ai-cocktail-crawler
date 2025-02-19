@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Lemon Drop",
+    "zh": "\u6ab8\u6aac \u0921\u094d\u0930\u0949\u092a"
+  },
+  "description": {
+    "en": "**Sweet and Sour Delight**\n\nA classic cocktail known for its vibrant citrus flavor and a balance of sweet and sour.\n\n*   Typically served in a sugar-rimmed glass.\n*   Easy to drink and refreshing.\n*   Perfect as an aperitif.",
+    "zh": "**\u9178\u751c\u7684\u559c\u6085**\n\n\u4e00\u6b3e\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u4ee5\u5176\u5145\u6eff\u6d3b\u529b\u7684\u67d1\u6a58\u98a8\u5473\u548c\u751c\u9178\u5e73\u8861\u800c\u805e\u540d\u3002\n\n*   \u901a\u5e38\u5728\u9ad8\u8173\u676f\u4e2d\u4f9b\u61c9\uff0c\u676f\u53e3\u6709\u7cd6\u5708\u3002\n*   \u5bb9\u6613\u5165\u53e3\u4e14\u4ee4\u4eba\u8033\u76ee\u4e00\u65b0\u3002\n*   \u975e\u5e38\u9069\u5408\u4f5c\u70ba\u9910\u524d\u9152\u3002"
+  },
+  "historical_reference": {
+    "en": "*The Lemon Drop Martini is a relatively modern cocktail, gaining popularity in the 1970s and 80s.*\n\n*Inspired by the lemon drop candy, hence the sweet and sour flavor profile.*\n\n*Often credited to Norman Jay Hobday, the founder of Henry Africa's Bar in San Francisco.*",
+    "zh": "*\u6ab8\u6aac\u6c41\u99ac\u63d0\u5c3c\u662f\u4e00\u7a2e\u76f8\u5c0d\u73fe\u4ee3\u7684\u96de\u5c3e\u9152\uff0c\u57281970\u5e74\u4ee3\u548c80\u5e74\u4ee3\u958b\u59cb\u6d41\u884c\u3002*\n\n*\u9748\u611f\u4f86\u81ea\u6ab8\u6aac\u7cd6\uff0c\u56e0\u6b64\u5177\u6709\u9178\u751c\u7684\u98a8\u5473\u3002*\n\n*\u901a\u5e38\u6b78\u529f\u65bc\u820a\u91d1\u5c71Henry Africa's Bar\u7684\u5275\u59cb\u4ebaNorman Jay Hobday\u3002*"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u5012\u5165\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Lemon twist or sugar-coated rim.",
+    "zh": "\u6ab8\u6aac\u76ae\u6216\u7cd6\u6f2c\u676f\u7de3\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass or coupe.",
+    "zh": "\u51b0\u93ae\u99ac\u63d0\u5c3c\u676f\u6216\u6dfa\u789f\u9999\u6ab3\u676f\u3002"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear, served with a sugar-coated rim.",
+    "zh": "\u6de1\u9ec3\u8272\uff0c\u6e05\u6f88\uff0c\u676f\u7de3\u88f9\u4e0a\u7802\u7cd6\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u4e7e\u6de8\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "None",
+        "zh": "\u7121"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "None",
+        "zh": "\u7121"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lemon juice.",
+        "zh": "\u589e\u52a0\u751c\u5473\u4ee5\u5e73\u8861\u6ab8\u6aac\u6c41\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Sour",
+      "zh": "\u9178\u5473"
+    },
+    {
+      "en": "Sweet",
+      "zh": "\u751c\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

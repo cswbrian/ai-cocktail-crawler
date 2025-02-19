@@ -1,0 +1,100 @@
+{
+  "name": {
+    "en": "Appletini",
+    "zh": "\u860b\u679c\u99ac\u4e01\u5c3c"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA fruity and tart cocktail that combines:\n*   Vodka for a clean base\n*   Apple liqueur for the primary apple flavor\n*   Lemon juice for tartness and balance",
+    "zh": "**\u73fe\u4ee3\u7d93\u5178\u96de\u5c3e\u9152**\n\n\u9019\u662f\u4e00\u6b3e\u6c34\u679c\u5473\u6fc3\u90c1\u3001\u53e3\u611f\u9178\u6f80\u7684\u96de\u5c3e\u9152\uff0c\u7d50\u5408\u4e86\uff1a\n*   \u4f0f\u7279\u52a0\uff0c\u63d0\u4f9b\u7d14\u6de8\u7684\u57fa\u5e95\n*   \u860b\u679c\u5229\u53e3\u9152\uff0c\u5e36\u4f86\u4e3b\u8981\u7684\u860b\u679c\u98a8\u5473\n*   \u6ab8\u6aac\u6c41\uff0c\u589e\u52a0\u9178\u5ea6\u548c\u5e73\u8861\u611f"
+  },
+  "historical_reference": {
+    "en": "**Appletini History**\n\n*   Created in 1996 at Lola's in West Hollywood by Adam Carolla and bartender Joe Koster\n*   A modern twist on the classic Martini, replacing gin with vodka and adding apple flavor.",
+    "zh": "**\u860b\u679c\u99ac\u4e01\u5c3c\u7684\u6b77\u53f2**\n\n*   1996\u5e74\u7531Adam Carolla\u548c\u8abf\u9152\u5e2bJoe Koster\u5728\u897f\u597d\u840a\u5862\u7684Lola's\u9152\u5427\u5275\u9020\n*   \u7d93\u5178\u99ac\u4e01\u5c3c\u7684\u73fe\u4ee3\u8b8a\u594f\uff0c\u5c07\u7434\u9152\u66ff\u63db\u70ba\u4f0f\u7279\u52a0\uff0c\u4e26\u52a0\u5165\u860b\u679c\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled martini glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u99ac\u4e01\u5c3c\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Apple slice or cherry",
+    "zh": "\u860b\u679c\u7247\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Bright green, clear liquid",
+    "zh": "\u4eae\u7da0\u8272\uff0c\u6e05\u6f88\u7684\u6db2\u9ad4"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "\u63d0\u4f9b\u4e2d\u6027\u7684\u9152\u7cbe\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apple Liqueur",
+        "zh": "\u860b\u679c\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary apple flavor.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u860b\u679c\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\uff0c\u5e73\u8861\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

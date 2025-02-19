@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en": "Sake Bomb",
+    "zh": "\u6e05\u9152\u70b8\u5f48"
+  },
+  "description": {
+    "en": "**Simple yet impactful combination.**\n\nA sake bomb is a beer cocktail, served with sake balanced on chopsticks above the beer:\n*   The patron chants \"Sake Bomb\" and hits the table\n*   The sake drops into the beer\n*   The drink is consumed quickly.",
+    "zh": "**\u7c21\u55ae\u4f46\u6709\u885d\u64ca\u529b\u7684\u7d44\u5408\u3002**\n\n\u6e05\u9152\u70b8\u5f48\u662f\u4e00\u7a2e\u5564\u9152\u96de\u5c3e\u9152\uff0c\u5c07\u6e05\u9152\u5e73\u8861\u5728\u5564\u9152\u4e0a\u65b9\u7684\u7b77\u5b50\u4e0a\uff1a\n*   \u9867\u5ba2\u541f\u5531\u201c\u6e05\u9152\u70b8\u5f48\u201d\u4e26\u6572\u64ca\u684c\u5b50\n*   \u6e05\u9152\u6ef4\u5165\u5564\u9152\u4e2d\n*   \u5feb\u901f\u98f2\u7528\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins are uncertain, but likely a post-WWII American invention**\n\n*   Popularized in the United States and other Western countries.\n*   A playful, often rowdy, way to consume sake and beer together.\n*   Exact origin and first usage are unknown.",
+    "zh": "**\u8d77\u6e90\u4e0d\u78ba\u5b9a\uff0c\u4f46\u53ef\u80fd\u662f\u4e8c\u6230\u5f8c\u7f8e\u570b\u4eba\u7684\u767c\u660e**\n\n*   \u5728\u7f8e\u570b\u548c\u5176\u4ed6\u897f\u65b9\u570b\u5bb6\u6d41\u884c\u3002\n*   \u4e00\u7a2e\u6709\u8da3\u4e14\u901a\u5e38\u55a7\u9b27\u7684\u65b9\u5f0f\uff0c\u5c07\u6e05\u9152\u548c\u5564\u9152\u4e00\u8d77\u98f2\u7528\u3002\n*   \u78ba\u5207\u7684\u8d77\u6e90\u548c\u9996\u6b21\u4f7f\u7528\u5c1a\u4e0d\u6e05\u695a\u3002"
+  },
+  "technique": {
+    "en": "Balance sake in shot glass atop chopsticks over a pint of beer. Yell 'Sake Bomb!' and drop it in.",
+    "zh": "\u5c07\u6e05\u9152\u653e\u5728\u5c0f\u9152\u676f\u4e2d\uff0c\u7528\u7b77\u5b50\u5728\u5564\u9152\u54c1\u812b\u676f\u4e0a\u4fdd\u6301\u5e73\u8861\u3002\u5927\u558a\u201c\u6e05\u9152\u70b8\u5f48\uff01\u201d\u7136\u5f8c\u5c07\u5176\u653e\u5165\u3002"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "\u7121"
+  },
+  "serve_in_glass": {
+    "en": "Pint Glass",
+    "zh": "\u54c1\u812b\u676f"
+  },
+  "appearance": {
+    "en": "Beer with sake floating inside the glass.",
+    "zh": "\u5564\u9152\u4e2d\u6f02\u6d6e\u8457\u6e05\u9152\u3002"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sake",
+        "zh": "\u6e05\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic kick and unique flavor.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u7684\u9152\u7cbe\u523a\u6fc0\u548c\u7368\u7279\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    },
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    },
+    {
+      "en": "Grassy",
+      "zh": "\u9752\u8349"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

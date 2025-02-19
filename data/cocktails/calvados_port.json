@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Calvados Port",
+    "zh": "\u860b\u679c\u767d\u862d\u5730\u6ce2\u7279"
+  },
+  "description": {
+    "en": "**Rich and Fruity Cocktail**\n\nA luxurious after-dinner drink that highlights the depth of Calvados:\n\n*   Calvados base for robust apple flavor\n*   Port wine adds sweetness and body\n*   Bitters to balance and enhance the experience",
+    "zh": "**\u6fc3\u90c1\u679c\u9999\u7684\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u5962\u83ef\u7684\u9910\u5f8c\u98f2\u54c1\uff0c\u7a81\u986f\u860b\u679c\u767d\u862d\u5730\u7684\u6df1\u5ea6\uff1a\n\n*   \u4ee5\u860b\u679c\u767d\u862d\u5730\u70ba\u57fa\u5e95\uff0c\u5e36\u4f86\u6fc3\u90c1\u7684\u860b\u679c\u98a8\u5473\n*   \u6ce2\u7279\u9152\u589e\u6dfb\u751c\u5473\u548c\u9152\u9ad4\n*   \u82e6\u7cbe\u5e73\u8861\u4e26\u63d0\u5347\u98a8\u5473"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\n*   A contemporary cocktail designed to showcase the pairing of Calvados and Port.\n*   Likely originated in the late 20th or early 21st century as a variation on classic brandy cocktails.",
+    "zh": "**\u73fe\u4ee3\u5275\u4f5c**\n\n*   \u4e00\u6b3e\u73fe\u4ee3\u96de\u5c3e\u9152\uff0c\u65e8\u5728\u5c55\u793a\u860b\u679c\u767d\u862d\u5730\u548c\u6ce2\u7279\u9152\u7684\u642d\u914d\u3002\n*   \u53ef\u80fd\u8d77\u6e90\u65bc20\u4e16\u7d00\u672b\u621621\u4e16\u7d00\u521d\uff0c\u662f\u7d93\u5178\u767d\u862d\u5730\u96de\u5c3e\u9152\u7684\u8b8a\u9ad4\u3002"
+  },
+  "technique": {
+    "en": "Stir with ice and strain",
+    "zh": "\u52a0\u51b0\u652a\u62cc\u5f8c\u904e\u6ffe"
+  },
+  "garnish": {
+    "en": "Apple slice or cherry",
+    "zh": "\u860b\u679c\u7247\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or coupe",
+    "zh": "\u5ca9\u77f3\u676f\u6216\u6dfa\u789f\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Deep amber with ruby highlights",
+    "zh": "\u6df1\u7425\u73c0\u8272\uff0c\u5e36\u6709\u7d05\u5bf6\u77f3\u8272\u6fa4"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Calvados",
+        "zh": "\u860b\u679c\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the apple brandy base with complex fruit notes.",
+        "zh": "\u63d0\u4f9b\u860b\u679c\u767d\u862d\u5730\u57fa\u5e95\uff0c\u5177\u6709\u8907\u96dc\u7684\u679c\u9999\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Port Wine (Tawny)",
+        "zh": "\u6ce2\u7279\u9152\uff08\u8336\u8272\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, body, and dried fruit notes.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u3001\u9152\u9ad4\u548c\u4e7e\u679c\u9999\u6c23\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters (Angostura)",
+        "zh": "\u82e6\u7cbe\uff08\u5b89\u683c\u5f0f\uff09"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u8907\u96dc\u6027\u4e26\u5e73\u8861\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

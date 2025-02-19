@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Nuclear Daiquiri",
+    "zh": "\u6838\u5b50\u9edb\u7dba\u8389"
+  },
+  "description": {
+    "en": "A potent and vibrant variation on the classic Daiquiri, featuring the distinctive flavors of Green Chartreuse and a touch of maraschino liqueur.\n\n*   **Sweet and herbal**\n*   Visually striking with its bright color",
+    "zh": "\u7d93\u5178 Daiquiri \u7684\u5f37\u5927\u800c\u5145\u6eff\u6d3b\u529b\u7684\u8b8a\u9ad4\uff0c\u5177\u6709 Green Chartreuse \u7684\u7368\u7279\u98a8\u5473\u548c\u5c11\u8a31\u9ed1\u6afb\u6843\u5229\u53e3\u9152\u3002\n\n*   **\u9999\u751c\u8349\u672c**\n*   \u8272\u5f69\u9bae\u8c54\uff0c\u5f15\u4eba\u6ce8\u76ee"
+  },
+  "historical_reference": {
+    "en": "The exact origin of the Nuclear Daiquiri is unclear, but it likely emerged in the late 20th century as a playful twist on the classic Daiquiri, reflecting a trend towards more adventurous and potent cocktails.\n\n*   **Modern twist on a classic**\n*   Name suggests a strong, vibrant drink",
+    "zh": "\u6838\u5b50 Daiquiri \u7684\u78ba\u5207\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u5b83\u53ef\u80fd\u51fa\u73fe\u5728 20 \u4e16\u7d00\u672b\uff0c\u662f\u5c0d\u7d93\u5178 Daiquiri \u7684\u4e00\u7a2e\u6709\u8da3\u7684\u8f49\u8b8a\uff0c\u53cd\u6620\u4e86\u5c0d\u66f4\u5927\u81bd\u548c\u66f4\u6709\u6548\u7684\u96de\u5c3e\u9152\u7684\u8da8\u52e2\u3002\n\n*   **\u7d93\u5178\u7684\u73fe\u4ee3\u8f49\u6298**\n*   \u540d\u7a31\u8868\u793a\u6fc3\u70c8\u3001\u5145\u6eff\u6d3b\u529b\u7684\u98f2\u54c1"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "\u6ab8\u6aac\u89d2\u6216\u6ab8\u6aac\u7247"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Bright, glowing yellow-green",
+    "zh": "\u660e\u4eae\uff0c\u767c\u5149\u7684\u9ec3\u7da0\u8272"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "\u767d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a light, clean base",
+        "zh": "\u63d0\u4f9b\u6e05\u6de1\u7684\u57fa\u5e95"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "\u7da0\u8272\u67e5\u7279\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds complex herbal notes and a unique color",
+        "zh": "\u6dfb\u52a0\u8907\u96dc\u7684\u8349\u672c\u5473\u548c\u7368\u7279\u7684\u984f\u8272"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds subtle cherry notes and sweetness",
+        "zh": "\u589e\u52a0\u5fae\u5999\u7684\u6afb\u6843\u5473\u548c\u751c\u5473"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u5e73\u8861\u611f"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u5c11\u8a31"
+      },
+      "rationale": {
+        "en": "Adds sweetness",
+        "zh": "\u589e\u52a0\u751c\u5ea6"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 8,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

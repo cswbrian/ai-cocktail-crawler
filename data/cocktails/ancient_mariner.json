@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Ancient Mariner",
+    "zh": "\u53e4\u4ee3\u6c34\u624b"
+  },
+  "description": {
+    "en": "*A complex rum sour, blending sweetness, acidity and spice.*\n\nThis cocktail is a sophisticated variation on the classic Daiquiri, showcasing the depth and complexity of aged rum.\n\nKey elements include:\n*   Fresh lime juice for tartness\n*   Simple syrup for balance\n*   Angostura bitters for aromatic spice\n*   Allspice dram for an added layer of flavor and complexity",
+    "zh": "*\u4e00\u6b3e\u8907\u96dc\u7684\u862d\u59c6\u9152\u9178\u9152\uff0c\u878d\u5408\u4e86\u751c\u5473\u3001\u9178\u5473\u548c\u8f9b\u8fa3\u5473.*\n\n\u9019\u6b3e\u96de\u5c3e\u9152\u662f\u7d93\u5178 Daiquiri \u7684\u7cbe\u7dfb\u8b8a\u594f\uff0c\u5c55\u73fe\u4e86\u9673\u5e74\u862d\u59c6\u9152\u7684\u6df1\u5ea6\u548c\u8907\u96dc\u6027\u3002\n\n\u4e3b\u8981\u5143\u7d20\u5305\u62ec\uff1a\n* \u65b0\u9bae\u7684\u840a\u59c6\u6c41\u5e36\u4f86\u9178\u5473\n* \u7c21\u7cd6\u6f3f\u4fdd\u6301\u5e73\u8861\n* \u5b89\u683c\u5f0f\u82e6\u7cbe\u5e36\u4f86\u82b3\u9999\u7684\u8f9b\u8fa3\u5473\n* \u591a\u9999\u679c\u5229\u53e3\u9152\u589e\u52a0\u4e86\u98a8\u5473\u548c\u8907\u96dc\u6027"
+  },
+  "historical_reference": {
+    "en": "**Attribution:** The Ancient Mariner is attributed to Jeff \"Beachbum\" Berry. \n\n*   Popularized in the modern tiki revival. \n*   Reflects a complex layering of flavors characteristic of tiki cocktails. \n*   Builds on the basic Daiquiri template with added bitters and spice.",
+    "zh": "**\u6b78\u5c6c\uff1a** \u53e4\u4ee3\u6c34\u624b\u6b78\u529f\u65bc\u5091\u592b\u201c\u6d77\u7058\u6d6a\u5b50\u201d\u8c9d\u745e\u3002\n\n* \u5728\u73fe\u4ee3\u63d0\u57fa\u5fa9\u8208\u4e2d\u666e\u53ca\u3002\n* \u53cd\u6620\u4e86\u63d0\u57fa\u96de\u5c3e\u9152\u7279\u6709\u7684\u8907\u96dc\u98a8\u5473\u5c64\u6b21\u3002\n* \u4ee5\u57fa\u672c\u7684 Daiquiri \u6a21\u677f\u70ba\u57fa\u790e\uff0c\u6dfb\u52a0\u4e86\u82e6\u7cbe\u548c\u9999\u6599\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and double strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u96d9\u91cd\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Lime wheel or expressed lime peel",
+    "zh": "\u840a\u59c6\u8f2a\u6216\u64e0\u58d3\u840a\u59c6\u76ae"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail glass",
+    "zh": "\u6dfa\u789f\u9999\u6ab3\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy",
+    "zh": "\u6de1\u9ec3\u8272\uff0c\u7565\u5e36\u6df7\u6fc1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base.",
+        "zh": "\u63d0\u4f9b\u8c50\u5bcc\u7684\u3001\u4ee5\u7cd6\u871c\u70ba\u57fa\u790e\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Allspice Dram",
+        "zh": "\u591a\u9999\u679c\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a unique spice element, complementing the rum.",
+        "zh": "\u589e\u52a0\u7368\u7279\u7684\u9999\u6599\u5143\u7d20\uff0c\u8207\u862d\u59c6\u9152\u76f8\u5f97\u76ca\u5f70\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds essential acidity and citrus notes.",
+        "zh": "\u589e\u52a0\u5fc5\u8981\u7684\u9178\u5ea6\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Balances the tartness of the lime juice.",
+        "zh": "\u5e73\u8861\u840a\u59c6\u6c41\u7684\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity and spice.",
+        "zh": "\u589e\u52a0\u82b3\u9999\u7684\u8907\u96dc\u6027\u548c\u9999\u6599\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

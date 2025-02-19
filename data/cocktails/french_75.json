@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "French 75",
+    "zh": "\u6cd5\u5f0f75"
+  },
+  "description": {
+    "en": "**Classic and Bubbly Cocktail**\n\nA sophisticated and refreshing cocktail made with:\n*   Gin for a botanical base\n*   Lemon juice for a citrusy tang\n*   Simple syrup for sweetness\n*   Champagne for effervescence and elegance",
+    "zh": "**\u7d93\u5178\u6c23\u6ce1\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u7cbe\u7dfb\u6e05\u723d\u7684\u96de\u5c3e\u9152\uff0c\u5305\u542b\uff1a\n*   \u7434\u9152\uff0c\u63d0\u4f9b\u690d\u7269\u57fa\u5e95\n*   \u6ab8\u6aac\u6c41\uff0c\u5e36\u4f86\u67d1\u6a58\u98a8\u5473\n*   \u7c21\u7cd6\u6f3f\uff0c\u5e36\u4f86\u751c\u5473\n*   \u9999\u6ab3\uff0c\u5e36\u4f86\u6c23\u6ce1\u548c\u512a\u96c5\u611f"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to be created around World War I\n\n*   Named after a powerful French 75mm field gun\n*   Popularized at Harry's New York Bar in Paris",
+    "zh": "**\u8d77\u6e90**\uff1a\u64da\u4fe1\u5275\u88fd\u65bc\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6230\u524d\u5f8c\n\n*   \u4ee5\u6cd5\u570b75\u6beb\u7c73\u91ce\u6230\u70ae\u547d\u540d\uff0c\u8c61\u5fb5\u5176\u5f37\u52c1\n*   \u5728\u5df4\u9ece\u7684\u54c8\u5229\u7d10\u7d04\u9152\u5427\u5ee3\u53d7\u6b61\u8fce"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into a champagne flute. Top with champagne. Garnish with a lemon twist.",
+    "zh": "\u5c07\u7434\u9152\u3001\u6ab8\u6aac\u6c41\u548c\u7c21\u7cd6\u6f3f\u8207\u51b0\u584a\u6416\u52fb\u3002 \u6ffe\u5165\u9999\u6ab3\u676f\u3002 \u6ce8\u5165\u9999\u6ab3\u3002 \u4ee5\u6ab8\u6aac\u76ae\u626d\u82b1\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "\u6ab8\u6aac\u76ae\u626d\u82b1"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "\u9999\u6ab3\u676f"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent, with lemon twist garnish",
+    "zh": "\u6de1\u9ec3\u8272\uff0c\u8d77\u6ce1\uff0c\u6ab8\u6aac\u76ae\u626d\u82b1\u88dd\u98fe"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u690d\u7269\u6027\u8907\u96dc\u5ea6\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u67d1\u6a58\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7c21\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u9178\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

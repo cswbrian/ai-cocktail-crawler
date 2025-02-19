@@ -1,0 +1,5664 @@
+{
+  "unique_cocktails": [
+    {
+      "en": "12 Mile Limit",
+      "zh": "12英里限制"
+    },
+    {
+      "en": "20th Century Cocktail",
+      "zh": "二十世紀雞尾酒"
+    },
+    {
+      "en": "Adonis",
+      "zh": "阿多尼斯"
+    },
+    {
+      "en": "Agua de Sevilla",
+      "zh": "塞維利亞之水"
+    },
+    {
+      "en": "Agua de Valencia",
+      "zh": "瓦倫西亞之水"
+    },
+    {
+      "en": "Aguaymanto Sour",
+      "zh": "燈籠果酸酒"
+    },
+    {
+      "en": "Airmail",
+      "zh": "空中郵件"
+    },
+    {
+      "en": "Alabama Slammer",
+      "zh": "阿拉巴馬大滿貫"
+    },
+    {
+      "en": "Alexander",
+      "zh": "亞歷山大"
+    },
+    {
+      "en": "Amaretto Sour",
+      "zh": "杏仁酸酒"
+    },
+    {
+      "en": "Amber Moon",
+      "zh": "琥珀之月"
+    },
+    {
+      "en": "Americano",
+      "zh": "美式咖啡 (雞尾酒)"
+    },
+    {
+      "en": "Ancient Mariner",
+      "zh": "古代水手"
+    },
+    {
+      "en": "Angel Face",
+      "zh": "天使之顏"
+    },
+    {
+      "en": "Aperol Spritz",
+      "zh": "阿佩羅氣泡酒"
+    },
+    {
+      "en": "Appletini",
+      "zh": "蘋果馬丁尼"
+    },
+    {
+      "en": "Astro Pop",
+      "zh": "太空冰棒"
+    },
+    {
+      "en": "Atomic Cocktail",
+      "zh": "原子雞尾酒"
+    },
+    {
+      "en": "Averna Spritz",
+      "zh": "艾 Averna 氣泡酒"
+    },
+    {
+      "en": "Aviation",
+      "zh": "飛行"
+    },
+    {
+      "en": "B-52",
+      "zh": "B-52轟炸機"
+    },
+    {
+      "en": "BLT Cocktail",
+      "zh": "BLT 雞尾酒"
+    },
+    {
+      "en": "Baby Guinness",
+      "zh": "迷你健力士"
+    },
+    {
+      "en": "Bacardi White Rum",
+      "zh": "百加得白蘭姆酒"
+    },
+    {
+      "en": "Bacon Bourbon Manhattan",
+      "zh": "培根波本曼哈頓"
+    },
+    {
+      "en": "Bamboo Cocktail",
+      "zh": "竹子雞尾酒"
+    },
+    {
+      "en": "Barracuda",
+      "zh": "梭魚"
+    },
+    {
+      "en": "Batanga",
+      "zh": "巴坦加"
+    },
+    {
+      "en": "Batida",
+      "zh": "巴西果昔"
+    },
+    {
+      "en": "Bay Breeze",
+      "zh": "海灣微風"
+    },
+    {
+      "en": "Bee's Knees",
+      "zh": "蜜蜂的膝蓋"
+    },
+    {
+      "en": "Bees Knees",
+      "zh": "蜜蜂的膝蓋"
+    },
+    {
+      "en": "Bellini",
+      "zh": "貝里尼"
+    },
+    {
+      "en": "Between the Sheets",
+      "zh": "床笫之間"
+    },
+    {
+      "en": "Bijou",
+      "zh": "珠寶"
+    },
+    {
+      "en": "Black Nail",
+      "zh": "黑釘"
+    },
+    {
+      "en": "Black Russian",
+      "zh": "黑色俄羅斯"
+    },
+    {
+      "en": "Black Velvet",
+      "zh": "黑色天鵝絨"
+    },
+    {
+      "en": "Black and Tan",
+      "zh": "黑棕啤酒"
+    },
+    {
+      "en": "Blackthorn",
+      "zh": "黑刺李"
+    },
+    {
+      "en": "Blood & Sand",
+      "zh": "血與沙"
+    },
+    {
+      "en": "Blood and Sand",
+      "zh": "血與沙"
+    },
+    {
+      "en": "Bloody Margaret",
+      "zh": "血腥瑪格麗特"
+    },
+    {
+      "en": "Bloody Maria",
+      "zh": "血腥瑪麗亞"
+    },
+    {
+      "en": "Bloody Mary",
+      "zh": "血腥瑪麗"
+    },
+    {
+      "en": "Blow My Skull",
+      "zh": "震驚大腦"
+    },
+    {
+      "en": "Blue Blazer",
+      "zh": "藍色火焰"
+    },
+    {
+      "en": "Blue Hawaii",
+      "zh": "藍色夏威夷"
+    },
+    {
+      "en": "Blue Hawaiian",
+      "zh": "藍色夏威夷"
+    },
+    {
+      "en": "Blue Lagoon",
+      "zh": "藍色潟湖"
+    },
+    {
+      "en": "Blueberry Tea Mudslide",
+      "zh": "藍莓茶泥石流"
+    },
+    {
+      "en": "Bobby Burns",
+      "zh": "博比·伯恩斯"
+    },
+    {
+      "en": "Boilermaker",
+      "zh": "鍋爐工"
+    },
+    {
+      "en": "Boston Tea Party",
+      "zh": "波士頓茶會"
+    },
+    {
+      "en": "Boulevardier",
+      "zh": "布列瓦迪"
+    },
+    {
+      "en": "Bourbon Lancer",
+      "zh": "波本槍騎兵"
+    },
+    {
+      "en": "Bramble",
+      "zh": "黑莓果"
+    },
+    {
+      "en": "Brandy Alexander",
+      "zh": "亞歷山大白蘭地"
+    },
+    {
+      "en": "Brandy Crusta",
+      "zh": "白蘭地 Crusta"
+    },
+    {
+      "en": "Brandy Manhattan",
+      "zh": "白蘭地曼哈頓"
+    },
+    {
+      "en": "Brandy Old Fashioned",
+      "zh": "白蘭地古典雞尾酒"
+    },
+    {
+      "en": "Brandy Sour",
+      "zh": "白蘭地酸酒"
+    },
+    {
+      "en": "Breakfast Martini",
+      "zh": "早餐馬丁尼"
+    },
+    {
+      "en": "Bronx",
+      "zh": "布朗克斯"
+    },
+    {
+      "en": "Brooklyn",
+      "zh": "布魯克林"
+    },
+    {
+      "en": "Brut",
+      "zh": "布魯特"
+    },
+    {
+      "en": "Bull Shot",
+      "zh": "公牛特調"
+    },
+    {
+      "en": "Bumbo",
+      "zh": "邦布酒"
+    },
+    {
+      "en": "Bushwacker",
+      "zh": "叢林行者"
+    },
+    {
+      "en": "Byculla",
+      "zh": "拜庫拉"
+    },
+    {
+      "en": "Caesar",
+      "zh": "凱撒"
+    },
+    {
+      "en": "Caipirinha",
+      "zh": "卡琵莉亞"
+    },
+    {
+      "en": "Caipiroska",
+      "zh": "卡琵洛斯卡"
+    },
+    {
+      "en": "Caju Amigo",
+      "zh": "腰果之友"
+    },
+    {
+      "en": "Calimocho",
+      "zh": "卡利莫喬"
+    },
+    {
+      "en": "Calvados Port",
+      "zh": "蘋果白蘭地波特"
+    },
+    {
+      "en": "Campari Spritz",
+      "zh": "金巴利氣泡飲"
+    },
+    {
+      "en": "Campfire Cocktail",
+      "zh": "營火雞尾酒"
+    },
+    {
+      "en": "Canelazo (Variation)",
+      "zh": "卡內拉佐 (變奏)"
+    },
+    {
+      "en": "Cantarito",
+      "zh": "坎塔里托"
+    },
+    {
+      "en": "Cape Codder",
+      "zh": "科德角調酒"
+    },
+    {
+      "en": "Casino",
+      "zh": "賭場"
+    },
+    {
+      "en": "Cement Mixer",
+      "zh": "水泥攪拌機"
+    },
+    {
+      "en": "Chambord Royale",
+      "zh": "香博皇家雞尾酒"
+    },
+    {
+      "en": "Champagne Cocktail",
+      "zh": "香檳雞尾酒"
+    },
+    {
+      "en": "Charred Orange Paloma",
+      "zh": "焦香橙Paloma"
+    },
+    {
+      "en": "Chartreuse Swizzle",
+      "zh": "查特酒思醉"
+    },
+    {
+      "en": "Cheeky Vimto",
+      "zh": "淘氣雲圖"
+    },
+    {
+      "en": "Chi-Chi",
+      "zh": "奇奇"
+    },
+    {
+      "en": "Chicago Cocktail",
+      "zh": "芝加哥雞尾酒"
+    },
+    {
+      "en": "Chimayó Cocktail",
+      "zh": "奇馬約雞尾酒"
+    },
+    {
+      "en": "Chipotle Bloody Mary",
+      "zh": "墨西哥辣椒血腥瑪麗"
+    },
+    {
+      "en": "Chocolate Martini",
+      "zh": "巧克力馬丁尼"
+    },
+    {
+      "en": "Chrysanthemum",
+      "zh": "菊花"
+    },
+    {
+      "en": "Churchill",
+      "zh": "邱吉爾"
+    },
+    {
+      "en": "Ciro's Special",
+      "zh": "西羅特調"
+    },
+    {
+      "en": "Claret Cup",
+      "zh": "紅酒杯"
+    },
+    {
+      "en": "Cloister",
+      "zh": "隱修士"
+    },
+    {
+      "en": "Clover Club",
+      "zh": "三葉草俱樂部"
+    },
+    {
+      "en": "Cobra's Fang",
+      "zh": "眼鏡蛇之牙"
+    },
+    {
+      "en": "Cojito",
+      "zh": "椰子莫希托"
+    },
+    {
+      "en": "Cooperstown",
+      "zh": "庫珀斯敦"
+    },
+    {
+      "en": "Corpse Reviver #2",
+      "zh": "亡者復生2號"
+    },
+    {
+      "en": "Corpse Reviver No. 2",
+      "zh": "Corpse Reviver No. 2 號"
+    },
+    {
+      "en": "Cosmopolitan",
+      "zh": "柯夢波丹"
+    },
+    {
+      "en": "Cremat",
+      "zh": "克雷馬特"
+    },
+    {
+      "en": "Cuba Libre",
+      "zh": "自由古巴"
+    },
+    {
+      "en": "Cuban Sunset",
+      "zh": "古巴日落"
+    },
+    {
+      "en": "Curaçao Punch",
+      "zh": "庫拉索潘趣酒"
+    },
+    {
+      "en": "Cynar Spritz",
+      "zh": "金巴利氣泡酒"
+    },
+    {
+      "en": "Daiquiri",
+      "zh": "黛綺莉"
+    },
+    {
+      "en": "Daisy de Santiago",
+      "zh": "聖地牙哥黛西"
+    },
+    {
+      "en": "Damn the Weather",
+      "zh": "去他的天氣"
+    },
+    {
+      "en": "Dark 'n' Stormy",
+      "zh": "黑闇風暴"
+    },
+    {
+      "en": "Death Flip",
+      "zh": "死亡翻轉"
+    },
+    {
+      "en": "Death in the Afternoon",
+      "zh": "午後之死"
+    },
+    {
+      "en": "Delilah",
+      "zh": "黛利拉"
+    },
+    {
+      "en": "Derby",
+      "zh": "德比"
+    },
+    {
+      "en": "Diamondback",
+      "zh": "鑽石背"
+    },
+    {
+      "en": "Diki-Diki",
+      "zh": "迪基-迪基"
+    },
+    {
+      "en": "Dirty Martini",
+      "zh": "髒馬丁尼"
+    },
+    {
+      "en": "Dirty Shirley",
+      "zh": "弄髒的雪莉"
+    },
+    {
+      "en": "Division Bell",
+      "zh": "分裂鐘"
+    },
+    {
+      "en": "Dry Martini",
+      "zh": "乾馬丁尼"
+    },
+    {
+      "en": "Egg Nog",
+      "zh": "蛋酒"
+    },
+    {
+      "en": "El Diablo",
+      "zh": "惡魔"
+    },
+    {
+      "en": "El Presidente",
+      "zh": "總統"
+    },
+    {
+      "en": "Espresso Martini",
+      "zh": "濃縮咖啡馬丁尼"
+    },
+    {
+      "en": "Farnell",
+      "zh": "法內爾"
+    },
+    {
+      "en": "Fernet & Coke",
+      "zh": "費內可樂"
+    },
+    {
+      "en": "Fernet con Coca",
+      "zh": "苦艾酒可樂"
+    },
+    {
+      "en": "Fish House Punch",
+      "zh": "費雪之家潘趣酒"
+    },
+    {
+      "en": "Fitzgerald",
+      "zh": "費茲傑羅"
+    },
+    {
+      "en": "Flaming Doctor Pepper",
+      "zh": "火焰 Doctor Pepper"
+    },
+    {
+      "en": "Flaming Volcano",
+      "zh": "火焰火山"
+    },
+    {
+      "en": "Flip",
+      "zh": "菲力浦"
+    },
+    {
+      "en": "Flirtini",
+      "zh": "調情尼"
+    },
+    {
+      "en": "Floradora",
+      "zh": "弗洛拉多拉"
+    },
+    {
+      "en": "Fluffy Critter",
+      "zh": "毛茸茸的小動物"
+    },
+    {
+      "en": "Fluffy Duck",
+      "zh": "蓬鬆鴨"
+    },
+    {
+      "en": "Four Score",
+      "zh": "四分"
+    },
+    {
+      "en": "French 75",
+      "zh": "法式75"
+    },
+    {
+      "en": "French Connection",
+      "zh": "法國情緣"
+    },
+    {
+      "en": "Fuzzy Navel",
+      "zh": "模糊的肚臍"
+    },
+    {
+      "en": "Gibson",
+      "zh": "吉布森"
+    },
+    {
+      "en": "Gimlet",
+      "zh": "吉姆雷特"
+    },
+    {
+      "en": "Gin Fizz",
+      "zh": "琴費士"
+    },
+    {
+      "en": "Gin Pahit",
+      "zh": "琴酒巴 hit"
+    },
+    {
+      "en": "Gin Sour",
+      "zh": "琴酒酸酒"
+    },
+    {
+      "en": "Gin and Tonic",
+      "zh": "琴通尼"
+    },
+    {
+      "en": "Glowtini",
+      "zh": "光芒雞尾酒"
+    },
+    {
+      "en": "Glögg",
+      "zh": "瑞典熱紅酒"
+    },
+    {
+      "en": "Godfather",
+      "zh": "教父"
+    },
+    {
+      "en": "Godmother",
+      "zh": "教母"
+    },
+    {
+      "en": "Gold Rush",
+      "zh": "淘金熱"
+    },
+    {
+      "en": "Grasshopper",
+      "zh": "蚱蜢"
+    },
+    {
+      "en": "Green Beast",
+      "zh": "綠色野獸"
+    },
+    {
+      "en": "Greenpoint",
+      "zh": "格林波特"
+    },
+    {
+      "en": "Greyhound",
+      "zh": "灰狗"
+    },
+    {
+      "en": "Grog",
+      "zh": "格羅格"
+    },
+    {
+      "en": "Gunfire",
+      "zh": "炮火"
+    },
+    {
+      "en": "Gunsmoke",
+      "zh": "槍煙"
+    },
+    {
+      "en": "Gypsy",
+      "zh": "吉普賽"
+    },
+    {
+      "en": "Hangman's Blood",
+      "zh": "絞刑犯之血"
+    },
+    {
+      "en": "Hanky Panky",
+      "zh": "惡作劇"
+    },
+    {
+      "en": "Harlem Mugger",
+      "zh": "哈林搶劫犯"
+    },
+    {
+      "en": "Harvey Wallbanger",
+      "zh": "哈維沃爾班格"
+    },
+    {
+      "en": "Hemingway Daiquiri",
+      "zh": "海明威 Daiquiri"
+    },
+    {
+      "en": "Hennchata",
+      "zh": "干邑歐洽塔"
+    },
+    {
+      "en": "Herbsaint Frappé",
+      "zh": "赫柏聖冰沙"
+    },
+    {
+      "en": "Hoppel Poppel",
+      "zh": "霍佩爾·波佩爾"
+    },
+    {
+      "en": "Horse's Neck",
+      "zh": "馬頸"
+    },
+    {
+      "en": "Horsefeather",
+      "zh": "馬羽"
+    },
+    {
+      "en": "Hot Buttered Rum",
+      "zh": "熱奶油蘭姆酒"
+    },
+    {
+      "en": "Hugo",
+      "zh": "雨果"
+    },
+    {
+      "en": "Hurricane",
+      "zh": "颶風"
+    },
+    {
+      "en": "Illegal",
+      "zh": "非法"
+    },
+    {
+      "en": "Incredible Hulk",
+      "zh": "綠巨人浩克"
+    },
+    {
+      "en": "Irish Car Bomb",
+      "zh": "愛爾蘭汽車炸彈"
+    },
+    {
+      "en": "Irish Coffee",
+      "zh": "愛爾蘭咖啡"
+    },
+    {
+      "en": "Irish Maid",
+      "zh": "愛爾蘭女僕"
+    },
+    {
+      "en": "Islay Mist",
+      "zh": "伊斯萊迷霧"
+    },
+    {
+      "en": "Jack Rose",
+      "zh": "傑克·羅斯"
+    },
+    {
+      "en": "Jagertee",
+      "zh": "獵人茶"
+    },
+    {
+      "en": "Japanese Slipper",
+      "zh": "日本拖鞋"
+    },
+    {
+      "en": "Jasmine",
+      "zh": "茉莉花"
+    },
+    {
+      "en": "Jazmin Sour",
+      "zh": "茉莉花酸酒"
+    },
+    {
+      "en": "John Collins",
+      "zh": "約翰柯林斯"
+    },
+    {
+      "en": "John Daly",
+      "zh": "約翰·達利"
+    },
+    {
+      "en": "Juan Collins",
+      "zh": "璜·柯林斯"
+    },
+    {
+      "en": "Jungle Bird",
+      "zh": "叢林鳥"
+    },
+    {
+      "en": "Kamikaze",
+      "zh": "神風特攻隊"
+    },
+    {
+      "en": "Kangaroo",
+      "zh": "袋鼠"
+    },
+    {
+      "en": "Karsk",
+      "zh": "卡斯克"
+    },
+    {
+      "en": "Kensington Court",
+      "zh": "肯辛頓宮廷"
+    },
+    {
+      "en": "Kentucky Buck",
+      "zh": "肯塔基雄鹿"
+    },
+    {
+      "en": "Kir",
+      "zh": "基爾"
+    },
+    {
+      "en": "Kir Royale",
+      "zh": "皇家基爾"
+    },
+    {
+      "en": "La Louisiane",
+      "zh": "路易斯安那"
+    },
+    {
+      "en": "Lapsang Souchong Martini",
+      "zh": "正山小種馬丁尼"
+    },
+    {
+      "en": "Last Word",
+      "zh": "最後一句"
+    },
+    {
+      "en": "Last of the Mohicans",
+      "zh": "最後的莫希干人"
+    },
+    {
+      "en": "Leite de Onça",
+      "zh": "美洲豹奶"
+    },
+    {
+      "en": "Lemon Drop",
+      "zh": "檸檬 ड्रॉप"
+    },
+    {
+      "en": "Lime Rickey",
+      "zh": "萊姆利奇"
+    },
+    {
+      "en": "Link Up",
+      "zh": "連線"
+    },
+    {
+      "en": "Lion's Tail",
+      "zh": "獅尾"
+    },
+    {
+      "en": "Long Island Iced Tea",
+      "zh": "長島冰茶"
+    },
+    {
+      "en": "Lorraine",
+      "zh": "洛林"
+    },
+    {
+      "en": "Lynchburg Lemonade",
+      "zh": "林奇堡檸檬水"
+    },
+    {
+      "en": "Macuá",
+      "zh": "馬夸"
+    },
+    {
+      "en": "Mai Tai",
+      "zh": "美泰"
+    },
+    {
+      "en": "Mango Sour",
+      "zh": "芒果酸酒"
+    },
+    {
+      "en": "Manhattan",
+      "zh": "曼哈頓"
+    },
+    {
+      "en": "Margarita",
+      "zh": "瑪格麗特"
+    },
+    {
+      "en": "Martinez",
+      "zh": "馬丁尼茲"
+    },
+    {
+      "en": "Martini",
+      "zh": "馬丁尼"
+    },
+    {
+      "en": "Mary Pickford",
+      "zh": "瑪麗·碧克馥"
+    },
+    {
+      "en": "Matador",
+      "zh": "鬥牛士"
+    },
+    {
+      "en": "Mauresque",
+      "zh": "摩爾人"
+    },
+    {
+      "en": "Medicina Latina",
+      "zh": "拉丁療法"
+    },
+    {
+      "en": "Mexican Firing Squad",
+      "zh": "墨西哥行刑隊"
+    },
+    {
+      "en": "Mexican Martini",
+      "zh": "墨西哥馬丁尼"
+    },
+    {
+      "en": "Mezcal Last Word",
+      "zh": "梅斯卡爾最後遺言"
+    },
+    {
+      "en": "Mezcal Margarita",
+      "zh": "梅斯卡爾瑪格麗特"
+    },
+    {
+      "en": "Mezcal Negroni",
+      "zh": "梅斯卡爾尼格羅尼"
+    },
+    {
+      "en": "Michelada",
+      "zh": "米切拉達"
+    },
+    {
+      "en": "Mimosa",
+      "zh": "含羞草雞尾酒"
+    },
+    {
+      "en": "Mint Julep",
+      "zh": "薄荷茱莉普"
+    },
+    {
+      "en": "Missouri Mule",
+      "zh": "密蘇里騾子"
+    },
+    {
+      "en": "Mojito",
+      "zh": "莫希托"
+    },
+    {
+      "en": "Monaco",
+      "zh": "摩納哥"
+    },
+    {
+      "en": "Monkey Gland",
+      "zh": "猴腺"
+    },
+    {
+      "en": "Moon River",
+      "zh": "月亮河"
+    },
+    {
+      "en": "Moose Milk",
+      "zh": "麋鹿奶"
+    },
+    {
+      "en": "Moscow Mule",
+      "zh": "莫斯科騾子"
+    },
+    {
+      "en": "Mr. Bali Hai",
+      "zh": "峇里海先生"
+    },
+    {
+      "en": "My Fair Lady",
+      "zh": "窈窕淑女"
+    },
+    {
+      "en": "Naked and Famous",
+      "zh": "赤裸與著名"
+    },
+    {
+      "en": "Negroni",
+      "zh": "尼格羅尼"
+    },
+    {
+      "en": "Negroni Sbagliato",
+      "zh": "錯誤尼格羅尼"
+    },
+    {
+      "en": "New York Sour",
+      "zh": "紐約酸酒"
+    },
+    {
+      "en": "Nixon",
+      "zh": "尼克森"
+    },
+    {
+      "en": "Nuclear Daiquiri",
+      "zh": "核子黛綺莉"
+    },
+    {
+      "en": "Oatmeal Cookie",
+      "zh": "燕麥餅乾"
+    },
+    {
+      "en": "Oaxaca Old Fashioned",
+      "zh": "瓦哈卡古典雞尾酒"
+    },
+    {
+      "en": "Ochsenblut",
+      "zh": "牛血"
+    },
+    {
+      "en": "Old Cuban",
+      "zh": "老古巴"
+    },
+    {
+      "en": "Old Etonian",
+      "zh": "老伊頓尼"
+    },
+    {
+      "en": "Old Fashioned",
+      "zh": "古典雞尾酒"
+    },
+    {
+      "en": "Old Pal",
+      "zh": "老友"
+    },
+    {
+      "en": "Orange Tundra",
+      "zh": "橙色苔原"
+    },
+    {
+      "en": "Orgasm",
+      "zh": "高潮"
+    },
+    {
+      "en": "Oyster Shooter",
+      "zh": "生蠔Shot"
+    },
+    {
+      "en": "Painkiller",
+      "zh": "止痛藥"
+    },
+    {
+      "en": "Paloma",
+      "zh": "帕洛瑪"
+    },
+    {
+      "en": "Paper Plane",
+      "zh": "紙飛機"
+    },
+    {
+      "en": "Paradise",
+      "zh": "天堂"
+    },
+    {
+      "en": "Pegu Club",
+      "zh": "Pegu Club 雞尾酒"
+    },
+    {
+      "en": "Penicillin",
+      "zh": "盤尼西林"
+    },
+    {
+      "en": "Perfect Manhattan",
+      "zh": "完美曼哈頓"
+    },
+    {
+      "en": "Perroquet",
+      "zh": "鸚鵡"
+    },
+    {
+      "en": "Pickleback",
+      "zh": "酸黃瓜背"
+    },
+    {
+      "en": "Pimm's Cup",
+      "zh": "龐貝杯"
+    },
+    {
+      "en": "Pina Colada",
+      "zh": "鳳梨可樂達"
+    },
+    {
+      "en": "Pink Gin",
+      "zh": "粉紅琴酒"
+    },
+    {
+      "en": "Pink Lady",
+      "zh": "粉紅佳人"
+    },
+    {
+      "en": "Pisco Sour",
+      "zh": "皮斯可酸酒"
+    },
+    {
+      "en": "Piscola",
+      "zh": "皮斯可樂"
+    },
+    {
+      "en": "Piña Colada",
+      "zh": "鳳梨可樂達"
+    },
+    {
+      "en": "Planter's Punch",
+      "zh": "種植園主潘趣酒"
+    },
+    {
+      "en": "Platinum Blonde",
+      "zh": "白金金髮"
+    },
+    {
+      "en": "Polar Bear",
+      "zh": "北極熊"
+    },
+    {
+      "en": "Porchcrawler",
+      "zh": "門廊漫步者"
+    },
+    {
+      "en": "Porn Star Martini",
+      "zh": "色情明星馬丁尼"
+    },
+    {
+      "en": "Portbuka",
+      "zh": "波特加"
+    },
+    {
+      "en": "Porto Flip",
+      "zh": "波特菲力"
+    },
+    {
+      "en": "Prince of Wales",
+      "zh": "威爾斯親王"
+    },
+    {
+      "en": "Purgatory",
+      "zh": "煉獄"
+    },
+    {
+      "en": "Q.B. Cooler",
+      "zh": "Q.B.酷樂"
+    },
+    {
+      "en": "Queen Mary",
+      "zh": "女王瑪麗"
+    },
+    {
+      "en": "Queen's Park Swizzle",
+      "zh": "女王公園斯威佐"
+    },
+    {
+      "en": "Queens",
+      "zh": "皇后"
+    },
+    {
+      "en": "Quentão",
+      "zh": "Quentão (巴西熱紅酒)"
+    },
+    {
+      "en": "Quick Fuck",
+      "zh": "快速性愛"
+    },
+    {
+      "en": "Rabo-de-galo",
+      "zh": "公雞尾巴"
+    },
+    {
+      "en": "Ramos Gin Fizz",
+      "zh": "拉莫斯琴費士"
+    },
+    {
+      "en": "Ranch Water",
+      "zh": "牧場之水"
+    },
+    {
+      "en": "Rebujito",
+      "zh": "瑞布西托"
+    },
+    {
+      "en": "Red Russian",
+      "zh": "紅色俄羅斯"
+    },
+    {
+      "en": "Red Snapper",
+      "zh": "紅鯛魚"
+    },
+    {
+      "en": "Redheaded slut",
+      "zh": "紅髮蕩婦"
+    },
+    {
+      "en": "Remember the Maine",
+      "zh": "銘記緬因號"
+    },
+    {
+      "en": "Revelation",
+      "zh": "啟示"
+    },
+    {
+      "en": "Revolving Door",
+      "zh": "旋轉門"
+    },
+    {
+      "en": "Rob Roy",
+      "zh": "羅伯·羅伊"
+    },
+    {
+      "en": "Rose",
+      "zh": "玫瑰"
+    },
+    {
+      "en": "Rose Kennedy",
+      "zh": "蘿絲·甘迺迪"
+    },
+    {
+      "en": "Rossini",
+      "zh": "羅西尼"
+    },
+    {
+      "en": "Rourou",
+      "zh": "柔柔"
+    },
+    {
+      "en": "Royal Arrival",
+      "zh": "皇家降臨"
+    },
+    {
+      "en": "Royal Bermuda Yacht Club",
+      "zh": "皇家百慕達遊艇俱樂部"
+    },
+    {
+      "en": "Rum Swizzle",
+      "zh": "蘭姆酒思醉"
+    },
+    {
+      "en": "Rusty Nail",
+      "zh": "鏽釘"
+    },
+    {
+      "en": "Sake Bomb",
+      "zh": "清酒炸彈"
+    },
+    {
+      "en": "Saketini",
+      "zh": "清酒馬丁尼"
+    },
+    {
+      "en": "Salty Dog",
+      "zh": "鹹狗"
+    },
+    {
+      "en": "Sangrita",
+      "zh": "桑格麗塔"
+    },
+    {
+      "en": "Savoy Affair",
+      "zh": "薩伏伊情事"
+    },
+    {
+      "en": "Savoy Corpse Reviver No. 2",
+      "zh": "薩伏伊復活特調2號"
+    },
+    {
+      "en": "Sazerac",
+      "zh": "薩澤拉克"
+    },
+    {
+      "en": "Scofflaw",
+      "zh": "蔑視法律的人"
+    },
+    {
+      "en": "Scotch Sour",
+      "zh": "蘇格蘭酸酒"
+    },
+    {
+      "en": "Scotch and Soda",
+      "zh": "蘇格蘭威士忌蘇打"
+    },
+    {
+      "en": "Screwdriver",
+      "zh": "螺絲起子"
+    },
+    {
+      "en": "Sea Breeze",
+      "zh": "海風"
+    },
+    {
+      "en": "Seven and Seven",
+      "zh": "七七"
+    },
+    {
+      "en": "Sex on the Beach",
+      "zh": "海灘性愛"
+    },
+    {
+      "en": "Shandy",
+      "zh": "香迪"
+    },
+    {
+      "en": "Sherry Cobbler",
+      "zh": "雪莉柯布勒"
+    },
+    {
+      "en": "Sidecar",
+      "zh": " साइडकार (Sāidùkǎ)"
+    },
+    {
+      "en": "Singapore Sling",
+      "zh": "新加坡司令"
+    },
+    {
+      "en": "Slippery Nipple",
+      "zh": "滑溜奶頭"
+    },
+    {
+      "en": "Sloe Gin Fizz",
+      "zh": "黑刺李琴費士"
+    },
+    {
+      "en": "Smash",
+      "zh": "思美希"
+    },
+    {
+      "en": "Smoked Fig and Bourbon Sour",
+      "zh": "煙燻無花果波本酸酒"
+    },
+    {
+      "en": "Smoked Maple Old Fashioned",
+      "zh": "煙燻楓糖古典雞尾酒"
+    },
+    {
+      "en": "Smoked Peach Bellini",
+      "zh": "煙燻水蜜桃貝里尼"
+    },
+    {
+      "en": "Smoked Pineapple Margarita",
+      "zh": "煙燻鳳梨瑪格麗特"
+    },
+    {
+      "en": "Smoked Rosemary Gimlet",
+      "zh": "煙燻迷迭香 Gimlet"
+    },
+    {
+      "en": "Smoked Vanilla Espresso Martini",
+      "zh": "煙燻香草濃縮咖啡馬丁尼"
+    },
+    {
+      "en": "Smoky Paloma",
+      "zh": "煙燻帕洛瑪"
+    },
+    {
+      "en": "Snakebite",
+      "zh": "蛇咬"
+    },
+    {
+      "en": "Southside",
+      "zh": "南side"
+    },
+    {
+      "en": "Spaghett",
+      "zh": "斯帕蓋蒂"
+    },
+    {
+      "en": "Spicy Fifty",
+      "zh": "辛辣五十"
+    },
+    {
+      "en": "Springbokkie",
+      "zh": "跳羚"
+    },
+    {
+      "en": "Spritz",
+      "zh": "斯普里茲"
+    },
+    {
+      "en": "Spritzer",
+      "zh": "氣泡酒"
+    },
+    {
+      "en": "Stinger",
+      "zh": "스팅거"
+    },
+    {
+      "en": "Suffering Bastard",
+      "zh": "受難的混蛋"
+    },
+    {
+      "en": "Sumatra Kula",
+      "zh": "蘇門答臘庫拉"
+    },
+    {
+      "en": "Tamagozake",
+      "zh": "雞卵酒"
+    },
+    {
+      "en": "Tequila & Tonic",
+      "zh": "龍舌蘭湯力"
+    },
+    {
+      "en": "Tequila Slammer",
+      "zh": "龍舌蘭猛擊者"
+    },
+    {
+      "en": "Tequila Sour",
+      "zh": "龍舌蘭酸酒"
+    },
+    {
+      "en": "Tequila Sunrise",
+      "zh": "龍舌蘭日出"
+    },
+    {
+      "en": "Test Pilot",
+      "zh": "試飛員"
+    },
+    {
+      "en": "The Blenheim",
+      "zh": "布倫海姆"
+    },
+    {
+      "en": "The Last Word",
+      "zh": "最後一句話"
+    },
+    {
+      "en": "Three Wise Men",
+      "zh": "三智者"
+    },
+    {
+      "en": "Three-Mile Long Island Iced Tea",
+      "zh": "三英里長島冰茶"
+    },
+    {
+      "en": "Ti' Punch",
+      "zh": "提潘趣"
+    },
+    {
+      "en": "Tia Mia",
+      "zh": "蒂雅米亞"
+    },
+    {
+      "en": "Tinto de Verano",
+      "zh": "夏日紅酒"
+    },
+    {
+      "en": "Tipperary",
+      "zh": "蒂珀雷里"
+    },
+    {
+      "en": "Tom Collins",
+      "zh": "湯姆柯林斯"
+    },
+    {
+      "en": "Tom and Jerry",
+      "zh": "湯姆與傑利"
+    },
+    {
+      "en": "Tomate",
+      "zh": "番茄"
+    },
+    {
+      "en": "Tommy's Margarita",
+      "zh": "湯米瑪格麗特"
+    },
+    {
+      "en": "Toronto",
+      "zh": "多倫多"
+    },
+    {
+      "en": "Trinidad Sour",
+      "zh": "千里達酸酒"
+    },
+    {
+      "en": "Trumptini",
+      "zh": "川普提尼"
+    },
+    {
+      "en": "Tschunk",
+      "zh": "查克"
+    },
+    {
+      "en": "Tuxedo",
+      "zh": "塔士多"
+    },
+    {
+      "en": "Twelve Mile Limit",
+      "zh": "十二英里限制"
+    },
+    {
+      "en": "U-boot",
+      "zh": "U型潛艇"
+    },
+    {
+      "en": "Up to Date",
+      "zh": "最新款"
+    },
+    {
+      "en": "Vampiro",
+      "zh": "吸血鬼"
+    },
+    {
+      "en": "Vargtass",
+      "zh": "狼爪"
+    },
+    {
+      "en": "Vesper",
+      "zh": "薇絲朋"
+    },
+    {
+      "en": "Vieux Carré",
+      "zh": "老廣場"
+    },
+    {
+      "en": "Virgin Mojito",
+      "zh": "處女莫吉托"
+    },
+    {
+      "en": "Vodka Gimlet",
+      "zh": "伏特加 Gimlet"
+    },
+    {
+      "en": "Vodka McGovern",
+      "zh": "伏特加麥戈文"
+    },
+    {
+      "en": "Ward 8",
+      "zh": "第八區"
+    },
+    {
+      "en": "Ward Eight",
+      "zh": "第八選區"
+    },
+    {
+      "en": "Whiskey Smash",
+      "zh": "威士忌重擊"
+    },
+    {
+      "en": "Whiskey Sour",
+      "zh": "威士忌酸酒"
+    },
+    {
+      "en": "Whiskey and Coke",
+      "zh": "威士忌可樂"
+    },
+    {
+      "en": "Whisky Mac",
+      "zh": "威士忌馬克"
+    },
+    {
+      "en": "White Lady",
+      "zh": "白娘子"
+    },
+    {
+      "en": "White Russian",
+      "zh": "白色俄羅斯"
+    },
+    {
+      "en": "Widow's Kiss",
+      "zh": "寡婦之吻"
+    },
+    {
+      "en": "Wolfram",
+      "zh": "沃爾夫勒姆"
+    },
+    {
+      "en": "Woo Woo",
+      "zh": "巫巫"
+    },
+    {
+      "en": "Wściekły Pies (Mad Dog)",
+      "zh": "瘋狗"
+    },
+    {
+      "en": "Yellow Bird",
+      "zh": "黃鳥"
+    },
+    {
+      "en": "Yorsh",
+      "zh": "约尔什"
+    },
+    {
+      "en": "Zombie",
+      "zh": "殭屍"
+    },
+    {
+      "en": "Zurracapote",
+      "zh": "祖拉卡波特"
+    }
+  ],
+  "base_spirits": [
+    {
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "count": 83
+    },
+    {
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "count": 47
+    },
+    {
+      "name": {
+        "en": "Dark Rum",
+        "zh": "深色蘭姆酒"
+      },
+      "count": 27
+    },
+    {
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "count": 20
+    },
+    {
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "count": 14
+    },
+    {
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "count": 13
+    },
+    {
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "count": 11
+    },
+    {
+      "name": {
+        "en": "Light Rum",
+        "zh": "淡蘭姆酒"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "count": 8
+    },
+    {
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "count": 8
+    },
+    {
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭酒"
+      },
+      "count": 5
+    },
+    {
+      "name": {
+        "en": "Whiskey",
+        "zh": "威士忌"
+      },
+      "count": 5
+    },
+    {
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "count": 5
+    },
+    {
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Rum",
+        "zh": "蘭姆酒"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Blended Scotch Whisky",
+        "zh": "混合蘇格蘭威士忌"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年蘭姆酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "通用烈酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅斯卡爾"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡沙夏"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Gold Rum",
+        "zh": "金蘭姆酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Generic Gin",
+        "zh": "通用琴酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Beer",
+        "zh": "啤酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Generic Vodka",
+        "zh": "伏特加"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Champagne",
+        "zh": "香檳"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Vanilla Vodka",
+        "zh": "香草伏特加"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Dry Gin",
+        "zh": "琴酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Sake",
+        "zh": "清酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克氣泡酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Generic Vodka",
+        "zh": "通用伏特加"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Generic White Rum",
+        "zh": "通用白蘭姆酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Overproof Rum",
+        "zh": "高濃度蘭姆酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "通用龍舌蘭酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡沙夏酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Old Tom Gin",
+        "zh": "老湯姆琴酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅斯卡爾酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "Dry 雪莉酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Lager Beer",
+        "zh": "拉格啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aged Jamaican Rum",
+        "zh": "牙買加陳年蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Rhum Agricole",
+        "zh": "農業蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Johnnie Walker Black Label",
+        "zh": "約翰走路黑牌威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Jack Daniel's",
+        "zh": "傑克丹尼"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Jim Beam",
+        "zh": "金賓威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pimm's No. 1",
+        "zh": "龐貝一號"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜香艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Agricultural Rum",
+        "zh": "農業蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯科酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aged Component",
+        "zh": "陳年蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Light Rum",
+        "zh": "淺色蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Gold Rum",
+        "zh": "金色蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Neutral Grain Spirit",
+        "zh": "中性穀物烈酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fino Sherry",
+        "zh": "菲諾雪莉酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aquavit",
+        "zh": "阿夸維特酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pastis",
+        "zh": "茴香酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Whiskey",
+        "zh": "通用威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Stout",
+        "zh": "司陶特黑啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Reposado Tequila",
+        "zh": "Reposado龍舌蘭"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic White Wine",
+        "zh": "一般白酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Calvados",
+        "zh": "蘋果白蘭地"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tequila (Blanco/Silver)",
+        "zh": "龍舌蘭酒（白色/銀色）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Champagne or other dry sparkling wine",
+        "zh": "香檳或其他不甜的氣泡酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pineapple Rum",
+        "zh": "鳳梨蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mexican Lager",
+        "zh": "墨西哥拉格啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Rum (White or Gold)",
+        "zh": "蘭姆酒（白色或金色）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Component A",
+        "zh": "成分A"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Port Wine",
+        "zh": "波特酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Base Spirit",
+        "zh": "基酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "通用龍舌蘭"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blanco Tequila",
+        "zh": "白色龍舌蘭酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Red Wine",
+        "zh": "乾紅葡萄酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Bitter Liqueur",
+        "zh": "通用苦味利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色查特酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blanco Tequila",
+        "zh": "白色龍舌蘭"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tennessee Whiskey",
+        "zh": "田納西威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bourbon/Rye Whiskey",
+        "zh": "波本/黑麥威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Vodka (optional)",
+        "zh": "伏特加（可選）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "London Dry Gin",
+        "zh": "倫敦 сухо 酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bacon-Infused Bourbon",
+        "zh": "培根浸泡波本威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "White Rum",
+        "zh": "白色蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sake (Junmai or Ginjo)",
+        "zh": "清酒（純米或吟釀）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aguardiente",
+        "zh": "阿瓜迪恩特酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Whiskey (typically Bourbon)",
+        "zh": "威士忌（通常是波本威士忌）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Whisky",
+        "zh": "通用威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry White Wine",
+        "zh": "不甜白酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "蘋果白蘭地"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fortified Wine",
+        "zh": "加強葡萄酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Branded Spirit",
+        "zh": "品牌烈酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Grand Marnier",
+        "zh": "柑曼怡"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Apple Brandy (Calvados)",
+        "zh": "蘋果白蘭地（卡爾瓦多斯）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Peach Flavored Spirit",
+        "zh": "水蜜桃風味烈酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Canadian Rye Whisky",
+        "zh": "加拿大黑麥威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Peach Schnapps",
+        "zh": "水蜜桃香甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tequila (Blanco)",
+        "zh": "龍舌蘭酒（白色）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡莎夏"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fernet-Branca",
+        "zh": "費內布蘭卡"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可白蘭地"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lager",
+        "zh": "拉格啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amaretto",
+        "zh": "阿瑪雷托"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Southern Comfort",
+        "zh": "南方安逸"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tawny Port",
+        "zh": "茶色波特酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Citron Vodka",
+        "zh": "檸檬伏特加"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bacardi White Rum",
+        "zh": "百加得白蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "London Dry Gin",
+        "zh": "倫敦 сухо 琴酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aperol",
+        "zh": "阿佩羅"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amaretto",
+        "zh": "阿馬雷托酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "151 Proof Rum",
+        "zh": "151 proof 蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sloe Gin",
+        "zh": "黑刺李琴酒"
+      },
+      "count": 1
+    }
+  ],
+  "liqueurs": [
+    {
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "count": 13
+    },
+    {
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "count": 12
+    },
+    {
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜味美思"
+      },
+      "count": 12
+    },
+    {
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜味苦艾酒"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "count": 7
+    },
+    {
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "count": 7
+    },
+    {
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "count": 7
+    },
+    {
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Crème de Violette",
+        "zh": "紫羅蘭利口酒"
+      },
+      "count": 5
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "Dry Vermouth"
+      },
+      "count": 5
+    },
+    {
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色查特酒"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃香甜酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜香艾酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Chocolate Liqueur",
+        "zh": "巧克力利口酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "蘋果白蘭地"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Apricot Brandy",
+        "zh": "杏桃白蘭地"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Crème de Cassis",
+        "zh": "黑醋栗利口酒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙味庫拉索"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Blue Curaçao",
+        "zh": "藍柑橘"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色 Chartreuse"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Creme de Cassis",
+        "zh": "黑醋栗利口酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Benedictine",
+        "zh": "法國廊酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "里葉白葡萄酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Allspice Dram",
+        "zh": "多香果利口酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Peach Schnapps",
+        "zh": "水蜜桃香甜酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "White Crème de Cacao",
+        "zh": "白色可可奶油"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏特勒茲酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Amaretto",
+        "zh": "杏仁酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Generic Bitter Liqueur",
+        "zh": "通用苦味利口酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Smoked Liqueur",
+        "zh": "煙燻利口酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南姆酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色查特酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Drambuie",
+        "zh": "尊美醇香甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Stout Reduction",
+        "zh": "司陶特啤酒還原"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色 Chartreuse"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Crème de Menthe",
+        "zh": "薄荷奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amarula Cream",
+        "zh": "阿瑪茹拉奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Champagne or Sparkling Wine",
+        "zh": "香檳或氣泡酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Jazmin Tea Syrup",
+        "zh": "茉莉花茶糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fruit Liqueur",
+        "zh": "水果利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mint Liqueur",
+        "zh": "薄荷利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Red Wine Float",
+        "zh": "紅酒漂浮"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Apple Liqueur",
+        "zh": "蘋果利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cream Sherry",
+        "zh": "奶油雪利酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Peach Brandy",
+        "zh": "桃子白蘭地"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Juice",
+        "zh": "酸橙汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Chartreuse (Green)",
+        "zh": "夏特勒茲（綠色）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dark Crème de Cacao",
+        "zh": "深色可可甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Liqueur (Cointreau)",
+        "zh": "橙味利口酒（君度）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pastis",
+        "zh": "茴香酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Passion Fruit Liqueur",
+        "zh": "百香果利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Juice",
+        "zh": "萊姆汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amaretto",
+        "zh": "杏仁甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "乾味美思"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blackberry Liqueur",
+        "zh": "黑莓利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Champagne",
+        "zh": "香檳"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Fruit Liqueur",
+        "zh": "一般水果利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅斯卡爾"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Port Wine (Tawny)",
+        "zh": "波特酒（茶色）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bitters (Angostura)",
+        "zh": "苦精（安格式）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Yellow Component",
+        "zh": "黃色成分"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南姆"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amaretto Liqueur",
+        "zh": "杏仁利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Curaçao Liqueur (Blue or Clear)",
+        "zh": "庫拉索酒（藍色或透明）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Component B",
+        "zh": "成分B"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Advocaat",
+        "zh": "蛋黃醬"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cherry Liqueur",
+        "zh": "櫻桃利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "里萊白"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Galliano",
+        "zh": "加利安奴香甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Midori",
+        "zh": "蜜多麗"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Averna Amaro",
+        "zh": "艾 Averna 阿瑪洛"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fernet-Branca",
+        "zh": "義大利 bitter"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Chili Liqueur",
+        "zh": "辣椒利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Green colored liqueur",
+        "zh": "綠色利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Red Wine (Cabernet Sauvignon or Shiraz)",
+        "zh": "乾紅葡萄酒（卡本內蘇維翁或希拉）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Herbal Liqueur",
+        "zh": "草本利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格式 bitters 苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶霜"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Falernum Liqueur",
+        "zh": "法勒南姆甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃白蘭地"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aperol",
+        "zh": "艾普羅"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amaro Nonino",
+        "zh": "義大利諾尼諾苦味酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏特勒茲"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃香甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Coffee liqueur (e.g., Kahlúa)",
+        "zh": "咖啡利口酒 (如：卡魯哇)"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aperol",
+        "zh": "阿佩羅"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blue Curaçao",
+        "zh": "藍柑橘酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Green Apple Liqueur",
+        "zh": "青蘋果利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Smoked Fig Liqueur",
+        "zh": "煙燻無花果利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Crème de Cacao",
+        "zh": "可可甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Cream",
+        "zh": "新鮮奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bénédictine",
+        "zh": "班尼迪克丁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜味美思"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aperol",
+        "zh": "阿佩羅酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Chambord",
+        "zh": "香博酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南姆甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Crème de Cacao",
+        "zh": "可可奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "香草精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": " Dry Vermouth"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Islay Scotch Whisky",
+        "zh": "艾雷島蘇格蘭威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Galliano L'Autentico",
+        "zh": "加利安奴香甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜味Vermouth"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ginger Wine",
+        "zh": "薑酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Gentian Liqueur",
+        "zh": "龍膽利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Liqueur",
+        "zh": "通用利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉白酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Walnut Liqueur",
+        "zh": "核桃利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Grand Marnier",
+        "zh": "柑曼怡"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "莉葉白酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Midori Melon Liqueur",
+        "zh": "蜜多麗哈密瓜利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sherry (e.g. Fino)",
+        "zh": "雪莉酒 (例如 Fino)"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amer Picon",
+        "zh": "皮icon美洲"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Galliano",
+        "zh": "加利亞諾香甜酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blackcurrant Liqueur",
+        "zh": "黑醋栗利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Triple Sec",
+        "zh": "橙皮酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sparkling Wine (Prosecco or Champagne)",
+        "zh": "氣泡酒（普羅塞克或香檳）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bénédictine",
+        "zh": "法國廊酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Crème de Menthe (Green)",
+        "zh": "綠薄荷酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Crème de Cacao (White)",
+        "zh": "白色可可酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Cream",
+        "zh": "鮮奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cloudberry Liqueur",
+        "zh": "雲莓利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Component 1",
+        "zh": "成分 1"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Liqueur (e.g., Triple Sec)",
+        "zh": "橙酒（例如：君度橙酒）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cider",
+        "zh": "蘋果酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Benedictine",
+        "zh": "廊酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amaro",
+        "zh": "阿瑪洛"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sloe Gin",
+        "zh": "黑刺李琴酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Triple Sec (Cointreau)",
+        "zh": "橙皮甜酒（君度橙酒）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Amer Picon or Amaro",
+        "zh": "Amer Picon 或阿瑪洛"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Liqueur (e.g., Cointreau)",
+        "zh": "橙味利口酒（例如：君度橙酒）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "Dry 苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Liqueur (e.g., Triple Sec)",
+        "zh": "柳橙香甜酒 (如：君度橙酒)"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic Triple Sec",
+        "zh": "通用橙皮酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙皮酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙皮利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dark Rum",
+        "zh": "深色蘭姆酒"
+      },
+      "count": 1
+    }
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "count": 66
+    },
+    {
+      "name": {
+        "en": "Lime Juice",
+        "zh": "萊姆汁"
+      },
+      "count": 55
+    },
+    {
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "count": 30
+    },
+    {
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "count": 19
+    },
+    {
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "count": 19
+    },
+    {
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡糖漿"
+      },
+      "count": 17
+    },
+    {
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "count": 17
+    },
+    {
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "count": 17
+    },
+    {
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "count": 14
+    },
+    {
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "count": 14
+    },
+    {
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "count": 11
+    },
+    {
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "count": 10
+    },
+    {
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "count": 10
+    },
+    {
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "count": 9
+    },
+    {
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "count": 8
+    },
+    {
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "count": 8
+    },
+    {
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "count": 7
+    },
+    {
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Lime Juice",
+        "zh": "檸檬汁"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "count": 5
+    },
+    {
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡易糖漿"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白（可選）"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡單糖漿"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "紅糖"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Lemon",
+        "zh": "檸檬"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮青檸汁"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Sweetened Condensed Milk",
+        "zh": "煉乳"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Sugar Syrup",
+        "zh": "糖漿"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Cinnamon Sticks",
+        "zh": "肉桂棒"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Lemon Peel",
+        "zh": "檸檬皮"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭蜜"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Lemonade",
+        "zh": "檸檬水"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮萊姆汁"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Sweet and Sour Mix",
+        "zh": "酸甜汁"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Olive Brine",
+        "zh": "橄欖鹽水"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "dashes Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Orange",
+        "zh": "柳橙"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Strawberry",
+        "zh": "草莓"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Passion Fruit Juice",
+        "zh": "百香果汁"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Maple Syrup",
+        "zh": "楓糖漿"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Cloves",
+        "zh": "丁香"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Dash Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Ginger Ale",
+        "zh": "薑汁汽水"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Fresh Espresso",
+        "zh": "新鮮濃縮咖啡"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Club Soda",
+        "zh": "蘇打水"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Hot Water",
+        "zh": "熱水"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Dashes Hot Sauce",
+        "zh": "少許辣醬"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Dashes Worcestershire Sauce",
+        "zh": "少許伍斯特醬"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Pinch of Salt",
+        "zh": "一撮鹽"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Lime Juice",
+        "zh": "酸橙汁"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Cinnamon Stick",
+        "zh": "肉桂棒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格式圖拉苦精"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Hot Coffee",
+        "zh": "熱咖啡"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Ground Cinnamon",
+        "zh": "肉桂粉"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Fresh Orange Juice",
+        "zh": "新鮮柳橙汁"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜味苦艾酒"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "Dry Vermouth"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Whole Milk",
+        "zh": "全脂牛奶"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭花蜜"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安哥斯圖娜苦精"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Lime",
+        "zh": "萊姆"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Fernet-Branca",
+        "zh": "苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange slice",
+        "zh": "橙子片"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lemonade",
+        "zh": "檸檬汽水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cucumber",
+        "zh": "黃瓜"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Benedictine",
+        "zh": "法國廊酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cane Syrup",
+        "zh": "甘蔗糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime",
+        "zh": "酸橙"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Marmalade",
+        "zh": "橙皮果醬"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Aguaymanto Puree",
+        "zh": "燈籠果泥"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Syrup component",
+        "zh": "糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime juice",
+        "zh": "檸檬汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Coffee",
+        "zh": "咖啡"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Orange Juice",
+        "zh": "新鮮橙汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Powdered sugar",
+        "zh": "糖粉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬氏苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Slice",
+        "zh": "柳橙片"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lemon Wedges",
+        "zh": "檸檬角"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fruit (e.g., coconut, passion fruit)",
+        "zh": "水果（例如椰子、百香果）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Condensed Milk",
+        "zh": "煉乳"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ice Cubes",
+        "zh": "冰塊"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Peel",
+        "zh": "橘子皮"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cardamom Pods",
+        "zh": "小荳蔻莢"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Herbsaint",
+        "zh": "赫柏聖"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Crushed Ice",
+        "zh": "碎冰"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安哥斯圖拉苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Water or Ice",
+        "zh": "水或冰塊"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cold Water",
+        "zh": "冷水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Passion Fruit Puree",
+        "zh": "百香果泥"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Horseradish",
+        "zh": "辣根"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Flower Water",
+        "zh": "橙花水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Chilled Carbonated Water",
+        "zh": "冰鎮氣泡水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "White Peach Puree",
+        "zh": "白桃泥"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Raspberry",
+        "zh": "新鮮覆盆子"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Generic lemon-lime soda",
+        "zh": "通用檸檬萊姆汽水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Guava Juice",
+        "zh": "番石榴汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "dashes Bitters",
+        "zh": "數滴苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Oyster",
+        "zh": "新鮮生蠔"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Strong Brewed Coffee",
+        "zh": "濃縮咖啡"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Honey Syrup (3:1 Honey to Water)",
+        "zh": "蜂蜜糖漿（3:1 蜂蜜兌水）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ginger Coins",
+        "zh": "薑片"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Smoked Vanilla Syrup",
+        "zh": "煙燻香草糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Raspberry syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Grapefruit Soda",
+        "zh": "葡萄柚汽水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Smoked Salt",
+        "zh": "煙燻鹽"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange",
+        "zh": "橙"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Apple",
+        "zh": "蘋果"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Peach",
+        "zh": "桃子"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tablespoon of Brown Sugar",
+        "zh": "一湯匙紅糖"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash of Nutmeg",
+        "zh": "少許肉荳蔻"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Juice, freshly squeezed",
+        "zh": "新鮮現榨萊姆汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙味庫拉索"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash of Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash of Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Smoked Peach Puree",
+        "zh": "煙燻水蜜桃泥"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Juice (Freshly Squeezed)",
+        "zh": "萊姆汁（新鮮榨取）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange juice, freshly squeezed",
+        "zh": "鮮榨橙汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "香草萃取物"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch of Black Pepper",
+        "zh": "一撮黑胡椒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Juice (Freshly Squeezed)",
+        "zh": "萊姆汁（新鮮壓榨）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Soda Water or Club Soda (optional)",
+        "zh": "蘇打水或氣泡水（可選）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "乾苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Agave Nectar or Simple Syrup",
+        "zh": "龍舌蘭花蜜或簡易糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Wedges",
+        "zh": "檸檬角"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "安哥斯圖娜苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "佩喬氏苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tonic Water",
+        "zh": "湯力水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡式糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Syrup",
+        "zh": "糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Juice",
+        "zh": "果汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Beer (Pilsner or Lager)",
+        "zh": "啤酒（皮爾森或拉格）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Smoked Pineapple Juice",
+        "zh": "煙燻鳳梨汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "White Grape Juice",
+        "zh": "白葡萄汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Black Tea",
+        "zh": "紅茶"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Slice",
+        "zh": "橘子片"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Clove",
+        "zh": "丁香"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lemon Slice",
+        "zh": "檸檬片"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Chili Tincture",
+        "zh": "辣椒酊劑"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blueberry Tea Syrup",
+        "zh": "藍莓茶糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Club-Mate",
+        "zh": "Club-Mate"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格式度拉苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Mint Leaves",
+        "zh": "新鮮薄荷葉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ginger",
+        "zh": "薑"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Peel",
+        "zh": "橙皮"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Honey",
+        "zh": "蜂蜜"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Topo Chico",
+        "zh": "托波奇科"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Horchata",
+        "zh": "西班牙米漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Teaspoons Sugar",
+        "zh": "茶匙糖"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ice cubes",
+        "zh": "冰塊"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Unsalted Butter",
+        "zh": "無鹽奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ground Nutmeg",
+        "zh": "肉荳蔻粉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克氣泡酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格仕拉苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blue Curaçao Syrup (Non-alcoholic)",
+        "zh": "藍柑橘糖漿（非酒精）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lemonade or Sprite",
+        "zh": "檸檬水或雪碧"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Edible Shimmer Dust",
+        "zh": "食用閃粉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Brown Sugar Syrup",
+        "zh": "紅糖糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash of Cinnamon",
+        "zh": "少量肉桂粉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fruit (berries, stone fruit, citrus)",
+        "zh": "水果（莓果、核果、柑橘）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mint or other Herbs",
+        "zh": "薄荷或其他香草"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "安格仕苦精少量"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "Peychaud's 苦精少量"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Juice, freshly squeezed",
+        "zh": "鮮榨橙汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Iced Tea",
+        "zh": "冰紅茶"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Fresh Mango Puree",
+        "zh": "新鮮芒果泥"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Egg yolks",
+        "zh": "蛋黃"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Milk",
+        "zh": "牛奶"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Almonds",
+        "zh": "杏仁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "香草精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dashes Bitters",
+        "zh": "苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Clamato Juice",
+        "zh": "蛤蜊番茄汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣醬"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime Wedge",
+        "zh": "檸檬角"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Salt and Pepper",
+        "zh": "鹽和胡椒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cashew Fruit Syrup",
+        "zh": "腰果糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Honey-Ginger Syrup",
+        "zh": "蜂蜜薑糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Orange Juice, freshly squeezed",
+        "zh": "鮮榨柳橙汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Bénédictine",
+        "zh": "Bénédictine"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Rosemary Sprig",
+        "zh": "迷迭香枝"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pickle Brine",
+        "zh": "酸黃瓜鹽水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch Salt",
+        "zh": "少許鹽"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch Black Pepper",
+        "zh": "少許黑胡椒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Triple Sec",
+        "zh": "橙皮酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Soda",
+        "zh": "蘇打水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Honey Syrup (2:1)",
+        "zh": "蜂蜜糖漿 (2:1)"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Strawberry Puree",
+        "zh": "草莓果泥"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch of Salt",
+        "zh": "少許鹽"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch of Black Pepper",
+        "zh": "少許黑胡椒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lemon-Lime Soda or Sparkling Lemonade",
+        "zh": "檸檬萊姆汽水或氣泡檸檬水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mexican Coke",
+        "zh": "墨西哥可樂"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Large Eggs",
+        "zh": "大雞蛋"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Granulated Sugar",
+        "zh": "砂糖"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Pinch of Nutmeg",
+        "zh": "少許肉荳蔻"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lemonade or Ginger Ale",
+        "zh": "檸檬水或薑汁汽水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜香艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lapsang Souchong Tea Syrup",
+        "zh": "正山小種茶糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "少量佩喬氏苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Absinthe",
+        "zh": "少量苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Red Chili Pepper",
+        "zh": "紅辣椒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Boiling Water",
+        "zh": "滾水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Black Raspberry Liqueur",
+        "zh": "黑覆盆子利口酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Chipotle Peppers in Adobo Sauce",
+        "zh": "墨西哥辣椒在阿斗波醬中"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Carbonated Water",
+        "zh": "碳酸水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Beef Broth",
+        "zh": "牛肉湯"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Carbonated Water",
+        "zh": "氣泡水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克氣泡酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dashes of Bitters",
+        "zh": "苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cucumber slices",
+        "zh": "黃瓜片"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Lime juice",
+        "zh": "萊姆汁"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Simple syrup",
+        "zh": "糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Egg white",
+        "zh": "蛋白"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cocoa Powder",
+        "zh": "可可粉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Coffee Beans",
+        "zh": "咖啡豆"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Egg yolk",
+        "zh": "蛋黃"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Cucumber",
+        "zh": "小黃瓜"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Absinthe",
+        "zh": "少許 苦艾酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Stout",
+        "zh": "黑啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Blood",
+        "zh": "血"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Berries (Strawberries, Raspberries)",
+        "zh": "莓果（草莓、覆盆莓）"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Mint Sprigs",
+        "zh": "薄荷枝"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Tonic Water",
+        "zh": "通寧水"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Dash Orange Bitters",
+        "zh": "少許橙味苦精"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sugar syrup",
+        "zh": "糖漿"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Light Beer",
+        "zh": "淡啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Ground Clove",
+        "zh": "丁香粉"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Hot Milk",
+        "zh": "熱牛奶"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Beer",
+        "zh": "啤酒"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格仕苦精"
+      },
+      "count": 1
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "name": {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      "count": 251
+    },
+    {
+      "name": {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      "count": 240
+    },
+    {
+      "name": {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      "count": 221
+    },
+    {
+      "name": {
+        "en": "Bitter",
+        "zh": "苦味"
+      },
+      "count": 133
+    },
+    {
+      "name": {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      "count": 120
+    },
+    {
+      "name": {
+        "en": "Tropical",
+        "zh": "熱帶"
+      },
+      "count": 79
+    },
+    {
+      "name": {
+        "en": "Floral",
+        "zh": "花香"
+      },
+      "count": 71
+    },
+    {
+      "name": {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      "count": 63
+    },
+    {
+      "name": {
+        "en": "Woody",
+        "zh": "木質"
+      },
+      "count": 58
+    },
+    {
+      "name": {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      "count": 54
+    },
+    {
+      "name": {
+        "en": "Smoky",
+        "zh": "煙燻"
+      },
+      "count": 38
+    },
+    {
+      "name": {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      "count": 36
+    },
+    {
+      "name": {
+        "en": "Salty",
+        "zh": "鹹味"
+      },
+      "count": 33
+    },
+    {
+      "name": {
+        "en": "Chocolate",
+        "zh": "巧克力"
+      },
+      "count": 26
+    },
+    {
+      "name": {
+        "en": "Coffee",
+        "zh": "咖啡"
+      },
+      "count": 23
+    },
+    {
+      "name": {
+        "en": "Yeasty",
+        "zh": "酵母"
+      },
+      "count": 23
+    },
+    {
+      "name": {
+        "en": "Grassy",
+        "zh": "青草"
+      },
+      "count": 22
+    },
+    {
+      "name": {
+        "en": "Umami",
+        "zh": "鮮味"
+      },
+      "count": 21
+    },
+    {
+      "name": {
+        "en": "Savory",
+        "zh": "鹹香"
+      },
+      "count": 14
+    },
+    {
+      "name": {
+        "en": "Sour",
+        "zh": "酸味"
+      },
+      "count": 6
+    },
+    {
+      "name": {
+        "en": "Sweet",
+        "zh": "甜味"
+      },
+      "count": 4
+    },
+    {
+      "name": {
+        "en": "Sweet",
+        "zh": "甜"
+      },
+      "count": 3
+    },
+    {
+      "name": {
+        "en": "Sourness",
+        "zh": "酸味"
+      },
+      "count": 2
+    },
+    {
+      "name": {
+        "en": "Sour",
+        "zh": "苦味"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Earth",
+        "zh": "泥土"
+      },
+      "count": 1
+    },
+    {
+      "name": {
+        "en": "Sour",
+        "zh": "酸"
+      },
+      "count": 1
+    }
+  ]
+}

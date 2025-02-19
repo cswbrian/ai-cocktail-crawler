@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Whiskey Sour",
+    "zh": "\u5a01\u58eb\u5fcc\u9178\u9152"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail**\n\nA well-balanced combination of whiskey, citrus, and sugar, often enhanced with egg white for a silky texture.\n*   Whiskey provides the base spirit.\n*   Lemon juice adds tartness.\n*   Sugar balances the sourness.\n*   Optional egg white creates a smooth mouthfeel.",
+    "zh": "**\u7d93\u5178\u9178\u5473\u96de\u5c3e\u9152**\n\n\u5a01\u58eb\u5fcc\u3001\u67d1\u6a58\u548c\u7cd6\u7684\u5b8c\u7f8e\u5e73\u8861\u7d44\u5408\uff0c\u901a\u5e38\u52a0\u5165\u86cb\u767d\u4ee5\u589e\u5f37\u5176\u7d72\u6ed1\u8cea\u611f\u3002\n*   \u5a01\u58eb\u5fcc\u63d0\u4f9b\u57fa\u9152\u3002\n*   \u6ab8\u6aac\u6c41\u589e\u52a0\u9178\u5ea6\u3002\n*   \u7cd6\u5e73\u8861\u9178\u5473\u3002\n*   \u53ef\u9078\u7684\u86cb\u767d\u53ef\u7522\u751f\u67d4\u6ed1\u7684\u53e3\u611f\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins in the 19th Century**\n\n*   One of the oldest cocktails, tracing back to the mid-1800s.\n*   Evolved from the traditional 'sour' category of drinks.\n*   Popularized by sailors using citrus to prevent scurvy.",
+    "zh": "**\u8d77\u6e90\u65bc19\u4e16\u7d00**\n\n*   \u6700\u53e4\u8001\u7684\u96de\u5c3e\u9152\u4e4b\u4e00\uff0c\u53ef\u8ffd\u6eaf\u81f31800\u5e74\u4ee3\u4e2d\u671f\u3002\n*   \u5f9e\u50b3\u7d71\u7684\u201c\u9178\u5473\u201d\u98f2\u6599\u985e\u5225\u6f14\u8b8a\u800c\u4f86\u3002\n*   \u6c34\u624b\u5011\u4f7f\u7528\u67d1\u6a58\u4f86\u9810\u9632\u58de\u8840\u75c5\uff0c\u4f7f\u5176\u666e\u53ca\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass filled with ice (or without ice if using a coupe glass).",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\u3002\u6ffe\u5165\u88dd\u6709\u51b0\u584a\u7684\u51b0\u93ae\u73bb\u7483\u676f\u4e2d\uff08\u5982\u679c\u4f7f\u7528\u9ad8\u8173\u676f\u5247\u4e0d\u52a0\u51b0\u584a\uff09\u3002"
+  },
+  "garnish": {
+    "en": "Lemon or orange peel, Maraschino cherry (optional)",
+    "zh": "\u6ab8\u6aac\u6216\u6a59\u76ae\uff0c\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Coupe glass",
+    "zh": "\u53e4\u5178\u676f\u6216\u9ad8\u8173\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy golden liquid with a frothy white head",
+    "zh": "\u6df7\u6fc1\u7684\u91d1\u8272\u6db2\u9ad4\uff0c\u5e36\u6709\u6ce1\u6cab\u72c0\u7684\u767d\u8272\u6ce1\u6cab"
+  },
+  "allergens": [
+    {
+      "en": "egg white (optional)",
+      "zh": "\u86cb\u767d\uff08\u53ef\u9078\uff09"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "\u6ce2\u672c\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky flavors.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u6a61\u6728\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and sourness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u9178\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "\u86cb\u767d\uff08\u53ef\u9078\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds texture and a frothy head.",
+        "zh": "\u589e\u52a0\u8cea\u5730\u548c\u6ce1\u6cab\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

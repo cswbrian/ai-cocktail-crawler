@@ -1,0 +1,100 @@
+{
+  "name": {
+    "en": "Redheaded slut",
+    "zh": "\u7d05\u9aee\u8569\u5a66"
+  },
+  "description": {
+    "en": "**Sweet and Fruity Shot**\n\nA layered shot combining the sweetness of peach and cranberry with a creamy topping.\n\n*   Easy to drink\n*   Popular for its sweet flavor\n*   Visually appealing layered effect",
+    "zh": "**\u9999\u751c\u6c34\u679c\u98a8\u5473\u7684shot**\n\n\u7d50\u5408\u6c34\u871c\u6843\u548c\u8513\u8d8a\u8393\u7684\u751c\u5473\uff0c\u4e26\u5e36\u6709\u5976\u6cb9topping\u7684\u5206\u5c64shot\u3002\n\n*   \u5bb9\u6613\u5165\u53e3\n*   \u56e0\u5176\u751c\u5473\u800c\u53d7\u6b61\u8fce\n*   \u8996\u89ba\u4e0a\u5438\u5f15\u4eba\u7684\u5206\u5c64\u6548\u679c"
+  },
+  "historical_reference": {
+    "en": "The Redheaded slut cocktail is a modern creation, with no specific historical origin tied to classic bartending. Its popularity stems from its ease of preparation and sweet, approachable flavor profile.",
+    "zh": "\u7d05\u9aee\u8569\u5a66\u96de\u5c3e\u9152\u662f\u4e00\u7a2e\u73fe\u4ee3\u5275\u4f5c\uff0c\u6c92\u6709\u8207\u7d93\u5178\u8abf\u9152\u76f8\u95dc\u7684\u7279\u5b9a\u6b77\u53f2\u6df5\u6e90\u3002 \u5b83\u7684\u666e\u53ca\u6e90\u65bc\u5176\u6613\u65bc\u6e96\u5099\u548c\u751c\u7f8e\u6613\u98f2\u7684\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Layer ingredients in order: peach flavored spirit, cranberry juice, then carefully layer Irish cream on top.",
+    "zh": "\u6309\u9806\u5e8f\u5206\u5c64\u5012\u5165\uff1a\u6c34\u871c\u6843\u98a8\u5473\u70c8\u9152\u3001\u8513\u8d8a\u8393\u6c41\uff0c\u7136\u5f8c\u5c0f\u5fc3\u5730\u5c07\u611b\u723e\u862d\u5976\u6cb9\u5206\u5c64\u5728\u9802\u90e8\u3002"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "\u7121"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "\u70c8\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Layered red and creamy liquid with a light pink hue",
+    "zh": "\u5206\u5c64\u7684\u7d05\u8272\u548c\u5976\u6cb9\u8272\u6db2\u9ad4\uff0c\u5e36\u6709\u6de1\u7c89\u8272\u8272\u8abf"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Peach Flavored Spirit",
+        "zh": "\u6c34\u871c\u6843\u98a8\u5473\u70c8\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a fruity base and distinct peach flavor",
+        "zh": "\u589e\u52a0\u6c34\u679c\u57fa\u5e95\u548c\u7368\u7279\u7684\u6c34\u871c\u6843\u98a8\u5473"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Irish Cream",
+        "zh": "\u611b\u723e\u862d\u5976\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Creates the creamy layer and adds sweetness",
+        "zh": "\u7522\u751f\u5976\u6cb9\u5c64\u4e26\u589e\u52a0\u751c\u5473"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "\u8513\u8d8a\u8393\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds tartness and the red layer",
+        "zh": "\u589e\u52a0\u9178\u5473\u548c\u7d05\u8272\u5c64"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

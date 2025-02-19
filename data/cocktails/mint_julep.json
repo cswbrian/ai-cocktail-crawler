@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Mint Julep",
+    "zh": "\u8584\u8377\u8331\u8389\u666e"
+  },
+  "description": {
+    "en": "**Classic Southern Cocktail**\n\nA refreshing and aromatic cocktail, featuring:\n*   Bourbon as the base spirit\n*   Fresh mint for herbal notes\n*   Sugar for sweetness\n*   Crushed ice for chilling and dilution",
+    "zh": "**\u7d93\u5178\u5357\u65b9\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u6e05\u723d\u82b3\u9999\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u6ce2\u672c\u5a01\u58eb\u5fcc\u4f5c\u70ba\u57fa\u9152\n*   \u65b0\u9bae\u8584\u8377\u5e36\u4f86\u8349\u672c\u9999\u6c23\n*   \u7cd6\u5e36\u4f86\u751c\u5473\n*   \u788e\u51b0\u7528\u65bc\u51b0\u93ae\u548c\u7a00\u91cb"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in the Southern United States in the 18th century.\n\n*   The Mint Julep has strong associations with Kentucky and the Kentucky Derby.\n*   Early versions were often made with brandy or other spirits before bourbon became the standard.\n*   It was considered a morning drink or a medicinal beverage in its early days.",
+    "zh": "**\u8d77\u6e90**: \u64da\u4fe1\u8d77\u6e90\u65bc 18 \u4e16\u7d00\u7684\u7f8e\u570b\u5357\u90e8\u3002\n\n*   \u8584\u8377\u8331\u8389\u666e\u8207\u80af\u5854\u57fa\u5dde\u548c\u80af\u5854\u57fa\u5fb7\u6bd4\u6709\u8457\u5bc6\u5207\u7684\u806f\u7e6b\u3002\n*   \u5728\u6ce2\u672c\u5a01\u58eb\u5fcc\u6210\u70ba\u6a19\u6e96\u4e4b\u524d\uff0c\u65e9\u671f\u7248\u672c\u901a\u5e38\u4f7f\u7528\u767d\u862d\u5730\u6216\u5176\u4ed6\u70c8\u9152\u88fd\u6210\u3002\n*   \u5728\u65e9\u671f\uff0c\u5b83\u88ab\u8a8d\u70ba\u662f\u4e00\u7a2e\u65e9\u6668\u98f2\u6599\u6216\u85e5\u7528\u98f2\u6599\u3002"
+  },
+  "technique": {
+    "en": "Muddle mint and sugar, add bourbon, fill with crushed ice, stir, and garnish.",
+    "zh": "\u5c07\u8584\u8377\u548c\u7cd6\u6df7\u5408\u6417\u788e\uff0c\u52a0\u5165\u6ce2\u672c\u5a01\u58eb\u5fcc\uff0c\u52a0\u5165\u788e\u51b0\uff0c\u652a\u62cc\u4e26\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "\u8584\u8377\u679d"
+  },
+  "serve_in_glass": {
+    "en": "Pewter Julep Cup or Old-Fashioned Glass",
+    "zh": "\u932b\u88fd\u8331\u8389\u666e\u676f\u6216\u53e4\u5178\u676f"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green liquid with crushed ice",
+    "zh": "\u6df7\u6fc1\u7684\u6de1\u7da0\u8272\u6db2\u9ad4\uff0c\u542b\u6709\u788e\u51b0"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "\u6ce2\u672c\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and characteristic flavor.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u7279\u8272\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "\u65b9\u7cd6"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon and mint.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\uff0c\u4ee5\u5e73\u8861\u6ce2\u672c\u5a01\u58eb\u5fcc\u548c\u8584\u8377\u7684\u5473\u9053\u3002"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "\u8584\u8377\u8449"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "\u7247"
+      },
+      "rationale": {
+        "en": "Provides the characteristic herbal flavor and aroma.",
+        "zh": "\u63d0\u4f9b\u7368\u7279\u7684\u8349\u672c\u98a8\u5473\u548c\u9999\u6c23\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Grassy",
+      "zh": "\u9752\u8349"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

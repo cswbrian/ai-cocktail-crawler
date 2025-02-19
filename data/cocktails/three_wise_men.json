@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Three Wise Men",
+    "zh": "\u4e09\u667a\u8005"
+  },
+  "description": {
+    "en": "**A potent combination of three famous whiskies.**\n\nThis shot combines the distinct characteristics of Scotch, Tennessee, and Bourbon whiskeys for a complex drinking experience.\n\n*   Johnnie Walker Black Label adds a smoky depth.\n*   Jack Daniel's offers a hint of sweetness and oak.\n*   Jim Beam provides a traditional bourbon backbone.",
+    "zh": "**\u4e09\u7a2e\u8457\u540d\u5a01\u58eb\u5fcc\u7684\u5f37\u6548\u7d44\u5408\u3002**\n\n\u9019\u7a2e\u77ed\u98f2\u7d50\u5408\u4e86\u8607\u683c\u862d\u3001\u7530\u7d0d\u897f\u548c\u6ce2\u672c\u5a01\u58eb\u5fcc\u7684\u7368\u7279\u98a8\u5473\uff0c\u5e36\u4f86\u8907\u96dc\u7684\u98f2\u7528\u9ad4\u9a57\u3002\n\n*   \u7d04\u7ff0\u8d70\u8def\u9ed1\u724c\u589e\u6dfb\u4e86\u7159\u718f\u5473\u3002\n*   \u5091\u514b\u4e39\u5c3c\u5e36\u4f86\u4e00\u7d72\u751c\u5473\u548c\u6a61\u6728\u5473\u3002\n*   \u91d1\u8cd3\u5a01\u58eb\u5fcc\u63d0\u4f9b\u4e86\u50b3\u7d71\u7684\u6ce2\u672c\u98a8\u5473\u57fa\u790e\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Modern creation\n\n*   The exact origin is unknown, but it is speculated that it was created in a bar setting.\n*   The name is a play on words, referencing the 'three wise men' and the trio of whiskies used.",
+    "zh": "**\u8d77\u6e90**: \u73fe\u4ee3\u5275\u4f5c\n\n*   \u78ba\u5207\u7684\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u63a8\u6e2c\u662f\u5728\u9152\u5427\u74b0\u5883\u4e2d\u5275\u9020\u7684\u3002\n*   \u9019\u500b\u540d\u5b57\u662f\u4e00\u500b\u6587\u5b57\u904a\u6232\uff0c\u6307\u7684\u662f\u300c\u4e09\u4f4d\u667a\u8005\u300d\u548c\u6240\u4f7f\u7528\u7684\u4e09\u7a2e\u5a01\u58eb\u5fcc\u3002"
+  },
+  "technique": {
+    "en": "Pour each spirit carefully into the shot glass, layering if desired.",
+    "zh": "\u5c0f\u5fc3\u5730\u5c07\u6bcf\u7a2e\u9152\u5012\u5165\u70c8\u9152\u676f\u4e2d\uff0c\u5982\u679c\u9700\u8981\u53ef\u4ee5\u5206\u5c64\u3002"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "\u7121"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "\u70c8\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Layered brown and golden hues",
+    "zh": "\u5206\u5c64\u7684\u68d5\u8272\u548c\u91d1\u8272\u8272\u8abf"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Johnnie Walker Black Label",
+        "zh": "\u7d04\u7ff0\u8d70\u8def\u9ed1\u724c\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a balanced and smoky scotch whisky component.",
+        "zh": "\u63d0\u4f9b\u5e73\u8861\u4e14\u5e36\u6709\u7159\u718f\u5473\u7684\u8607\u683c\u862d\u5a01\u58eb\u5fcc\u6210\u5206\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Jack Daniel's",
+        "zh": "\u5091\u514b\u4e39\u5c3c"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a sweet and oaky bourbon whiskey element.",
+        "zh": "\u6dfb\u52a0\u751c\u7f8e\u4e14\u5e36\u6709\u6a61\u6728\u5473\u7684\u6ce2\u672c\u5a01\u58eb\u5fcc\u5143\u7d20\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Jim Beam",
+        "zh": "\u91d1\u8cd3\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes a straightforward and classic bourbon flavor profile.",
+        "zh": "\u63d0\u4f9b\u76f4\u63a5\u4e14\u7d93\u5178\u7684\u6ce2\u672c\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 10,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

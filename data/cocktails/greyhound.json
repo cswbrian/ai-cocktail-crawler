@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Greyhound",
+    "zh": "\u7070\u72d7"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nThe Greyhound is a straightforward cocktail that combines:\n*   Vodka as the base spirit\n*   Grapefruit juice as the primary flavor component\n\nIt's known for its simplicity and thirst-quenching qualities, making it a popular choice for casual occasions.",
+    "zh": "**\u7c21\u55ae\u6e05\u723d\u7684\u96de\u5c3e\u9152**\n\n\u7070\u72d7\u662f\u4e00\u6b3e\u76f4\u63a5\u7684\u96de\u5c3e\u9152\uff0c\u7d50\u5408\u4e86\uff1a\n*   \u4f0f\u7279\u52a0\u4f5c\u70ba\u57fa\u9152\n*   \u8461\u8404\u67da\u6c41\u4f5c\u70ba\u4e3b\u8981\u98a8\u5473\u6210\u5206\n\n\u5b83\u4ee5\u5176\u7c21\u55ae\u6027\u548c\u89e3\u6e34\u7279\u6027\u800c\u805e\u540d\uff0c\u4f7f\u5176\u6210\u70ba\u4f11\u9592\u5834\u5408\u7684\u71b1\u9580\u9078\u64c7\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins and Evolution**\n\n*   The name \"Greyhound\" is believed to originate from a cocktail served at Post Exchange (PX) bars, commonly found on Greyhound bus stations after World War II.\n*   Originally it combined vodka with canned grapefruit juice.\n*   Over time, the recipe has evolved to use fresh grapefruit juice for a more refined flavor.",
+    "zh": "**\u8d77\u6e90\u8207\u6f14\u8b8a**\n\n*   \u201c\u7070\u72d7\u201d\u9019\u500b\u540d\u5b57\u64da\u4fe1\u6e90\u65bc\u4e8c\u6230\u5f8c\u5728\u7070\u72d7\u5df4\u58eb\u7ad9\u5e38\u898b\u7684 Post Exchange (PX) \u9152\u5427\u4f9b\u61c9\u7684\u4e00\u7a2e\u96de\u5c3e\u9152\u3002\n*   \u6700\u521d\uff0c\u5b83\u5c07\u4f0f\u7279\u52a0\u8207\u7f50\u88dd\u8461\u8404\u67da\u6c41\u6df7\u5408\u3002\n*   \u96a8\u8457\u6642\u9593\u7684\u63a8\u79fb\uff0c\u8a72\u914d\u65b9\u5df2\u767c\u5c55\u70ba\u4f7f\u7528\u65b0\u9bae\u8461\u8404\u67da\u6c41\uff0c\u4ee5\u7372\u5f97\u66f4\u7cbe\u7dfb\u7684\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Combine vodka and grapefruit juice in a highball glass filled with ice. Stir gently.",
+    "zh": "\u5c07\u4f0f\u7279\u52a0\u548c\u8461\u8404\u67da\u6c41\u5728\u9ad8\u7403\u676f\u4e2d\u6df7\u5408\uff0c\u52a0\u5165\u51b0\u584a\u3002 \u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or twist (optional)",
+    "zh": "\u8461\u8404\u67da\u89d2\u6216\u626d\u8f49\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Pale, translucent liquid, often with a slight frothy head.",
+    "zh": "\u6de1\u8272\u534a\u900f\u660e\u6db2\u9ad4\uff0c\u901a\u5e38\u5e36\u6709\u8f15\u5fae\u7684\u6ce1\u6cab\u9802\u5c64\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base, offering a clean and neutral profile.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\uff0c\u63d0\u4f9b\u4e7e\u6de8\u548c\u4e2d\u6027\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "\u8461\u8404\u67da\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor, a balance of tartness and slight sweetness.",
+        "zh": "\u63d0\u4f9b\u4e3b\u8981\u98a8\u5473\uff0c\u9178\u5473\u548c\u8f15\u5fae\u751c\u5473\u7684\u5e73\u8861\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

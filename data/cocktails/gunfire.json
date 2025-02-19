@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Gunfire",
+    "zh": "\u70ae\u706b"
+  },
+  "description": {
+    "en": "**Simple and Strong**\n\nA basic cocktail traditionally consumed for warmth and a quick boost. Consisting of:\n*   Dark Rum: Provides a rich base\n*   Hot Coffee: For warmth and caffeine",
+    "zh": "**\u7c21\u55ae\u800c\u6fc3\u70c8**\n\n\u4e00\u7a2e\u50b3\u7d71\u4e0a\u70ba\u4e86\u53d6\u6696\u548c\u5feb\u901f\u63d0\u795e\u800c\u98f2\u7528\u7684\u57fa\u672c\u8abf\u9152\u3002\u7d44\u6210\uff1a\n* \u6df1\u8272\u862d\u59c6\u9152\uff1a\u63d0\u4f9b\u8c50\u5bcc\u7684\u57fa\u5e95\n* \u71b1\u5496\u5561\uff1a\u70ba\u4e86\u6eab\u6696\u548c\u5496\u5561\u56e0"
+  },
+  "historical_reference": {
+    "en": "**Military Origins**\n\nThe Gunfire cocktail has long been associated with the British Armed Forces, particularly the Royal Navy and Army. \n\n*   Traditionally consumed on special occasions or as a morning pick-me-up.\n*   Exact origins are difficult to pinpoint but likely dates back to the 19th century or earlier.\n*   Variations exist, some including sweeteners or spices.",
+    "zh": "**\u8ecd\u4e8b\u8d77\u6e90**\n\nGunfire\u8abf\u9152\u9577\u671f\u4ee5\u4f86\u8207\u82f1\u570b\u6b66\u88dd\u90e8\u968a\uff0c\u7279\u5225\u662f\u7687\u5bb6\u6d77\u8ecd\u548c\u9678\u8ecd\u6709\u95dc\u3002\n\n* \u50b3\u7d71\u4e0a\u5728\u7279\u6b8a\u5834\u5408\u98f2\u7528\uff0c\u6216\u4f5c\u70ba\u65e9\u6668\u7684\u63d0\u795e\u98f2\u6599\u3002\n* \u78ba\u5207\u7684\u8d77\u6e90\u96e3\u4ee5\u78ba\u5b9a\uff0c\u4f46\u53ef\u80fd\u53ef\u4ee5\u8ffd\u6eaf\u523019\u4e16\u7d00\u6216\u66f4\u65e9\u3002\n* \u5b58\u5728\u591a\u7a2e\u8b8a\u9ad4\uff0c\u6709\u4e9b\u5305\u62ec\u751c\u5473\u5291\u6216\u9999\u6599\u3002"
+  },
+  "technique": {
+    "en": "Pour hot coffee into mug, add dark rum, stir gently",
+    "zh": "\u5c07\u71b1\u5496\u5561\u5012\u5165\u99ac\u514b\u676f\u4e2d\uff0c\u52a0\u5165\u6df1\u8272\u862d\u59c6\u9152\uff0c\u8f15\u8f15\u652a\u62cc"
+  },
+  "garnish": {
+    "en": "None typically, optional orange peel or coffee beans",
+    "zh": "\u901a\u5e38\u6c92\u6709\uff0c\u53ef\u9078\u6a59\u76ae\u6216\u5496\u5561\u8c46"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heat-resistant glass",
+    "zh": "\u99ac\u514b\u676f\u6216\u8010\u71b1\u73bb\u7483\u676f"
+  },
+  "appearance": {
+    "en": "Dark amber, opaque",
+    "zh": "\u6df1\u7425\u73c0\u8272\uff0c\u4e0d\u900f\u660e"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and warmth.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u9152\u9ad4\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Coffee",
+        "zh": "\u71b1\u5496\u5561"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds warmth, caffeine, and flavor.",
+        "zh": "\u589e\u52a0\u6eab\u6696\u3001\u5496\u5561\u56e0\u548c\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

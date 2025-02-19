@@ -1,0 +1,147 @@
+{
+  "name": {
+    "en": "Moose Milk",
+    "zh": "\u9e8b\u9e7f\u5976"
+  },
+  "description": {
+    "en": "**Rich and Decadent Holiday Drink**\n\nA creamy and warming beverage, often enjoyed during the winter months.  Variations exist, but the core ingredients create a comforting and indulgent experience.\n\n*   Traditionally served warm.\n*   Variations can include coffee or chocolate liqueur.\n*   Often associated with festive gatherings.",
+    "zh": "**\u6fc3\u90c1\u800c\u9839\u5ee2\u7684\u7bc0\u65e5\u98f2\u54c1**\n\n\u4e00\u7a2e\u5976\u6cb9\u5473\u6fc3\u90c1\u4e14\u6eab\u6696\u7684\u98f2\u6599\uff0c\u901a\u5e38\u5728\u51ac\u5b63\u4eab\u7528\u3002\u5b58\u5728\u591a\u7a2e\u8b8a\u5316\uff0c\u4f46\u6838\u5fc3\u6210\u5206\u5275\u9020\u51fa\u8212\u9069\u548c\u653e\u7e31\u7684\u9ad4\u9a57\u3002\n\n*   \u50b3\u7d71\u4e0a\u662f\u6eab\u71b1\u98f2\u7528\u3002\n*   \u8b8a\u5316\u53ef\u4ee5\u5305\u62ec\u5496\u5561\u6216\u5de7\u514b\u529b\u5229\u53e3\u9152\u3002\n*   \u901a\u5e38\u8207\u7bc0\u65e5\u805a\u6703\u76f8\u95dc\u806f\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins Uncertain, Likely a Holiday Tradition**\n\n*   Moose Milk is a general name for various creamy, boozy beverages.\n*   Often served in the military, particularly during the holidays.\n*   Recipes vary widely, indicating a folk tradition rather than a specific invention.",
+    "zh": "**\u8d77\u6e90\u4e0d\u78ba\u5b9a\uff0c\u53ef\u80fd\u662f\u4e00\u7a2e\u7bc0\u65e5\u50b3\u7d71**\n\n*   Moose Milk\u662f\u5404\u7a2e\u5976\u6cb9\u5473\u6fc3\u90c1\u7684\u9152\u7cbe\u98f2\u6599\u7684\u901a\u7528\u540d\u7a31\u3002\n*   \u7d93\u5e38\u5728\u8ecd\u968a\u4e2d\u4f9b\u61c9\uff0c\u5c24\u5176\u662f\u5728\u7bc0\u65e5\u671f\u9593\u3002\n*   \u914d\u65b9\u5dee\u7570\u5f88\u5927\uff0c\u8868\u660e\u9019\u662f\u4e00\u7a2e\u6c11\u9593\u50b3\u7d71\uff0c\u800c\u4e0d\u662f\u7279\u5b9a\u7684\u767c\u660e\u3002"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a saucepan and heat gently, stirring until warm. Do not boil. Alternatively, combine all ingredients in a shaker with ice, shake, and strain into a glass. Warm or cold as preferred.",
+    "zh": "\u5c07\u6240\u6709\u6210\u5206\u653e\u5165\u5e73\u5e95\u934b\u4e2d\uff0c\u8f15\u8f15\u52a0\u71b1\uff0c\u652a\u62cc\u81f3\u6eab\u71b1\u3002 \u4e0d\u8981\u716e\u6cb8\u3002 \u6216\u8005\uff0c\u5c07\u6240\u6709\u6210\u5206\u8207\u51b0\u584a\u6df7\u5408\u5728\u6416\u9152\u5668\u4e2d\uff0c\u6416\u6643\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u73bb\u7483\u676f\u4e2d\u3002 \u4f9d\u559c\u597d\u9078\u64c7\u6eab\u71b1\u6216\u51b0\u93ae\u3002"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or chocolate shavings",
+    "zh": "\u78e8\u788e\u7684\u8089\u8373\u853b\u6216\u5de7\u514b\u529b\u5c51"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heat-resistant glass",
+    "zh": "\u99ac\u514b\u676f\u6216\u8010\u71b1\u73bb\u7483\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, opaque, off-white to light brown",
+    "zh": "\u5976\u6cb9\u8272\uff0c\u4e0d\u900f\u660e\uff0c\u7070\u767d\u8272\u81f3\u6dfa\u68d5\u8272"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "\u4e73\u88fd\u54c1"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u6df1\u8272\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a robust and warming base with molasses notes.",
+        "zh": "\u63d0\u4f9b\u6fc3\u90c1\u800c\u6eab\u6696\u7684\u57fa\u5e95\uff0c\u5e36\u6709\u7cd6\u871c\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "\u5496\u5561\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a coffee flavor which brings the drink together",
+        "zh": "\u589e\u52a0\u5496\u5561\u98a8\u5473\uff0c\u5c07\u98f2\u6599\u878d\u5408\u5728\u4e00\u8d77"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Whole Milk",
+        "zh": "\u5168\u8102\u725b\u5976"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the creamy base and body of the drink.",
+        "zh": "\u63d0\u4f9b\u98f2\u6599\u7684\u5976\u6cb9\u57fa\u5e95\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweetened Condensed Milk",
+        "zh": "\u7149\u4e73"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and contributes to the creamy texture.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4e26\u6709\u52a9\u65bc\u5976\u6cb9\u822c\u7684\u8cea\u5730\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "\u9999\u8349\u7cbe"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Enhances the sweetness and adds a warm, comforting flavor.",
+        "zh": "\u589e\u5f37\u751c\u5ea6\u4e26\u589e\u52a0\u6eab\u6696\u3001\u8212\u9069\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    },
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

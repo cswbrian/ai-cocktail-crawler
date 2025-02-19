@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Paloma",
+    "zh": "\u5e15\u6d1b\u746a"
+  },
+  "description": {
+    "en": "**Refreshing Mexican Cocktail**\n\nA popular and refreshing highball cocktail from Mexico, typically made with:\n*   Tequila for its distinctive agave notes\n*   Grapefruit soda for sweetness and effervescence\n*   Lime juice for a touch of acidity\n*   Salt rim (optional) enhances the flavors",
+    "zh": "**\u6e05\u723d\u7684\u58a8\u897f\u54e5\u96de\u5c3e\u9152**\n\n\u4e00\u7a2e\u53d7\u6b61\u8fce\u4e14\u6e05\u723d\u7684\u58a8\u897f\u54e5\u9ad8\u676f\u96de\u5c3e\u9152\uff0c\u901a\u5e38\u7531\u4ee5\u4e0b\u6210\u5206\u88fd\u6210\uff1a\n*   \u9f8d\u820c\u862d\u9152\uff0c\u5e36\u4f86\u7368\u7279\u7684\u9f8d\u820c\u862d\u98a8\u5473\n*   \u8461\u8404\u67da\u6c7d\u6c34\uff0c\u589e\u6dfb\u751c\u5473\u548c\u6c23\u6ce1\u611f\n*   \u840a\u59c6\u6c41\uff0c\u5e36\u4f86\u4e00\u7d72\u9178\u5473\n*   \u9e7d\u53e3\uff08\u53ef\u9078\uff09\u589e\u5f37\u98a8\u5473"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Mexico\n\n*   The exact origin is debated, but it's believed to have originated in the state of Jalisco.\n*   The name \"Paloma\" means \"dove\" in Spanish.",
+    "zh": "**\u8d77\u6e90**: \u58a8\u897f\u54e5\n\n*   \u78ba\u5207\u7684\u8d77\u6e90\u5c1a\u6709\u722d\u8b70\uff0c\u4f46\u64da\u4fe1\u8d77\u6e90\u65bc\u54c8\u5229\u65af\u79d1\u5dde\u3002\n*   \"Paloma\"\u5728\u897f\u73ed\u7259\u8a9e\u4e2d\u610f\u70ba\"\u9d3f\u5b50\"\u3002"
+  },
+  "technique": {
+    "en": "Build. Add tequila and lime juice to a salt-rimmed highball glass filled with ice. Top with grapefruit soda. Stir gently.",
+    "zh": "\u76f4\u63a5\u8abf\u5408\u6cd5\u3002\u5c07\u9f8d\u820c\u862d\u9152\u548c\u840a\u59c6\u6c41\u52a0\u5165\u88dd\u6eff\u51b0\u584a\u4e26\u5df2\u505a\u9e7d\u53e3\u7684\u9ad8\u676f\u676f\u4e2d\u3002\u5012\u5165\u8461\u8404\u67da\u6c7d\u6c34\u3002\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Lime wedge or grapefruit wedge, salt rim (optional)",
+    "zh": "\u840a\u59c6\u89d2\u6216\u8461\u8404\u67da\u89d2\uff0c\u9e7d\u53e3\uff08\u53ef\u9078\uff09"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u676f\u676f"
+  },
+  "appearance": {
+    "en": "Pale pink or clear, effervescent",
+    "zh": "\u6de1\u7c89\u8272\u6216\u900f\u660e\uff0c\u8d77\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "\u767d\u8272\u9f8d\u820c\u862d\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's base and characteristic agave flavor.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u57fa\u5e95\u548c\u7368\u7279\u7684\u9f8d\u820c\u862d\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4e26\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Campfire Cocktail",
+    "zh": "\u71df\u706b\u96de\u5c3e\u9152"
+  },
+  "description": {
+    "en": "**A Smoky and Sweet Delight**\n\nThis cocktail evokes the feeling of sitting around a campfire with its blend of bourbon, smoky liqueur, and sweet notes. It features:\n*   Bourbon base for warmth\n*   Smoked liqueur for depth\n*   Marshmallow garnish for sweetness and aroma",
+    "zh": "**\u7159\u71fb\u8207\u9999\u751c\u7684\u4eab\u53d7**\n\n\u9019\u6b3e\u96de\u5c3e\u9152\u878d\u5408\u4e86\u6ce2\u672c\u5a01\u58eb\u5fcc\u3001\u7159\u71fb\u5229\u53e3\u9152\u548c\u751c\u5473\uff0c\u8b93\u4eba\u806f\u60f3\u5230\u5750\u5728\u71df\u706b\u65c1\u3002\u5176\u7279\u8272\u5305\u62ec\uff1a\n*   \u6ce2\u672c\u57fa\u5e95\u63d0\u4f9b\u6eab\u6696\u611f\n*   \u7159\u71fb\u5229\u53e3\u9152\u589e\u6dfb\u6df1\u5ea6\n*   \u68c9\u82b1\u7cd6\u88dd\u98fe\u5e36\u4f86\u751c\u5473\u548c\u9999\u6c23"
+  },
+  "historical_reference": {
+    "en": "While not a centuries-old classic, the Campfire Cocktail is a modern invention, likely dating back to the early 2000s, reflecting the rise in popularity of smoky flavors in cocktails.\n\n*   The exact origin is difficult to pinpoint.\n*   The cocktail aims to capture the essence of a campfire experience.",
+    "zh": "\u5118\u7ba1\u4e0d\u662f\u4e00\u500b\u64c1\u6709\u6578\u767e\u5e74\u6b77\u53f2\u7684\u7d93\u5178\uff0c\u4f46\u71df\u706b\u96de\u5c3e\u9152\u662f\u4e00\u7a2e\u73fe\u4ee3\u767c\u660e\uff0c\u53ef\u80fd\u53ef\u4ee5\u8ffd\u6eaf\u5230 2000 \u5e74\u4ee3\u521d\u671f\uff0c\u53cd\u6620\u4e86\u7159\u71fb\u98a8\u5473\u5728\u96de\u5c3e\u9152\u4e2d\u8d8a\u4f86\u8d8a\u53d7\u6b61\u8fce\u3002\n\n*   \u78ba\u5207\u7684\u8d77\u6e90\u96e3\u4ee5\u78ba\u5b9a\u3002\n*   \u9019\u6b3e\u96de\u5c3e\u9152\u65e8\u5728\u6355\u6349\u71df\u706b\u9ad4\u9a57\u7684\u7cbe\u9ad3\u3002"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice in a mixing glass. Strain into an Old Fashioned glass filled with ice. Garnish with a toasted marshmallow.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u5728\u652a\u62cc\u676f\u4e2d\u652a\u62cc\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u53e4\u5178\u676f\u4e2d\u3002\u7528\u70e4\u68c9\u82b1\u7cd6\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Toasted Marshmallow",
+    "zh": "\u70e4\u68c9\u82b1\u7cd6"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "\u53e4\u5178\u676f"
+  },
+  "appearance": {
+    "en": "Dark amber with a slight haze, garnished with a toasted marshmallow",
+    "zh": "\u6df1\u7425\u73c0\u8272\uff0c\u7565\u5e36\u6726\u6727\uff0c\u4e26\u4ee5\u70e4\u68c9\u82b1\u7cd6\u88dd\u98fe"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "\u6ce2\u672c\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the oaky, vanilla base and backbone of the cocktail.",
+        "zh": "\u63d0\u4f9b\u6a61\u6728\u3001\u9999\u8349\u57fa\u5e95\uff0c\u69cb\u6210\u6b64\u96de\u5c3e\u9152\u7684\u9aa8\u5e79\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Smoked Liqueur",
+        "zh": "\u7159\u71fb\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a distinct smoky flavor, mimicking the campfire experience.",
+        "zh": "\u6dfb\u52a0\u7368\u7279\u7684\u7159\u71fb\u5473\uff0c\u6a21\u4eff\u71df\u706b\u9ad4\u9a57\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon and smoke.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u4ee5\u5e73\u8861\u6ce2\u672c\u5a01\u58eb\u5fcc\u548c\u7159\u71fb\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes of Bitters",
+        "zh": "\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Enhances the overall flavor profile and adds complexity.",
+        "zh": "\u589e\u5f37\u6574\u9ad4\u98a8\u5473\u4e26\u589e\u52a0\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

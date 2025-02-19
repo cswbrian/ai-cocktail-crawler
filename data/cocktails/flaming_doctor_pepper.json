@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Flaming Doctor Pepper",
+    "zh": "\u706b\u7130 Doctor Pepper"
+  },
+  "description": {
+    "en": "**Novelty Cocktail with a Kick**\n\nA layered shot with a flaming top:\n\n*   Carefully layered for visual effect\n*   High-proof rum allows for a dramatic flame\n*   Consumed quickly after lighting",
+    "zh": "**\u65b0\u5947\u7684\u70c8\u6027\u96de\u5c3e\u9152**\n\n\u4e00\u7a2e\u5e36\u6709\u706b\u7130\u9802\u90e8\u7684\u5206\u5c64shot\uff1a\n\n*   \u5c0f\u5fc3\u5206\u5c64\u4ee5\u7522\u751f\u8996\u89ba\u6548\u679c\n*   \u9ad8\u9152\u7cbe\u5ea6\u7684\u862d\u59c6\u9152\u53ef\u7522\u751f\u5f15\u4eba\u6ce8\u76ee\u7684\u706b\u7130\n*   \u9ede\u71c3\u5f8c\u8fc5\u901f\u98f2\u7528"
+  },
+  "historical_reference": {
+    "en": "The Flaming Doctor Pepper's exact origin is unclear, but it's a popular party shot. It aims to mimic the taste of Doctor Pepper soda using amaretto and high-proof rum.\n\n*   Likely originated in the late 20th century\n*   Name is a marketing tie-in to the Dr. Pepper soft drink\n*   Primarily a novelty drink for its visual appeal",
+    "zh": "\u706b\u7130 Doctor Pepper \u7684\u78ba\u5207\u8d77\u6e90\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u5b83\u662f\u4e00\u7a2e\u6d41\u884c\u7684\u6d3e\u5c0dshot\u3002 \u5b83\u65e8\u5728\u4f7f\u7528\u963f\u99ac\u96f7\u6258\u9152\u548c\u9ad8\u9152\u7cbe\u5ea6\u7684\u862d\u59c6\u9152\u4f86\u6a21\u4eff Doctor Pepper \u8607\u6253\u6c34\u7684\u5473\u9053\u3002\n\n*   \u53ef\u80fd\u8d77\u6e90\u65bc 20 \u4e16\u7d00\u672b\n*   \u540d\u7a31\u662f\u8207 Dr. Pepper \u8edf\u6027\u98f2\u6599\u7684\u884c\u92b7\u806f\u7e6b\n*   \u4e3b\u8981\u662f\u4e00\u7a2e\u56e0\u5176\u8996\u89ba\u5438\u5f15\u529b\u800c\u5f15\u4eba\u6ce8\u76ee\u7684\u65b0\u5947\u98f2\u6599"
+  },
+  "technique": {
+    "en": "Layer amaretto in the bottom of a shot glass, top with beer. Carefully float 151 rum on top and ignite.",
+    "zh": "\u5c07\u963f\u99ac\u96f7\u6258\u9152\u5206\u5c64\u5012\u5165shot\u676f\u5e95\u90e8\uff0c\u9802\u90e8\u653e\u5564\u9152\u3002 \u5c0f\u5fc3\u5c07151 \u862d\u59c6\u9152\u6d6e\u5728\u9802\u90e8\u4e26\u9ede\u71c3\u3002"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "\u7121"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "\u70c8\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with blue flame",
+    "zh": "\u6df1\u7425\u73c0\u8272\u6db2\u9ad4\uff0c\u5e36\u6709\u85cd\u8272\u706b\u7130"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Amaretto",
+        "zh": "\u963f\u99ac\u96f7\u6258\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the nutty almond flavor.",
+        "zh": "\u63d0\u4f9b\u5805\u679c\u674f\u4ec1\u5473\u3002"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "151 Proof Rum",
+        "zh": "151 proof \u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the high alcohol content needed for the flame.",
+        "zh": "\u63d0\u4f9b\u706b\u7130\u6240\u9700\u7684\u9ad8\u9152\u7cbe\u542b\u91cf\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Light Beer",
+        "zh": "\u6de1\u5564\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Mimics the base flavor of Doctor Pepper and adds volume.",
+        "zh": "\u6a21\u4eff Doctor Pepper \u7684\u57fa\u672c\u98a8\u5473\u4e26\u589e\u52a0\u9ad4\u7a4d\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

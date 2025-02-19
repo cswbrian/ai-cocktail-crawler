@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Tschunk",
+    "zh": "\u67e5\u514b"
+  },
+  "description": {
+    "en": "**Simple but refreshing highball.**\n\nA mix of club-mate and a bitter liqueur (typically J\u00e4germeister), creating a stimulating and bittersweet drink. \n\n*   Served over ice\n*   Popular in Berlin's nightlife",
+    "zh": "**\u7c21\u55ae\u800c\u6e05\u723d\u7684Highball\u3002**\n\n\u5c07Club-Mate\u8207\u82e6\u5473\u5229\u53e3\u9152\uff08\u901a\u5e38\u662f\u91ce\u683c\u529b\u5b0c\u9152\uff09\u6df7\u5408\uff0c\u88fd\u6210\u4e00\u7a2e\u523a\u6fc0\u800c\u82e6\u6a02\u53c3\u534a\u7684\u98f2\u6599\u3002\n\n* \u52a0\u51b0\u584a\u98f2\u7528\n* \u5728\u67cf\u6797\u7684\u591c\u751f\u6d3b\u4e2d\u5f88\u53d7\u6b61\u8fce"
+  },
+  "historical_reference": {
+    "en": "**Berlin's signature drink**\n\n*   Originating in Berlin's techno scene\n*   Became popular in the 2000s\n*   Combination of local favorite Club-Mate and J\u00e4germeister",
+    "zh": "**\u67cf\u6797\u7684\u62db\u724c\u98f2\u54c1**\n\n*   \u8d77\u6e90\u65bc\u67cf\u6797\u7684Techno\u5834\u666f\n*   \u57282000\u5e74\u4ee3\u958b\u59cb\u6d41\u884c\n*   \u7576\u5730\u6700\u53d7\u6b61\u8fce\u7684Club-Mate\u548cJ\u00e4germeister\u7684\u7d50\u5408"
+  },
+  "technique": {
+    "en": "Pour bitter liqueur into a highball glass filled with ice. Top with Club-Mate.",
+    "zh": "\u5c07\u82e6\u5473\u5229\u53e3\u9152\u5012\u5165\u88dd\u6eff\u51b0\u584a\u7684Highball\u676f\u4e2d\u3002\u518d\u5012\u5165Club-Mate\u3002"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or lime wedge",
+    "zh": "\u53ef\u9078\uff1a\u6ab8\u6aac\u6216\u840a\u59c6\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "Highball\u676f"
+  },
+  "appearance": {
+    "en": "Clear, effervescent, cola-colored drink with a frothy head.",
+    "zh": "\u6e05\u6f88\u3001\u8d77\u6ce1\u7684\u53ef\u6a02\u8272\u98f2\u6599\uff0c\u5e36\u6709\u6ce1\u6cab\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Generic Bitter Liqueur",
+        "zh": "\u901a\u7528\u82e6\u5473\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the bitter, herbaceous base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u82e6\u5473\u3001\u8349\u672c\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 200,
+      "name": {
+        "en": "Club-Mate",
+        "zh": "Club-Mate"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a unique, lightly caffeinated and herbal sweetness.",
+        "zh": "\u63d0\u4f9b\u7368\u7279\u3001\u8f15\u5fae\u7684\u5496\u5561\u56e0\u548c\u8349\u672c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "\u9175\u6bcd"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

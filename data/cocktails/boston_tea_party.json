@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Boston Tea Party",
+    "zh": "\u6ce2\u58eb\u9813\u8336\u6703"
+  },
+  "description": {
+    "en": "**Complex and Robust Cocktail**\n\nA historical nod with a modern twist, this cocktail features:\n*   A blend of dark rum and brandy.\n*   A touch of lemon juice for brightness.\n*   Cola to add sweetness, bubbles, and a touch of spice.",
+    "zh": "**\u98a8\u5473\u8907\u96dc\u4e14\u6fc3\u90c1\u7684\u96de\u5c3e\u9152**\n\n\u9019\u6b3e\u96de\u5c3e\u9152\u5e36\u6709\u6b77\u53f2\u6c23\u606f\u548c\u73fe\u4ee3\u98a8\u5473\uff0c\u7279\u8272\uff1a\n*   \u9ed1\u862d\u59c6\u9152\u548c\u767d\u862d\u5730\u7684\u6df7\u5408\u3002\n*   \u5c11\u8a31\u6ab8\u6aac\u6c41\uff0c\u589e\u6dfb\u660e\u4eae\u611f\u3002\n*   \u53ef\u6a02\u5e36\u4f86\u751c\u5473\u3001\u6c23\u6ce1\u548c\u4e00\u7d72\u8f9b\u8fa3\u3002"
+  },
+  "historical_reference": {
+    "en": "**Inspired by the Boston Tea Party**\n\n*   A cocktail that subtly references the historic event.\n*   Combines elements reminiscent of the trade routes and flavors of the era.\n*   Not a direct recreation of any specific drink from that period.",
+    "zh": "**\u9748\u611f\u4f86\u81ea\u6ce2\u58eb\u9813\u50be\u8336\u4e8b\u4ef6**\n\n*   \u4e00\u6b3e\u5de7\u5999\u5730\u63d0\u53ca\u6b77\u53f2\u4e8b\u4ef6\u7684\u96de\u5c3e\u9152\u3002\n*   \u878d\u5408\u4e86\u8b93\u4eba\u806f\u60f3\u5230\u7576\u6642\u8cbf\u6613\u8def\u7dda\u548c\u98a8\u5473\u7684\u5143\u7d20\u3002\n*   \u4e26\u975e\u76f4\u63a5\u91cd\u73fe\u90a3\u500b\u6642\u671f\u7684\u4efb\u4f55\u7279\u5b9a\u98f2\u54c1\u3002"
+  },
+  "technique": {
+    "en": "Shake rum, brandy, and lemon juice with ice. Strain into a highball glass filled with ice. Top with cola. Garnish with a lemon wedge or cherry.",
+    "zh": "\u5c07\u862d\u59c6\u9152\u3001\u767d\u862d\u5730\u548c\u6ab8\u6aac\u6c41\u8207\u51b0\u584a\u6416\u52fb\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u9ad8\u7403\u676f\u4e2d\u3002\u52a0\u5165\u53ef\u6a02\u3002\u7528\u6ab8\u6aac\u89d2\u6216\u6afb\u6843\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "\u6ab8\u6aac\u89d2\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "\u9ad8\u7403\u676f"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with a frothy head",
+    "zh": "\u6df1\u7425\u73c0\u8272\u6db2\u9ad4\uff0c\u5e36\u6709\u6ce1\u6cab"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "\u9ed1\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a molasses base with a hint of spice and depth.",
+        "zh": "\u63d0\u4f9b\u7cd6\u871c\u57fa\u5e95\uff0c\u5e36\u6709\u6de1\u6de1\u7684\u9999\u6599\u548c\u6df1\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Brandy",
+        "zh": "\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a fruity and complex note, enhancing the cocktail's body.",
+        "zh": "\u589e\u6dfb\u6c34\u679c\u548c\u5fa9\u96dc\u7684\u98a8\u5473\uff0c\u589e\u5f37\u9152\u9ad4\u7684\u9187\u539a\u611f\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and enhance the flavors.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u4ee5\u5e73\u8861\u751c\u5ea6\u4e26\u589e\u5f37\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cola",
+        "zh": "\u53ef\u6a02"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness, bubbles, and a distinctive flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u3001\u6c23\u6ce1\u548c\u7368\u7279\u7684\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

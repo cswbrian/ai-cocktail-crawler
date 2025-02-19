@@ -1,0 +1,187 @@
+{
+  "name": {
+    "en": "Claret Cup",
+    "zh": "\u7d05\u9152\u676f"
+  },
+  "description": {
+    "en": "**Refreshing Summer Beverage**\n\nA large format cocktail, perfect for parties:\n*   Combines red wine with various fruits and flavorings\n*   Often topped with sparkling water or lemonade for effervescence\n*   Can be customized with different herbs and spices",
+    "zh": "**\u6e05\u723d\u7684\u590f\u5b63\u98f2\u54c1**\n\n\u9069\u5408\u6d3e\u5c0d\u7684\u5927\u4efd\u91cf\u96de\u5c3e\u9152\uff1a\n*   \u5c07\u7d05\u9152\u8207\u5404\u7a2e\u6c34\u679c\u548c\u8abf\u5473\u6599\u6df7\u5408\n*   \u901a\u5e38\u52a0\u5165\u6c23\u6ce1\u6c34\u6216\u6ab8\u6aac\u6c34\u4ee5\u7522\u751f\u6c23\u6ce1\n*   \u53ef\u4ee5\u7528\u4e0d\u540c\u7684\u9999\u8349\u548c\u9999\u6599\u9032\u884c\u5ba2\u88fd\u5316"
+  },
+  "historical_reference": {
+    "en": "**Victorian Era Punch**\n\n*   Popularized in Victorian England\n*   Variations exist using different wines and spirits\n*   Served in large bowls for social gatherings",
+    "zh": "**\u7dad\u591a\u5229\u4e9e\u6642\u4ee3\u7684\u6f58\u8da3\u9152**\n\n*   \u5728\u7dad\u591a\u5229\u4e9e\u6642\u4ee3\u7684\u82f1\u570b\u5ee3\u53d7\u6b61\u8fce\n*   \u5b58\u5728\u4f7f\u7528\u4e0d\u540c\u8461\u8404\u9152\u548c\u70c8\u9152\u7684\u8b8a\u9ad4\n*   \u76db\u5728\u5927\u578b\u7897\u4e2d\u4f9b\u793e\u4ea4\u805a\u6703\u4eab\u7528"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a punch bowl. Add ice and top with sparkling water or lemonade before serving.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u653e\u5165\u6f58\u8da3\u9152\u7897\u4e2d\u3002\u52a0\u5165\u51b0\u584a\uff0c\u4e26\u5728\u98f2\u7528\u524d\u52a0\u5165\u6c23\u6ce1\u6c34\u6216\u6ab8\u6aac\u6c34\u3002"
+  },
+  "garnish": {
+    "en": "Orange slices, lemon slices, berries, mint sprigs",
+    "zh": "\u67f3\u6a59\u7247\u3001\u6ab8\u6aac\u7247\u3001\u8393\u679c\u3001\u8584\u8377\u679d"
+  },
+  "serve_in_glass": {
+    "en": "Punch bowl or large pitcher",
+    "zh": "\u6f58\u8da3\u9152\u7897\u6216\u5927\u578b\u6c34\u7f50"
+  },
+  "appearance": {
+    "en": "Light red, often with fruit pieces visible",
+    "zh": "\u6de1\u7d05\u8272\uff0c\u901a\u5e38\u53ef\u898b\u6c34\u679c\u584a"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 750,
+      "name": {
+        "en": "Red Wine",
+        "zh": "\u7d05\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the primary alcoholic base.",
+        "zh": "\u69cb\u6210\u4e3b\u8981\u7684\u9152\u7cbe\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Orange Liqueur (e.g., Triple Sec)",
+        "zh": "\u67f3\u6a59\u9999\u751c\u9152 (\u5982\uff1a\u541b\u5ea6\u6a59\u9152)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "\u589e\u6dfb\u67d1\u6a58\u5473\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange",
+        "zh": "\u67f3\u6a59"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and visual appeal.",
+        "zh": "\u589e\u6dfb\u67d1\u6a58\u5473\u548c\u8996\u89ba\u5438\u5f15\u529b\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon",
+        "zh": "\u6ab8\u6aac"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds tartness and brightness.",
+        "zh": "\u589e\u6dfb\u9178\u5473\u548c\u660e\u4eae\u611f\u3002"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Berries (Strawberries, Raspberries)",
+        "zh": "\u8393\u679c\uff08\u8349\u8393\u3001\u8986\u76c6\u8393\uff09"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fruity flavor.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u548c\u6c34\u679c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Cinnamon Sticks",
+        "zh": "\u8089\u6842\u68d2"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds warmth and spice.",
+        "zh": "\u589e\u6dfb\u6eab\u6696\u548c\u8f9b\u8fa3\u5473\u3002"
+      }
+    },
+    {
+      "amount": 5,
+      "name": {
+        "en": "Mint Sprigs",
+        "zh": "\u8584\u8377\u679d"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Adds freshness and herbal notes.",
+        "zh": "\u589e\u6dfb\u6e05\u65b0\u548c\u8349\u672c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "\u514b"
+      },
+      "rationale": {
+        "en": "Adds Sweetness.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Blueberry Tea Mudslide",
+    "zh": "\u85cd\u8393\u8336\u6ce5\u77f3\u6d41"
+  },
+  "description": {
+    "en": "**Indulgent Dessert Cocktail**\n\nA sweet and creamy cocktail perfect for dessert, featuring:\n*   Vodka base for a subtle kick\n*   Coffee liqueur for rich coffee flavor\n*   Irish cream for a smooth, creamy texture\n*   Blueberry tea syrup for a unique fruity twist",
+    "zh": "**\u7e31\u4eab\u751c\u9ede\u96de\u5c3e\u9152**\n\n\u4e00\u6b3e\u9069\u5408\u642d\u914d\u751c\u9ede\u7684\u9999\u751c\u5976\u6cb9\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u4f0f\u7279\u52a0\u57fa\u5e95\uff0c\u5e36\u4f86\u5fae\u5999\u7684\u523a\u6fc0\u611f\n*   \u5496\u5561\u5229\u53e3\u9152\u5e36\u4f86\u6fc3\u90c1\u7684\u5496\u5561\u98a8\u5473\n*   \u611b\u723e\u862d\u5976\u6cb9\u5e36\u4f86\u67d4\u6ed1\u3001\u5976\u6cb9\u822c\u7684\u8cea\u611f\n*   \u85cd\u8393\u8336\u7cd6\u6f3f\u5e36\u4f86\u7368\u7279\u7684\u6c34\u679c\u98a8\u5473"
+  },
+  "historical_reference": {
+    "en": "The Mudslide cocktail is a relatively modern creation, gaining popularity in the latter half of the 20th century.\n\n*   Its exact origins are debated, but it's believed to have originated in the Caribbean.\n*   The Blueberry Tea variant is a more recent adaptation adding a fruity twist to the classic Mudslide.",
+    "zh": "\u6ce5\u77f3\u6d41\u96de\u5c3e\u9152\u662f\u4e00\u500b\u76f8\u5c0d\u73fe\u4ee3\u7684\u5275\u4f5c\uff0c\u572820\u4e16\u7d00\u5f8c\u534a\u8449\u958b\u59cb\u6d41\u884c\u3002\n\n*   \u5176\u78ba\u5207\u8d77\u6e90\u5c1a\u6709\u722d\u8b70\uff0c\u4f46\u64da\u4fe1\u8d77\u6e90\u65bc\u52a0\u52d2\u6bd4\u6d77\u5730\u5340\u3002\n*   \u85cd\u8393\u8336\u8b8a\u9ad4\u662f\u6700\u8fd1\u7684\u6539\u7de8\u7248\u672c\uff0c\u70ba\u7d93\u5178\u6ce5\u77f3\u6d41\u589e\u6dfb\u4e86\u6c34\u679c\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6df7\u5408\u5747\u52fb\u3002\u5012\u5165\u73bb\u7483\u676f\u4e2d\u4e26\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Blueberries and a sprinkle of cocoa powder",
+    "zh": "\u85cd\u8393\u548c\u53ef\u53ef\u7c89"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or large wine glass",
+    "zh": "\u98b6\u98a8\u676f\u6216\u5927\u578b\u8461\u8404\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Creamy, light brown with a frothy top",
+    "zh": "\u5976\u6cb9\u8272\uff0c\u6dfa\u68d5\u8272\uff0c\u9802\u90e8\u6709\u6ce1\u6cab"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "\u4e73\u88fd\u54c1"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "\u4f0f\u7279\u52a0"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "\u63d0\u4f9b\u4e2d\u6027\u7684\u9152\u7cbe\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "\u5496\u5561\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "\u589e\u6dfb\u5496\u5561\u98a8\u5473\u548c\u751c\u5473\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "\u611b\u723e\u862d\u5976\u6cb9\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds creamy texture and sweetness.",
+        "zh": "\u589e\u6dfb\u5976\u6cb9\u822c\u7684\u8cea\u611f\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Blueberry Tea Syrup",
+        "zh": "\u85cd\u8393\u8336\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds fruity sweetness and blueberry tea flavor.",
+        "zh": "\u589e\u52a0\u6c34\u679c\u7684\u751c\u5473\u548c\u85cd\u8393\u8336\u7684\u5473\u9053\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "\u5de7\u514b\u529b"
+    },
+    {
+      "en": "Coffee",
+      "zh": "\u5496\u5561"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

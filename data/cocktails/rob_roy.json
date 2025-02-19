@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Rob Roy",
+    "zh": "\u7f85\u4f2f\u00b7\u7f85\u4f0a"
+  },
+  "description": {
+    "en": "**Rob Roy: A Scotch Manhattan**\n\nThe Rob Roy is a classic cocktail that's essentially a Manhattan made with Scotch whisky instead of rye or bourbon. It offers a smooth and complex flavor profile, with notes of:\n*   Malty Scotch\n*   Sweet vermouth\n*   Aromatic bitters",
+    "zh": "**\u7f85\u4f2f\u00b7\u7f85\u4f0a\uff1a\u8607\u683c\u862d\u66fc\u54c8\u9813**\n\n\u7f85\u4f2f\u00b7\u7f85\u4f0a\u662f\u4e00\u6b3e\u7d93\u5178\u96de\u5c3e\u9152\uff0c\u672c\u8cea\u4e0a\u662f\u7528\u8607\u683c\u862d\u5a01\u58eb\u5fcc\u4ee3\u66ff\u9ed1\u9ea5\u6216\u6ce2\u672c\u5a01\u58eb\u5fcc\u88fd\u6210\u7684\u66fc\u54c8\u9813\u3002 \u5b83\u63d0\u4f9b\u9806\u6ed1\u800c\u8907\u96dc\u7684\u98a8\u5473\uff0c\u5e36\u6709\u4ee5\u4e0b\u5473\u9053\uff1a\n*   \u9ea5\u82bd\u8607\u683c\u862d\u5a01\u58eb\u5fcc\n*   \u751c\u5473\u7f8e\u601d\n*   \u82b3\u9999\u82e6\u5473"
+  },
+  "historical_reference": {
+    "en": "**Origin**: New York City, 1894\n\n*   Created at the Waldorf Astoria Hotel in New York City.\n*   Named after the Scottish folk hero Rob Roy MacGregor, on the opening of an operetta based on his life.",
+    "zh": "**\u8d77\u6e90**: \u7d10\u7d04\u5e02\uff0c1894\u5e74\n\n*   \u5728\u7d10\u7d04\u5e02\u83ef\u723e\u9053\u592b\u9152\u5e97\u5275\u5efa\u3002\n*   \u4ee5\u8607\u683c\u862d\u6c11\u65cf\u82f1\u96c4\u7f85\u4f2f\u00b7\u7f85\u4f0a\u00b7\u9ea5\u683c\u96f7\u6208\u7684\u540d\u5b57\u547d\u540d\uff0c\u7576\u6642\u4e00\u90e8\u6839\u64da\u4ed6\u7684\u751f\u6d3b\u6539\u7de8\u7684\u8f15\u6b4c\u5287\u958b\u5e55\u3002"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "\u8207\u51b0\u652a\u62cc\u5f8c\u6ffe\u5165\u51b0\u93ae\u904e\u7684\u676f\u5b50\u3002"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "\u9ad8\u8173\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Clear amber liquid",
+    "zh": "\u6e05\u6f88\u7684\u7425\u73c0\u8272\u6db2\u9ad4"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "\u8607\u683c\u862d\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic backbone of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u57fa\u790e\u98a8\u5473\u548c\u9152\u7cbe\u9aa8\u5e79\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "\u751c\u5473\u7f8e\u601d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u8349\u672c\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f bitters \u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds spice and balances the sweetness.",
+        "zh": "\u589e\u52a0\u98a8\u5473\u4e26\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

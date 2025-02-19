@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Stinger",
+    "zh": "\uc2a4\ud305\uac70"
+  },
+  "description": {
+    "en": "A simple yet elegant after-dinner cocktail made with spirit and mint liqueur. It's known for its refreshing minty flavor and relatively high alcohol content. Often served straight up in a stemmed glass.",
+    "zh": "\u4e00\u7a2e\u7c21\u55ae\u800c\u512a\u96c5\u7684\u9910\u5f8c\u96de\u5c3e\u9152\uff0c\u7531\u70c8\u9152\u548c\u8584\u8377\u5229\u53e3\u9152\u88fd\u6210\u3002 \u5b83\u4ee5\u5176\u6e05\u723d\u7684\u8584\u8377\u5473\u548c\u76f8\u5c0d\u8f03\u9ad8\u7684\u9152\u7cbe\u542b\u91cf\u800c\u805e\u540d\u3002 \u901a\u5e38\u5728\u9ad8\u8173\u676f\u4e2d\u76f4\u63a5\u98f2\u7528\u3002"
+  },
+  "historical_reference": {
+    "en": "The Stinger's origins are debated, with some tracing it back to the late 19th century. It gained popularity in the early 20th century and was a favorite among high society. It is featured in numerous classic cocktail books.\n\n*   Often associated with the *'upper class'* due to its use of brandy.\n*   Became less popular with the rise of more complex cocktails.",
+    "zh": "Stinger\u7684\u8d77\u6e90\u5b58\u5728\u722d\u8b70\uff0c\u6709\u4e9b\u4eba\u53ef\u4ee5\u8ffd\u6eaf\u523019\u4e16\u7d00\u5f8c\u671f\u3002 \u5b83\u572820\u4e16\u7d00\u521d\u958b\u59cb\u6d41\u884c\uff0c\u4e26\u4e14\u662f\u4e0a\u6d41\u793e\u6703\u7684\u6700\u611b\u3002 \u5b83\u51fa\u73fe\u5728\u8a31\u591a\u7d93\u5178\u96de\u5c3e\u9152\u66f8\u7c4d\u4e2d\u3002\n\n*   \u7531\u65bc\u4f7f\u7528\u767d\u862d\u5730\uff0c\u901a\u5e38\u8207*\u201c\u4e0a\u5c64\u968e\u7d1a\u201d*\u76f8\u95dc\u3002\n*   \u96a8\u8457\u66f4\u8907\u96dc\u7684\u96de\u5c3e\u9152\u7684\u8208\u8d77\uff0c\u5b83\u8b8a\u5f97\u4e0d\u592a\u53d7\u6b61\u8fce\u3002"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into a chilled glass. Alternatively, stir with ice and strain.",
+    "zh": "\u8207\u51b0\u584a\u6416\u52fb\u4e26\u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u4e2d\u3002 \u6216\u8005\uff0c\u8207\u51b0\u584a\u652a\u62cc\u4e26\u904e\u6ffe\u3002"
+  },
+  "garnish": {
+    "en": "None, or a mint sprig (optional).",
+    "zh": "\u7121\uff0c\u6216\u8584\u8377\u679d\uff08\u53ef\u9078\uff09\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or Old Fashioned glass.",
+    "zh": "\u96de\u5c3e\u9152\u676f\u6216\u53e4\u5178\u676f\u3002"
+  },
+  "appearance": {
+    "en": "Clear, colorless to slightly off-white.",
+    "zh": "\u6e05\u6f88\u3001\u7121\u8272\u81f3\u7565\u5e36\u7070\u767d\u8272\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "\u901a\u7528\u70c8\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and structure of the drink. Classically uses brandy, but vodka, gin, or white rum may substitute.",
+        "zh": "\u63d0\u4f9b\u98f2\u54c1\u7684\u9152\u7cbe\u57fa\u790e\u548c\u7d50\u69cb\u3002 \u7d93\u5178\u4e0a\u4f7f\u7528\u767d\u862d\u5730\uff0c\u4f46\u4f0f\u7279\u52a0\u3001\u7434\u9152\u6216\u767d\u8272\u862d\u59c6\u9152\u4e5f\u53ef\u4ee5\u66ff\u4ee3\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Mint Liqueur",
+        "zh": "\u8584\u8377\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a strong mint flavor and sweetness to the cocktail.",
+        "zh": "\u70ba\u96de\u5c3e\u9152\u589e\u6dfb\u6fc3\u90c1\u7684\u8584\u8377\u5473\u548c\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

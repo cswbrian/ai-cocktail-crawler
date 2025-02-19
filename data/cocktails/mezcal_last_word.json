@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Mezcal Last Word",
+    "zh": "\u6885\u65af\u5361\u723e\u6700\u5f8c\u907a\u8a00"
+  },
+  "description": {
+    "en": "A smoky twist on the classic Last Word cocktail, replacing gin with mezcal. This adds a layer of complexity and earthiness, complementing the herbal and citrus notes.",
+    "zh": "\u7d93\u5178Last Word\u96de\u5c3e\u9152\u7684\u7159\u71fb\u7248\u672c\uff0c\u4ee5\u6885\u65af\u5361\u723e\u53d6\u4ee3\u7434\u9152\u3002\u9019\u589e\u52a0\u4e86\u8907\u96dc\u6027\u548c\u6ce5\u571f\u5473\uff0c\u8207\u8349\u672c\u548c\u67d1\u6a58\u5473\u76f8\u5f97\u76ca\u5f70\u3002"
+  },
+  "historical_reference": {
+    "en": "The Last Word was created at the Detroit Athletic Club sometime before 1916, then revived in the early 2000s by bartender Murray Stenson. This variation substitutes mezcal for gin, creating a smoky and complex variation of the original cocktail.",
+    "zh": "Last Word\u5927\u7d04\u57281916\u5e74\u4e4b\u524d\u65bc\u5e95\u7279\u5f8b\u904b\u52d5\u4ff1\u6a02\u90e8\u88ab\u5275\u9020\u51fa\u4f86\uff0c\u7136\u5f8c\u57282000\u5e74\u4ee3\u521d\u671f\u7531\u8abf\u9152\u5e2bMurray Stenson\u91cd\u65b0\u63a8\u51fa\u3002\u6b64\u8b8a\u9ad4\u4ee5\u6885\u65af\u5361\u723e\u4ee3\u66ff\u7434\u9152\uff0c\u5275\u9020\u51fa\u539f\u5275\u96de\u5c3e\u9152\u7684\u7159\u71fb\u548c\u8907\u96dc\u7248\u672c\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u904e\u6ffe\u5230\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Lime wedge or cherry",
+    "zh": "\u9752\u6ab8\u89d2\u6216\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "\u9ad8\u8173\u676f\u6216\u99ac\u4e01\u5c3c\u676f"
+  },
+  "appearance": {
+    "en": "Pale green and slightly cloudy",
+    "zh": "\u6de1\u7da0\u8272\u4e14\u7565\u5e36\u6df7\u6fc1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Mezcal",
+        "zh": "\u6885\u65af\u5361\u723e"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the smoky, agave-forward base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7159\u71fb\u5473\u548c\u9f8d\u820c\u862d\u98a8\u5473\u7684\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "\u7da0\u8272\u67e5\u7279\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds herbal and complex flavors.",
+        "zh": "\u589e\u52a0\u8349\u672c\u548c\u8907\u96dc\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and cherry notes.",
+        "zh": "\u589e\u6dfb\u751c\u5473\u548c\u6afb\u6843\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u9178\u6a59\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "\u589e\u52a0\u9178\u5473\u548c\u67d1\u6a58\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

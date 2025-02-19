@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Corpse Reviver #2",
+    "zh": "\u4ea1\u8005\u5fa9\u751f2\u865f"
+  },
+  "description": {
+    "en": "A potent and complex cocktail designed as a 'hair of the dog' remedy.\n\n*   Features a blend of gin, lemon juice, Lillet Blanc, Cointreau, and a dash of absinthe.\n*   Perfectly balanced between sweet, sour, and herbaceous notes.",
+    "zh": "\u4e00\u7a2e\u5f37\u6548\u800c\u8907\u96dc\u7684\u96de\u5c3e\u9152\uff0c\u65e8\u5728\u4f5c\u70ba\u201c\u4ee5\u6bd2\u653b\u6bd2\u201d\u7684\u89e3\u9152\u5291\u3002\n\n*   \u878d\u5408\u4e86\u7434\u9152\u3001\u6ab8\u6aac\u6c41\u3001\u91cc\u8449\u767d\u8461\u8404\u9152\u3001\u541b\u5ea6\u6a59\u9152\u548c\u5c11\u8a31\u82e6\u827e\u9152\u3002\n*   \u5728\u751c\u3001\u9178\u548c\u8349\u672c\u98a8\u5473\u4e4b\u9593\u53d6\u5f97\u5b8c\u7f8e\u5e73\u8861\u3002"
+  },
+  "historical_reference": {
+    "en": "Created to revive those suffering from the effects of overindulgence.\n\n*   First appeared in print in the 1930s in *The Savoy Cocktail Book* by Harry Craddock.\n*   The 'Corpse Reviver' family includes several variations, with No. 2 being the most popular.",
+    "zh": "\u65e8\u5728\u6062\u5fa9\u90a3\u4e9b\u56e0\u904e\u5ea6\u653e\u7e31\u800c\u53d7\u82e6\u7684\u4eba\u3002\n\n*   \u9996\u6b21\u51fa\u73fe\u5728\u5370\u5237\u54c1\u4e0a\u662f\u5728 1930 \u5e74\u4ee3\u54c8\u91cc\u00b7\u514b\u62c9\u591a\u514b\u7684\u300a*\u85a9\u4f0f\u4f0a\u96de\u5c3e\u9152\u66f8*\u300b\u4e2d\u3002\n*   \u201cCorpse Reviver\u201d\u5bb6\u65cf\u5305\u62ec\u591a\u7a2e\u8b8a\u9ad4\uff0c\u5176\u4e2d 2 \u865f\u6700\u53d7\u6b61\u8fce\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. Garnish with a lemon twist.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\u3002 \u6ffe\u5165\u51b0\u93ae\u7684\u73bb\u7483\u676f\u4e2d\u3002 \u7528\u6ab8\u6aac\u76ae\u626d\u8f49\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "\u6ab8\u6aac\u76ae\u626d\u8f49"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or cocktail glass",
+    "zh": "\u51b0\u93ae\u904e\u7684\u789f\u578b\u676f\u6216\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Pale yellow, translucent, and slightly cloudy",
+    "zh": "\u6de1\u9ec3\u8272\uff0c\u534a\u900f\u660e\uff0c\u7565\u5e36\u6df7\u6fc1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a strong, botanical foundation.",
+        "zh": "\u69cb\u6210\u96de\u5c3e\u9152\u7684\u57fa\u790e\uff0c\u63d0\u4f9b\u5f37\u70c8\u7684\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "\u91cc\u8449\u767d\u8461\u8404\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes floral and honeyed notes, adding to the cocktail's complexity.",
+        "zh": "\u8ca2\u737b\u82b1\u9999\u548c\u8702\u871c\u5473\uff0c\u589e\u52a0\u96de\u5c3e\u9152\u7684\u8907\u96dc\u6027\u3002"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Liqueur (Cointreau)",
+        "zh": "\u6a59\u5473\u5229\u53e3\u9152\uff08\u541b\u5ea6\uff09"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a sweet orange flavor and contributes to the cocktail's body.",
+        "zh": "\u589e\u52a0\u751c\u6a59\u5473\uff0c\u4e26\u6709\u52a9\u65bc\u96de\u5c3e\u9152\u7684\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "\u82e6\u827e\u9152"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds a subtle anise note that enhances the other flavors. It's used sparingly.",
+        "zh": "\u6dfb\u52a0\u5fae\u5999\u7684\u8334\u9999\u5473\uff0c\u589e\u5f37\u5176\u4ed6\u98a8\u5473\u3002 \u5c11\u91cf\u4f7f\u7528\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "\u65b0\u9bae\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a sour element, balancing the sweetness of the liqueurs and providing brightness.",
+        "zh": "\u589e\u52a0\u9178\u5473\uff0c\u5e73\u8861\u5229\u53e3\u9152\u7684\u751c\u5473\u4e26\u63d0\u4f9b\u4eae\u5ea6\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

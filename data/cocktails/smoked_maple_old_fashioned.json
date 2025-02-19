@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Smoked Maple Old Fashioned",
+    "zh": "\u7159\u71fb\u6953\u7cd6\u53e4\u5178\u96de\u5c3e\u9152"
+  },
+  "description": {
+    "en": "A rich and smoky twist on the classic Old Fashioned, featuring bourbon infused with smoke and the sweet depth of maple syrup. This cocktail offers a balanced profile of sweet, smoky, and boozy flavors, making it a sophisticated choice for whiskey enthusiasts.\n\nKey Features:\n*   Smoked Bourbon for depth\n*   Maple Syrup adds rich sweetness\n*   Orange peel brings zest",
+    "zh": "\u7d93\u5178\u53e4\u5178\u96de\u5c3e\u9152\u7684\u6fc3\u90c1\u7159\u71fb\u8b8a\u594f\uff0c\u4ee5\u7159\u71fb\u6ce2\u672c\u5a01\u58eb\u5fcc\u548c\u6953\u7cd6\u6f3f\u7684\u751c\u5473\u6df1\u5ea6\u70ba\u7279\u8272\u3002\u9019\u6b3e\u96de\u5c3e\u9152\u63d0\u4f9b\u751c\u5473\u3001\u7159\u71fb\u5473\u548c\u6fc3\u70c8\u9152\u7cbe\u5473\u7684\u5e73\u8861\uff0c\u4f7f\u5176\u6210\u70ba\u5a01\u58eb\u5fcc\u611b\u597d\u8005\u7684\u7cbe\u7dfb\u4e4b\u9078\u3002\n\n\u4e3b\u8981\u7279\u8272\uff1a\n* \u7159\u71fb\u6ce2\u672c\u589e\u6dfb\u6df1\u5ea6\n* \u6953\u7cd6\u6f3f\u589e\u52a0\u8c50\u5bcc\u7684\u751c\u5473\n* \u6a59\u76ae\u5e36\u4f86\u6d3b\u529b"
+  },
+  "historical_reference": {
+    "en": "The Old Fashioned is one of the oldest and most fundamental cocktails, dating back to the 19th century. This variation incorporates modern techniques and flavors. \n\n*   The classic is often credited to a bartender at a gentlemen's club in Louisville, Kentucky.\n*   The addition of maple syrup and smoke is a recent innovation, catering to contemporary palates.",
+    "zh": "\u53e4\u5178\u96de\u5c3e\u9152\u662f\u6700\u53e4\u8001\u3001\u6700\u57fa\u672c\u7684\u96de\u5c3e\u9152\u4e4b\u4e00\uff0c\u53ef\u8ffd\u6eaf\u81f319\u4e16\u7d00\u3002\u9019\u7a2e\u8b8a\u594f\u878d\u5408\u4e86\u73fe\u4ee3\u6280\u8853\u548c\u98a8\u5473\u3002\n\n*   \u7d93\u5178\u4e4b\u4f5c\u901a\u5e38\u6b78\u529f\u65bc\u80af\u5854\u57fa\u5dde\u8def\u6613\u65af\u7dad\u723e\u4e00\u5bb6\u7d33\u58eb\u4ff1\u6a02\u90e8\u7684\u9152\u4fdd\u3002\n*   \u6dfb\u52a0\u6953\u7cd6\u6f3f\u548c\u7159\u71fb\u5473\u662f\u6700\u8fd1\u7684\u5275\u65b0\uff0c\u65e8\u5728\u8fce\u5408\u7576\u4ee3\u4eba\u7684\u53e3\u5473\u3002"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice in a mixing glass. Strain into an Old Fashioned glass over a large ice cube. Garnish with an orange peel and brandied cherry.",
+    "zh": "\u5c07\u6240\u6709\u539f\u6599\u8207\u51b0\u584a\u5728\u652a\u62cc\u676f\u4e2d\u652a\u62cc\u3002\u6ffe\u5165\u88dd\u6709\u5927\u51b0\u584a\u7684\u53e4\u5178\u676f\u4e2d\u3002\u7528\u6a59\u76ae\u548c\u767d\u862d\u5730\u9152\u6f2c\u6afb\u6843\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Orange peel and brandied cherry",
+    "zh": "\u6a59\u76ae\u548c\u767d\u862d\u5730\u9152\u6f2c\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "\u53e4\u5178\u676f"
+  },
+  "appearance": {
+    "en": "Dark amber with a slight haze, garnished with an orange peel and a brandied cherry.",
+    "zh": "\u6df1\u7425\u73c0\u8272\uff0c\u7565\u5e36\u6726\u6727\u611f\uff0c\u7528\u6a59\u76ae\u548c\u767d\u862d\u5730\u9152\u6f2c\u6afb\u6843\u88dd\u98fe\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "\u6ce2\u672c\u5a01\u58eb\u5fcc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the main body and flavor with notes of vanilla and caramel.",
+        "zh": "\u63d0\u4f9b\u9152\u9ad4\u548c\u98a8\u5473\uff0c\u5e36\u6709\u9999\u8349\u548c\u7126\u7cd6\u7684\u5473\u9053\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Maple Syrup",
+        "zh": "\u6953\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "\u8336\u5319"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinctive maple flavor.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u7368\u7279\u7684\u6953\u6728\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "\u5b89\u683c\u5f0f\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "\u589e\u52a0\u8907\u96dc\u5ea6\u4e26\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "\u7159\u71fb"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    },
+    {
+      "en": "Nutty",
+      "zh": "\u5805\u679c"
+    },
+    {
+      "en": "Bitter",
+      "zh": "\u82e6\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

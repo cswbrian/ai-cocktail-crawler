@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Lorraine",
+    "zh": "\u6d1b\u6797"
+  },
+  "description": {
+    "en": "**A sophisticated pre-prohibition era cocktail**.\n\nThe Lorraine cocktail features a delicate balance of gin, maraschino liqueur, and apricot brandy, complemented by a whisper of dry vermouth. It's a light and aromatic drink, perfect as an aperitif.\n\n*   Delicate balance of flavors\n*   Aromatic and refreshing",
+    "zh": "**\u4e00\u6b3e\u7cbe\u7dfb\u7684\u7981\u9152\u4ee4\u524d\u6642\u4ee3\u96de\u5c3e\u9152**\u3002\n\nLorraine\u96de\u5c3e\u9152\u7684\u7279\u8272\u5728\u65bc\u7434\u9152\u3001\u9ed1\u6afb\u6843\u5229\u53e3\u9152\u548c\u674f\u6843\u767d\u862d\u5730\u7684\u5fae\u5999\u5e73\u8861\uff0c\u4e26\u4ee5\u5c11\u8a31\u4e7e\u82e6\u827e\u9152\u505a\u70ba\u896f\u6258\u3002 \u9019\u662f\u4e00\u6b3e\u6e05\u6de1\u800c\u82b3\u9999\u7684\u98f2\u54c1\uff0c\u975e\u5e38\u9069\u5408\u4f5c\u70ba\u958b\u80c3\u9152\u3002\n\n* \u53e3\u5473\u7684\u5fae\u5999\u5e73\u8861\n* \u82b3\u9999\u4e14\u4ee4\u4eba\u8033\u76ee\u4e00\u65b0"
+  },
+  "historical_reference": {
+    "en": "**A classic cocktail with unclear origins**\n\nWhile the exact history is hazy, The Lorraine appears in several cocktail books from the early 20th century. This indicates it was a popular drink of that era.\n\n*   Likely originated in the early 1900s\n*   Popular during the pre-prohibition era\n*   Several variations exist, with different ratios of ingredients",
+    "zh": "**\u4e00\u6b3e\u8d77\u6e90\u4e0d\u660e\u7684\u7d93\u5178\u96de\u5c3e\u9152**\n\n\u5118\u7ba1\u78ba\u5207\u7684\u6b77\u53f2\u6a21\u7cca\u4e0d\u6e05\uff0c\u4f46Lorraine\u51fa\u73fe\u572820\u4e16\u7d00\u521d\u7684\u5e7e\u672c\u96de\u5c3e\u9152\u66f8\u4e2d\u3002 \u9019\u8868\u660e\u5b83\u662f\u90a3\u500b\u6642\u4ee3\u6d41\u884c\u7684\u98f2\u54c1\u3002\n\n* \u53ef\u80fd\u8d77\u6e90\u65bc1900\u5e74\u4ee3\u521d\u671f\n* \u5728\u7981\u9152\u4ee4\u524d\u6642\u4ee3\u5f88\u53d7\u6b61\u8fce\n* \u5b58\u5728\u591a\u7a2e\u8b8a\u9ad4\uff0c\u914d\u6599\u6bd4\u4f8b\u4e0d\u540c"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled cocktail glass. Garnish with a cherry.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u652a\u62cc\u81f3\u5b8c\u5168\u51b0\u93ae\u3002 \u6ffe\u5165\u51b0\u93ae\u7684\u96de\u5c3e\u9152\u676f\u4e2d\u3002 \u7528\u6afb\u6843\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Cherry",
+    "zh": "\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Clear, light amber liquid with a slight pink hue",
+    "zh": "\u6e05\u6f88\u3001\u6dfa\u7425\u73c0\u8272\u6db2\u9ad4\uff0c\u7565\u5e36\u7c89\u7d05\u8272\u8abf"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "\u7121"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "\u63d0\u4f9b\u70c8\u9152\u57fa\u5e95\u548c\u690d\u7269\u7684\u8907\u96dc\u6027\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry sweetness and complex flavor.",
+        "zh": "\u589e\u6dfb\u5fae\u5999\u7684\u6afb\u6843\u751c\u5473\u548c\u8907\u96dc\u7684\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Brandy",
+        "zh": "\u674f\u6843\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Contributes fruity notes and a hint of almond.",
+        "zh": "\u8ca2\u737b\u6c34\u679c\u5473\u548c\u6de1\u6de1\u7684\u674f\u4ec1\u5473\u3002"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "Dry Vermouth"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes to balance the sweetness.",
+        "zh": "\u589e\u52a0\u4e7e\u5ea6\u53ca\u8349\u672c\u9999\uff0c\u5e73\u8861\u751c\u5473\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

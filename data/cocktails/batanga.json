@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Batanga",
+    "zh": "\u5df4\u5766\u52a0"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Tequila Cocktail**\n\nA classic Mexican highball featuring:\n*   Tequila for the base spirit\n*   Lime juice for acidity\n*   Mexican Coke for sweetness and bubbles\n*   Salt rim for flavor contrast",
+    "zh": "**\u7c21\u55ae\u6e05\u723d\u7684\u9f8d\u820c\u862d\u8abf\u9152**\n\n\u7d93\u5178\u7684\u58a8\u897f\u54e5\u9ad8\u676f\u8abf\u9152\uff0c\u7279\u8272\uff1a\n*   \u9f8d\u820c\u862d\u4f5c\u70ba\u57fa\u9152\n*   \u840a\u59c6\u6c41\u63d0\u4f9b\u9178\u5ea6\n*   \u58a8\u897f\u54e5\u53ef\u6a02\u63d0\u4f9b\u751c\u5473\u548c\u6c23\u6ce1\n*   \u9e7d\u53e3\u589e\u6dfb\u98a8\u5473\u5c0d\u6bd4"
+  },
+  "historical_reference": {
+    "en": "**Origin**: La Capilla bar, Tequila, Mexico\n\n*   Created by Don Javier Delgado Corona\n*   Simple and refreshing, a popular local drink\n*   Name means 'baseball bat' or 'club'",
+    "zh": "**\u8d77\u6e90**: \u58a8\u897f\u54e5\u9f8d\u820c\u862d\u93ae\uff0cLa Capilla\u9152\u5427\n\n*   \u7531\u54c8\u7dad\u723e\u00b7\u5fb7\u723e\u52a0\u591a\u00b7\u79d1\u7f85\u7d0d\uff08Don Javier Delgado Corona\uff09\u5275\u9020\n*   \u7c21\u55ae\u6e05\u723d\uff0c\u662f\u53d7\u6b61\u8fce\u7684\u7576\u5730\u98f2\u54c1\n*   \u540d\u7a31\u610f\u70ba\u300c\u68d2\u7403\u68d2\u300d\u6216\u300c\u7403\u687f\u300d"
+  },
+  "technique": {
+    "en": "Salt the rim of a highball glass. Fill with ice, add tequila and lime juice, top with Mexican Coke. Stir gently.",
+    "zh": "\u5728\u9ad8\u676f\u908a\u7de3\u6cbe\u4e0a\u9e7d\u3002\u52a0\u5165\u51b0\u584a\uff0c\u5012\u5165\u9f8d\u820c\u862d\u548c\u840a\u59c6\u6c41\uff0c\u518d\u5012\u5165\u58a8\u897f\u54e5\u53ef\u6a02\u3002\u8f15\u8f15\u652a\u62cc\u3002"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "\u840a\u59c6\u89d2"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass with a salted rim",
+    "zh": "\u9e7d\u53e3\u9ad8\u676f"
+  },
+  "appearance": {
+    "en": "Clear, pale gold liquid with visible bubbles",
+    "zh": "\u6e05\u6f88\u7684\u6de1\u91d1\u8272\u6db2\u9ad4\uff0c\u5e36\u6709\u660e\u986f\u6c23\u6ce1"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "\u767d\u8272\u9f8d\u820c\u862d"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with agave flavors.",
+        "zh": "\u63d0\u4f9b\u4ee5\u9f8d\u820c\u862d\u98a8\u5473\u70ba\u57fa\u790e\u7684\u70c8\u9152\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance to the drink.",
+        "zh": "\u70ba\u98f2\u54c1\u589e\u6dfb\u9178\u5ea6\u548c\u5e73\u8861\u611f\u3002"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Mexican Coke",
+        "zh": "\u58a8\u897f\u54e5\u53ef\u6a02"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides sweetness and carbonation. Mexican Coke often uses cane sugar.",
+        "zh": "\u63d0\u4f9b\u751c\u5473\u548c\u78b3\u9178\u3002\u58a8\u897f\u54e5\u53ef\u6a02\u901a\u5e38\u4f7f\u7528\u8517\u7cd6\u3002"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Salt",
+        "zh": "\u9e7d"
+      },
+      "unit": {
+        "en": "to taste",
+        "zh": "\u9069\u91cf"
+      },
+      "rationale": {
+        "en": "Used for rimming the glass to enhance flavor contrast.",
+        "zh": "\u7528\u65bc\u88dd\u98fe\u676f\u53e3\uff0c\u4ee5\u589e\u5f37\u98a8\u5473\u5c0d\u6bd4\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

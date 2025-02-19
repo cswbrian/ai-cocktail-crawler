@@ -1,0 +1,175 @@
+{
+  "name": {
+    "en": "Bloody Maria",
+    "zh": "\u8840\u8165\u746a\u9e97\u4e9e"
+  },
+  "description": {
+    "en": "**Savory Tequila Cocktail**\n\nA spicy and savory variation of the classic Bloody Mary:\n*   Tequila instead of vodka for a distinct flavor.\n*   Tomato juice, spices, and hot sauce create a complex, layered taste.\n*   Garnishes like celery, olives, and lime enhance the experience.",
+    "zh": "**\u9e79\u9999\u9f8d\u820c\u862d\u96de\u5c3e\u9152**\n\n\u7d93\u5178\u8840\u8165\u746a\u9e97\u7684\u8f9b\u8fa3\u9e79\u9999\u8b8a\u9ad4\uff1a\n*   \u4f7f\u7528\u9f8d\u820c\u862d\u9152\u4ee3\u66ff\u4f0f\u7279\u52a0\uff0c\u5e36\u4f86\u7368\u7279\u98a8\u5473\u3002\n*   \u756a\u8304\u6c41\u3001\u9999\u6599\u548c\u8fa3\u6912\u91ac\u5275\u9020\u51fa\u8907\u96dc\u800c\u591a\u5c64\u6b21\u7684\u53e3\u611f\u3002\n*   \u82b9\u83dc\u3001\u6a44\u6b16\u548c\u840a\u59c6\u7b49\u88dd\u98fe\u589e\u5f37\u9ad4\u9a57\u3002"
+  },
+  "historical_reference": {
+    "en": "**Variation of the Bloody Mary**\n\n*   Created as a tequila-based alternative to the vodka-based Bloody Mary.\n*   Exact origin and creator are not definitively known, but it likely emerged in the mid-20th century with the rise of tequila's popularity in the United States.\n*   Shares the same savory and spicy profile as the original but with a distinct tequila twist.",
+    "zh": "**\u8840\u8165\u746a\u9e97\u7684\u8b8a\u9ad4**\n\n*   \u4f5c\u70ba\u4ee5\u9f8d\u820c\u862d\u9152\u70ba\u57fa\u5e95\uff0c\u66ff\u4ee3\u4ee5\u4f0f\u7279\u52a0\u70ba\u57fa\u5e95\u7684\u8840\u8165\u746a\u9e97\u800c\u5275\u9020\u3002\n*   \u78ba\u5207\u7684\u8d77\u6e90\u548c\u5275\u9020\u8005\u5c1a\u4e0d\u6e05\u695a\uff0c\u4f46\u53ef\u80fd\u572820\u4e16\u7d00\u4e2d\u8449\u96a8\u8457\u9f8d\u820c\u862d\u9152\u5728\u7f8e\u570b\u7684\u666e\u53ca\u800c\u51fa\u73fe\u3002\n*   \u8207\u539f\u7248\u5177\u6709\u76f8\u540c\u7684\u9e79\u9999\u548c\u8f9b\u8fa3\u98a8\u5473\uff0c\u4f46\u5e36\u6709\u7368\u7279\u7684\u9f8d\u820c\u862d\u9152\u98a8\u5473\u3002"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Roll gently between the shaker halves to mix (or stir gently). Strain into an ice-filled glass. Garnish as desired.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u653e\u5165\u88dd\u6709\u51b0\u584a\u7684\u6416\u9152\u5668\u4e2d\u3002\u5728\u6416\u9152\u5668\u7684\u5169\u534a\u4e4b\u9593\u8f15\u8f15\u6efe\u52d5\u4ee5\u6df7\u5408\uff08\u6216\u8f15\u8f15\u652a\u62cc\uff09\u3002\u6ffe\u5165\u88dd\u6eff\u51b0\u584a\u7684\u676f\u5b50\u4e2d\u3002\u6839\u64da\u9700\u8981\u88dd\u98fe\u3002"
+  },
+  "garnish": {
+    "en": "Celery stalk, lime wedge, olives, and/or spicy pickled vegetables.",
+    "zh": "\u82b9\u83dc\u8396\u3001\u840a\u59c6\u89d2\u3001\u6a44\u6b16\u548c/\u6216\u8f9b\u8fa3\u9183\u88fd\u852c\u83dc\u3002"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "\u9ad8\u7403\u676f\u6216\u54c1\u812b\u676f"
+  },
+  "appearance": {
+    "en": "Deep red, thick, and savory, often with visible spices and garnishes.",
+    "zh": "\u6df1\u7d05\u8272\uff0c\u6fc3\u7a20\uff0c\u9e79\u9999\uff0c\u901a\u5e38\u53ef\u898b\u9999\u6599\u548c\u88dd\u98fe\u3002"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "\u9f8d\u820c\u862d\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic flavor.",
+        "zh": "\u63d0\u4f9b\u9152\u7cbe\u57fa\u5e95\u548c\u7368\u7279\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "\u756a\u8304\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and body of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u7684\u57fa\u672c\u98a8\u5473\u548c\u9152\u9ad4\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "\u840a\u59c6\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness.",
+        "zh": "\u589e\u52a0\u9178\u5ea6\u548c\u660e\u4eae\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "\u8fa3\u6912\u91ac"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds spiciness and heat.",
+        "zh": "\u589e\u52a0\u8f9b\u8fa3\u548c\u71b1\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "\u4f0d\u65af\u7279\u91ac"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds umami and depth of flavor.",
+        "zh": "\u589e\u52a0\u9bae\u5473\u548c\u98a8\u5473\u6df1\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "\u82b9\u83dc\u9e7d"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavor.",
+        "zh": "\u589e\u5f37\u9e79\u9999\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "\u9ed1\u80e1\u6912"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "\u64ae"
+      },
+      "rationale": {
+        "en": "Adds a hint of spice.",
+        "zh": "\u589e\u52a0\u4e00\u7d72\u8f9b\u8fa3\u5473\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "\u9e79\u5473"
+    },
+    {
+      "en": "Umami",
+      "zh": "\u9bae\u5473"
+    },
+    {
+      "en": "Spicy",
+      "zh": "\u8f9b\u8fa3"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Savory",
+      "zh": "\u9e79\u9999"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Pink Lady",
+    "zh": "\u7c89\u7d05\u4f73\u4eba"
+  },
+  "description": {
+    "en": "**Classic, Slightly Sweet Cocktail**\n\nA pre-Prohibition cocktail with a delicate balance of flavors:\n\n*   Gin base provides a botanical foundation.\n*   Apple brandy (or applejack) adds a fruity note.\n*   Lemon juice balances the sweetness.\n*   Grenadine contributes color and sweetness.\n*   Egg white creates a smooth, frothy texture.",
+    "zh": "**\u7d93\u5178\u3001\u5fae\u751c\u7684\u96de\u5c3e\u9152**\n\n\u7981\u9152\u4ee4\u4e4b\u524d\u7684\u96de\u5c3e\u9152\uff0c\u5177\u6709\u7cbe\u7dfb\u7684\u98a8\u5473\u5e73\u8861\uff1a\n\n*   \u7434\u9152\u57fa\u5e95\u63d0\u4f9b\u690d\u7269\u98a8\u5473\u3002\n*   \u860b\u679c\u767d\u862d\u5730\uff08\u6216\u860b\u679c\u5091\u514b\uff09\u589e\u6dfb\u6c34\u679c\u98a8\u5473\u3002\n*   \u6ab8\u6aac\u6c41\u5e73\u8861\u751c\u5ea6\u3002\n*   \u77f3\u69b4\u7cd6\u6f3f\u8ca2\u737b\u984f\u8272\u548c\u751c\u5473\u3002\n*   \u86cb\u767d\u5275\u9020\u6ed1\u9806\u3001\u8d77\u6ce1\u7684\u8cea\u5730\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origins**: First appeared around the early 1900s.\n\n* Popularized in the 1920s and 1930s.\n* Named for the actress Hazel Dawn (aka 'The Pink Lady').\n* A favorite among women during the Prohibition era due to its sweeter flavor profile.",
+    "zh": "**\u8d77\u6e90**: \u9996\u6b21\u51fa\u73fe\u65bc1900\u5e74\u4ee3\u521d\u671f\u3002\n\n* \u57281920\u5e74\u4ee3\u548c1930\u5e74\u4ee3\u666e\u53ca\u3002\n* \u4ee5\u5973\u6f14\u54e1Hazel Dawn\uff08\u53c8\u540d\u201c\u7c89\u7d05\u5973\u90ce\u201d\uff09\u547d\u540d\u3002\n* \u7531\u65bc\u5176\u8f03\u751c\u7684\u98a8\u5473\uff0c\u5728\u7981\u9152\u4ee4\u6642\u671f\u53d7\u5230\u5973\u6027\u7684\u559c\u611b\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\u3002\u6ffe\u5165\u51b0\u93ae\u7684\u676f\u5b50\u3002"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "\u99ac\u62c9\u65af\u5947\u8afe\u6afb\u6843"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Pale pink, frothy",
+    "zh": "\u6de1\u7c89\u8272\uff0c\u8d77\u6ce1"
+  },
+  "allergens": [
+    {
+      "en": "Egg white",
+      "zh": "\u86cb\u767d"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "\u7434\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "\u63d0\u4f9b\u57fa\u9152\u548c\u690d\u7269\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "\u860b\u679c\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a fruity apple flavor.",
+        "zh": "\u589e\u52a0\u860b\u679c\u7684\u6c34\u679c\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "\u77f3\u69b4\u7cd6\u6f3f"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "\u589e\u52a0\u751c\u5473\u548c\u984f\u8272\u3002"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance sweetness.",
+        "zh": "\u589e\u52a0\u9178\u5473\u4ee5\u5e73\u8861\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "\u86cb\u767d"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "\u500b"
+      },
+      "rationale": {
+        "en": "Provides a silky texture.",
+        "zh": "\u63d0\u4f9b\u7d72\u6ed1\u7684\u8cea\u5730\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Creamy",
+      "zh": "\u4e73\u8102"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

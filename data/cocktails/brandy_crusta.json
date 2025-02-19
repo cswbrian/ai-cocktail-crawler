@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Brandy Crusta",
+    "zh": "\u767d\u862d\u5730 Crusta"
+  },
+  "description": {
+    "en": "**Elegant Brandy Cocktail**\n\nConsidered by some to be the predecessor of the Sidecar, featuring:\n\n*   Sugared rim for added sweetness and visual appeal.\n*   Citrus oils expressed from the garnish which enhances the aroma.",
+    "zh": "**\u512a\u96c5\u7684\u767d\u862d\u5730\u96de\u5c3e\u9152**\n\n\u6709\u4e9b\u4eba\u8a8d\u70ba\u662fSidecar\u7684\u524d\u8eab\uff0c\u7279\u8272\uff1a\n\n*   \u7cd6\u908a\u589e\u6dfb\u751c\u5473\u548c\u8996\u89ba\u5438\u5f15\u529b\u3002\n*   \u4f86\u81ea\u88dd\u98fe\u7684\u67d1\u6a58\u7cbe\u6cb9\uff0c\u589e\u5f37\u4e86\u9999\u6c23\u3002"
+  },
+  "historical_reference": {
+    "en": "**One of the oldest classic cocktails.**\n\n*   Created by Joseph Santini at City Exchange in New Orleans, around 1840s.\n*   One of the first cocktails to use citrus peel as a major component.",
+    "zh": "**\u6700\u53e4\u8001\u7684\u7d93\u5178\u96de\u5c3e\u9152\u4e4b\u4e00\u3002**\n\n*   \u7531\u7d04\u745f\u592b\u00b7\u6851\u8482\u5c3c\uff08Joseph Santini\uff09\u65bc1840\u5e74\u4ee3\u5de6\u53f3\u5728\u65b0\u5967\u723e\u826f\u7684\u57ce\u5e02\u4ea4\u6613\u6240\u5275\u5efa\u3002\n*   \u6700\u65e9\u4f7f\u7528\u67d1\u6a58\u76ae\u4f5c\u70ba\u4e3b\u8981\u6210\u5206\u7684\u96de\u5c3e\u9152\u4e4b\u4e00\u3002"
+  },
+  "technique": {
+    "en": "Sugar the rim of a glass with lemon juice and sugar. Carefully place a long citrus peel inside the glass. Shake ingredients with ice and strain into the prepared glass.",
+    "zh": "\u7528\u6ab8\u6aac\u6c41\u548c\u7cd6\u5728\u73bb\u7483\u676f\u908a\u7de3\u6cbe\u4e0a\u7cd6\u3002\u5c0f\u5fc3\u5730\u5c07\u9577\u9577\u7684\u67d1\u6a58\u76ae\u653e\u5165\u73bb\u7483\u676f\u4e2d\u3002\u5c07\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\u5f8c\uff0c\u5012\u5165\u6e96\u5099\u597d\u7684\u73bb\u7483\u676f\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Large lemon or orange peel, carefully fitted inside the glass",
+    "zh": "\u5927\u584a\u6ab8\u6aac\u76ae\u6216\u6a59\u76ae\uff0c\u5c0f\u5fc3\u5730\u88dd\u5728\u73bb\u7483\u676f\u5167"
+  },
+  "serve_in_glass": {
+    "en": "Crusta Glass",
+    "zh": "Crusta \u676f"
+  },
+  "appearance": {
+    "en": "Bright amber liquid with a sugared rim and citrus garnish",
+    "zh": "\u660e\u4eae\u7684\u7425\u73c0\u8272\u6db2\u9ad4\uff0c\u5e36\u6709\u7cd6\u908a\u548c\u67d1\u6a58\u88dd\u98fe"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cognac",
+        "zh": "\u5e72\u9091\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing rich, fruity and oaky notes.",
+        "zh": "\u69cb\u6210\u96de\u5c3e\u9152\u7684\u57fa\u5e95\uff0c\u63d0\u4f9b\u8c50\u5bcc\u3001\u679c\u9999\u548c\u6a61\u6728\u98a8\u5473\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "\u9ed1\u6afb\u6843\u5229\u53e3\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complex cherry notes.",
+        "zh": "\u589e\u52a0\u751c\u5ea6\u548c\u8907\u96dc\u7684\u6afb\u6843\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "\u82e6\u7cbe"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "\u6ef4"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the drink",
+        "zh": "\u589e\u52a0\u8907\u96dc\u6027\u4e26\u5e73\u8861\u98f2\u6599"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "\u7cd6"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "\u8336\u5319"
+      },
+      "rationale": {
+        "en": "For sugaring the rim of the glass.",
+        "zh": "\u7528\u65bc\u5728\u676f\u5b50\u908a\u7de3\u52a0\u7cd6\u3002"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Floral",
+      "zh": "\u82b1\u9999"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "\u9999\u8349"
+    },
+    {
+      "en": "Woody",
+      "zh": "\u6728\u8cea"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

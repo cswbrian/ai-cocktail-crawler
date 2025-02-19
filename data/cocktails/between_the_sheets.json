@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Between the Sheets",
+    "zh": "\u5e8a\u7b2b\u4e4b\u9593"
+  },
+  "description": {
+    "en": "**Classic Sidecar Variation**\n\nA sophisticated and potent cocktail featuring:\n*   Equal parts spirits and citrus\n*   Slightly sweeter than a Sidecar due to the rum\n*   A complex blend of flavors that are both refreshing and boozy.",
+    "zh": "**\u7d93\u5178\u5074\u8eca\u8b8a\u594f**\n\n\u4e00\u6b3e\u7cbe\u7dfb\u800c\u5f37\u52c1\u7684\u96de\u5c3e\u9152\uff0c\u7279\u8272\uff1a\n*   \u7b49\u6bd4\u4f8b\u7684\u70c8\u9152\u548c\u67d1\u6a58\n*   \u7531\u65bc\u862d\u59c6\u9152\u7684\u7de3\u6545\uff0c\u6bd4\u5074\u8eca\u7565\u751c\n*   \u6e05\u65b0\u4e14\u6fc3\u70c8\u7684\u8907\u96dc\u98a8\u5473\u878d\u5408\u3002"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First appeared in the 1930s.\n\n*   Often attributed to Harry MacElhone of Harry's New York Bar in Paris.\n*   A variation of the Sidecar cocktail.\n*   Name suggests a risque connotation.",
+    "zh": "**\u8d77\u6e90**: \u9996\u6b21\u51fa\u73fe\u65bc1930\u5e74\u4ee3\u3002\n\n*   \u7d93\u5e38\u88ab\u8a8d\u70ba\u662f\u5df4\u9ece\u54c8\u5229\u7d10\u7d04\u9152\u5427\u7684\u54c8\u5229\u00b7\u9ea5\u514b\u57c3\u723e\u970d\u5c3c\u6240\u5275\u3002\n*   \u5074\u8eca\u96de\u5c3e\u9152\u7684\u8b8a\u594f\u3002\n*   \u540d\u5b57\u6697\u793a\u4e00\u7a2e\u5192\u96aa\u7684\u5167\u6db5\u3002"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "\u5c07\u6240\u6709\u6750\u6599\u8207\u51b0\u584a\u6416\u52fb\uff0c\u7136\u5f8c\u6ffe\u5165\u51b0\u93ae\u904e\u7684\u676f\u5b50\u4e2d\u3002"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "\u6a59\u76ae\u626d\u8f49"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "\u96de\u5c3e\u9152\u676f"
+  },
+  "appearance": {
+    "en": "Clear, pale amber liquid",
+    "zh": "\u6e05\u6f88\u7684\u6de1\u7425\u73c0\u8272\u6db2\u9ad4"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cognac",
+        "zh": "\u5e72\u9091\u767d\u862d\u5730"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Provides the rich, fruity base of the cocktail.",
+        "zh": "\u63d0\u4f9b\u96de\u5c3e\u9152\u8c50\u5bcc\u7684\u679c\u5473\u57fa\u5e95\u3002"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cointreau",
+        "zh": "\u541b\u5ea6\u6a59\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "\u589e\u6dfb\u6a59\u5b50\u7684\u98a8\u5473\u548c\u751c\u5ea6\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "White Rum",
+        "zh": "\u767d\u862d\u59c6\u9152"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds complexity and a tropical note.",
+        "zh": "\u589e\u6dfb\u8907\u96dc\u6027\u548c\u71b1\u5e36\u98a8\u5473\u3002"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "\u6ab8\u6aac\u6c41"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "\u6beb\u5347"
+      },
+      "rationale": {
+        "en": "Adds a sour balance to the drink.",
+        "zh": "\u70ba\u98f2\u54c1\u589e\u6dfb\u9178\u5473\u5e73\u8861\u3002"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "\u67d1\u6a58"
+    },
+    {
+      "en": "Fruity",
+      "zh": "\u679c\u9999"
+    },
+    {
+      "en": "Herbal",
+      "zh": "\u8349\u672c"
+    },
+    {
+      "en": "Tropical",
+      "zh": "\u71b1\u5e36"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}
