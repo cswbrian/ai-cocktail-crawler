@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Smash",
+    "zh": "思美希"
+  },
+  "description": {
+    "en": "*   A **Smash** is a versatile cocktail built around a spirit, fresh fruit, herbs, and a sweetener. It's essentially a julep's freewheeling cousin.\n*   The drink can be easily adapted to utilize seasonal fruits and herbs, making it highly customizable.",
+    "zh": "*   **Smash** 是一種多功能的雞尾酒，以烈酒、新鮮水果、香草和甜味劑為基礎。它本質上是朱利普雞尾酒的自由奔放的表親。\n*   此飲品可以輕鬆調整以利用季節性水果和香草，使其具有高度的客製化能力。"
+  },
+  "historical_reference": {
+    "en": "*   The **Smash** is a classic cocktail with a long history, dating back to the 19th century.\n*   It is considered a template or family of drinks, allowing for endless variations depending on available ingredients.\n*   Jerry Thomas' Bartenders Guide includes recipes for the Smash",
+    "zh": "*   **Smash** 是一種歷史悠久的經典雞尾酒，可以追溯到 19 世紀。\n*   它被認為是一種範本或系列飲品，可以根據現有食材進行無數的變化。\n*   Jerry Thomas 的《Bartenders Guide》中包含 Smash 的食譜"
+  },
+  "technique": {
+    "en": "Muddle fruit, herbs, and syrup in a shaker. Add spirit and ice. Shake briefly. Strain into glass filled with ice. Top with soda.",
+    "zh": "在搖酒器中搗碎水果、香草和糖漿。加入烈酒和冰塊。短暫搖晃。濾入裝滿冰塊的杯子。頂部加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Fresh fruit and herbs",
+    "zh": "新鮮水果和香草"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass or Julep Cup",
+    "zh": "古典杯或朱利普杯"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant color depending on the fruit, garnished with herbs and fruit.",
+    "zh": "根據水果呈現混濁、鮮豔的顏色，並以香草和水果裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "通用烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base. Can be whiskey, gin, rum, or brandy.",
+        "zh": "提供酒精基底。可以是威士忌、琴酒、蘭姆酒或白蘭地。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Fruit (berries, stone fruit, citrus)",
+        "zh": "水果（莓果、核果、柑橘）"
+      },
+      "unit": {
+        "en": "pieces",
+        "zh": "塊"
+      },
+      "rationale": {
+        "en": "Adds sweetness, flavor, and body to the drink.",
+        "zh": "為飲品增添甜味、風味和酒體。"
+      }
+    },
+    {
+      "amount": 4,
+      "name": {
+        "en": "Mint or other Herbs",
+        "zh": "薄荷或其他香草"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds aroma and herbal notes to the drink.",
+        "zh": "為飲品增添香氣和草本風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the sourness and adds sweetness.",
+        "zh": "平衡酸味並增加甜度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a refreshing effervescence and dilutes the cocktail.",
+        "zh": "增添清爽的氣泡感並稀釋雞尾酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

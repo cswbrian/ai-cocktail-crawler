@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Mint Julep Mocktail",
+    "zh": "薄荷茱莉普無酒精雞尾酒"
+  },
+  "description": {
+    "en": "**Refreshing and Non-Alcoholic Variation**\n\nThis Mint Julep mocktail offers a delightful and alcohol-free twist on the classic cocktail:\n\n*   Muddled mint for a vibrant herbal essence\n*   Simple syrup for balanced sweetness\n*   Crushed ice for a frosty and refreshing experience",
+    "zh": "**清爽的無酒精變化版**\n\n這款薄荷茱莉普無酒精雞尾酒在經典雞尾酒的基礎上，提供了令人愉悅且不含酒精的變奏：\n\n*   搗碎的薄荷帶來鮮明的草本精華\n*   簡糖漿帶來平衡的甜味\n*   碎冰帶來冰霜般的清爽體驗"
+  },
+  "historical_reference": {
+    "en": "**A Temperate Twist on a Classic**\n\n*   The Mint Julep mocktail reimagines the traditional cocktail, removing the alcohol for an accessible beverage.\n*   While the origins of the original Mint Julep are debated, this version seeks to capture its essence in a non-alcoholic format.",
+    "zh": "**經典的溫和轉變**\n\n*   薄荷茱莉普無酒精雞尾酒重新構想了傳統雞尾酒，去除了酒精，成為一種容易取得的飲品。\n*   雖然最初的薄荷茱莉普的起源存在爭議，但此版本旨在以非酒精形式捕捉其精髓。"
+  },
+  "technique": {
+    "en": "Gently muddle mint with simple syrup. Fill glass with crushed ice. Top with club soda. Garnish.",
+    "zh": "輕輕將薄荷與簡糖漿混合搗碎。在杯中裝滿碎冰。倒入梳打水至滿杯。裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Julep cup",
+    "zh": "古典杯或茱莉普杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green, refreshing",
+    "zh": "混濁、淡綠色、清爽"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Fresh Mint Leaves",
+        "zh": "新鮮薄荷葉"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides fresh, herbal flavor",
+        "zh": "提供新鮮的草本風味"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the mint",
+        "zh": "增加甜度以平衡薄荷味"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Club Soda",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds volume and a refreshing effervescence",
+        "zh": "增加體積和清爽的氣泡感"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 0,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": {
+    "en": "Brandy Alexander",
+    "zh": "亞歷山大白蘭地"
+  },
+  "description": {
+    "en": "**Classic Dessert Cocktail**\n\nA rich and creamy cocktail perfect as an after-dinner treat, featuring:\n*   Brandy for warmth\n*   Dark crème de cacao for chocolate flavor\n*   Cream for smooth texture",
+    "zh": "**經典甜點雞尾酒**\n\n一款濃郁且滑順的雞尾酒，非常適合作為餐後甜點，特色：\n*   白蘭地帶來溫暖感\n*   深色可可甜酒帶來巧克力風味\n*   鮮奶油帶來滑順口感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Popularized in the early 20th century\n\n*   Several stories exist about its creation, including one linking it to a New York City bartender.\n*   Often associated with the musical *Alexander's Ragtime Band*",
+    "zh": "**起源**: 20世紀初開始流行\n\n*   關於其由來的說法有很多，包括一個將其與紐約市調酒師聯繫起來的故事。\n*   經常與音樂劇《亞歷山大的雷格泰姆樂隊》聯繫在一起"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "現磨肉豆蔻"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown",
+    "zh": "乳白色，淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and warmth.",
+        "zh": "提供基底風味和醇厚感。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Crème de Cacao",
+        "zh": "深色可可甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides chocolate flavor and sweetness.",
+        "zh": "提供巧克力風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and smooth texture.",
+        "zh": "增加濃郁度和滑順口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 8,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

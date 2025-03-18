@@ -1,0 +1,87 @@
+{
+  "name": {
+    "en": "Smoked Peach Bellini",
+    "zh": "煙燻水蜜桃貝里尼"
+  },
+  "description": {
+    "en": "**Smoked Peach Bellini: A Modern Twist**\n\nA sophisticated take on the classic Bellini cocktail, featuring:\n\n*   **Smoked peach puree** infuses a delightful smoky flavor.\n*   **Prosecco** adds effervescence and a crisp finish.\n*   A touch of simple syrup balances the tartness of the peach.",
+    "zh": "**煙燻水蜜桃貝里尼：現代風味**\n\n經典貝里尼雞尾酒的精緻變奏，特色：\n\n*   **煙燻水蜜桃泥**注入令人愉悅的煙燻風味。\n*   **普羅塞克氣泡酒**增添氣泡感和清脆的餘韻。\n*   少許糖漿平衡了水蜜桃的酸味。"
+  },
+  "historical_reference": {
+    "en": "**Bellini Origins**\n\n*   Created at Harry's Bar in Venice, Italy, between 1934 and 1948.\n*   Named after the Venetian artist Giovanni Bellini, due to its unique pink color reminiscent of the artist's paintings.\n*   The original Bellini consists of Prosecco and peach puree.",
+    "zh": "**貝里尼的起源**\n\n*   1934年至1948年間，於義大利威尼斯Harry's Bar 創造。\n*   以威尼斯藝術家喬凡尼·貝里尼命名，因為它獨特的粉紅色讓人想起藝術家的畫作。\n*   最初的貝里尼由普羅塞克氣泡酒和水蜜桃泥組成。"
+  },
+  "technique": {
+    "en": "Combine smoked peach puree and simple syrup in a champagne flute. Top with Prosecco. Gently stir to combine. Garnish with a peach slice.",
+    "zh": "將煙燻水蜜桃泥和糖漿倒入香檳長笛杯中。 加入普羅塞克氣泡酒。 輕輕攪拌均勻。 用水蜜桃切片裝飾。"
+  },
+  "garnish": {
+    "en": "Peach slice",
+    "zh": "水蜜桃切片"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳長笛杯"
+  },
+  "appearance": {
+    "en": "Pale orange with fine bubbles",
+    "zh": "淡橙色，帶有細緻氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Smoked Peach Puree",
+        "zh": "煙燻水蜜桃泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a unique smoky and fruity flavor.",
+        "zh": "增添獨特的煙燻和水果風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the tartness of the peach.",
+        "zh": "增加甜度，平衡水蜜桃的酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

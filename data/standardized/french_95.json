@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "French 95",
+    "zh": "法式95"
+  },
+  "description": {
+    "en": "A delightful variation on the classic French 75, the French 95 replaces Champagne with a sparkling wine, often prosecco, offering a slightly different sweetness and bubbly experience. It's a refreshing and elegant cocktail perfect for celebrations.",
+    "zh": "法式95是經典法式75的變奏版，以氣泡酒（通常是普羅塞克）取代香檳，帶來略有不同的甜味和氣泡體驗。這是一款清爽優雅的雞尾酒，非常適合慶祝活動。"
+  },
+  "historical_reference": {
+    "en": "The French 75 is believed to date back to World War I, and was created at Harry's New York Bar in Paris. The *French 95* is a modern variation, adapting to more available ingredients, and tastes, as some prefer prosecco over champagne.",
+    "zh": "法式75據信可以追溯到第一次世界大戰，在巴黎的哈利紐約酒吧創建。*法式95*是一種現代變體，適應了更多可用的成分和口味，因為有些人更喜歡普羅塞克而不是香檳。"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into a flute or coupe glass. Top with sparkling wine. Garnish with a lemon twist.",
+    "zh": "將琴酒、檸檬汁和簡糖漿與冰塊搖勻。濾入長笛杯或碟型杯中。加入氣泡酒。用檸檬皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Flute or Coupe",
+    "zh": "長笛杯或碟型杯"
+  },
+  "appearance": {
+    "en": "Pale golden, effervescent",
+    "zh": "淡金色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜度以平衡酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Whiskey Sour",
+    "zh": "威士忌酸酒"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail**\n\nA well-balanced combination of whiskey, citrus, and sugar, often enhanced with egg white for a silky texture.\n*   Whiskey provides the base spirit.\n*   Lemon juice adds tartness.\n*   Sugar balances the sourness.\n*   Optional egg white creates a smooth mouthfeel.",
+    "zh": "**經典酸味雞尾酒**\n\n威士忌、柑橘和糖的完美平衡組合，通常加入蛋白以增強其絲滑質感。\n*   威士忌提供基酒。\n*   檸檬汁增加酸度。\n*   糖平衡酸味。\n*   可選的蛋白可產生柔滑的口感。"
+  },
+  "historical_reference": {
+    "en": "**Origins in the 19th Century**\n\n*   One of the oldest cocktails, tracing back to the mid-1800s.\n*   Evolved from the traditional 'sour' category of drinks.\n*   Popularized by sailors using citrus to prevent scurvy.",
+    "zh": "**起源於19世紀**\n\n*   最古老的雞尾酒之一，可追溯至1800年代中期。\n*   從傳統的“酸味”飲料類別演變而來。\n*   水手們使用柑橘來預防壞血病，使其普及。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass filled with ice (or without ice if using a coupe glass).",
+    "zh": "將所有材料與冰塊搖勻。濾入裝有冰塊的冰鎮玻璃杯中（如果使用高腳杯則不加冰塊）。"
+  },
+  "garnish": {
+    "en": "Lemon or orange peel, Maraschino cherry (optional)",
+    "zh": "檸檬或橙皮，馬拉斯奇諾櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Coupe glass",
+    "zh": "古典杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Cloudy golden liquid with a frothy white head",
+    "zh": "混濁的金色液體，帶有泡沫狀的白色泡沫"
+  },
+  "allergens": [
+    {
+      "en": "egg white (optional)",
+      "zh": "蛋白（可選）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky flavors.",
+        "zh": "提供基酒和橡木風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and sourness.",
+        "zh": "增加酸度和酸味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds texture and a frothy head.",
+        "zh": "增加質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

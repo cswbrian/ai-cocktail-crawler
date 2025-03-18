@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Pegu Club",
+    "zh": "Pegu Club 雞尾酒"
+  },
+  "description": {
+    "en": "**Classic Gin Sour**\n\nA sophisticated and balanced gin sour, featuring:\n*   Lime and Orange Bitters add complexity and depth.\n*   A refreshing and aromatic cocktail, ideal as an aperitif.",
+    "zh": "**經典琴酒酸酒**\n\n精緻且平衡的琴酒酸酒，特色：\n* 萊姆和橙味苦精增加了複雜性和深度。\n* 一款清新芳香的雞尾酒，非常適合作為餐前酒。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after the Pegu Club in Rangoon, Burma (now Yangon, Myanmar).\n\n*   Popularized in the late 19th and early 20th centuries.\n*   Recipe variations exist, but the core ingredients remain consistent.\n*   First documented in Harry MacElhone's *Harry's ABC of Mixing Cocktails* (1919).",
+    "zh": "**起源**：以緬甸仰光（現今的緬甸）的 Pegu Club 命名。\n\n*   在 19 世紀末和 20 世紀初普及。\n*   存在配方變體，但核心成分保持一致。\n*   首次記載於 Harry MacElhone 的《Harry's ABC of Mixing Cocktails》（1919 年）。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wheel or expressed lime peel",
+    "zh": "萊姆片或擠壓萊姆皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or cocktail glass",
+    "zh": "冰鎮 Coupe 杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy",
+    "zh": "淡黃色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical backbone and strength of the cocktail.",
+        "zh": "提供雞尾酒主要的植物骨幹和強度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential acidity and sourness.",
+        "zh": "增加必要的酸度和酸味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "皮耶費朗干邑橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a hint of sweetness and citrus notes.",
+        "zh": "增加一絲甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash of Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic depth.",
+        "zh": "增加複雜性和芳香深度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash of Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and spice notes.",
+        "zh": "增加深度和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

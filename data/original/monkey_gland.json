@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Monkey Gland",
+    "zh": "猴腺"
+  },
+  "description": {
+    "en": "*A pre-Prohibition era cocktail*, the Monkey Gland is a quirky and somewhat controversial drink. It combines gin with orange juice, grenadine, and absinthe for a complex flavor profile.\n\n*The name is derived from a dubious medical procedure*, popularized in the early 20th century, involving grafting monkey testicle tissue onto humans in an attempt to restore vitality.",
+    "zh": "*禁酒令之前的雞尾酒*，猴腺是一種古怪且有些爭議的飲品。它將琴酒與橙汁、石榴糖漿和苦艾酒混合，形成複雜的風味。\n\n*這個名字源於一種可疑的醫療程序*，在 20 世紀初流行，涉及將猴子睪丸組織移植到人類身上，試圖恢復活力。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Harry MacElhone at Harry's New York Bar in Paris in the 1920s.\n\n* Named after the rejuvenation treatments of Dr. Serge Voronoff.\n* The name reflects the era's fascination with dubious medical procedures.",
+    "zh": "**起源**: 1920 年代由 Harry MacElhone 在巴黎的 Harry's New York Bar 創作。\n\n* 以 Serge Voronoff 醫生的回春療法命名。\n* 這個名字反映了那個時代對可疑醫療程序的迷戀。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy pink to orange, depending on grenadine, with an orange peel garnish.",
+    "zh": "混濁的粉紅色至橙色，取決於石榴糖漿，並以橙皮裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a hint of anise and complexity.",
+        "zh": "添加一絲茴香和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes, balancing the gin.",
+        "zh": "增加甜味和柑橘味，平衡琴酒。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and a red color.",
+        "zh": "提供甜味和紅色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

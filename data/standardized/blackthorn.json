@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Blackthorn",
+    "zh": "黑刺李"
+  },
+  "description": {
+    "en": "The Blackthorn is a classic cocktail, similar to a Manhattan but using Irish whiskey and absinthe. It is a simple and refreshing drink with a complex flavor profile.",
+    "zh": "黑刺李是一種經典雞尾酒，類似於曼哈頓，但使用愛爾蘭威士忌和苦艾酒。 它是一種簡單而清爽的飲品，具有複雜的風味。"
+  },
+  "historical_reference": {
+    "en": "The Blackthorn cocktail appears in early cocktail books, often noted as an Irish variation on other whiskey cocktails. Its exact origin is unclear, but it has remained a consistent presence in cocktail culture.\n\n*   May have originated in Ireland.\n*   Similar to a Manhattan or Rob Roy, but with Irish Whiskey.",
+    "zh": "黑刺李雞尾酒出現在早期的雞尾酒書籍中，通常被認為是其他威士忌雞尾酒的愛爾蘭變體。 其確切起源尚不清楚，但它在雞尾酒文化中一直保持著穩定的地位。\n\n* 可能起源於愛爾蘭。\n* 類似於曼哈頓或羅伯·羅伊，但使用愛爾蘭威士忌。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後倒入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or cherry",
+    "zh": "檸檬皮或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "馬丁尼杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Light amber, clear",
+    "zh": "淺琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and backbone of the cocktail.",
+        "zh": "提供雞尾酒的基底風味和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complexity.",
+        "zh": "增加甜味和複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds anise flavor.",
+        "zh": "增加茴香味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

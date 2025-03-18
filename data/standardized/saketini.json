@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Saketini",
+    "zh": "清酒馬丁尼"
+  },
+  "description": {
+    "en": "**A modern twist on the classic Martini**\n\nThe Saketini replaces gin or vodka with sake, creating a lighter and more delicate cocktail.\n\n*   Features sake as the primary spirit\n*   Dry vermouth adds a subtle herbal note\n*   Often garnished with a lemon twist or olive",
+    "zh": "**經典馬丁尼的現代演繹**\n\nSaketini 以清酒取代琴酒或伏特加，創造出更輕盈、更精緻的雞尾酒。\n\n*   以清酒為主要基酒\n*   Dry vermouth 增添微妙的草本氣息\n*   通常以檸檬皮或橄欖裝飾"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A modern creation, likely emerging in the late 20th or early 21st century.\n\n*   A variation on the Martini, substituting sake for traditional spirits\n*   Popularized in upscale bars and restaurants seeking unique cocktail offerings\n*   Exact origin remains undocumented but represents fusion cocktail culture.",
+    "zh": "**起源**: 現代創作，可能出現在 20 世紀末或 21 世紀初。\n\n*   馬丁尼的一種變體，以清酒代替傳統烈酒\n*   在高檔酒吧和餐廳中普及，以尋求獨特的雞尾酒產品\n*   確切的起源仍未有文獻記錄，但代表了融合雞尾酒文化。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear and colorless",
+    "zh": "清澈無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Sake (Junmai or Ginjo)",
+        "zh": "清酒（純米或吟釀）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a unique rice-wine flavor.",
+        "zh": "構成雞尾酒的基底，提供獨特的米酒風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加乾度和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

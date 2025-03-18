@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Cojito",
+    "zh": "椰子莫希托"
+  },
+  "description": {
+    "en": "**Cojito: A Coconut Mojito Twist**\n\nA refreshing variation of the classic Mojito, enhanced with coconut cream, creating a creamy and tropical flavor profile.\n\n*   Combines the traditional Mojito elements with coconut.\n*   Offers a sweeter, richer alternative to the original.\n*   Perfect for summer sipping.",
+    "zh": "**椰子莫希托：莫希托的椰子風味**\n\n經典莫希托的清爽變奏版，加入了椰奶，創造出奶油般濃郁的熱帶風味。\n\n*   結合了傳統莫希托的元素與椰子。\n*   提供比原版更甜、更濃郁的替代品。\n*   非常適合夏日啜飲。"
+  },
+  "historical_reference": {
+    "en": "The Mojito originated in Havana, Cuba. The Cojito, a coconut version, is a more recent adaptation, gaining popularity for its tropical twist on the classic drink.",
+    "zh": "莫希托起源於古巴哈瓦那。椰子莫希托是一種較新的改編版本，因其在經典飲品中加入的熱帶風味而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Muddle mint leaves, sugar, and lime juice. Add rum and coconut cream. Fill with ice and top with soda water. Stir gently. Garnish.",
+    "zh": "將薄荷葉、糖和檸檬汁搗碎。加入蘭姆酒和椰奶。加入冰塊，並倒入蘇打水。輕輕攪拌。裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, lime wedge, coconut flakes.",
+    "zh": "薄荷枝、檸檬角、椰子片。"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow-green with vibrant mint sprigs and lime wedges.",
+    "zh": "清澈的淡黃綠色，帶有鮮豔的薄荷枝和檸檬角。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and traditional flavor.",
+        "zh": "提供酒精基底和傳統風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and the signature coconut flavor and creamy texture.",
+        "zh": "增加甜味，標誌性的椰子味和奶油般的口感。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Teaspoons Sugar",
+        "zh": "茶匙糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Sweetens the drink.",
+        "zh": "使飲品更甜。"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "Leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides a refreshing, herbal aroma and flavor.",
+        "zh": "提供清爽的草本香氣和風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and volume.",
+        "zh": "增加氣泡和體積。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

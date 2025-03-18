@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Bumbo",
+    "zh": "邦布酒"
+  },
+  "description": {
+    "en": "**Historical Mariner's Drink**\n\nA potent and flavorful drink with:\n*   A simple mix of rum, water, sugar, and nutmeg.\n*   Associated with pirates and sailors.\n*   A precursor to more complex rum cocktails.",
+    "zh": "**歷史悠久的水手飲品**\n\n一種強勁而美味的飲品，具有：\n*   簡單的蘭姆酒、水、糖和肉荳蔻混合。\n*   與海盜和水手相關。\n*   更複雜的蘭姆酒雞尾酒的前身。"
+  },
+  "historical_reference": {
+    "en": "**A Seafaring Tradition**\n\n*   Originated among sailors and pirates.\n*   Variations existed across different ships and regions.\n*   Often used to mask the taste of poor-quality water.",
+    "zh": "**航海傳統**\n\n*   起源於水手和海盜之間。\n*   不同的船隻和地區存在差異。\n*   通常用於掩蓋劣質水的味道。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a glass. Stir to dissolve sugar. Add ice if desired. Grate nutmeg on top.",
+    "zh": "將所有材料放入玻璃杯中。攪拌以溶解糖。如果需要，加入冰塊。在上面磨碎肉荳蔻。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or mug",
+    "zh": "古典杯或馬克杯"
+  },
+  "appearance": {
+    "en": "Cloudy golden-brown",
+    "zh": "混濁的金棕色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic strength.",
+        "zh": "提供基底風味和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "紅糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a molasses flavor.",
+        "zh": "增加甜味和糖蜜風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the drink and makes it more palatable.",
+        "zh": "稀釋飲料，使其更可口。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

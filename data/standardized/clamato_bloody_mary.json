@@ -1,0 +1,194 @@
+{
+  "name": {
+    "en": "Clamato Bloody Mary",
+    "zh": "蛤蜊番茄血腥瑪麗"
+  },
+  "description": {
+    "en": "**Savory and Spicy Cocktail**\n\nThis variation of the classic Bloody Mary uses Clamato juice, a blend of tomato juice and clam broth, offering a unique flavor profile. It is typically highly seasoned and garnished with a variety of savory items.\n\nKey features include:\n*   Clamato juice for a savory base\n*   A mix of spices for heat and complexity\n*   Extensive garnishing for enhanced visual appeal and flavor",
+    "zh": "**鹹味和辛辣的雞尾酒**\n\n這個經典血腥瑪麗的變體使用 Clamato 果汁，這是一種番茄汁和蛤蜊湯的混合物，提供獨特的風味。它通常經過高度調味，並飾以各種鹹味食物。\n\n主要特點包括：\n*   Clamato 果汁作為鹹味基底\n*   混合香料以增加風味和複雜性\n*   大量的裝飾以增強視覺吸引力和風味"
+  },
+  "historical_reference": {
+    "en": "**A Variation on a Classic**\n\n*   The Bloody Mary was invented in the 1920s.\n*   The Clamato version gained popularity later, offering a different savory profile.\n*   Its exact origin is debated, but it's a well-established variation of the original.",
+    "zh": "**經典的變體**\n\n*   血腥瑪麗發明於 1920 年代。\n*   Clamato 版本後來廣受歡迎，提供了不同的鹹味。\n*   它的確切起源尚有爭議，但它是原始版本的一個完善的變體。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Roll or gently shake to mix. Strain into a glass filled with ice. Garnish elaborately.",
+    "zh": "將所有材料放入裝有冰塊的搖酒器中。滾動或輕輕搖晃混合。濾入裝滿冰塊的玻璃杯中。精心裝飾。"
+  },
+  "garnish": {
+    "en": "Celery stalk, olive(s), lime wedge, pickled vegetables, shrimp, bacon strip, or other savory items.",
+    "zh": "芹菜莖、橄欖、檸檬角、醃製蔬菜、蝦、培根條或其他鹹味食物。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "高球杯或品脫杯"
+  },
+  "appearance": {
+    "en": "Deep red, opaque, with visible particulates and a foamy head, garnished with various savory items.",
+    "zh": "深紅色，不透明，帶有可見的微粒和泡沫，並飾以各種鹹味食物。"
+  },
+  "allergens": [
+    {
+      "en": "Shellfish",
+      "zh": "貝類海鮮"
+    },
+    {
+      "en": "Gluten (optional)",
+      "zh": "麩質（可選）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base for the cocktail.",
+        "zh": "為雞尾酒提供酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Clamato Juice",
+        "zh": "蛤蜊番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the tomato and clam broth base for the cocktail.",
+        "zh": "為雞尾酒提供番茄和蛤蜊湯底。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds brightness and acidity to balance the savory flavors.",
+        "zh": "增加亮度和酸度，以平衡鹹味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and depth of flavor.",
+        "zh": "增加鮮味和風味深度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spiciness and heat.",
+        "zh": "增加辣味和熱度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Seasoning.",
+        "zh": "調味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Seasoning.",
+        "zh": "調味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

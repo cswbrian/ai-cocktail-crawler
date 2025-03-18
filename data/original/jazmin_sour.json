@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Jazmin Sour",
+    "zh": "茉莉花酸酒"
+  },
+  "description": {
+    "en": "**Floral and Refreshing Sour**\n\nA delightful twist on the classic gin sour, featuring:\n*   Jazmin tea syrup for a unique floral sweetness\n*   Lemon juice for brightness\n*   Egg white for a silky texture",
+    "zh": "**花香和清爽的酸味雞尾酒**\n\n經典琴酒酸味雞尾酒的美味變奏，特色：\n*   茉莉花茶糖漿帶來獨特的花香甜味\n*   檸檬汁帶來明亮感\n*   蛋白帶來柔滑的口感"
+  },
+  "historical_reference": {
+    "en": "The jazmin sour is a modern variation on the classic sour cocktail template. Sour cocktails, dating back to the mid-19th century, typically consist of a base spirit, citrus juice, and a sweetener. This adaptation incorporates jazmin tea syrup to add a floral dimension to the flavor profile.",
+    "zh": "茉莉花酸味雞尾酒是經典酸味雞尾酒模板的現代變奏。酸味雞尾酒可追溯至19世紀中葉，通常由基酒、柑橘汁和甜味劑組成。 這種改編版加入了茉莉花茶糖漿，為風味增添了花香。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖晃。 濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Jazmin flower or lemon twist",
+    "zh": "茉莉花或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Sour Glass",
+    "zh": "高腳杯或酸酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head.",
+    "zh": "混濁的淡黃色，帶有泡沫狀的白色泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Jazmin Tea Syrup",
+        "zh": "茉莉花茶糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and jazmin flavor.",
+        "zh": "增加甜度和茉莉花風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds texture and creates a silky mouthfeel.",
+        "zh": "增加質地並營造柔滑的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

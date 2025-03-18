@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Mezcal Margarita",
+    "zh": "梅斯卡爾瑪格麗特"
+  },
+  "description": {
+    "en": "A smoky twist on the classic Margarita, replacing tequila with mezcal for a deeper, more complex flavor profile. The Mezcal Margarita retains the refreshing citrus notes of the original while adding a distinctive smoky character.",
+    "zh": "經典瑪格麗特的煙熏風味，用梅斯卡爾酒代替龍舌蘭酒，帶來更深層、更複雜的風味。梅斯卡爾瑪格麗特保留了原有的清爽柑橘味，同時增添了獨特的煙熏味。"
+  },
+  "historical_reference": {
+    "en": "The Margarita's origins are debated, but it gained popularity in the mid-20th century. The Mezcal Margarita is a more recent variation, capitalizing on the growing popularity of mezcal as a premium spirit. Its exact origin is difficult to pinpoint, but it's a natural evolution of the classic cocktail.",
+    "zh": "瑪格麗特的起源尚有爭議，但在20世紀中期開始流行。梅斯卡爾瑪格麗特是較新的變體，利用梅斯卡爾酒作為優質烈酒的日益普及。它的確切起源難以確定，但它是經典雞尾酒的自然演變。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a salted glass filled with ice.",
+    "zh": "將所有材料與冰塊一起搖晃，然後濾入裝滿冰塊的鹽口杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel, salted rim.",
+    "zh": "青檸角或片，鹽邊。"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned or Margarita glass, with salted rim.",
+    "zh": "古典杯或瑪格麗特杯，帶鹽邊。"
+  },
+  "appearance": {
+    "en": "Pale yellow to light amber, depending on the mezcal, with a salted rim.",
+    "zh": "淡黃色至淡琥珀色，取決於龍舌蘭酒，帶有鹽邊。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅茲卡爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky and earthy base of the cocktail, differentiating it from a traditional margarita.",
+        "zh": "提供雞尾酒煙熏和泥土的基底，使其與傳統瑪格麗特不同。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus complexity.",
+        "zh": "增加甜度和柑橘的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the necessary acidity and citrus flavor.",
+        "zh": "提供必要的酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭蜜"
+      },
+      "unit": {
+        "en": "bar spoon",
+        "zh": "吧匙"
+      },
+      "rationale": {
+        "en": "Balances the acidity of the lime juice.",
+        "zh": "平衡萊姆汁的酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

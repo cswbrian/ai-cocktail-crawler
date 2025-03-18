@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Smoked Bobby Burns",
+    "zh": "煙燻勃比·伯恩斯"
+  },
+  "description": {
+    "en": "A sophisticated variation on the classic Bobby Burns cocktail, enhanced by a smoky Scotch base. The addition of vermouth and Benedictine complements the whisky's profile, creating a harmonious blend of sweet, herbal, and smoky notes. Smoking the glass amplifies the smoky character, creating an aromatic and flavorful experience.",
+    "zh": "經典Bobby Burns雞尾酒的精緻變奏，以煙燻蘇格蘭威士忌為基底。加入苦艾酒和Benedictine能襯托威士忌的風味，創造出甜味、草本和煙燻的和諧融合。煙燻杯子能增強煙燻特性，帶來芳香和美味的體驗。"
+  },
+  "historical_reference": {
+    "en": "The Bobby Burns cocktail is a variation on the Rob Roy, named after the Scottish poet Robert Burns. This smoked variation adds a modern twist to the classic recipe, enhancing the smoky notes of the Scotch.\n\n*   The original Bobby Burns dates back to the early 20th century.\n*   The 'Smoked' version is a contemporary adaptation for smoky whisky lovers.",
+    "zh": "Bobby Burns雞尾酒是Rob Roy的變奏，以蘇格蘭詩人Robert Burns的名字命名。這個煙燻版本為經典配方增添了現代風味，增強了蘇格蘭威士忌的煙燻味。\n\n*   最初的Bobby Burns可以追溯到20世紀初。\n*   “煙燻”版本是為煙燻威士忌愛好者而設的現代改編。"
+  },
+  "technique": {
+    "en": "Smoke the glass with wood chips (optional). Stir all ingredients with ice and strain into the smoked glass. Express lemon peel over the drink and discard.",
+    "zh": "用木片煙燻杯子（可選）。將所有材料與冰塊攪拌均勻，然後濾入煙燻杯中。將檸檬皮在飲料上方擠壓後丟棄。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist (expressed and discarded)",
+    "zh": "檸檬皮扭轉（擠壓後丟棄）"
+  },
+  "serve_in_glass": {
+    "en": "Smoked old-fashioned glass or coupe",
+    "zh": "煙燻古典杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber with a slight reddish hue",
+    "zh": "清澈、深琥珀色，略帶紅色色調"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky and peaty foundation of the cocktail.",
+        "zh": "為雞尾酒提供煙燻和泥煤的基底風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complexity.",
+        "zh": "增添甜味和層次感。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Benedictine",
+        "zh": "班尼迪克丁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and honeyed notes, contributing to the cocktail's depth.",
+        "zh": "增添草本和蜂蜜的風味，增加雞尾酒的深度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

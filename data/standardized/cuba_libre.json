@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Cuba Libre",
+    "zh": "自由古巴"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Highball**\n\nThe Cuba Libre is a classic and incredibly easy-to-make cocktail:\n\n*   Rum and cola are combined over ice\n*   Lime juice adds a refreshing citrusy tang\n*   Served in a highball glass with a lime wedge",
+    "zh": "**簡單而清爽的高杯調酒**\n\n自由古巴是一款經典且非常容易製作的雞尾酒：\n\n*   蘭姆酒和可樂混合加冰\n*   萊姆汁增添了清爽的柑橘風味\n*   在高杯玻璃杯中盛裝，並用萊姆角裝飾"
+  },
+  "historical_reference": {
+    "en": "**Origins in Cuba, Early 20th Century**\n\nThe Cuba Libre's origins are linked to the Cuban War of Independence:\n\n*   Created around 1900-1902 in Havana, Cuba.\n*   Celebrates Cuban independence with its name, meaning \"Free Cuba.\"\n*   Said to have been invented by American soldiers mixing rum and cola with lime.",
+    "zh": "**起源於20世紀初的古巴**\n\n自由古巴的起源與古巴獨立戰爭有關：\n\n*   大約在1900-1902年間於古巴哈瓦那創建。\n*   以其名稱慶祝古巴獨立，意為“自由古巴”。\n*   據說是由美國士兵將蘭姆酒和可樂與萊姆混合發明。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "兌和法，加冰塊"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Dark amber with lively effervescence",
+    "zh": "深琥珀色，帶有活躍的氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and characteristic rum flavor.",
+        "zh": "提供酒精基底和標誌性的蘭姆酒風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and characteristic cola flavor.",
+        "zh": "增加甜味、碳酸和標誌性的可樂風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrusy tang and balances the sweetness.",
+        "zh": "增加柑橘風味，平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

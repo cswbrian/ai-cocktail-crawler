@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Cognac Sazerac",
+    "zh": "干邑薩澤拉克"
+  },
+  "description": {
+    "en": "**Classic Variation of the Sazerac**\n\nA refined twist on the original Sazerac, highlighting the elegance of cognac:\n\n*   Absinthe rinse for aromatic complexity\n*   Sugar cube for balanced sweetness\n*   Peychaud's bitters for distinctive flavor",
+    "zh": "**薩澤拉克的經典變奏**\n\n對原始薩澤拉克的一種精緻變奏，突顯干邑白蘭地的優雅：\n\n*   苦艾酒漱口增添了芳香的複雜性\n*   方糖帶來平衡的甜味\n*   Peychaud's苦精帶來獨特的風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A variation of the classic Sazerac, using cognac instead of rye.\n\n*   The Sazerac originated in New Orleans in the 1850s.\n*   The original recipe used Sazerac de Forge et Fils cognac before rye became popular.",
+    "zh": "**起源**: 經典薩澤拉克的變體，使用干邑代替黑麥。\n\n*   薩澤拉克起源於 1850 年代的紐奧良。\n*   最初的配方使用 Sazerac de Forge et Fils 干邑白蘭地，然後黑麥才開始流行。"
+  },
+  "technique": {
+    "en": "Rinse chilled glass with absinthe, muddle sugar cube with bitters, add cognac, stir with ice, strain into glass. Express lemon peel over the top, discard.",
+    "zh": "用苦艾酒沖洗冰鎮過的玻璃杯，將方糖與苦精混合，加入干邑白蘭地，用冰攪拌，濾入玻璃杯。在頂部擠壓檸檬皮，丟棄。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist (discarded)",
+    "zh": "檸檬皮扭花（使用後丟棄）"
+  },
+  "serve_in_glass": {
+    "en": "Chilled old-fashioned glass",
+    "zh": "冰鎮古典杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid with a golden hue, no garnish",
+    "zh": "清澈的琥珀色液體，帶有金黃色調，無裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's rich and complex base.",
+        "zh": "為雞尾酒提供豐富而複雜的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Rinses the glass, imparting a strong anise aroma and flavor.",
+        "zh": "漱洗酒杯，賦予濃郁的茴芹香氣和風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds subtle sweetness and helps balance the drink.",
+        "zh": "增加微妙的甜味，有助於平衡飲料。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a distinctive floral and slightly sweet bitterness.",
+        "zh": "增添獨特的植物香氣和略帶甜味的苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

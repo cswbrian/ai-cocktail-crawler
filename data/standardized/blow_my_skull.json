@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Blow My Skull",
+    "zh": "震驚大腦"
+  },
+  "description": {
+    "en": "**A tart and refreshing cocktail**\n\nThis cocktail is a potent mix of gin, lemon, sugar, and egg white. It's known for its strong flavor profile and frothy texture. The drink is typically served chilled and without ice.",
+    "zh": "**一款酸澀清爽的雞尾酒**\n\n這款雞尾酒是琴酒、檸檬、糖和蛋白的強效混合物。它以其濃郁的風味和泡沫質地而聞名。這款飲品通常冷藏後飲用，不加冰塊。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The 'Blow My Skull' is a variation of the Gin Sour or White Lady cocktail.\n\n*   Likely originated in the early 20th century.\n*   Known for its strong and invigorating flavor profile.\n*   Egg white gives it a silky smooth texture.",
+    "zh": "**起源**:「Blow My Skull」是 Gin Sour 或 White Lady 雞尾酒的變體。\n\n*   可能起源於 20 世紀初。\n*   以其濃郁而令人振奮的風味而聞名。\n*   蛋白賦予其絲般柔滑的質地。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice, then shake again with ice. Strain into chilled glass.",
+    "zh": "將所有材料不加冰乾搖，然後再加冰搖勻。 濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass",
+    "zh": "冰鎮的碟形香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head.",
+    "zh": "混濁的淡黃色，帶有泡沫狀的白色頂層。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical complexity.",
+        "zh": "提供主要的酒精基底和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity to balance the sweetness.",
+        "zh": "增加酸味和酸度，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the lemon juice.",
+        "zh": "使飲料變甜並平衡檸檬汁。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫頭。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 8,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

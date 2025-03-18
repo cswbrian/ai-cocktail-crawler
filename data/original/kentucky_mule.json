@@ -1,0 +1,97 @@
+{
+  "name": {
+    "en": "Kentucky Mule",
+    "zh": "肯塔基騾子"
+  },
+  "description": {
+    "en": "**Refreshing Bourbon Cocktail**\n\nThe Kentucky Mule is a variation of the classic Moscow Mule, substituting vodka with bourbon whiskey. It's a refreshing and easy-to-make cocktail that is often served in a copper mug.\n\nKey characteristics:\n*   Bourbon base for a richer flavor.\n*   Ginger beer provides spice and fizz.\n*   Lime juice adds tartness and balance.",
+    "zh": "**清爽的波本雞尾酒**\n\n肯塔基騾子是經典莫斯科騾子的變體，用波本威士忌代替伏特加。這是一款清爽且易於製作的雞尾酒，通常在銅杯中供應。\n\n主要特點：\n*   波本基底帶來更豐富的風味。\n*   薑汁啤酒提供辛辣和氣泡。\n*   青檸汁增加酸度和平衡。"
+  },
+  "historical_reference": {
+    "en": "The *Kentucky Mule* is a variation of the Moscow Mule, created by substituting vodka with bourbon. The Moscow Mule gained popularity in the 1940s as a marketing collaboration between Smirnoff vodka and a ginger beer company. The Kentucky Mule likely emerged later, capitalizing on the popularity of bourbon whiskey, particularly in Kentucky.",
+    "zh": "「肯塔基騾子」是莫斯科騾子的變體，通過用波本威士忌代替伏特加而製成。莫斯科騾子在 1940 年代因 Smirnoff 伏特加和一家薑汁啤酒公司之間的行銷合作而廣受歡迎。肯塔基騾子可能在稍後出現，利用了波本威士忌的普及，特別是在肯塔基州。"
+  },
+  "technique": {
+    "en": "Combine bourbon and lime juice in a mug filled with ice. Top with ginger beer. Garnish with a lime wedge.",
+    "zh": "將波本威士忌和青檸汁放入裝滿冰塊的杯子中。倒入薑汁啤酒。用青檸角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "青檸角或片"
+  },
+  "serve_in_glass": {
+    "en": "Copper mug or highball glass",
+    "zh": "銅杯或高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Pale amber, effervescent",
+    "zh": "淡琥珀色，有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and boozy character of the cocktail, contributing notes of vanilla, caramel, and oak.",
+        "zh": "提供雞尾酒的基底風味和酒精特性，貢獻香草、焦糖和橡木的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and spice.",
+        "zh": "增加酸度，以平衡甜味和辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

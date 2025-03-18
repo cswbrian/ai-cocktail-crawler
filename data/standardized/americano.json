@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Americano",
+    "zh": "美式咖啡 (雞尾酒)"
+  },
+  "description": {
+    "en": "**Classic Italian Aperitivo**\n\nA simple yet sophisticated cocktail, perfect as an aperitif.\n\n*   Equal parts Campari and sweet vermouth.\n*   Topped with soda water for a refreshing fizz.\n*   Served over ice with an orange slice.",
+    "zh": "**經典義大利餐前酒**\n\n簡單而精緻的雞尾酒，非常適合作為餐前酒。\n\n*   等量的金巴利和甜味苦艾酒。\n*   加入蘇打水，帶來清爽的氣泡。\n*   加冰塊和柳橙片一起飲用。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: 1860s, Gaspare Campari's Bar in Milan\n\n*   A precursor to the Negroni (which adds gin).\n*   Named in honor of Italians who had migrated to America.\n*   Originally served without soda water, which was added later for refreshment.",
+    "zh": "**起源**: 1860年代，米蘭的Gaspare Campari酒吧\n\n*   Negroni（加入琴酒）的前身。\n*   以紀念移民到美國的義大利人而命名。\n*   最初不加蘇打水，後來為了清爽口感而添加。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "在冰上調製"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "柳橙片"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Highball glass",
+    "zh": "古典杯或高杯"
+  },
+  "appearance": {
+    "en": "Reddish-brown, clear, bubbly",
+    "zh": "紅棕色、清澈、有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter, herbal base of the cocktail.",
+        "zh": "提供雞尾酒的苦味草本基底。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增添甜味和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "Top",
+        "zh": "補滿"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink slightly.",
+        "zh": "增加氣泡並稍微稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

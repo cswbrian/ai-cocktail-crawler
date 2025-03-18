@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Greenpoint",
+    "zh": "格林波特"
+  },
+  "description": {
+    "en": "*A variation on the Manhattan cocktail, replacing sweet vermouth with yellow Chartreuse and Amer Picon or a similar amaro.*\n\nThe Greenpoint offers a complex and herbaceous profile. It presents a more bitter and slightly sweeter alternative to the classic Manhattan.",
+    "zh": "*曼哈頓雞尾酒的變體，用黃色查特酒和 Amer Picon 或類似的阿瑪洛代替甜味美思.*\n\nGreenpoint 提供複雜的草本風味。 它呈現比經典曼哈頓更苦，略帶甜味的替代品。"
+  },
+  "historical_reference": {
+    "en": "**Created at the Clover Club in Brooklyn, New York, early 2000s.**\n\nThe Greenpoint cocktail is a modern classic, paying homage to the Greenpoint neighborhood of Brooklyn. It was invented by Michael McIlroy.",
+    "zh": "**2000 年代初在紐約布魯克林的 Clover Club 創建。**\n\nGreenpoint 雞尾酒是一款現代經典之作，向布魯克林的 Greenpoint 街區致敬。 它由 Michael McIlroy 發明。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled glass. Express the oils of a lemon peel over the drink and discard.",
+    "zh": "將所有材料與冰塊攪拌至完全冷卻。 濾入冰鎮的杯子。 將檸檬皮的油擠在飲料上並丟棄。"
+  },
+  "garnish": {
+    "en": "Lemon peel, expressed and discarded",
+    "zh": "檸檬皮，擠壓後丟棄"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora",
+    "zh": "郁金香杯或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈的深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing spice and backbone.",
+        "zh": "構成雞尾酒的基礎，提供辛辣和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbaceousness and a touch of sweetness.",
+        "zh": "增添草本味和一絲甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Amer Picon or Amaro",
+        "zh": "Amer Picon 或阿瑪洛"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and complexity.",
+        "zh": "增加苦味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

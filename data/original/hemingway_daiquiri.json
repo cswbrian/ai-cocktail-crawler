@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Hemingway Daiquiri",
+    "zh": "海明威 Daiquiri"
+  },
+  "description": {
+    "en": "**A potent and refreshing variation of the classic Daiquiri.**\n\nCreated for Ernest Hemingway, it is characterized by:\n*   A higher rum content.\n*   The addition of grapefruit juice.\n*   A touch of maraschino liqueur, and less sugar.",
+    "zh": "**經典Daiquiri的濃烈清爽變奏。**\n\n為海明威創作，其特點是：\n*   更高的蘭姆酒含量。\n*   添加葡萄柚汁。\n*   少量的黑櫻桃利口酒，和更少的糖。"
+  },
+  "historical_reference": {
+    "en": "**Created at El Floridita bar in Havana, Cuba for Ernest Hemingway.**\n\n*   Hemingway, a diabetic, requested a Daiquiri with less sugar and more alcohol.\n*   The drink was originally known as the *Hemingway Special*.\n*   It evolved into what is now known as the Hemingway Daiquiri or Papa Doble.",
+    "zh": "**在古巴哈瓦那的El Floridita酒吧為歐內斯特·海明威創作。**\n\n*   患有糖尿病的海明威要求製作一種少糖多酒精的Daiquiri。\n*   這款飲品最初被稱為*海明威特調*。\n*   它演變成了現在所知的海明威Daiquiri或Papa Doble。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lime wedge or peel (optional)",
+    "zh": "青檸角或皮（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass",
+    "zh": "冰鎮的 Coupe 杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale, cloudy, straw-colored liquid",
+    "zh": "淡色、混濁、稻草色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and characteristic flavor.",
+        "zh": "提供基酒和特色風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry flavor and sweetness.",
+        "zh": "增加微妙的櫻桃風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinctive bittersweet note.",
+        "zh": "增加獨特的苦甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

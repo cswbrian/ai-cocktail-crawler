@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Scotch Sour",
+    "zh": "蘇格蘭酸酒"
+  },
+  "description": {
+    "en": "**Classic Sour with a Scottish Twist**\n\nA simple yet elegant cocktail that highlights the characteristics of Scotch whisky.\n\n*   Balanced sweet and sour flavors\n*   Optional egg white adds a silky texture\n*   Lemon peel garnish complements the citrus notes",
+    "zh": "**帶有蘇格蘭風味的經典酸酒**\n\n一款簡單而優雅的雞尾酒，突顯蘇格蘭威士忌的特性。\n\n*   平衡的酸甜口味\n*   可選的蛋白增添絲滑口感\n*   檸檬皮裝飾與柑橘味相得益彰"
+  },
+  "historical_reference": {
+    "en": "**Sour Cocktail Family**\n\nThe Scotch Sour is a variation of the classic sour cocktail, which dates back to the mid-19th century. It likely emerged as Scotch whisky gained popularity in cocktail culture.\n\n*   Evolution of a classic recipe\n*   Adapts to Scotch whisky's unique flavor profile",
+    "zh": "**酸味雞尾酒系列**\n\n蘇格蘭酸酒是經典酸味雞尾酒的變體，其歷史可以追溯到 19 世紀中葉。 隨著蘇格蘭威士忌在雞尾酒文化中越來越受歡迎，它很可能出現了。\n\n*   經典食譜的演變\n*   適應蘇格蘭威士忌的獨特風味"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass filled with ice.",
+    "zh": "將所有材料與冰塊一起搖晃。 濾入裝滿冰塊的冰鎮玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon peel",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light amber liquid with a frothy white head",
+    "zh": "混濁的淡琥珀色液體，帶有泡沫狀的白色泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky and complex base of the cocktail.",
+        "zh": "提供雞尾酒的煙燻和複雜基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the necessary sourness to balance the whisky.",
+        "zh": "增加必要的酸度，以平衡威士忌。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to create balance.",
+        "zh": "增加甜度以達到平衡。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky smooth texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫狀的頭部。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

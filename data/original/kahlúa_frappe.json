@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Kahlúa Frappe",
+    "zh": "Kahlúa冰沙"
+  },
+  "description": {
+    "en": "**Kahlúa Frappe: A Coffee Lover's Delight**\n\nA blended iced coffee drink featuring:\n*   Kahlúa for coffee and rum flavor.\n*   Coffee for intense coffee flavor.\n*   Ice for a refreshing and cooling experience.\n*   Optional: Whipped cream and coffee beans for garnish.",
+    "zh": "**Kahlúa Frappe：咖啡愛好者的樂趣**\n\n混合冰咖啡飲品，特色：\n*   Kahlúa帶來咖啡和蘭姆酒風味。\n*   咖啡帶來濃郁的咖啡味。\n*   冰塊帶來清爽和涼爽的體驗。\n*   可選：鮮奶油和咖啡豆裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Origins and Popularity**\n\n*Frappe is a general term for chilled or blended drinks.*\n\n*   Kahlúa Frappe combines the classic coffee liqueur with blended ice for a simple but satisfying treat.\n*   Its popularity grew as coffee culture expanded and people sought refreshing coffee-based drinks.",
+    "zh": "**起源與普及**\n\n*Frappe是冰鎮或混合飲料的通用術語*\n\n*   Kahlúa Frappe結合了經典的咖啡利口酒和混合冰塊，帶來簡單而令人滿意的享受。\n*   隨著咖啡文化的擴展，人們尋求清爽的咖啡飲料，其受歡迎程度也隨之增長。"
+  },
+  "technique": {
+    "en": "Blend all ingredients until smooth. Pour into glass. Top with whipped cream and coffee beans, if desired.",
+    "zh": "將所有材料混合均勻。倒入玻璃杯中。如果需要，可在上面放上鮮奶油和咖啡豆。"
+  },
+  "garnish": {
+    "en": "Whipped cream, coffee beans (optional)",
+    "zh": "鮮奶油、咖啡豆（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Hurricane Glass",
+    "zh": "高球杯或颶風杯"
+  },
+  "appearance": {
+    "en": "Frothy, dark brown, coffee-colored beverage, often served with whipped cream and coffee bean garnish.",
+    "zh": "泡沫豐富、深棕色、咖啡色飲料，通常搭配鮮奶油和咖啡豆裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee and rum flavor.",
+        "zh": "增加咖啡和蘭姆酒風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "cup",
+        "zh": "杯"
+      },
+      "rationale": {
+        "en": "To chill and create a blended texture.",
+        "zh": "冰鎮並創造混合質地。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brewed Coffee",
+        "zh": "沖泡咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary coffee flavor.",
+        "zh": "提供主要的咖啡風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

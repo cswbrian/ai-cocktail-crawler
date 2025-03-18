@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "U-boot",
+    "zh": "U型潛艇"
+  },
+  "description": {
+    "en": "**Rich and decadent coffee cocktail**\n\nA simple yet flavorful mix, offering:\n* A strong coffee kick\n* A touch of sweetness from the liqueur\n* Dark rum base for depth",
+    "zh": "**濃郁而頹廢的咖啡雞尾酒**\n\n簡單而美味的混合，提供：\n* 強烈的咖啡味\n* 來自利口酒的一絲甜味\n* 深色蘭姆酒基底帶來深度"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Unknown, but likely evolved from other coffee cocktails\n\n* Popularized in the late 20th century\n* Simple recipe makes it easily adaptable",
+    "zh": "**起源**: 未知，但可能從其他咖啡雞尾酒演變而來\n\n* 20世紀後期普及\n* 簡單的配方使其易於調整"
+  },
+  "technique": {
+    "en": "Layer the coffee liqueur on top of the dark rum in a shot glass.",
+    "zh": "將咖啡利口酒疊在深色蘭姆酒之上於烈酒杯中。"
+  },
+  "garnish": {
+    "en": "Coffee beans",
+    "zh": "咖啡豆"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Opaque, dark brown",
+    "zh": "不透明，深棕色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and adds richness.",
+        "zh": "提供基酒並增加濃郁度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡風味和甜度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

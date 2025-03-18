@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Kangaroo",
+    "zh": "袋鼠"
+  },
+  "description": {
+    "en": "**Simple and Strong**\n\nThe Kangaroo is essentially a Vodka Martini, but made with Gin. It is a dry, spirit-forward cocktail that showcases the quality of the gin used.\n\n*   Minimal ingredients.\n*   Dry and crisp flavor profile.\n*   Easy to prepare.",
+    "zh": "**簡單而強烈**\n\n袋鼠本質上是伏特加馬丁尼，但以琴酒製成。這是一款乾爽、以烈酒為主的雞尾酒，展現了所用琴酒的品質。\n\n*   最少的材料。\n*   乾爽清脆的風味。\n*   容易準備。"
+  },
+  "historical_reference": {
+    "en": "The Kangaroo is a simple variation of the Martini, using gin and dry vermouth. While the exact origin is unknown, it's likely a 20th-century creation arising from the desire for a drier, more spirit-forward Martini.\n\n*   Likely a variation on the classic Martini.\n*   Popularized for its simplicity.\n*   Represents a minimalist approach to cocktails.",
+    "zh": "袋鼠是馬丁尼的一種簡單變體，使用琴酒和乾苦艾酒。雖然確切的起源未知，但它很可能是 20 世紀的產物，源於對更乾、更烈酒馬丁尼的渴望。\n\n*   可能是經典馬丁尼的變體。\n*   因其簡單性而廣受歡迎。\n*   代表了一種簡約的雞尾酒方法。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive (optional)",
+    "zh": "檸檬皮或橄欖（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "馬丁尼杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless liquid",
+    "zh": "清澈、無色的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical flavors.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and subtle herbal notes.",
+        "zh": "增加乾度和淡淡的草本味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Whiskey Smash",
+    "zh": "威士忌重擊"
+  },
+  "description": {
+    "en": "**Refreshing Whiskey Cocktail**\n\nA vibrant cocktail, highlighting:\n*   Fresh mint and lemon\n*   Muddled fruit for enhanced flavor\n*   Simple syrup for balanced sweetness",
+    "zh": "**清爽的威士忌雞尾酒**\n\n一款充滿活力的雞尾酒，突顯：\n* 新鮮薄荷和檸檬\n* 搗碎水果以增強風味\n* 簡單糖漿帶來均衡的甜度"
+  },
+  "historical_reference": {
+    "en": "**A Classic Whiskey Drink**\n\nThe Whiskey Smash is a refreshing cocktail related to the Mint Julep and Whiskey Sour:\n*   Dates back to the early 19th century\n*   A flexible recipe that can incorporate seasonal fruits\n*   Popularized by Jerry Thomas in the 1860s",
+    "zh": "**經典威士忌飲品**\n\n威士忌重擊是一款令人耳目一新的雞尾酒，與薄荷朱利酒和威士忌酸酒相關：\n* 可追溯到19世紀初\n* 一個靈活的食譜，可以融入時令水果\n* 1860年代由傑瑞·托馬斯普及"
+  },
+  "technique": {
+    "en": "Muddle ingredients, add whiskey and ice, shake, and strain.",
+    "zh": "搗碎材料，加入威士忌和冰塊，搖晃並過濾。"
+  },
+  "garnish": {
+    "en": "Mint sprig and lemon wedge",
+    "zh": "薄荷枝和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, green-tinted liquid with muddled fruit",
+    "zh": "帶有混濁水果的綠色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky notes.",
+        "zh": "提供基酒和橡木桶風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing and aromatic element.",
+        "zh": "增添清新芳香的元素。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Lemon Wedges",
+        "zh": "檸檬角"
+      },
+      "unit": {
+        "en": "5 wedges",
+        "zh": "5角"
+      },
+      "rationale": {
+        "en": "Adds a citrus flavor and sourness.",
+        "zh": "增添柑橘風味和酸味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the sourness and adds sweetness.",
+        "zh": "平衡酸味並增加甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

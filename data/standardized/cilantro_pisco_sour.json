@@ -1,0 +1,144 @@
+{
+  "name": {
+    "en": "Cilantro Pisco Sour",
+    "zh": "香菜皮斯科酸酒"
+  },
+  "description": {
+    "en": "**A South American Twist on a Classic**\n\nThe Cilantro Pisco Sour offers a unique herbal and citrusy variation of the traditional Pisco Sour. Key elements include:\n\n*   Fresh cilantro for an herbaceous note\n*   Lime juice for a refreshing tartness\n*   Egg white for a smooth, creamy texture",
+    "zh": "**經典的南美風味**\n\n香菜皮斯科酸酒是傳統皮斯科酸酒的一種獨特的草本和柑橘風味變體。 主要元素包括：\n\n* 新鮮的香菜帶來草本氣息\n* 青檸汁帶來清爽的酸味\n* 蛋白帶來柔滑的奶油質地"
+  },
+  "historical_reference": {
+    "en": "*   The Pisco Sour originated in Peru in the early 1920s.\n*   The addition of cilantro is a modern variation, not part of the original recipe.\n*   It reflects the growing trend of incorporating fresh herbs into classic cocktails.",
+    "zh": "* 皮斯科酸酒起源於 1920 年代初的秘魯。\n* 添加香菜是一種現代變體，不屬於原始配方。\n* 它反映了將新鮮香草融入經典雞尾酒的日益增長的趨勢。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake vigorously until well-chilled. Double strain into a chilled glass.",
+    "zh": "將所有材料放入裝有冰塊的搖酒器中。 劇烈搖晃直至完全冷卻。 用雙重過濾網濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Cilantro sprig",
+    "zh": "香菜小枝"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or old-fashioned glass",
+    "zh": "高腳杯或古典杯"
+  },
+  "appearance": {
+    "en": "Opaque, pale green, frothy",
+    "zh": "不透明，淡綠色，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit, a grape brandy from Peru or Chile.",
+        "zh": "提供基酒，一種來自秘魯或智利的葡萄白蘭地。"
+      },
+      "tags": [
+        {
+          "en": "Pisco",
+          "zh": "皮斯可"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the sour component and balances the sweetness.",
+        "zh": "提供酸味，平衡甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness of the lime juice.",
+        "zh": "增加甜度，以平衡萊姆汁的酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加柔滑的質地和泡沫頭。"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Cilantro Sprigs",
+        "zh": "香菜小枝"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds herbaceous flavor.",
+        "zh": "增加草本風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 8,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

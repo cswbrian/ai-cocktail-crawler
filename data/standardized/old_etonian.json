@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Old Etonian",
+    "zh": "老伊頓尼"
+  },
+  "description": {
+    "en": "A classic cocktail featuring gin, Lillet Blanc, and Crème de Violette. It's a floral and subtly sweet drink with a refreshing character, often enjoyed as an aperitif.",
+    "zh": "一款經典雞尾酒，以琴酒、莉葉白酒和紫羅蘭利口酒為特色。 這是一款花香且略帶甜味、令人耳目一新的飲品，通常作為開胃酒享用。"
+  },
+  "historical_reference": {
+    "en": "The Old Etonian cocktail is named after the prestigious Eton College in the United Kingdom. The exact origin and creator are somewhat obscure, but the cocktail likely emerged in the early 20th century. Its inclusion in classic cocktail guides cemented its place in cocktail history.",
+    "zh": "老伊頓尼雞尾酒以英國著名的伊頓公學命名。 確切的起源和創造者有些模糊，但這款雞尾酒可能出現在 20 世紀初。 它被收錄在經典雞尾酒指南中，鞏固了其在雞尾酒歷史中的地位。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起攪拌，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange twist or a Violet flower",
+    "zh": "橙皮或紫羅蘭花"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈，深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing botanical notes.",
+        "zh": "構成雞尾酒的基底，提供植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle sweetness and floral notes, complementing the gin.",
+        "zh": "增添微妙的甜味和花香，與琴酒相輔相成。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Crème de Violette",
+        "zh": "紫羅蘭利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a distinctive floral aroma and flavor, contributing to the cocktail's unique character.",
+        "zh": "提供獨特的花香和風味，有助於雞尾酒的獨特風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

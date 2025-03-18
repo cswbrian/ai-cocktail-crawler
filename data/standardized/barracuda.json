@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Barracuda",
+    "zh": "梭魚"
+  },
+  "description": {
+    "en": "**Tropical Sparkling Cocktail**\n\nA vibrant and bubbly cocktail featuring:\n*   Gold rum for a rich base\n*   Lime juice for a citrusy tang\n*   Galliano for a vanilla-anise note\n*   Top up with Prosecco for fizz",
+    "zh": "**熱帶氣泡雞尾酒**\n\n充滿活力和氣泡的雞尾酒，特色：\n*   金蘭姆酒提供豐富的基底\n*   萊姆汁帶來柑橘的酸味\n*   加利亞諾香甜酒帶來香草-茴香的風味\n*   頂部加入普羅賽克氣泡酒增加氣泡感"
+  },
+  "historical_reference": {
+    "en": "*   Created by Marco Dionysos at the Metropole Hotel, London in the 1970's\n*   Named after the Barracuda cocktail",
+    "zh": "*   由馬可·狄俄尼索斯在1970年代於倫敦大都會酒店創作\n*   以梭魚雞尾酒命名"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except Prosecco) with ice. Strain into chilled glass. Top with Prosecco.",
+    "zh": "將所有材料（除了普羅賽克氣泡酒）與冰塊搖勻。濾入冰鎮過的杯子。頂部加入普羅賽克氣泡酒。"
+  },
+  "garnish": {
+    "en": "Lime wedge or zest.",
+    "zh": "萊姆角或皮。"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or flute.",
+    "zh": "高腳杯或香檳杯。"
+  },
+  "appearance": {
+    "en": "Golden, effervescent.",
+    "zh": "金黃色，起泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gold Rum",
+        "zh": "金蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and warmth.",
+        "zh": "提供基底和溫暖感。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Galliano",
+        "zh": "加利亞諾香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds vanilla and herbal notes.",
+        "zh": "增加香草和草本風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and freshness.",
+        "zh": "增加酸度和清新感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

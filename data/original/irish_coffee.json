@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Irish Coffee",
+    "zh": "愛爾蘭咖啡"
+  },
+  "description": {
+    "en": "**Classic Warm Cocktail**\n\nA comforting blend of coffee, whiskey, sugar, and cream, featuring:\n*   Hot coffee to provide warmth\n*   Irish whiskey for a boozy kick\n*   Sugar for sweetness\n*   Fresh cream floated on top for richness",
+    "zh": "**經典暖調雞尾酒**\n\n咖啡、威士忌、糖和鮮奶油的舒適混合，特色：\n*   熱咖啡提供溫暖\n*   愛爾蘭威士忌帶來醉人的口感\n*   糖提供甜味\n*   頂部漂浮的鮮奶油增加濃郁度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to Joe Sheridan in 1943 at Foynes Port, Ireland\n\n*   Created to warm up passengers on a transatlantic flight\n*   Became popular at the Buena Vista Cafe in San Francisco\n*   A classic example of a hot alcoholic beverage",
+    "zh": "**起源**: 歸功於 1943 年在愛爾蘭福因斯港的 Joe Sheridan\n\n*   創建目的是為了讓跨大西洋航班上的乘客暖身\n*   在舊金山的 Buena Vista Cafe 變得流行\n*   熱酒精飲料的經典範例"
+  },
+  "technique": {
+    "en": "Warm the glass, add sugar and whiskey, fill with coffee, float cream on top",
+    "zh": "溫熱杯子，加入糖和威士忌，倒入咖啡，在頂部漂浮鮮奶油"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or chocolate shavings (optional)",
+    "zh": "磨碎的肉荳蔻或巧克力屑（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Irish coffee glass or heat-resistant glass mug",
+    "zh": "愛爾蘭咖啡杯或耐熱玻璃馬克杯"
+  },
+  "appearance": {
+    "en": "Layered dark liquid with a thick white cream top",
+    "zh": "分層的深色液體，頂部有濃厚的白色奶油"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinct Irish whiskey flavor",
+        "zh": "提供酒精基底和獨特的愛爾蘭威士忌風味"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "紅糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and caramel notes",
+        "zh": "增加甜味和焦糖味"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Coffee",
+        "zh": "熱咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and warmth",
+        "zh": "提供基底和溫暖"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and texture",
+        "zh": "增加濃郁度和質感"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

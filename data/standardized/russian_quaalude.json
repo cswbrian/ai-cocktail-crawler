@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Russian Quaalude",
+    "zh": "俄羅斯甲喹酮"
+  },
+  "description": {
+    "en": "A vibrant blue cocktail with a creamy, sweet profile, reminiscent of its namesake in color and effect (though without the namesake's actual ingredients). This drink offers a smooth, slightly tart flavor profile.",
+    "zh": "一款鮮豔的藍色雞尾酒，具有奶油般的甜味，在顏色和效果上讓人聯想到它的名字（儘管沒有同名成分的實際成分）。 這款飲品提供柔滑、略帶酸味的風味。"
+  },
+  "historical_reference": {
+    "en": "The name is a reference to the sedative-hypnotic drug methaqualone, popular in the 1970s. The cocktail does not contain any actual Quaalude. The name is purely evocative, suggesting a calming or euphoric effect through its color and sweetness.",
+    "zh": "這個名字是指鎮靜催眠藥甲喹酮，在 1970 年代很流行。 這種雞尾酒不含任何實際的甲喹酮。 這個名字純粹是喚起，通過其顏色和甜味暗示一種鎮靜或欣快的效果。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice.",
+    "zh": "將所有原料與冰塊搖勻，然後過濾到裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "橙片"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Milky blue, opaque",
+    "zh": "乳藍色，不透明"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Blue Curaçao",
+        "zh": "藍柑橘"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the distinctive blue color and a sweet orange flavor.",
+        "zh": "提供獨特的藍色和甜橙味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a rich creaminess and coconut flavor.",
+        "zh": "增添濃郁的奶油味和椰子味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the citrus.",
+        "zh": "增加甜度以平衡柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

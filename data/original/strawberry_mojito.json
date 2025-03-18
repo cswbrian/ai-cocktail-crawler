@@ -1,0 +1,157 @@
+{
+  "name": {
+    "en": "Strawberry Mojito",
+    "zh": "草莓莫希托"
+  },
+  "description": {
+    "en": "**A refreshing twist on the classic Mojito**\n\nThis vibrant cocktail combines the traditional flavors of mint and lime with the sweet and fruity taste of fresh strawberries. Perfect for warm weather and social gatherings.\n\nKey Features:\n*   Fresh Strawberries: Muddled to release their juicy flavor\n*   Mint & Lime: Provides a refreshing and zesty base\n*   Sparkling Water: Adds a light and bubbly texture",
+    "zh": "**經典莫希托的清爽變奏**\n\n這款充滿活力的雞尾酒結合了薄荷和酸橙的傳統風味，以及新鮮草莓的甜美果香。 非常適合溫暖的天氣和社交聚會。\n\n主要特點：\n*   新鮮草莓：搗碎以釋放其多汁的味道\n*   薄荷和酸橙：提供清爽和活潑的基底\n*   氣泡水：增添輕盈和氣泡的質地"
+  },
+  "historical_reference": {
+    "en": "**Mojito Origins:**\n\n*   The Mojito originated in Havana, Cuba. Its exact origins are debated, but it's believed to have evolved from earlier medicinal drinks.\n*   The addition of strawberries is a modern variation, adding a fruity sweetness to the traditional recipe.",
+    "zh": "**莫希托的起源：**\n\n*   莫希托起源於古巴哈瓦那。 其確切起源尚有爭議，但據信是從早期的藥用飲料演變而來。\n*   添加草莓是一種現代變體，為傳統配方增添了水果的甜味。"
+  },
+  "technique": {
+    "en": "Muddle strawberries, mint, and sugar. Add lime juice and rum. Top with sparkling water and garnish.",
+    "zh": "將草莓、薄荷和糖搗碎。 加入酸橙汁和蘭姆酒。 加入氣泡水並裝飾。"
+  },
+  "garnish": {
+    "en": "Strawberry slice and mint sprig",
+    "zh": "草莓切片和薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Vibrant red, with muddled strawberry pieces and mint sprigs",
+    "zh": "鮮豔的紅色，帶有草莓果肉和薄荷葉"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and classic Mojito flavor",
+        "zh": "提供酒精基底和經典莫希托風味"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Fresh Strawberries",
+        "zh": "新鮮草莓"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fruity flavor",
+        "zh": "增加甜味和水果風味"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides a refreshing herbal aroma and taste",
+        "zh": "提供清爽的草本香氣和味道"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes",
+        "zh": "增加酸度和柑橘味"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the acidity",
+        "zh": "增加甜度並平衡酸度"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink",
+        "zh": "增加氣泡並稀釋飲料"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

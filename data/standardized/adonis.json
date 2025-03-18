@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Adonis",
+    "zh": "阿多尼斯"
+  },
+  "description": {
+    "en": "*A simple yet elegant cocktail that highlights the flavors of sherry and vermouth.*\n\nPerfect as an aperitif, showcasing:\n\n*   A balanced mix of dry sherry and sweet vermouth\n*   Orange bitters to enhance complexity",
+    "zh": "*一款簡潔而優雅的雞尾酒，突顯雪莉酒和苦艾酒的風味。*\n\n非常適合作為開胃酒，特色：\n\n*   Dry雪莉酒和甜苦艾酒的均衡混合\n*   橙味苦精增強複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Named after Adonis, a figure in Greek mythology known for his beauty.\n\n*   Popularized in the late 19th century.\n*   Emerged during the era of sherry-based cocktails.",
+    "zh": "**起源：** 以希臘神話中以美貌聞名的阿多尼斯命名。\n\n*   在19世紀後期普及。\n*   出現在以雪莉酒為基礎的雞尾酒時代。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, reddish-amber",
+    "zh": "清澈的紅琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "不甜雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing nutty and dry notes.",
+        "zh": "構成雞尾酒的基礎，提供堅果和乾爽的風味。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, herbal notes, and complexity.",
+        "zh": "增加甜味、草本味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a subtle citrus bitterness and aromatic complexity.",
+        "zh": "加入微妙的柑橘苦味和芳香的複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

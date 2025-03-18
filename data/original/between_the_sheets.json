@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Between the Sheets",
+    "zh": "床笫之間"
+  },
+  "description": {
+    "en": "**Classic Sidecar Variation**\n\nA sophisticated and potent cocktail featuring:\n*   Equal parts spirits and citrus\n*   Slightly sweeter than a Sidecar due to the rum\n*   A complex blend of flavors that are both refreshing and boozy.",
+    "zh": "**經典側車變奏**\n\n一款精緻而強勁的雞尾酒，特色：\n*   等比例的烈酒和柑橘\n*   由於蘭姆酒的緣故，比側車略甜\n*   清新且濃烈的複雜風味融合。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First appeared in the 1930s.\n\n*   Often attributed to Harry MacElhone of Harry's New York Bar in Paris.\n*   A variation of the Sidecar cocktail.\n*   Name suggests a risque connotation.",
+    "zh": "**起源**: 首次出現於1930年代。\n\n*   經常被認為是巴黎哈利紐約酒吧的哈利·麥克埃爾霍尼所創。\n*   側車雞尾酒的變奏。\n*   名字暗示一種冒險的內涵。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale amber liquid",
+    "zh": "清澈的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich, fruity base of the cocktail.",
+        "zh": "提供雞尾酒豐富的果味基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "增添橙子的風味和甜度。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complexity and a tropical note.",
+        "zh": "增添複雜性和熱帶風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sour balance to the drink.",
+        "zh": "為飲品增添酸味平衡。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

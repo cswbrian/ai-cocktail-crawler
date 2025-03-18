@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Bronx",
+    "zh": "布朗克斯"
+  },
+  "description": {
+    "en": "**Classic Gin-Based Cocktail**\n\nA variation of the Martini, the Bronx is distinguished by:\n*   Orange juice, adding a touch of sweetness and citrus notes.\n*   A blend of dry and sweet vermouths for complexity.",
+    "zh": "**經典琴酒雞尾酒**\n\nBronx是馬丁尼的一種變體，其特色在於：\n*   橙汁，增加了一絲甜味和柑橘味。\n*   使用乾味美思和甜味美思的混合物，以增加複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in the early 1900s.\n\n*   Credited to Joseph Sormani at the Waldorf Astoria, or Johnnie Solon at the Knickerbocker Hotel (sources vary).\n*   Named after the Bronx Zoo or the borough of The Bronx.",
+    "zh": "**起源**: 創建於1900年代初期。\n\n*   歸功於華爾道夫酒店的約瑟夫·索爾馬尼，或尼克博克酒店的約翰尼·索隆（來源各異）。\n*   以布朗克斯動物園或布朗克斯行政區命名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale amber, clear, citrus twist garnish",
+    "zh": "淡琥珀色，清澈，柑橘皮裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a botanical backbone.",
+        "zh": "構成雞尾酒的基礎，提供植物風味的骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "增加甜味和草本風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加乾度和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice, freshly squeezed",
+        "zh": "鮮榨橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus flavor.",
+        "zh": "增加甜味和柑橘風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

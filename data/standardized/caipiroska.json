@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Caipiroska",
+    "zh": "卡琵洛斯卡"
+  },
+  "description": {
+    "en": "**Caipiroska: A Vodka Twist on a Classic**\n\nA simple yet refreshing cocktail that substitutes vodka for cachaça in the traditional Caipirinha. It offers:\n*   A clean, crisp flavor profile.\n*   Easy to customize with different fruits.\n*   Perfect for warm weather.",
+    "zh": "**卡琵洛斯卡：經典的伏特加變奏**\n\n一種簡單而清爽的雞尾酒，在傳統卡琵莉亞中以伏特加取代卡沙夏。 它提供：\n* 清潔、清脆的風味。\n* 易於使用不同的水果進行定制。\n* 非常適合溫暖的天氣。"
+  },
+  "historical_reference": {
+    "en": "The Caipiroska is a variation of the Brazilian national cocktail, the Caipirinha. It emerged as vodka gained popularity globally as a substitute spirit. Its origins are relatively modern, dating back to the late 20th century. \n\n*   Evolved from the Caipirinha.\n*   Popularized by substituting cachaça with readily available vodka.\n*   Gained traction in international bars due to its simplicity and accessibility.",
+    "zh": "卡琵洛斯卡是巴西國家雞尾酒卡琵莉亞的變體。 隨著伏特加在全球範圍內作為替代烈酒而流行，它應運而生。 它的起源相對現代，可以追溯到 20 世紀末。\n\n* 從卡琵莉亞演變而來。\n* 由於使用容易取得的伏特加代替卡沙夏而普及。\n* 由於其簡單性和可及性，在國際酒吧中獲得了關注。"
+  },
+  "technique": {
+    "en": "Muddle lime wedges and sugar in an old-fashioned glass. Fill with ice and add vodka. Stir gently to combine.",
+    "zh": "將檸檬角和糖在古典杯中搗碎。 加入冰塊並加入伏特加。 輕輕攪拌均勻。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, translucent, with muddled lime visible.",
+    "zh": "多雲，半透明，可以看見搗碎的檸檬。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Lime",
+        "zh": "萊姆"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides acidity and citrus notes.",
+        "zh": "提供酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "spoon",
+        "zh": "匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness of the lime.",
+        "zh": "增加甜度，平衡萊姆的酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sourness",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

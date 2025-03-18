@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Hurricane",
+    "zh": "颶風"
+  },
+  "description": {
+    "en": "**A Sweet and Potent Tropical Cocktail**\n\nThe Hurricane is a New Orleans classic, known for its:\n\n*   High alcohol content\n*   Sweet, fruity flavor\n*   Distinctive presentation",
+    "zh": "**香甜濃郁的熱帶雞尾酒**\n\n颶風是一款經典的新奧爾良雞尾酒，以其：\n\n*   高酒精含量\n*   香甜的水果風味\n*   獨特的呈現方式而聞名"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Pat O'Brien's Bar, New Orleans, during World War II.\n\n*   Created due to a surplus of rum and a shortage of other spirits.\n*   Served in a distinctive hurricane lamp-shaped glass.",
+    "zh": "**起源**: 二次世界大戰期間，新奧爾良的Pat O'Brien's酒吧。\n\n*   由於蘭姆酒過剩和其他烈酒短缺而創造。\n*   用獨特的颶風燈形狀的玻璃杯盛裝。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a hurricane glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的颶風杯中。"
+  },
+  "garnish": {
+    "en": "Orange slice and cherry",
+    "zh": "柳橙片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass",
+    "zh": "颶風杯"
+  },
+  "appearance": {
+    "en": "Vibrant red-orange, often cloudy, served in a hurricane glass",
+    "zh": "鮮豔的紅橙色，通常混濁，用颶風杯盛裝"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a light, sweet base.",
+        "zh": "提供清淡、香甜的基底。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity.",
+        "zh": "增加深度和複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Passion Fruit Juice",
+        "zh": "百香果汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and aroma.",
+        "zh": "增添熱帶甜味和香氣。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增添柑橘味和甜味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adjusts the sweetness level.",
+        "zh": "調整甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

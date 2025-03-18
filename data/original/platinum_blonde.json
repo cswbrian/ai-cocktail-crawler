@@ -1,0 +1,124 @@
+{
+  "name": {
+    "en": "Platinum Blonde",
+    "zh": "白金金髮"
+  },
+  "description": {
+    "en": "**Refreshing and Light Cocktail**\n\nA simple yet elegant cocktail, perfect for warm weather:\n*   Clean vodka base\n*   White grape juice for a touch of sweetness\n*   Lime juice for balanced acidity\n*   Sparkling wine adds a celebratory fizz",
+    "zh": "**清新淡雅的雞尾酒**\n\n簡單而優雅的雞尾酒，非常適合溫暖的天氣：\n* 乾淨的伏特加基底\n* 白葡萄汁帶來一絲甜味\n* 萊姆汁平衡酸度\n* 氣泡酒增添節慶氣息"
+  },
+  "historical_reference": {
+    "en": "The *Platinum Blonde* is a modern creation, inspired by lighter, refreshing cocktails popular in warm climates. While its exact origin is not well-documented, it aims to provide a sophisticated, low-ABV option for social gatherings.",
+    "zh": "《*白金金髮*》是現代的創作，其靈感來自於溫暖氣候中流行的清淡、清爽的雞尾酒。 雖然其確切的起源沒有詳細的記錄，但它旨在為社交聚會提供一種精緻的、低酒精濃度的選擇。"
+  },
+  "technique": {
+    "en": "Shake vodka, white grape juice, lime juice and elderflower liqueur with ice. Strain into a chilled glass and top with sparkling wine.",
+    "zh": "將伏特加、白葡萄汁、萊姆汁和接骨木花利口酒與冰塊搖勻。 濾入冰鎮過的杯子中，並在上面倒入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Lime wheel or a white grape",
+    "zh": "青檸片或白葡萄"
+  },
+  "serve_in_glass": {
+    "en": "Flute or Coupe Glass",
+    "zh": "長笛香檳杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow with a slight effervescence",
+    "zh": "清澈的淡黃色，略帶氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean and neutral base for the cocktail.",
+        "zh": "為雞尾酒提供乾淨和中性的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral notes and complexity.",
+        "zh": "增添花香和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Grape Juice",
+        "zh": "白葡萄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle sweetness and fruity notes.",
+        "zh": "增加微妙的甜味和水果味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the sweetness and adds a tartness.",
+        "zh": "平衡甜度並增加酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

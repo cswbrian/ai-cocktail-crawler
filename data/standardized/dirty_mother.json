@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Dirty Mother",
+    "zh": "骯髒的母親"
+  },
+  "description": {
+    "en": "**Simple and Strong**\n\nA two-ingredient cocktail that emphasizes the flavors of coffee liqueur and vodka:\n\n*   Easy to make and adjust to taste.\n*   Served in a rocks glass, no garnish is necessary.",
+    "zh": "**簡單而強烈**\n\n一種強調咖啡利口酒和伏特加風味的雙成分雞尾酒：\n\n*   易於製作且可根據口味調整。\n*   在岩石杯中供應，不需要裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Origins Unclear**\n\n*   Likely emerged in the mid-20th century.\n*   The name suggests a 'dirtier' version of the 'Black Russian,' replacing cream with coffee liqueur.",
+    "zh": "**起源不明**\n\n*   可能出現在20世紀中葉。\n*   這個名字暗示了“黑色俄羅斯”的“更髒”版本，用咖啡利口酒代替奶油。"
+  },
+  "technique": {
+    "en": "Pour vodka and coffee liqueur into a rocks glass with ice. Stir gently.",
+    "zh": "將伏特加和咖啡利口酒倒入裝有冰塊的岩石杯中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Opaque, dark brown to black",
+    "zh": "不透明，深棕色至黑色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, coffee flavor, and color.",
+        "zh": "增加甜味、咖啡味和顏色。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

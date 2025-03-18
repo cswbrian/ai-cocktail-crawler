@@ -1,0 +1,72 @@
+{
+  "name": {
+    "en": "Chambord Royale",
+    "zh": "香博皇家雞尾酒"
+  },
+  "description": {
+    "en": "**A simple yet elegant cocktail.**\n\nA delightful combination of black raspberry liqueur and sparkling wine that offers:\n*   A fruity, slightly tart flavor profile.\n*   A visually appealing presentation.\n*   An easy-to-make drink suitable for various occasions.",
+    "zh": "**一款簡單而優雅的雞尾酒。**\n\n黑覆盆子利口酒和氣泡酒的美味結合，提供：\n*   果味，略帶酸味的風味。\n*   視覺上吸引人的呈現。\n*   一款易於製作的飲品，適合各種場合。"
+  },
+  "historical_reference": {
+    "en": "**A relatively modern creation.**\n\nThe Chambord Royale is a more recent addition to the cocktail world compared to many classics.\n\n*   It leverages the rich flavor of Chambord, a black raspberry liqueur inspired by a raspberry liqueur produced in the Loire Valley of France in the late 17th century.\n*   The combination with champagne creates a celebratory and accessible drink.",
+    "zh": "**一個相對現代的創作。**\n\n與許多經典雞尾酒相比，Chambord Royale是雞尾酒世界中較新的成員。\n\n*   它充分利用了Chambord的濃郁風味，這是一種黑覆盆子利口酒，其靈感來自17世紀後期在法國盧瓦爾河谷生產的覆盆子利口酒。\n*   與香檳的結合創造了一種慶祝性和平易近人的飲料。"
+  },
+  "technique": {
+    "en": "Pour Chambord into a flute glass, top with sparkling wine.",
+    "zh": "將香博酒倒入長笛杯中，再倒入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Optional: Raspberry or blackberry",
+    "zh": "可選：覆盆子或黑莓"
+  },
+  "serve_in_glass": {
+    "en": "Flute glass",
+    "zh": "長笛杯"
+  },
+  "appearance": {
+    "en": "Pinkish hue with effervescence",
+    "zh": "粉紅色調與氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Chambord",
+        "zh": "香博酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the black raspberry flavor and sweetness.",
+        "zh": "提供黑覆盆子風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

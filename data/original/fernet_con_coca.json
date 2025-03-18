@@ -1,0 +1,87 @@
+{
+  "name": {
+    "en": "Fernet con Coca",
+    "zh": "苦艾酒可樂"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Highball**\n\nA popular and straightforward cocktail, perfect for those who enjoy a bitter-sweet flavor profile:\n\n*   Two simple ingredients.\n*   Easy to make and enjoy.",
+    "zh": "**簡單清爽的高杯酒**\n\n一款受歡迎且直接的雞尾酒，非常適合喜歡苦甜風味的人：\n\n*   兩種簡單的成分。\n*   容易製作和享用。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Argentina\n\n*   Widely consumed in Argentina, particularly as an *aperitivo* or digestif.\n*   The exact origins are somewhat unclear, but it has become a cultural staple.",
+    "zh": "**起源**：阿根廷\n\n*   在阿根廷廣泛飲用，特別是作為*開胃酒*或消化酒。\n*   確切的起源尚不清楚，但它已成為一種文化主食。"
+  },
+  "technique": {
+    "en": "Build: Combine ingredients in a glass with ice and stir gently.",
+    "zh": "混合法：將原料放入裝有冰塊的杯子中，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or Orange wedge",
+    "zh": "可選：檸檬或橙角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Dark amber, effervescent",
+    "zh": "深琥珀色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Fernet-Branca",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter, herbal backbone of the drink.",
+        "zh": "提供飲料的苦味和草本骨幹。"
+      }
+    },
+    {
+      "amount": 150,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, bubbles, and balances the bitterness of the Fernet.",
+        "zh": "增加甜味、氣泡，並平衡Fernet的苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

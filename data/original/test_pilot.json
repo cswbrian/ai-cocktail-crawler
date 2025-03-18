@@ -1,0 +1,172 @@
+{
+  "name": {
+    "en": "Test Pilot",
+    "zh": "試飛員"
+  },
+  "description": {
+    "en": "A complex and potent tiki cocktail with a blend of rums, citrus, and spice. This drink is known for its layered flavors and strong character, providing a multi-sensory experience.",
+    "zh": "一款複雜而強勁的提基雞尾酒，融合了多種蘭姆酒、柑橘和香料。這款飲品以其層次分明的風味和強烈的個性而聞名，提供多重感官體驗。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Concocted by Don the Beachcomber in 1941.\n\n*   Created in the heart of the Tiki craze.\n*   It is known for its potent blend of rums and unique flavor profile.\n*   It is considered one of the more complex recipes by Don.",
+    "zh": "**起源**: 1941年由唐·海灘流浪者調製。\n\n*   在提基熱潮的核心中創造。\n*   以其強勁的蘭姆酒混合和獨特的風味而聞名。\n*   它被認為是唐更複雜的食譜之一。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice until well-chilled. Strain into a glass filled with ice.",
+    "zh": "將所有材料與冰塊一起搖晃至完全冷卻。濾入裝滿冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "Mint sprig, orange slice, and a cherry.",
+    "zh": "薄荷枝、橙片和櫻桃。"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned or Tiki Mug",
+    "zh": "雙份古典杯或提基杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to light brown color, with a frothy head.",
+    "zh": "混濁的，淡黃色到淺棕色，帶有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base with caramel notes.",
+        "zh": "提供濃郁、以糖蜜為主的基底，帶有焦糖味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a lighter, cleaner rum flavor.",
+        "zh": "增添更輕盈、更乾淨的蘭姆酒風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sweet, spiced, and almond-like flavor.",
+        "zh": "增添甜味、香料味和杏仁般的風味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry and nutty flavor.",
+        "zh": "增添微妙的櫻桃和堅果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and citrus notes.",
+        "zh": "提供酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bittersweet citrus element.",
+        "zh": "增加苦樂參半的柑橘元素。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "少量安格仕苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice notes.",
+        "zh": "增添複雜性和香料風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 6,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

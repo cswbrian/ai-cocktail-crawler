@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "White Russian",
+    "zh": "白色俄羅斯"
+  },
+  "description": {
+    "en": "**Creamy and decadent cocktail**\n\nA simple yet luxurious cocktail featuring:\n*   Vodka for a smooth alcoholic base\n*   Coffee liqueur for rich coffee flavor\n*   Fresh cream for a velvety texture",
+    "zh": "**奶油且頹廢的雞尾酒**\n\n一款簡單而奢華的雞尾酒，特色：\n*   伏特加，提供順滑的酒精基底\n*   咖啡利口酒，提供濃郁的咖啡味\n*   鮮奶油，提供天鵝絨般的質地"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to be a variation of the Black Russian.\n\n*   The addition of cream transformed the Black Russian into the White Russian.\n*   Gained popularity in the 1990s due to the movie \"The Big Lebowski\".",
+    "zh": "**起源**: 據信是黑俄羅斯的一種變體。\n\n*   添加奶油將黑俄羅斯變成了白俄羅斯。\n*   由於電影《謀殺綠腳趾》，在1990年代廣受歡迎。"
+  },
+  "technique": {
+    "en": "Fill glass with ice, add vodka and coffee liqueur. Float fresh cream on top. Stir gently before drinking.",
+    "zh": "在杯中加入冰塊，加入伏特加和咖啡利口酒。在頂部漂浮鮮奶油。飲用前輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None typically, but sometimes coffee beans or grated chocolate.",
+    "zh": "通常沒有裝飾，但有時會用咖啡豆或磨碎的巧克力。"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Layered white cream on top of dark brown coffee liqueur and clear vodka, creating a marbled effect when stirred.",
+    "zh": "分層的白色奶油在深棕色咖啡利口酒和透明伏特加之上，攪拌時產生大理石花紋效果。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor that allows the coffee and cream to shine.",
+        "zh": "提供酒精基底和中性風味，使咖啡和奶油的味道更加突出。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee liqueur (e.g., Kahlúa)",
+        "zh": "咖啡利口酒 (如：卡魯哇)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a strong coffee flavor.",
+        "zh": "增加甜味和濃郁的咖啡味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Ice cubes",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "as needed",
+        "zh": "依需求"
+      },
+      "rationale": {
+        "en": "To chill the drink and slightly dilute it.",
+        "zh": "冷卻飲料並略微稀釋。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Smoked Paloma",
+    "zh": "煙燻Paloma"
+  },
+  "description": {
+    "en": "**Smoked Paloma: A Refreshing Twist on a Classic**\n\nA smoky and sophisticated take on the traditional Paloma cocktail. This recipe combines tequila with grapefruit soda, lime juice, and a hint of mezcal for a delightful smoky note. The smoked salt rim adds a savory and aromatic element, elevating the drinking experience. It is traditionally served in a highball glass with a grapefruit wedge. This variation incorporates a smoking process for the glass, infusing an appealing smoky aroma, and the use of a Mezcal.",
+    "zh": "**煙燻Paloma：經典的清新轉折**\n\n這是一款煙燻且精緻的傳統Paloma雞尾酒。 此配方將龍舌蘭酒與葡萄柚蘇打水、萊姆汁和少許梅斯卡爾混合在一起，帶來令人愉悅的煙燻味。 煙燻鹽邊增添了鹹味和芳香元素，提升了飲用體驗。 傳統上，它在高球杯中盛放，並搭配葡萄柚角。 這種變體包含一個用於玻璃杯的煙燻過程，注入了誘人的煙燻香氣，並使用了梅斯卡爾酒。"
+  },
+  "historical_reference": {
+    "en": "**Paloma Cocktail History**\n\n*   The Paloma is a popular tequila-based cocktail.\n*   Its creation is often credited to Don Javier Delgado Corona, owner and bartender of La Capilla in Tequila, Mexico. Though this is unverified.\n*   It's believed to have emerged in the 1950s.\n*   The name \"Paloma\" means \"dove\" in Spanish.\n*   It is most commonly prepared by mixing tequila with a grapefruit-flavored soda such as Squirt, Fresca or Jarritos and served on the rocks with a lime wedge.",
+    "zh": "**Paloma雞尾酒歷史**\n\n* Paloma 是一款受歡迎的以龍舌蘭酒為基底的雞尾酒。\n* 它的創造通常歸功於墨西哥特基拉鎮 La Capilla 的老闆兼調酒師 Don Javier Delgado Corona。 雖然這未經證實。\n* 據信它出現在 1950 年代。\n* “Paloma”在西班牙語中是“鴿子”的意思。\n* 最常見的做法是將龍舌蘭酒與葡萄柚口味的蘇打水（如 Squirt、Fresca 或 Jarritos）混合，並在加冰塊的情況下與萊姆角一起食用。"
+  },
+  "technique": {
+    "en": "Rim glass with smoked salt, add ingredients to glass over ice, stir gently, and garnish.",
+    "zh": "用煙燻鹽裝飾杯緣，將配料加到裝有冰塊的杯子中，輕輕攪拌，然後裝飾。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge",
+    "zh": "葡萄柚角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass with smoked salt rim",
+    "zh": "高球杯，杯緣有煙燻鹽"
+  },
+  "appearance": {
+    "en": "Light pink, effervescent, with a smoked salt rim and grapefruit wedge.",
+    "zh": "淡粉色，起泡，帶有煙燻鹽邊和葡萄柚角。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "通用龍舌蘭酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing agave flavor and alcoholic strength.",
+        "zh": "構成雞尾酒的基底，提供龍舌蘭風味和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Generic Mezcal",
+        "zh": "通用梅斯卡爾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle smoky note that complements the tequila.",
+        "zh": "增添微妙的煙燻味，與龍舌蘭酒相輔相成。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Grapefruit Soda",
+        "zh": "葡萄柚蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness, grapefruit flavor, and effervescence.",
+        "zh": "提供甜味、葡萄柚風味和氣泡。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Smoked Salt",
+        "zh": "煙燻鹽"
+      },
+      "unit": {
+        "en": "to taste",
+        "zh": "適量"
+      },
+      "rationale": {
+        "en": "Used for rimming the glass, adding a smoky and savory element.",
+        "zh": "用於裝飾杯緣，增添煙燻和鹹味元素。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

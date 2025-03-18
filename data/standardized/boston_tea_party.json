@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Boston Tea Party",
+    "zh": "波士頓茶會"
+  },
+  "description": {
+    "en": "**Complex and Robust Cocktail**\n\nA historical nod with a modern twist, this cocktail features:\n*   A blend of dark rum and brandy.\n*   A touch of lemon juice for brightness.\n*   Cola to add sweetness, bubbles, and a touch of spice.",
+    "zh": "**風味複雜且濃郁的雞尾酒**\n\n這款雞尾酒帶有歷史氣息和現代風味，特色：\n*   黑蘭姆酒和白蘭地的混合。\n*   少許檸檬汁，增添明亮感。\n*   可樂帶來甜味、氣泡和一絲辛辣。"
+  },
+  "historical_reference": {
+    "en": "**Inspired by the Boston Tea Party**\n\n*   A cocktail that subtly references the historic event.\n*   Combines elements reminiscent of the trade routes and flavors of the era.\n*   Not a direct recreation of any specific drink from that period.",
+    "zh": "**靈感來自波士頓傾茶事件**\n\n*   一款巧妙地提及歷史事件的雞尾酒。\n*   融合了讓人聯想到當時貿易路線和風味的元素。\n*   並非直接重現那個時期的任何特定飲品。"
+  },
+  "technique": {
+    "en": "Shake rum, brandy, and lemon juice with ice. Strain into a highball glass filled with ice. Top with cola. Garnish with a lemon wedge or cherry.",
+    "zh": "將蘭姆酒、白蘭地和檸檬汁與冰塊搖勻。濾入裝滿冰塊的高球杯中。加入可樂。用檸檬角或櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "檸檬角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with a frothy head",
+    "zh": "深琥珀色液體，帶有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a molasses base with a hint of spice and depth.",
+        "zh": "提供糖蜜基底，帶有淡淡的香料和深度。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a fruity and complex note, enhancing the cocktail's body.",
+        "zh": "增添水果和復雜的風味，增強酒體的醇厚感。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and enhance the flavors.",
+        "zh": "增加酸度以平衡甜度並增強風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, bubbles, and a distinctive flavor.",
+        "zh": "增加甜味、氣泡和獨特的風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

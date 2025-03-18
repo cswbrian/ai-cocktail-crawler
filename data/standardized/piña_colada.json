@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Piña Colada",
+    "zh": "鳳梨可樂達"
+  },
+  "description": {
+    "en": "**Classic Tropical Cocktail**\n\nA sweet, rum-based cocktail blending:\n*   Coconut cream for richness.\n*   Pineapple juice for a tropical tang.\n*   Rum to give it a kick.",
+    "zh": "**經典熱帶雞尾酒**\n\n以蘭姆酒為基底的甜美雞尾酒，融合了：\n* 椰奶的濃郁。\n* 鳳梨汁的熱帶風味。\n* 蘭姆酒帶來衝擊。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: San Juan, Puerto Rico\n\n*   Created in 1954, at the Caribe Hilton Hotel.\n*   Ramón 'Monchito' Marrero, a bartender, is credited with its invention.\n*   Became the official drink of Puerto Rico in 1978.",
+    "zh": "**起源**: 波多黎各，聖胡安\n\n*   1954 年在加勒比希爾頓酒店創作。\n*   調酒師拉蒙·“蒙奇托”·馬雷羅被認為是它的發明者。\n*   1978 年成為波多黎各的官方飲品。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "將所有材料與冰混合均勻。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or maraschino cherry",
+    "zh": "鳳梨角和/或醃漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or large goblet",
+    "zh": "颶風杯或大高腳杯"
+  },
+  "appearance": {
+    "en": "Creamy, opaque, white or light yellow",
+    "zh": "乳白色、不透明、白色或淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and tropical notes.",
+        "zh": "提供酒精基底和熱帶風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creamy texture.",
+        "zh": "增加甜味和奶油般的質地。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and acidity.",
+        "zh": "增加熱帶甜味和酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

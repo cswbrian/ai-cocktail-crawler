@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Brave Bull",
+    "zh": "勇敢的公牛"
+  },
+  "description": {
+    "en": "**Simple Tequila Cocktail**\n\nA straightforward blend of tequila and coffee liqueur:\n*   Rich coffee flavor\n*   Agave spirit base",
+    "zh": "**簡單的龍舌蘭調酒**\n\n龍舌蘭和咖啡利口酒的簡單混合：\n*   濃郁的咖啡風味\n*   龍舌蘭酒基底"
+  },
+  "historical_reference": {
+    "en": "The Brave Bull is a simple cocktail that seems to have emerged sometime after the invention and popularization of coffee liqueurs like Kahlúa. It's essentially the tequila version of a Black Russian. Its exact origin is unclear, but it likely gained traction in the mid-20th century as tequila became more widely available.",
+    "zh": "Brave Bull 是一款簡單的雞尾酒，似乎是在 Kahlúa 等咖啡利口酒發明和普及之後出現的。 它本質上是 Black Russian 的龍舌蘭版本。 其確切的起源尚不清楚，但它很可能在 20 世紀中葉隨著龍舌蘭酒的普及而受到歡迎。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "在冰上調製"
+  },
+  "garnish": {
+    "en": "None typically",
+    "zh": "通常沒有"
+  },
+  "serve_in_glass": {
+    "en": "Old fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber, opaque",
+    "zh": "深琥珀色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and characteristic agave flavor.",
+        "zh": "提供基底和典型的龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and coffee flavor.",
+        "zh": "增加甜度和咖啡風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

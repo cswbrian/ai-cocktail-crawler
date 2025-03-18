@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Diki-Diki",
+    "zh": "迪基-迪基"
+  },
+  "description": {
+    "en": "**A citrusy and frothy gin-based cocktail.**\n\nThe Diki-Diki is a somewhat obscure classic cocktail known for its unique combination of gin, grapefruit juice, honey, and egg white, resulting in a sweet and tart flavor profile with a creamy texture. It's a pre-prohibition era drink that showcases the use of fresh ingredients.",
+    "zh": "**一款柑橘味濃郁且泡沫豐富的琴酒雞尾酒。**\n\nDiki-Diki 是一款略為默默無聞的經典雞尾酒，以其琴酒、葡萄柚汁、蜂蜜和蛋白的獨特組合而聞名，帶來甜酸風味和奶油般的質地。這是一款禁酒令之前的飲品，展現了新鮮食材的運用。"
+  },
+  "historical_reference": {
+    "en": "The Diki-Diki cocktail is first documented in *Harry Craddock's Savoy Cocktail Book* in 1930. Its origin before this is unclear.\n\n*   Attributed to being created sometime before the prohibition era.\n*   The name 'Diki-Diki' is of unknown origin.",
+    "zh": "Diki-Diki 雞尾酒首次記載於 1930 年的《哈里·克拉多克薩伏伊雞尾酒書》中。在此之前的起源尚不清楚。\n\n*   據稱是在禁酒令時代之前創造的。\n*   「Diki-Diki」這個名字的由來不明。"
+  },
+  "technique": {
+    "en": "Shake all ingredients vigorously with ice. Strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起劇烈搖晃。濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Grapefruit peel twist",
+    "zh": "葡萄柚皮扭花"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head.",
+    "zh": "混濁的淡黃色，帶有泡沫狀的白色頂部。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Honey",
+        "zh": "蜂蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a smooth texture.",
+        "zh": "增加甜味和順滑的口感。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Creates a frothy texture and silky mouthfeel.",
+        "zh": "產生泡沫狀的質地和柔滑的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

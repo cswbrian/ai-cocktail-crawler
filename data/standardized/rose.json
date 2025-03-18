@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Rose",
+    "zh": "玫瑰"
+  },
+  "description": {
+    "en": "**Classic pre-prohibition cocktail**\n\nA refreshing and elegant cocktail with a delicate balance of:\n*   Gin's botanical complexity\n*   Fruit Liqueur for sweetness and color\n*   Lemon juice for tartness\n*   Sparkling wine for effervescence",
+    "zh": "**經典禁酒令前雞尾酒**\n\n清新優雅的雞尾酒，精緻平衡：\n*   琴酒的植物複雜性\n*   水果利口酒帶來甜味和色彩\n*   檸檬汁帶來酸味\n*   氣泡酒帶來氣泡感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Rose cocktail first appeared in Frank Meier's *The Art of Mixing Drinks* (1935), but similar recipes existed earlier.\n\n*   Likely originated in France.\n*   Popular during the early 20th century.",
+    "zh": "**起源**: Rose雞尾酒首次出現在Frank Meier的《*調酒藝術*》（1935）中，但類似的配方更早存在。\n\n*   可能起源於法國。\n*   20世紀初流行。"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except sparkling wine) with ice, strain into a chilled glass, top with sparkling wine.",
+    "zh": "將所有材料（除了氣泡酒）與冰塊搖勻，倒入冰鎮的杯中，再倒入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Cherry or Lemon Twist",
+    "zh": "櫻桃或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Champagne Flute",
+    "zh": "高腳杯或香檳杯"
+  },
+  "appearance": {
+    "en": "Pink, clear, and effervescent",
+    "zh": "粉紅色、清澈、有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Fruit Liqueur",
+        "zh": "水果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, color, and fruit flavor.",
+        "zh": "增加甜味、顏色和水果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

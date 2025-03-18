@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Raspberry Collins",
+    "zh": "覆盆子柯林斯"
+  },
+  "description": {
+    "en": "**Refreshing Raspberry Twist on a Classic**\n\nA fruity and fizzy variation of the classic Tom Collins. The Raspberry Collins features:\n*   Gin for a botanical base\n*   Raspberry syrup for sweetness and color\n*   Lemon juice for tartness and balance\n*   Soda water for fizz",
+    "zh": "**經典的清爽覆盆子風味**\n\n經典湯姆柯林斯的一種水果氣泡變體。 覆盆子柯林斯的特色：\n*   琴酒作為植物基底\n*   覆盆子糖漿帶來甜味和顏色\n*   檸檬汁帶來酸味和平衡\n*   蘇打水帶來氣泡"
+  },
+  "historical_reference": {
+    "en": "The Collins family of cocktails dates back to the 19th century. The Raspberry Collins is a modern variation that adds a fruity twist to the classic Tom Collins. While the exact origin is unknown, it likely emerged as bartenders experimented with different fruit syrups and variations of the original recipe.  The *Collins* family of cocktails are all highballs containing a spirit, lemon juice, sugar, and carbonated water.",
+    "zh": "柯林斯雞尾酒家族可以追溯到 19 世紀。 覆盆子柯林斯是一種現代變體，為經典的湯姆柯林斯增添了水果風味。 雖然確切的起源未知，但它可能是調酒師嘗試使用不同的水果糖漿和原始配方的變體而出現的。 *柯林斯* 系列雞尾酒都是高杯酒，含有烈酒、檸檬汁、糖和碳酸水。"
+  },
+  "technique": {
+    "en": "Build. Add gin, raspberry syrup, and lemon juice to a Collins glass filled with ice. Top with soda water and stir gently. Garnish.",
+    "zh": "直接調合法。 將琴酒、覆盆子糖漿和檸檬汁加入裝滿冰塊的柯林斯杯中。 加入蘇打水並輕輕攪拌。 裝飾。"
+  },
+  "garnish": {
+    "en": "Raspberries and lemon wedge",
+    "zh": "覆盆子和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Collins glass",
+    "zh": "柯林斯杯"
+  },
+  "appearance": {
+    "en": "Light pink, fizzy, with raspberry garnish",
+    "zh": "淡粉色，氣泡豐富，覆盆子裝飾"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic backbone and botanical notes.",
+        "zh": "提供酒精骨幹和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and raspberry flavor.",
+        "zh": "增加甜味和覆盆子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balance.",
+        "zh": "增加酸味和平衡。"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and volume.",
+        "zh": "增加氣泡和體積。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

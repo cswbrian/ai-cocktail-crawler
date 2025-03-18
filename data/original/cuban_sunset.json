@@ -1,0 +1,97 @@
+{
+  "name": {
+    "en": "Cuban Sunset",
+    "zh": "古巴日落"
+  },
+  "description": {
+    "en": "**Tropical Layered Cocktail**\n\nA visually stunning cocktail designed to resemble a Cuban sunset, featuring:\n\n*   Grenadine sinking to the bottom for a red layer\n*   Orange juice creating the orange hue\n*   White rum providing the alcoholic base",
+    "zh": "**熱帶分層雞尾酒**\n\n一款視覺上令人驚豔的雞尾酒，旨在模仿古巴日落，其特色：\n\n*   石榴糖漿沉到底部，形成紅色層\n*   橙汁營造出橙色色調\n*   白蘭姆酒提供酒精基底"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Exact origin unknown, but likely a creation of the tropical cocktail era.\n\n*   Inspired by the colors of a sunset in the Caribbean, particularly Cuba\n*   Popularized in bars and resorts as a visually appealing and refreshing drink\n*   Variations exist with different fruit juices and spirits to achieve the layered effect",
+    "zh": "**起源**: 確切起源未知，但可能是熱帶雞尾酒時代的產物。\n\n*   靈感來自加勒比海，特別是古巴的日落顏色\n*   在酒吧和度假村中流行，作為一種視覺上吸引人且清爽的飲品\n*   存在使用不同果汁和烈酒以達到分層效果的變體"
+  },
+  "technique": {
+    "en": "Layer ingredients carefully over ice, starting with grenadine.",
+    "zh": "小心地將配料分層疊在冰塊上，從石榴糖漿開始。"
+  },
+  "garnish": {
+    "en": "Orange slice and cherry",
+    "zh": "橙片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Layered drink with vibrant red and orange hues, mimicking a sunset.",
+    "zh": "分層飲料，具有鮮豔的紅色和橙色色調，模仿日落。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and alcoholic backbone of the cocktail.",
+        "zh": "提供雞尾酒的基底和酒精骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates the red layer at the bottom, adding sweetness and color.",
+        "zh": "在底部形成紅色層，增加甜度和顏色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

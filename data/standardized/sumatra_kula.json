@@ -1,0 +1,145 @@
+{
+  "name": {
+    "en": "Sumatra Kula",
+    "zh": "蘇門答臘庫拉"
+  },
+  "description": {
+    "en": "**Complex and Tropical Cocktail**\n\nA rich and layered cocktail that balances dark rum with coffee and spice notes.\n\n*   Features strong coffee liqueur and aromatic bitters.\n*   Served up or on the rocks, depending on preference.\n*   Garnished with orange peel to enhance the citrus aroma.",
+    "zh": "**複雜的熱帶雞尾酒**\n\n一款濃郁且層次豐富的雞尾酒，將深色蘭姆酒與咖啡和香料味完美平衡。\n\n*   以濃烈的咖啡利口酒和芳香苦精為特色。\n*   可選擇不加冰或加冰飲用，取決於個人喜好。\n*   以橙皮裝飾，增強柑橘香氣。"
+  },
+  "historical_reference": {
+    "en": "The **Sumatra Kula** is a modern cocktail creation, inspired by the flavors of Indonesian coffee and tropical spices. The name reflects its key ingredients and exotic character.\n\n*   It is designed to offer a rich and complex drinking experience, appealing to those who enjoy bold and flavorful cocktails.\n*   It is not a classic cocktail with a documented history, but rather a contemporary invention showcasing the mixologist's creativity.",
+    "zh": "**蘇門答臘庫拉** 是一款現代雞尾酒，其靈感來自印尼咖啡和熱帶香料的味道。 這個名字反映了其主要成分和異國情調。\n\n*   它旨在提供豐富而複雜的飲用體驗，吸引那些喜歡大膽而風味濃郁的雞尾酒的人。\n*   它不是具有記載歷史的經典雞尾酒，而是展示調酒師創造力的當代發明。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice, strain into chilled glass.",
+    "zh": "將所有成分與冰塊攪拌均勻，濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Old-Fashioned glass",
+    "zh": "高腳杯或古典杯"
+  },
+  "appearance": {
+    "en": "Deep amber with reddish hues, clear and inviting",
+    "zh": "深琥珀色，帶有紅色色調，清澈誘人"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich base and tropical notes.",
+        "zh": "提供濃郁的基底和熱帶風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a robust coffee flavor that complements the rum.",
+        "zh": "增加濃郁的咖啡風味，與蘭姆酒相得益彰。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bitter and boozy elements.",
+        "zh": "增加甜味，以平衡苦味和酒精味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity.",
+        "zh": "增加深度和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Rum Swizzle",
+    "zh": "蘭姆酒思醉"
+  },
+  "description": {
+    "en": "**The quintessential Bermudan cocktail**\n\nA layered rum punch with a complex mix of citrus and spice. Its preparation involves:\n*   Shaking or 'swizzling' vigorously to create a frothy texture.\n*   A balance of sweet, sour, and spicy elements.",
+    "zh": "**百慕達的經典雞尾酒**\n\n層次豐富的蘭姆酒潘趣，融合了柑橘和香料的複雜風味。它的製備包括：\n*   劇烈搖晃或「攪拌」以產生泡沫質地。\n*   甜、酸和辣元素的平衡。"
+  },
+  "historical_reference": {
+    "en": "**Bermuda's National Drink**\n\n*   The Rum Swizzle is believed to have originated at the Swizzle Inn in Bermuda.\n*   The exact recipe varies, with each establishment having its own secret blend.\n*   The term \"swizzle\" refers to the traditional method of mixing using a swizzle stick – a forked twig from a local tree.",
+    "zh": "**百慕達的國民飲品**\n\n*   蘭姆酒思醉據信起源於百慕達的Swizzle Inn。\n*   確切的配方各不相同，每家店都有自己的秘密配方。\n*   術語「swizzle」指的是使用swizzle棒（一種來自當地樹木的叉狀小樹枝）進行混合的傳統方法。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake vigorously or swizzle until well-chilled and frothy. Strain into a glass filled with ice.",
+    "zh": "將所有材料與冰塊一起放入搖酒器中。劇烈搖晃或攪拌至完全冷卻並起泡。濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Cherry and orange slice",
+    "zh": "櫻桃和柳橙片"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or highball glass",
+    "zh": "颶風杯或高球杯"
+  },
+  "appearance": {
+    "en": "Vibrant red or pink, depending on the grenadine, with a frothy top and garnish.",
+    "zh": "鮮豔的紅色或粉紅色，取決於石榴糖漿，頂部有泡沫和裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and rich flavor.",
+        "zh": "提供主要的酒精基底和濃郁的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds spice and sweetness.",
+        "zh": "增添香料和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical fruit notes.",
+        "zh": "增添甜味和熱帶水果風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrusy sweetness and complexity.",
+        "zh": "增添柑橘甜味和複雜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, color, and a subtle tartness.",
+        "zh": "增添甜味、顏色和微妙的酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

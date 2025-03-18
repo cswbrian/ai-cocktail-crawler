@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Smoky Paloma",
+    "zh": "煙燻帕洛瑪"
+  },
+  "description": {
+    "en": "**Smoky Paloma: A Modern Twist**\n\nA refreshing take on the classic Paloma cocktail featuring:\n\n*   Smoked salt rim for savory depth\n*   Mezcal adds a smoky flavor\n*   Grapefruit soda provides effervescence and citrus notes",
+    "zh": "**煙燻帕洛瑪：現代風味**\n\n經典帕洛瑪雞尾酒的清新演繹，特色：\n\n*   煙燻鹽邊緣增添鹹香深度\n*   梅斯卡爾增添煙燻風味\n*   葡萄柚汽水帶來氣泡感和柑橘味"
+  },
+  "historical_reference": {
+    "en": "**Paloma History**\n\n*   The Paloma is a popular tequila-based cocktail.\n*   Its origin is debated, but often attributed to Don Javier Delgado Corona, owner and bartender of La Capilla in Tequila, Mexico.\n*   The first known written reference to the Paloma dates back to the 1950s.",
+    "zh": "**帕洛瑪歷史**\n\n*   帕洛瑪是一種受歡迎的以龍舌蘭為基底的雞尾酒。\n*   其起源尚有爭議，但通常歸功於墨西哥龍舌蘭鎮La Capilla的老闆兼調酒師Don Javier Delgado Corona。\n*   已知的第一個關於帕洛瑪的書面參考資料可以追溯到1950年代。"
+  },
+  "technique": {
+    "en": "Rim glass with smoked salt, add ingredients, and top with grapefruit soda. Gently stir.",
+    "zh": "在高球杯邊緣沾上煙燻鹽，加入所有材料，最後倒入葡萄柚汽水。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge",
+    "zh": "葡萄柚角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass with smoked salt rim",
+    "zh": "高球杯，杯緣沾煙燻鹽"
+  },
+  "appearance": {
+    "en": "Pale pink, effervescent with a smoky rim",
+    "zh": "淡粉色，冒泡，帶有煙燻邊緣"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave base and subtle sweetness.",
+        "zh": "提供龍舌蘭的基底和微妙的甜味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅斯卡爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a smoky note",
+        "zh": "添加煙燻味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances sweetness.",
+        "zh": "增加酸味並平衡甜味。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Soda",
+        "zh": "葡萄柚汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness, citrus and carbonation. Jarritos is common.",
+        "zh": "提供甜味、柑橘味和碳酸。 Jarritos 很常見。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Smoked Salt",
+        "zh": "煙燻鹽"
+      },
+      "unit": {
+        "en": "to taste",
+        "zh": "適量"
+      },
+      "rationale": {
+        "en": "For the rim to add the smokiness",
+        "zh": "用於杯緣以增加煙燻味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

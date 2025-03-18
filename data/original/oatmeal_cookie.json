@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Oatmeal Cookie",
+    "zh": "燕麥餅乾"
+  },
+  "description": {
+    "en": "**Sweet and creamy dessert cocktail.**\n\nA decadent drink that evokes the flavors of a freshly baked oatmeal cookie.\n\n*   Uses Irish cream liqueur for a smooth, rich texture.\n*   Cinnamon and brown sugar provide the signature oatmeal cookie taste.",
+    "zh": "**香甜滑順的甜點雞尾酒。**\n\n令人想起新鮮烘烤燕麥餅乾風味的頹廢飲品。\n\n*   使用愛爾蘭奶油利口酒，帶來柔滑濃郁的質地。\n*   肉桂和紅糖提供標誌性的燕麥餅乾味道。"
+  },
+  "historical_reference": {
+    "en": "While there isn't a specific documented origin for the Oatmeal Cookie cocktail, it's a modern creation likely developed in the late 20th or early 21st century. Its aim is to replicate the flavor profile of an oatmeal cookie in liquid form.",
+    "zh": "雖然沒有關於燕麥餅乾雞尾酒的具體記載起源，但它是一種現代創作，可能是在20世紀末或21世紀初開發的。 其目的是以液體形式複製燕麥餅乾的風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Sprinkle of cinnamon or grated nutmeg",
+    "zh": "撒上肉桂粉或磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Coupe or Martini Glass",
+    "zh": "冰鎮的淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy beige",
+    "zh": "不透明，奶油米色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    },
+    {
+      "en": "Gluten (from whiskey)",
+      "zh": "麩質（來自威士忌）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and a warm, malty flavor.",
+        "zh": "提供基底以及溫暖的麥芽風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a creamy texture and sweet, vanilla flavor.",
+        "zh": "提供奶油般的質地和香甜的香草味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Brown Sugar Syrup",
+        "zh": "紅糖糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a molasses-like flavor.",
+        "zh": "增加甜味和糖蜜般的味道。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash of Cinnamon",
+        "zh": "少量肉桂粉"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "一短劃"
+      },
+      "rationale": {
+        "en": "Adds a warm, spicy note.",
+        "zh": "增添溫暖的辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

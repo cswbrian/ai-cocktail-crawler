@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Orange Tundra",
+    "zh": "橙色苔原"
+  },
+  "description": {
+    "en": "**Citrus Forward & Refreshing**\n\nA bright and tangy cocktail perfect for warm weather, featuring:\n* Freshly squeezed orange juice for vibrant flavor\n* Cranberry juice to add a tart undertone and colour\n* A hint of sweetness from simple syrup\n* Pleasant aroma from the orange zest garnish",
+    "zh": "**柑橘風味突出且清爽**\n\n一款明亮且帶有濃郁風味的雞尾酒，非常適合溫暖的天氣，特色：\n* 新鮮榨取的柳橙汁帶來鮮明風味\n* 蔓越莓汁增添酸味和色彩\n* 來自簡式糖漿的一絲甜味\n* 橙皮屑裝飾帶來宜人的香氣"
+  },
+  "historical_reference": {
+    "en": "The *Orange Tundra* is a relatively modern cocktail, and its exact origin is difficult to trace.\n\n* Likely created in the late 20th or early 21st century.\n* It is a member of the *Vodka and Juice* family of cocktails.\n* The name may reference the vibrant colour combination resembling a tundra sunset.",
+    "zh": "《*橙色苔原*》是一種相對現代的雞尾酒，其確切起源難以追溯。\n\n* 可能創建於 20 世紀末或 21 世紀初。\n* 它是《*伏特加和果汁*》系列雞尾酒的成員。\n* 這個名稱可能指的是類似苔原日落的鮮豔色彩組合。"
+  },
+  "technique": {
+    "en": "Build. Add all ingredients to the glass filled with ice and stir gently.",
+    "zh": "直接調合法。將所有材料加入裝滿冰塊的杯中，然後輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Orange zest twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "A vibrant, cloudy orange hue",
+    "zh": "充滿活力的混濁橙色色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, neutral base for the other flavors to shine.",
+        "zh": "為其他風味提供乾淨、中性的基底，使其得以展現。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary citrus flavor and body of the cocktail.",
+        "zh": "提供雞尾酒的主要柑橘風味和酒體。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a tart, slightly bitter counterpoint to the orange and contributes to the vibrant color.",
+        "zh": "為橙汁添加酸澀、略帶苦味的反襯，並有助於呈現鮮豔的色彩。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the acidity of the juices.",
+        "zh": "平衡果汁的酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

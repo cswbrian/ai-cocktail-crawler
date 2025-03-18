@@ -1,0 +1,172 @@
+{
+  "name": {
+    "en": "Queen Mary",
+    "zh": "女王瑪麗"
+  },
+  "description": {
+    "en": "**Spicy and Savory Cocktail**\n\nThe Queen Mary is a variation of the Bloody Mary, often using a higher quality or artisanal tomato juice and a wider range of spices for a more complex and refined flavor profile.\n\nKey elements:\n*   Vodka base\n*   Tomato juice as the primary flavor carrier\n*   Complex blend of spices, herbs, and hot sauces",
+    "zh": "**辛辣鹹香的雞尾酒**\n\n女王瑪麗是血腥瑪麗的變體，通常使用更高品質或手工製作的番茄汁，並使用更廣泛的香料，以獲得更複雜和精緻的風味。\n\n主要元素：\n* 伏特加基底\n* 番茄汁作為主要的風味載體\n* 複雜的香料、草藥和辣椒醬混合物"
+  },
+  "historical_reference": {
+    "en": "**Variant of the Bloody Mary**\n\n*   The Queen Mary is a more elaborate and sophisticated take on the classic Bloody Mary.\n*   Likely emerged as bartenders experimented with and refined the original recipe.\n*   The name ",
+    "zh": "女王瑪麗"
+  },
+  "technique": {
+    "en": "Build over ice; stir gently to combine.",
+    "zh": "在冰上調製；輕輕攪拌混合。"
+  },
+  "garnish": {
+    "en": "Celery stalk, lemon wedge, olives, or spicy pickles",
+    "zh": "芹菜莖，檸檬角，橄欖或辛辣泡菜"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "高球杯或品脫杯"
+  },
+  "appearance": {
+    "en": "Red, opaque, and slightly viscous",
+    "zh": "紅色，不透明，略帶黏稠"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the body and primary flavor.",
+        "zh": "提供酒體和主要風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness.",
+        "zh": "增加酸度和明亮度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and savory depth.",
+        "zh": "增加鮮味和鹹味的深度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds heat and complexity.",
+        "zh": "增加熱度和複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavor.",
+        "zh": "增強鹹味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a spicy note.",
+        "zh": "增添辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

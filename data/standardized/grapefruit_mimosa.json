@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Grapefruit Mimosa",
+    "zh": "葡萄柚含羞草"
+  },
+  "description": {
+    "en": "A delightful twist on the classic Mimosa, replacing orange juice with grapefruit juice for a slightly tart and refreshing brunch cocktail.",
+    "zh": "經典含羞草的美味變奏，以葡萄柚汁代替橙汁，製成略帶酸味且令人耳目一新的早午餐雞尾酒。"
+  },
+  "historical_reference": {
+    "en": "The Mimosa cocktail is believed to have originated at the Hôtel Ritz Paris in 1925. The Grapefruit Mimosa is a variation, offering a less sweet alternative.",
+    "zh": "含羞草雞尾酒據信起源於 1925 年的巴黎麗思酒店。葡萄柚含羞草是一種變體，提供了一種不那麼甜的替代品。"
+  },
+  "technique": {
+    "en": "Pour champagne into a flute, then top with grapefruit juice.",
+    "zh": "將香檳倒入長笛杯中，然後倒入葡萄柚汁。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or twist",
+    "zh": "葡萄柚角或皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳長笛杯"
+  },
+  "appearance": {
+    "en": "Pale pink, effervescent",
+    "zh": "淡粉紅色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 5,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

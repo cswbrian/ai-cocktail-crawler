@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Bronx Cocktail",
+    "zh": "布朗克斯雞尾酒"
+  },
+  "description": {
+    "en": "**Classic Gin Cocktail with a Fruity Twist**\n\nA variation on the Martini, the Bronx cocktail introduces:\n*   Orange juice for sweetness and citrus notes.\n*   A small amount of dry and sweet vermouth to balance the gin.",
+    "zh": "**經典琴酒雞尾酒，帶有水果風味**\n\n作為馬丁尼的變體，Bronx 雞尾酒引入：\n*   橙汁帶來甜味和柑橘味。\n*   少量幹苦艾酒和甜苦艾酒，以平衡琴酒。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated at the Waldorf Astoria Hotel in New York City.\n\n*   Credited to bartender Joseph Sormani.\n*   Named after the Bronx Zoo, a popular attraction at the time.",
+    "zh": "**起源**: 據信起源於紐約市的華爾道夫酒店。\n\n*   歸功於調酒師 Joseph Sormani。\n*   以當時熱門的景點布朗克斯動物園命名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale orange, clear",
+    "zh": "淡橙色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with botanical notes.",
+        "zh": "提供基酒與植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增加幹度和草本風味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and citrus flavor.",
+        "zh": "增加甜度、酸度和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

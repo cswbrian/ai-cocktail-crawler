@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Kensington Court",
+    "zh": "肯辛頓宮廷"
+  },
+  "description": {
+    "en": "**A modern classic cocktail**\n\nThis vibrant cocktail offers a delightful balance of flavors:\n\n*   Gin provides a botanical base.\n*   Fresh raspberry provides tartness and fresh taste.\n*   Lemon juice adds brightness and acidity.\n*   Egg white creates a smooth, creamy texture.\n*   Sugar syrup balances the tartness.",
+    "zh": "**現代經典雞尾酒**\n\n這款充滿活力的雞尾酒提供令人愉悅的風味平衡：\n\n*   琴酒提供植物基底。\n*   新鮮覆盆子提供酸味和清新的味道。\n*   檸檬汁增加明亮感和酸度。\n*   蛋白營造出柔滑、奶油般的質地。\n*   糖漿平衡酸味。"
+  },
+  "historical_reference": {
+    "en": "**Created by a Bartender in London**\n\nInspired by classic sours, this cocktail was created in the early 2000s in London by a creative bartender who wanted to create an experience using local raspberries. It quickly became a popular choice for its well-balanced flavor profile and appealing presentation.",
+    "zh": "**由倫敦的調酒師創造**\n\n受經典酸酒的啟發，這款雞尾酒由一位富有創意的調酒師於 2000 年代初期在倫敦創作，他希望使用當地覆盆子創造一種體驗。 它以其均衡的風味和吸引人的外觀迅速成為受歡迎的選擇。"
+  },
+  "technique": {
+    "en": "Muddle raspberries, then combine all ingredients in a shaker with ice. Shake vigorously until well-chilled. Double strain into a chilled coupe glass. Garnish with fresh raspberries.",
+    "zh": "將覆盆子搗碎，然後將所有材料與冰塊放入搖酒器中。 劇烈搖晃直至完全冷卻。 用雙重濾網過濾到冰鎮的coupe杯中。 用新鮮覆盆子裝飾。"
+  },
+  "garnish": {
+    "en": "3 Fresh Raspberries",
+    "zh": "3個新鮮覆盆子"
+  },
+  "serve_in_glass": {
+    "en": "Coupe Glass",
+    "zh": " coupe杯"
+  },
+  "appearance": {
+    "en": "Opaque, deep red with a frothy white head.",
+    "zh": "不透明，深紅色，帶有泡沫狀白色頂層。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the acidity.",
+        "zh": "增加甜度並平衡酸度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Fresh Raspberry",
+        "zh": "新鮮覆盆子"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fresh raspberry flavor and aroma.",
+        "zh": "增加新鮮覆盆子風味和香氣。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a smooth, creamy texture.",
+        "zh": "提供柔滑、奶油般的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

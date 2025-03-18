@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Averna Spritz",
+    "zh": "艾 Averna 氣泡酒"
+  },
+  "description": {
+    "en": "**A Refreshing Aperitivo**\n\nThe Averna Spritz is a delightful twist on the classic Aperol Spritz, offering a more complex and subtly bitter flavor profile. It features:\n\n*   Averna Amaro for rich, bittersweet notes\n*   Prosecco for light effervescence\n*   Soda water for added refreshment\n*   Orange slice to garnish",
+    "zh": "**一杯清爽的開胃酒**\n\nAverna Spritz是對經典Aperol Spritz的美味變奏，提供更複雜和微妙的苦味。它具有：\n\n*   Averna Amaro帶來豐富、苦甜的風味\n*   普羅賽克氣泡酒帶來輕盈的氣泡\n*   蘇打水增添清爽感\n*   柳橙片裝飾"
+  },
+  "historical_reference": {
+    "en": "**Modern Classic**\n\nThe Averna Spritz is a relatively new cocktail that has gained popularity in recent years as a variation on the classic Aperol Spritz. It highlights the unique flavor profile of Averna Amaro. Its origins trace back to:\n\n*   Averna, a Sicilian amaro created in 1868\n*   The Spritz, a Venetian wine-based cocktail popular since the 19th century\n*   The fusion of these two Italian staples",
+    "zh": "**現代經典**\n\nAverna Spritz是一種相對較新的雞尾酒，近年來作為經典Aperol Spritz的變奏而廣受歡迎。它突出了Averna Amaro的獨特風味。它的起源可以追溯到：\n\n*   Averna，一種於1868年創造的西西里阿瑪洛\n*   Spritz，一種自19世紀以來流行的威尼斯葡萄酒基雞尾酒\n*   這兩種義大利主食的融合"
+  },
+  "technique": {
+    "en": "Build over ice. Add Prosecco, Averna, and soda water. Gently stir to combine.",
+    "zh": "在冰上調製。加入普羅賽克氣泡酒，艾 Averna和蘇打水。輕輕攪拌均勻"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "柳橙片"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass",
+    "zh": "葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Effervescent amber liquid with vibrant orange slice garnish",
+    "zh": "氣泡琥珀色液體，配上鮮豔的橙片裝飾"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides effervescence and a dry, fruity base.",
+        "zh": "提供氣泡和乾爽的水果基底"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Averna Amaro",
+        "zh": "艾 Averna 阿瑪洛"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the signature bittersweet flavor.",
+        "zh": "提供標誌性的苦甜味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a refreshing effervescence and dilutes the sweetness.",
+        "zh": "增加清爽的氣泡並稀釋甜度"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

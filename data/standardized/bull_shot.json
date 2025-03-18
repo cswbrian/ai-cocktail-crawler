@@ -1,0 +1,162 @@
+{
+  "name": {
+    "en": "Bull Shot",
+    "zh": "公牛特調"
+  },
+  "description": {
+    "en": "A savory cocktail that is a variation of a Bloody Mary. It replaces tomato juice with beef bouillon or consommé. Often served as a breakfast or brunch drink.",
+    "zh": "這是一款鹹味雞尾酒，是血腥瑪麗的變體。它用牛肉湯或清湯代替番茄汁。 通常用作早餐或早午餐飲品。"
+  },
+  "historical_reference": {
+    "en": "*Origin* Possibly originated as a variation of the Bloody Mary.\n\nPopularized as a savory alternative.",
+    "zh": "*起源* 可能源自血腥瑪麗的變體。\n\n作為一種鹹味替代品而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Build. Combine all ingredients in a glass with ice. Stir gently.",
+    "zh": "調和法。將所有材料放入裝有冰塊的玻璃杯中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or celery stalk",
+    "zh": "檸檬角或芹菜梗"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Red-brown, savory liquid",
+    "zh": "紅棕色，鹹味液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Beef Broth",
+        "zh": "牛肉湯"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main flavor component.",
+        "zh": "提供主要的風味成分。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and umami.",
+        "zh": "增加深度和鮮味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice.",
+        "zh": "增加辣味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Seasoning and spice.",
+        "zh": "調味和香料。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavor.",
+        "zh": "增強鹹味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

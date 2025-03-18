@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Garibaldi",
+    "zh": "加里波第"
+  },
+  "description": {
+    "en": "**Simple Italian Aperitivo**\n\nA refreshing and vibrant cocktail:\n\n*   Equal parts of bitter orange liqueur and orange juice.\n*   Fluffy texture is key, achieved with a high speed blend or shake.",
+    "zh": "**簡單的義大利開胃酒**\n\n一杯清爽而充滿活力的雞尾酒：\n\n*   等量的苦橙利口酒和柳橙汁。\n*   蓬鬆的質地是關鍵，通過高速攪拌或搖晃實現。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after Giuseppe Garibaldi\n\n*   A simple cocktail from Italy\n*   Symbolizes the union of Northern and Southern Italy: Bitter (North) and Orange (South).",
+    "zh": "**起源**: 以朱塞佩·加里波第命名\n\n*   來自義大利的簡單雞尾酒\n*   象徵義大利北部和南部的統一：苦味（北部）和橙子（南部）。"
+  },
+  "technique": {
+    "en": "Build: Combine ingredients over ice and fluff with a high-speed blender or shake vigorously to aerate.",
+    "zh": "調製：將配料與冰塊混合，並用高速攪拌器攪拌或劇烈搖晃以充氣。"
+  },
+  "garnish": {
+    "en": "Orange slice or wedge",
+    "zh": "橙片或橙角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Bright orange, frothy, and opaque",
+    "zh": "鮮橙色，起泡，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Generic Bitter Aperitivo",
+        "zh": "通用苦味開胃酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter and citrus base of the cocktail.",
+        "zh": "提供雞尾酒的苦味和柑橘基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Fresh Orange Juice",
+        "zh": "新鮮柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness, acidity, and fresh orange flavor.",
+        "zh": "提供甜味、酸度和新鮮柳橙風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 4,
+    "booziness": 3,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

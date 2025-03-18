@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Churchill",
+    "zh": "邱吉爾"
+  },
+  "description": {
+    "en": "**A Strong and Smoky Concoction**\n\nThe Churchill cocktail is a potent mix designed for those who appreciate a robust and complex flavor profile.\n\nKey features:\n*   Heavy on the Scotch\n*   Subtle citrus notes\n*   Lightly sweetened with honey\n*   Topped with soda for a touch of fizz",
+    "zh": "**濃烈且煙熏的混合物**\n\n邱吉爾雞尾酒是一種強效的混合物，專為那些欣賞濃郁和複雜風味的人而設計。\n\n主要特點：\n*   以蘇格蘭威士忌為主\n*   淡淡的柑橘味\n*   用蜂蜜略微調味\n*   頂部添加蘇打水，帶來一絲氣泡"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after Sir Winston Churchill\n\n*   Said to be his preferred style of drink.\n*   Likely created sometime in the mid-20th century.\n*   The specific origin and creator are not definitively known, but the drink reflects the bold and distinctive character of its namesake.",
+    "zh": "**起源**: 以溫斯頓·邱吉爾爵士命名\n\n*   據說是他的首選飲品風格。\n*   可能是在20世紀中葉的某個時候創造的。\n*   具體起源和創造者尚不清楚，但這種飲品反映了其同名人物的膽大和獨特個性。"
+  },
+  "technique": {
+    "en": "Build. Combine whisky, lemon juice, and honey syrup in a highball glass filled with ice. Top with soda water and stir gently. Garnish with a lemon twist.",
+    "zh": "直接調製。將威士忌、檸檬汁和蜂蜜糖漿在高球杯中與冰塊混合。 加入蘇打水並輕輕攪拌。 用檸檬皮裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a slight effervescence",
+    "zh": "混濁的，淡黃色，略帶氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a smoky and complex base",
+        "zh": "提供煙熏和複雜的基底"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a touch of acidity to balance the sweetness",
+        "zh": "增加一絲酸度以平衡甜味"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and adds a unique flavor note",
+        "zh": "使飲料變甜並添加獨特的風味"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a refreshing effervescence",
+        "zh": "增加清爽的氣泡"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 3,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": true
+  }
+}

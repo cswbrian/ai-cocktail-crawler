@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Spicy Margarita",
+    "zh": "辛辣瑪格麗特"
+  },
+  "description": {
+    "en": "A fiery twist on the classic Margarita, incorporating chili peppers for a spicy kick.\n\n*   Balances the sweetness of agave with the heat of chili.\n*   Ideal for those who enjoy a bold and zesty cocktail.\n*   Best served ice cold to temper the spice.",
+    "zh": "經典瑪格麗特的火熱變奏，融入辣椒，帶來辛辣的刺激。\n\n*   平衡了龍舌蘭的甜味和辣椒的熱度。\n*   非常適合喜歡大膽而有活力的雞尾酒的人。\n*   最好冰鎮後飲用，以緩和辣味。"
+  },
+  "historical_reference": {
+    "en": "The Margarita's precise origins are debated, but it gained popularity in the mid-20th century.\n\n*   The addition of chili is a more recent innovation, reflecting the growing interest in spicy cocktails.\n*   Many variations exist, using different types of chili and sweeteners.",
+    "zh": "瑪格麗特的確切起源尚有爭議，但在20世紀中葉廣受歡迎。\n\n*   添加辣椒是較新的創新，反映了人們對辛辣雞尾酒日益增長的興趣。\n*   存在許多變體，使用不同類型的辣椒和甜味劑。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a prepared glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後濾入準備好的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel, chili salt rim.",
+    "zh": "青檸角或片，辣椒鹽邊。"
+  },
+  "serve_in_glass": {
+    "en": "Salt-rimmed Margarita glass or rocks glass.",
+    "zh": "鹽邊瑪格麗特杯或古典杯。"
+  },
+  "appearance": {
+    "en": "Vibrant, reddish-orange hue, often with visible chili flakes.",
+    "zh": "鮮豔的紅橙色色調，通常帶有可見的辣椒片。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "通用龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundational spirit for the Margarita.",
+        "zh": "為瑪格麗特提供基礎烈酒。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange notes to the cocktail.",
+        "zh": "為雞尾酒增添甜味和橙香味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Chili",
+        "zh": "通用辣椒"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds a spicy kick to the drink.",
+        "zh": "為飲料增添辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

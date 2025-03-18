@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Upside Down Martini",
+    "zh": "反向馬丁尼"
+  },
+  "description": {
+    "en": "**A Reverse Martini Variation**\n\nThis is a twist on the classic Martini, showcasing a higher proportion of vermouth:\n\n*   Emphasizes the aromatic qualities of the vermouth.\n*   Results in a lighter, less boozy cocktail.\n*   Offers a softer and more approachable flavor profile.",
+    "zh": "**反向馬丁尼的變體**\n\n這是經典馬丁尼的變體，展示了更高比例的苦艾酒：\n\n*   強調苦艾酒的芳香特質。\n*   產生更清淡、酒精濃度較低的雞尾酒。\n*   提供更柔和、更容易接受的風味。"
+  },
+  "historical_reference": {
+    "en": "**Evolution of the Martini**\n\nThe Upside Down Martini represents a modern shift in cocktail preferences:\n\n*   Emerged as drinkers sought less potent and more nuanced flavors.\n*   Reflects a greater appreciation for the complexity of vermouth.\n*   Not as historically documented as the classic Martini but a well-recognized variation.",
+    "zh": "**馬丁尼的演變**\n\n反向馬丁尼代表了雞尾酒偏好的現代轉變：\n\n*   隨著飲用者尋求不太強烈且更細膩的風味而出現。\n*   反映了對苦艾酒複雜性的更大欣賞。\n*   不如經典馬丁尼那樣有歷史記載，但也是一個廣為人知的變體。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive (optional)",
+    "zh": "檸檬皮或橄欖（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "馬丁尼杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow liquid with a slightly oily surface.",
+    "zh": "清澈的淡黃色液體，表面略帶油光。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, lending botanical complexity and strength.",
+        "zh": "構成雞尾酒的基礎，提供植物的複雜性和烈度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary herbaceous and subtly sweet element.",
+        "zh": "提供主要的草本和微妙的甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

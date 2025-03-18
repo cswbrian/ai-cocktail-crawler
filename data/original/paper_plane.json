@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Paper Plane",
+    "zh": "紙飛機"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA well-balanced equal-parts cocktail featuring:\n*   Bourbon for a rich base\n*   Amaro Nonino for complex bitterness\n*   Aperol for fruity and bitter notes\n*   Lemon juice for acidity",
+    "zh": "**現代經典雞尾酒**\n\n一款均衡的等比例雞尾酒，特色：\n*   波本威士忌提供濃郁的基底\n*   Nonino義大利苦甜酒帶來複雜的苦味\n*   Aperol開胃酒帶來水果和苦味\n*   檸檬汁帶來酸度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Sam Ross at Milk & Honey, New York, in 2007\n\n*   Inspired by the Last Word cocktail\n*   Named after the M.I.A. song 'Paper Planes'",
+    "zh": "**起源**: 2007年由山姆·羅斯在紐約牛奶與蜂蜜酒吧創造\n\n*   靈感來自Last Word雞尾酒\n*   以M.I.A.的歌曲《Paper Planes》命名"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Optional: flamed orange peel",
+    "zh": "可選：火焰橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "高腳杯或尼克與諾拉杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale amber liquid",
+    "zh": "混濁的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky notes.",
+        "zh": "提供基酒和橡木桶味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Aperol",
+        "zh": "阿佩羅"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitter orange and herbal flavors, as well as color.",
+        "zh": "增加苦橙和草本風味，以及顏色。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Amaro Nonino",
+        "zh": "義大利諾尼諾苦味酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complex bitter and herbal notes.",
+        "zh": "增加複雜的苦味和草本味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds necessary acidity to balance the other ingredients.",
+        "zh": "增加必要的酸度，以平衡其他成分。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

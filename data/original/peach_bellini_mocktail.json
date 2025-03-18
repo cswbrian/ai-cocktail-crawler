@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Peach Bellini Mocktail",
+    "zh": "無酒精桃子貝里尼"
+  },
+  "description": {
+    "en": "**A sparkling and refreshing non-alcoholic twist on the classic Bellini.**\n\nThis mocktail replaces the traditional Prosecco with sparkling water or non-alcoholic sparkling wine. The peach puree provides sweetness and fruity notes, making it a delightful drink for any occasion.\n\n*   Simple to prepare\n*   Elegant and festive\n*   Suitable for all ages",
+    "zh": "**經典貝里尼的無酒精版本，清爽且充滿氣泡。**\n\n這款無酒精雞尾酒以氣泡水或無酒精氣泡酒代替傳統的普羅賽克（Prosecco）。 桃子泥提供甜味和水果味，使其成為適合任何場合的美味飲品。\n\n*   簡單易做\n*   優雅又具節慶感\n*   適合所有年齡層"
+  },
+  "historical_reference": {
+    "en": "**Inspired by the Classic Bellini**\n\nThe original Bellini was created at Harry's Bar in Venice, Italy, in the 1930s or 40s. This mocktail adaptation offers the same delightful flavor without the alcohol.",
+    "zh": "**靈感來自經典貝里尼**\n\n最初的貝里尼是在1930或40年代於義大利威尼斯的哈利酒吧（Harry's Bar）創作的。 這個無酒精版本提供相同的美味，而不含酒精。"
+  },
+  "technique": {
+    "en": "Pour peach puree into a chilled champagne flute. Gently top with sparkling water. Stir gently to combine. Garnish and serve immediately.",
+    "zh": "將桃子泥倒入冰鎮的香檳杯中。 輕輕倒入氣泡水。 輕輕攪拌均勻。 裝飾後立即飲用。"
+  },
+  "garnish": {
+    "en": "Peach slice or raspberry",
+    "zh": "桃子切片或覆盆子"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Pale orange, effervescent, with fine bubbles",
+    "zh": "淡橙色，有氣泡，帶有細緻的氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Peach Puree",
+        "zh": "桃子泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the peach flavor and sweetness",
+        "zh": "提供桃子風味和甜味"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the puree",
+        "zh": "增加氣泡並稀釋桃子泥"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Sweetness",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

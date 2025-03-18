@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en": "Kir Royale",
+    "zh": "皇家基爾"
+  },
+  "description": {
+    "en": "**A simple yet elegant cocktail.**\n\nA Kir Royale is a variation on the classic Kir, made with crème de cassis (blackcurrant liqueur) and:\n\n*   Champagne instead of white wine\n*   Served in a flute glass\n*   Perfect as an aperitif or for celebrations",
+    "zh": "**簡單而優雅的雞尾酒。**\n\n皇家基爾是經典基爾的變奏版，由黑醋栗利口酒製成，並：\n\n*   以香檳代替白葡萄酒\n*   在高腳杯中供應\n*   非常適合作為開胃酒或慶祝活動。"
+  },
+  "historical_reference": {
+    "en": "**Named after Canon Félix Kir, a French priest and mayor of Dijon after WWII.**\n\n*   He promoted the drink to popularize regional products.\n*   The Kir Royale is a more luxurious version of the Kir, substituting champagne for Bourgogne Aligoté white wine.",
+    "zh": "**以第二次世界大戰後法國牧師兼第戎市長費利克斯·基爾命名。**\n\n*   他推廣這種飲料以普及當地產品。\n*   皇家基爾是基爾的更豪華版本，用香檳代替勃艮第阿里高特白葡萄酒。"
+  },
+  "technique": {
+    "en": "Pour crème de cassis into the flute, top with chilled Champagne.",
+    "zh": "將黑醋栗利口酒倒入長笛杯中，倒入冰鎮香檳。"
+  },
+  "garnish": {
+    "en": "Optional: Raspberry or blackberry",
+    "zh": "可選：覆盆子或黑莓"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Rosy, effervescent, clear",
+    "zh": "玫瑰色，起泡，清澈"
+  },
+  "allergens": [
+    {
+      "en": "sulfites (in wine)",
+      "zh": "亞硫酸鹽（在葡萄酒中）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sparkling wine forms the base. Crème de cassis is considered an ingredient.",
+        "zh": "氣泡酒是基底。 黑醋栗利口酒被認為是一種成分。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Crème de Cassis",
+        "zh": "黑醋栗酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and blackcurrant flavor.",
+        "zh": "增加甜味和黑醋栗風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

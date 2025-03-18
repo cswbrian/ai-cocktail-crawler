@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Tequila Sour",
+    "zh": "龍舌蘭酸酒"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail with a Tequila Twist**\n\nA refreshing and balanced cocktail, featuring:\n*   Tequila as the base spirit\n*   Fresh lemon juice for tartness\n*   Agave nectar (or simple syrup) for sweetness\n*   Optional egg white for a silky texture",
+    "zh": "**經典酸味雞尾酒，帶有龍舌蘭風味**\n\n令人耳目一新的均衡雞尾酒，特色：\n*   龍舌蘭酒作為基酒\n*   新鮮檸檬汁帶來酸味\n*   龍舌蘭花蜜（或簡易糖漿）帶來甜味\n*   可選的蛋白帶來絲滑口感"
+  },
+  "historical_reference": {
+    "en": "**Part of the Sour Family**\n\nThe Tequila Sour follows the classic sour template:\n\n*   Spirit, citrus, and sweetener\n*   Likely emerged as a variation on the whiskey sour in the early to mid 20th century with the increased popularity of Tequila.",
+    "zh": "**酸味家族的一員**\n\n龍舌蘭酸酒遵循經典的酸味範本：\n\n*   烈酒、柑橘類水果和甜味劑\n*   隨著龍舌蘭酒的日益普及，可能在 20 世紀初至中期作為威士忌酸酒的變種而出現。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. (Dry shake if using egg white.)",
+    "zh": "將所有材料與冰塊一起搖勻。濾入冰鎮的玻璃杯中。（如果使用蛋白，則先乾搖。）"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge/wheel",
+    "zh": "檸檬或萊姆角/片"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned or Coupe glass",
+    "zh": "古典杯或 coupe 杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, frothy",
+    "zh": "淡黃色，起泡"
+  },
+  "allergens": [
+    {
+      "en": "Egg (optional)",
+      "zh": "雞蛋（可選）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic kick.",
+        "zh": "提供基底風味和酒精衝擊。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balance.",
+        "zh": "提供酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Agave Nectar or Simple Syrup",
+        "zh": "龍舌蘭花蜜或簡易糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

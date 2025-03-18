@@ -1,0 +1,167 @@
+{
+  "name": {
+    "en": "Hangman's Blood",
+    "zh": "絞刑犯之血"
+  },
+  "description": {
+    "en": "**Potent and complex cocktail**\n\nA strong and unusual mix of five base spirits, stout, and blood.\n\n*   Historically a communal drink.\n*   Served in a large tankard.\n*   Definitely *not* for the faint of heart.",
+    "zh": "**強烈而複雜的雞尾酒**\n\n五種基酒、黑啤酒和血液的強烈而不尋常的混合。\n\n*   歷史上是一種共同飲用的飲料。\n*   用大酒杯盛裝。\n*   絕對*不*適合膽小的人。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: United Kingdom, early 20th century.\n\n*   Historically a communal drink shared among friends.\n*   Known for its extremely high alcohol content and unusual ingredients.\n*   Recipes vary, often including available spirits and local stout.",
+    "zh": "**起源**: 英國，20 世紀初。\n\n*   歷史上是一種朋友之間分享的共同飲料。\n*   以其極高的酒精含量和不尋常的成分而聞名。\n*   配方各不相同，通常包括可用的烈酒和當地黑啤酒。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a large glass. Stir gently. Serve immediately.",
+    "zh": "將所有成分放入大玻璃杯中。 輕輕攪拌。 立即上桌。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Tankard or large glass",
+    "zh": "大酒杯或大玻璃杯"
+  },
+  "appearance": {
+    "en": "Dark red, opaque, viscous",
+    "zh": "深紅色，不透明，黏稠"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a strong, botanical base.",
+        "zh": "提供強勁的植物基底。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Rum",
+        "zh": "蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and depth.",
+        "zh": "增加甜度和深度。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds alcoholic strength and a neutral flavor.",
+        "zh": "增加酒精強度和中性風味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Whiskey",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a smoky, oaky note.",
+        "zh": "增加煙熏和橡木的味道。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruity notes.",
+        "zh": "增加水果風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 300,
+      "name": {
+        "en": "Stout",
+        "zh": "黑啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds body, bitterness, and a creamy texture.",
+        "zh": "增加酒體、苦味和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Blood",
+        "zh": "血"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "短劃"
+      },
+      "rationale": {
+        "en": "Historically used as a ritualistic ingredient",
+        "zh": "歷史上被用作儀式成分"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 10,
+    "body": 8,
+    "complexity": 9,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": {
+    "en": "Campari Spritz",
+    "zh": "金巴利氣泡飲"
+  },
+  "description": {
+    "en": "**A Classic Italian Aperitivo**\n\nThe Campari Spritz is a light and refreshing cocktail, perfect as an aperitivo. It offers a delightful balance of:\n*   Bitterness from Campari\n*   Bubbles from Prosecco\n*   A slice of orange for added citrus aroma.",
+    "zh": "**經典義大利開胃酒**\n\nCampari Spritz 是一款清淡且令人耳目一新的雞尾酒，非常適合作為開胃酒。 它提供了令人愉悅的平衡：\n*   來自 Campari 的苦味\n*   來自 Prosecco 的氣泡\n*   一片橙子，增添柑橘香氣。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Italy\n\nThe spritz evolved in the 19th century in the Veneto region of Italy, when the area was part of the Austro-Hungarian Empire. Soldiers, merchants, and workers found the local wines too strong and would ask the local bar staff to spray (spritzen in German) a bit of water into the wine to make it lighter. The Campari Spritz is a modern variation of the classic spritz, incorporating Campari for a bitter edge.",
+    "zh": "**起源**: 義大利\n\nSpritz 起源於 19 世紀義大利威尼托地區，當時該地區是奧匈帝國的一部分。 士兵、商人和工人發現當地葡萄酒太烈，會要求當地酒吧工作人員在葡萄酒中噴灑（德語為 spritzen）一點水，使其更清淡。 Campari Spritz 是經典 Spritz 的現代變體，融入了 Campari 以增加苦味。"
+  },
+  "technique": {
+    "en": "Build over ice, top with sparkling wine, garnish.",
+    "zh": "在冰塊上調和，加入氣泡酒，裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "橙子片"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or large balloon glass",
+    "zh": "葡萄酒杯或大型球型杯"
+  },
+  "appearance": {
+    "en": "Vibrant orange-red, bubbly",
+    "zh": "鮮豔的橙紅色，帶有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter and complex base of the cocktail.",
+        "zh": "提供雞尾酒的苦味和複雜的基底。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Gin Sour",
+    "zh": "琴酒酸酒"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail**\n\nA simple yet balanced cocktail that is both refreshing and flavorful. \n\n*   A combination of gin, lemon juice, and sugar.\n*   Often includes egg white for a silky texture.\n*   Garnished with a lemon or orange peel.",
+    "zh": "**經典酸味雞尾酒**\n\n簡單而均衡的雞尾酒，既清爽又美味。\n\n* 琴酒、檸檬汁和糖的組合。\n* 通常包含蛋白以獲得絲滑的質地。\n* 用檸檬或橙皮裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Early History**\n\nThe sour cocktail family dates back to the mid-19th century.\n\n*   Variations appeared in Jerry Thomas's 1862 book, *How to Mix Drinks*.\n*   Gin Sour is a derivative of punches and other early mixed drinks.\n*   Egg white was often added to soften the acidity and add texture.",
+    "zh": "**早期歷史**\n\n酸味雞尾酒系列可以追溯到 19 世紀中葉。\n\n* 傑瑞·托馬斯 (Jerry Thomas) 的 1862 年著作《*如何調酒*》中出現了多種變體。\n* 琴酒酸是潘趣酒和其他早期混合飲料的衍生品。\n* 通常會添加蛋白以軟化酸度並增加質地。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. If using egg white, dry shake first for better foam.",
+    "zh": "將所有材料與冰塊一起搖勻。 濾入冰鎮的玻璃杯中。 如果使用蛋白，先乾搖以獲得更好的泡沫。"
+  },
+  "garnish": {
+    "en": "Lemon or orange peel, cherry (optional)",
+    "zh": "檸檬皮或橙皮，櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or Old Fashioned glass",
+    "zh": "雞尾酒杯或古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to off-white with foamy head",
+    "zh": "混濁，淡黃色至灰白色，帶泡沫"
+  },
+  "allergens": [
+    {
+      "en": "egg white (optional)",
+      "zh": "蛋白 (可選)"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus flavor.",
+        "zh": "增加酸味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and foamy head.",
+        "zh": "增加絲滑的質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Bee's Knees",
+    "zh": "蜜蜂的膝蓋"
+  },
+  "description": {
+    "en": "A classic prohibition-era cocktail. The Bee's Knees combines gin, lemon juice, and honey syrup for a sweet and sour drink with a smooth finish. The name is thought to be slang for \"the best.\"",
+    "zh": "一款經典的禁酒時代雞尾酒。蜜蜂的膝蓋結合了琴酒、檸檬汁和蜂蜜糖漿，製成一種酸甜可口、口感順滑的飲品。這個名字被認為是“最好的”的俚語。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Prohibition Era, USA\n\nThe Bee's Knees cocktail emerged during the Prohibition era (1920-1933) in the United States. The less-than-high-quality gin available at the time was often masked by stronger flavors. Honey and lemon were used to make the gin more palatable:\n\n*   The name \"Bee's Knees\" was a popular slang term meaning \"the best\".\n*   First appeared in print in 1929 in *Here's How* by Judge Jr.",
+    "zh": "**起源**：美國禁酒時期\n\n蜜蜂的膝蓋雞尾酒出現在美國的禁酒時期（1920-1933 年）。 當時提供的品質不佳的琴酒通常被更濃郁的味道所掩蓋。 蜂蜜和檸檬被用來使琴酒更美味：\n\n*   “蜜蜂的膝蓋”這個名字是一個流行的俚語，意思是“最好的”。\n*   1929 年首次出現在 Judge Jr. 的 *Here's How* 中。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail Glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy",
+    "zh": "淡黃色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's main spirituous backbone and botanical complexity.",
+        "zh": "提供雞尾酒主要的酒體骨幹和植物性複雜度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance to the sweetness of the honey.",
+        "zh": "增加酸度並平衡蜂蜜的甜度。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Honey Syrup (2:1)",
+        "zh": "蜂蜜糖漿 (2:1)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a unique flavor profile.",
+        "zh": "增加甜味和獨特的風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

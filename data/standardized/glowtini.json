@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Glowtini",
+    "zh": "光芒雞尾酒"
+  },
+  "description": {
+    "en": "**A modern, vibrant cocktail.**\n\nA visually stunning cocktail that offers a sweet and slightly tart taste with a unique glow.\n\n*   Uses edible shimmer dust to achieve its luminous effect.\n*   Carefully balanced flavors to appeal to a wide audience.\n*   Perfect for parties and special occasions.",
+    "zh": "**一款現代而充滿活力的雞尾酒。**\n\n一款視覺上令人驚艷的雞尾酒，提供甜美微酸的口感，並具有獨特的光芒。\n\n*   使用食用閃粉以達到其發光效果。\n*   精心平衡的風味，以吸引廣泛的受眾。\n*   非常適合派對和特殊場合。"
+  },
+  "historical_reference": {
+    "en": "**A modern creation.**\n\nThe Glowtini is a contemporary cocktail, and its exact origins are difficult to pinpoint. It's likely a result of the increasing popularity of visually appealing drinks on social media, aiming to create a unique and memorable experience.\n\n*   Developed in the early 21st century.\n*   Inspired by the desire for visually impressive cocktails.\n*   Quickly gained popularity in themed bars and parties.",
+    "zh": "**現代創作。**\n\nGlowtini 是一種現代雞尾酒，其確切起源難以確定。它很可能是社交媒體上越來越流行的視覺吸引力飲品的結果，旨在創造獨特而難忘的體驗。\n\n*   在 21 世紀初開發。\n*   靈感來自對視覺效果令人印象深刻的雞尾酒的渴望。\n*   在主題酒吧和派對中迅速流行。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass. Garnish and serve.",
+    "zh": "將所有材料與冰塊一起搖勻，然後濾入冰鎮的玻璃杯中。裝飾後即可享用。"
+  },
+  "garnish": {
+    "en": "Lime wheel or edible glitter.",
+    "zh": "青檸片或食用閃粉。"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe glass.",
+    "zh": "馬丁尼杯或淺碟香檳杯。"
+  },
+  "appearance": {
+    "en": "Luminous, vibrant green with a slight shimmer.",
+    "zh": "發光、充滿活力的綠色，帶有輕微的閃光。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean base allowing other flavors to shine.",
+        "zh": "提供一個乾淨的基底，讓其他風味得以展現。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Green Apple Liqueur",
+        "zh": "青蘋果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sweet and tart apple flavor and enhances the green color.",
+        "zh": "增加甜酸的蘋果風味，並增強綠色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a sour counterpoint to the sweetness.",
+        "zh": "提供酸味，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Edible Shimmer Dust",
+        "zh": "食用閃粉"
+      },
+      "unit": {
+        "en": "grams",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Creates the signature glowing effect.",
+        "zh": "創造標誌性的發光效果。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

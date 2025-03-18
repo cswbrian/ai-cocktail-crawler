@@ -1,0 +1,157 @@
+{
+  "name": {
+    "en": "Porchcrawler",
+    "zh": "門廊漫步者"
+  },
+  "description": {
+    "en": "**Potent and Refreshing Cocktail**\n\nThe Porchcrawler is known for its high alcohol content and refreshing qualities, featuring:\n*   A blend of three base spirits.\n*   A vibrant mint and lime flavor profile.\n*   A creamy texture from the cream of coconut.",
+    "zh": "**強勁而清爽的雞尾酒**\n\nPorchcrawler以其高酒精含量和清爽特質而聞名，特色：\n*   三種基酒的混合。\n*   充滿活力的薄荷和萊姆風味。\n*   椰奶霜帶來的奶油般質地。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Likely originated in the United States, with some variations in recipes.\n\n*   The exact origin is debated, but it is thought to have emerged as a potent summer drink.\n*   The name 'Porchcrawler' suggests its strength, implying one might crawl after consuming it.",
+    "zh": "**起源**：可能起源於美國，配方有一些變化。\n\n*   確切的起源尚有爭議，但人們認為它是一種強勁的夏季飲品。\n*   “Porchcrawler”這個名字暗示了它的強度，意味著飲用後可能會爬行。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake well until chilled. Strain into a highball glass filled with ice.",
+    "zh": "將所有材料放入裝有冰塊的搖酒器中。充分搖晃直至冰鎮。濾入裝滿冰塊的高球杯中。"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green, frothy",
+    "zh": "混濁，淡綠色，有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds to the alcoholic content without significantly altering the flavor profile.",
+        "zh": "增加酒精含量，但不會顯著改變風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes sweetness and a subtle tropical note.",
+        "zh": "貢獻甜味和微妙的熱帶風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶霜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a creamy texture.",
+        "zh": "增加甜味和奶油般的質地。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Fresh Mint Leaves",
+        "zh": "新鮮薄荷葉"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fresh, herbal notes and aromatic complexity.",
+        "zh": "增添清新、草本的香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 9,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

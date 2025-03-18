@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Mr. Bali Hai",
+    "zh": "峇里海先生"
+  },
+  "description": {
+    "en": "**A potent and complex tiki drink.**\n\nMr. Bali Hai is a strong cocktail featuring multiple rums and tropical flavors.\n\n*   A creation of Don the Beachcomber\n*   Served in a distinctive Mr. Bali Hai mug.",
+    "zh": "**濃烈而複雜的提基飲料。**\n\nMr. Bali Hai 是一款強勁的雞尾酒，以多種蘭姆酒和熱帶風味為特色。\n\n* 唐·海灘流浪漢的創作\n* 盛裝在獨特的 Mr. Bali Hai 馬克杯中。"
+  },
+  "historical_reference": {
+    "en": "**Created by Don the Beachcomber**. \n\n*   Specifically for the Bali Hai restaurant on Shelter Island, San Diego.\n*   The drink is known for its strength and complex flavor profile, often served in a unique tiki mug shaped like a head.",
+    "zh": "**由唐·海灘流浪漢創作**。\n\n* 專為聖地牙哥 Shelter Island 的 Bali Hai 餐廳而設。\n* 這款飲品以其濃烈的酒勁和複雜的風味而聞名，通常盛裝在獨特的頭形提基馬克杯中。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into mug filled with fresh ice.",
+    "zh": "將所有材料與冰塊一起搖勻，然後過濾到裝滿新鮮冰塊的馬克杯中。"
+  },
+  "garnish": {
+    "en": "Orchid, pineapple spear, and/or paper umbrella",
+    "zh": "蘭花、鳳梨矛和/或紙傘"
+  },
+  "serve_in_glass": {
+    "en": "Mr. Bali Hai Mug or Tiki Mug",
+    "zh": "峇里海先生馬克杯或提基馬克杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light brown, frothy with a tiki mug presentation",
+    "zh": "混濁、淺棕色、起泡，以提基馬克杯呈現"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base.",
+        "zh": "提供濃郁的、以糖蜜為主的基底。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a lighter, cleaner rum note.",
+        "zh": "增添更輕盈、更乾淨的蘭姆酒風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee notes and bitterness.",
+        "zh": "增加咖啡味和苦味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty flavor and creamy texture.",
+        "zh": "增加堅果味和奶油般的質地。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity to balance sweetness.",
+        "zh": "提供酸度以平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

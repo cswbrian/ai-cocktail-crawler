@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Sea Breeze",
+    "zh": "海風"
+  },
+  "description": {
+    "en": "A refreshing and simple cocktail, known for its tart and fruity flavors.",
+    "zh": "清爽簡單的雞尾酒，以其酸味和水果風味而聞名。"
+  },
+  "historical_reference": {
+    "en": "*Origins:* Believed to have originated in the 1920s as a variation of earlier grapefruit-based cocktails.\n\n*Evolved* through different recipes to its modern form including Vodka, Cranberry Juice, and Grapefruit Juice.\n\n*Gained popularity* in the mid-20th century with the increasing availability of cranberry juice.",
+    "zh": "*起源：* 據信起源於 1920 年代，是早期基於葡萄柚的雞尾酒的變體。\n\n*演變* 通過不同的配方，成為包括伏特加、蔓越莓汁和葡萄柚汁的現代形式。\n\n*隨著蔓越莓汁*的日益普及，在 20 世紀中葉廣受歡迎。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "在冰上調製"
+  },
+  "garnish": {
+    "en": "Lime wedge or cranberry garnish",
+    "zh": "檸檬角或蔓越莓裝飾"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Clear, vibrant pink or red",
+    "zh": "清澈、鮮豔的粉紅色或紅色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "提供中性的酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, tartness, and color.",
+        "zh": "增加甜味、酸味和顏色。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸味並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

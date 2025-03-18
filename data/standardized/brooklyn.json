@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Brooklyn",
+    "zh": "布魯克林"
+  },
+  "description": {
+    "en": "**A variation of the Manhattan**\n\nThe Brooklyn cocktail substitutes dry vermouth with maraschino liqueur and Amer Picon (or a similar bitter liqueur). It's a complex and bittersweet drink.\n\n* Rye whiskey provides the base.\n* Maraschino liqueur adds a touch of sweetness and cherry notes.\n* Amer Picon contributes bitterness and herbal complexity.",
+    "zh": "**曼哈頓的變體**\n\n布魯克林雞尾酒將乾味美思替換為黑櫻桃利口酒和 Amer Picon（或類似的苦味利口酒）。這是一款複雜而苦樂參半的飲料。\n\n* 黑麥威士忌提供基底。\n* 黑櫻桃利口酒增添一絲甜味和櫻桃味。\n* Amer Picon 貢獻苦味和草本複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Early 20th Century\n\nThe exact origin of the Brooklyn cocktail is debated, but it appeared in cocktail books around the early 1900s. It's named after the Brooklyn borough of New York City, similar to how the Manhattan cocktail is named after Manhattan.",
+    "zh": "**起源**: 20 世紀初\n\n布魯克林雞尾酒的確切起源尚有爭議，但它出現在 1900 年代初左右的雞尾酒書籍中。它以紐約市的布魯克林區命名，類似於曼哈頓雞尾酒以曼哈頓命名的方式。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into chilled glass.",
+    "zh": "與冰攪拌並濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "醃漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid",
+    "zh": "清澈的琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and spicy notes.",
+        "zh": "提供基底和辛辣味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and cherry notes.",
+        "zh": "增加甜味和櫻桃味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Amer Picon",
+        "zh": "皮icon美洲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and herbal complexity.",
+        "zh": "增加苦味和草藥複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": {
+    "en": "Grog",
+    "zh": "格羅格"
+  },
+  "description": {
+    "en": "**A Simple, Warming Sailor's Drink**\n\nA classic concoction traditionally made with rum, water, sugar, and spices. It's a comforting and customizable beverage, often enjoyed during colder months or on long sea voyages. The recipe varies, but the core elements remain the same:\n\n*   Rum as the base spirit.\n*   Sweetness from sugar or honey.\n*   Dilution with water or sometimes tea.\n*   Spices for added warmth and flavor, such as cinnamon, nutmeg, or cloves.",
+    "zh": "**一種簡單、暖身的航海飲品**\n\n傳統上用蘭姆酒、水、糖和香料製成的經典調酒。它是一種令人感到舒適且可客製化的飲料，通常在寒冷的月份或長途航海中享用。配方各不相同，但核心要素保持不變：\n\n*   蘭姆酒作為基酒。\n*   糖或蜂蜜帶來的甜味。\n*   用水或有時用茶稀釋。\n*   香料增加溫暖和風味，例如肉桂、肉荳蔻或丁香。"
+  },
+  "historical_reference": {
+    "en": "**A Maritime Staple**\n\nGrog has a long history connected to sailors, pirates, and naval traditions.\n\n*   Originates from the British Royal Navy in the 18th century.\n*   Named after Admiral Edward Vernon, nicknamed \"Old Grog\" for wearing a grogram coat.\n*   Initially a watered-down rum ration to prevent drunkenness on board ships.",
+    "zh": "**一種航海主食**\n\nGrog 與水手、海盜和海軍傳統有著悠久的歷史。\n\n*   起源於 18 世紀的英國皇家海軍。\n*   以愛德華·弗農海軍上將的名字命名，他因穿著粗布外套而被暱稱為“老格羅格”。\n*   最初是一種用水稀釋的蘭姆酒定量配給，以防止船上人員醉酒。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a mug and stir until sugar is dissolved.",
+    "zh": "將所有成分放入馬克杯中攪拌，直到糖溶解。"
+  },
+  "garnish": {
+    "en": "Orange slice and cinnamon stick",
+    "zh": "橙片和肉桂棒"
+  },
+  "serve_in_glass": {
+    "en": "Warming Mug",
+    "zh": "保暖馬克杯"
+  },
+  "appearance": {
+    "en": "Warm, golden-brown liquid",
+    "zh": "溫暖的金棕色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and rich flavor.",
+        "zh": "提供主要的酒精基底和豐富的風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Tablespoon of Brown Sugar",
+        "zh": "一湯匙紅糖"
+      },
+      "unit": {
+        "en": "tbsp",
+        "zh": "湯匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and depth of flavor.",
+        "zh": "增加甜味和風味的深度。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Water",
+        "zh": "熱水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the drink and adds warmth.",
+        "zh": "稀釋飲料並增加溫暖。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash of Nutmeg",
+        "zh": "少許肉荳蔻"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds a warm, spicy note.",
+        "zh": "增添溫暖的辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

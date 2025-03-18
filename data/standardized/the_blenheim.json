@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "The Blenheim",
+    "zh": "布倫海姆"
+  },
+  "description": {
+    "en": "**A Classic Gin Cocktail**\n\nThe Blenheim is a simple yet elegant cocktail showcasing the interplay between gin, vermouth, and orange bitters.\n\n*   A dry and refreshing aperitif\n*   Highlights the botanical notes of gin",
+    "zh": "**經典琴酒雞尾酒**\n\nBlenheim 是一款簡單而優雅的雞尾酒，展示了琴酒、苦艾酒和橙味苦精之間的相互作用。\n\n*   一款清爽的餐前開胃酒\n*   突顯琴酒的植物風味"
+  },
+  "historical_reference": {
+    "en": "**Origin and History**:\n\nThe Blenheim is a classic cocktail dating back to the early 20th century. Its exact origins are somewhat obscure, but it is believed to have originated in England. \n\n*   Named after Blenheim Palace, birthplace of Winston Churchill\n*   Appears in early cocktail books such as *Harry MacElhone's ABC of Mixing Cocktails*",
+    "zh": "**起源與歷史**:\n\nBlenheim 是一款經典雞尾酒，可追溯至 20 世紀初。 其確切的起源有些模糊，但據信起源於英國。\n\n*   以溫斯頓·邱吉爾的出生地布倫海姆宮命名\n*   出現在早期的雞尾酒書中，例如*Harry MacElhone 的 ABC of Mixing Cocktails*"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice. Strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌。 濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "None (traditionally). Lemon twist is acceptable.",
+    "zh": "無（傳統上）。 檸檬皮扭轉是可以接受的。"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow with a slight green tint, no garnish in the classic recipe.",
+    "zh": "清澈的淡黃色，略帶綠色，經典配方中沒有裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical backbone and alcoholic strength.",
+        "zh": "提供主要的植物風味和酒精強度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness, herbal complexity, and balances the gin.",
+        "zh": "增加乾度、草本複雜性，並平衡琴酒。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic and slightly bitter notes.",
+        "zh": "增加香氣和略帶苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

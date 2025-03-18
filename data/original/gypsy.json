@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Gypsy",
+    "zh": "吉普賽"
+  },
+  "description": {
+    "en": "A simple, dry cocktail showcasing the flavors of gin and Benedictine. It's a less sweet alternative to other herbal cocktails.\n\n*   Easy to make and adaptable.\n*   Highlights the complexity of the ingredients.",
+    "zh": "一款簡單的Dry型雞尾酒，展現琴酒和 Benedictine的風味。 它是其他草本雞尾酒的較不甜的替代品。\n\n* 容易製作且適應性強。\n* 突顯成分的複雜性。"
+  },
+  "historical_reference": {
+    "en": "The Gypsy cocktail is a classic cocktail whose exact origin is somewhat unclear. It's a simple mix of gin and Benedictine, and its appearance in cocktail books suggests it has been around for several decades.\n\n*   Likely originated sometime in the 20th century.\n*   Its simplicity has contributed to its longevity.",
+    "zh": "Gypsy 雞尾酒是一款經典雞尾酒，其確切起源有些不明。 它是琴酒和 Benedictine 的簡單混合物，它在雞尾酒書籍中的出現表明它已經存在了數十年。\n\n* 可能起源於20世紀的某個時候。\n* 它的簡單性促成了它的長壽。"
+  },
+  "technique": {
+    "en": "Stir ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後倒入冰鎮的杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow to amber liquid",
+    "zh": "清澈的淡黃色至琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Benedictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal sweetness and complexity.",
+        "zh": "增添草本的甜味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

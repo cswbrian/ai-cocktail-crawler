@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Vodka and Grapefruit",
+    "zh": "伏特加葡萄柚"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Highball**\n\nA classic combination that is both tart and slightly sweet, very refreshing.\n*   Easy to make with readily available ingredients\n*   Customizable sweetness and tartness\n*   Best served chilled, perfect for warm weather",
+    "zh": "**簡單清爽的 Highball**\n\n經典的搭配，酸甜適中，非常清爽。\n*   易於製作，使用容易取得的材料\n*   甜度和酸度可客製化\n*   冷藏後風味更佳，適合溫暖天氣"
+  },
+  "historical_reference": {
+    "en": "**Unknown exact origin**\n\n* Likely emerged with the increased availability of grapefruit juice and vodka.\n*  Popularized as an easy and refreshing drink in the mid-20th century.",
+    "zh": "**確切起源不明**\n\n*  可能隨著葡萄柚汁和伏特加的普及而出現。\n*  在20世紀中期作為一種簡單清爽的飲料而流行。"
+  },
+  "technique": {
+    "en": "Build: Add vodka and grapefruit juice to a highball glass filled with ice. Top with soda water. Stir gently.",
+    "zh": "兌和法：在高杯中加入冰塊，加入伏特加和葡萄柚汁。加入梳打水。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Grapefruit slice or wedge",
+    "zh": "葡萄柚片或角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Pale pink to ruby red, depending on grapefruit juice, clear and bubbly",
+    "zh": "淡粉色至紅寶石色，取決於葡萄柚汁，清澈且有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness, citrus notes, and natural sweetness.",
+        "zh": "增添酸味、柑橘味和天然甜味。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the drink.",
+        "zh": "增加氣泡感並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

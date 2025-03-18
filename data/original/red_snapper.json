@@ -1,0 +1,175 @@
+{
+  "name": {
+    "en": "Red Snapper",
+    "zh": "紅鯛魚"
+  },
+  "description": {
+    "en": "**Spicy Tomato Juice Cocktail**\n\nA savory and spicy variation of the Bloody Mary, distinguished by:\n*   The use of Generic Spirit instead of vodka.\n*   A complex blend of spices and tomato juice.\n*   Often garnished with celery, olives, or lemon wedges.",
+    "zh": "**辛辣番茄汁雞尾酒**\n\n血腥瑪麗的一種鹹香和辛辣的變體，其特點是：\n*   使用通用烈酒代替伏特加。\n*   香料和番茄汁的複雜混合。\n*   通常用芹菜、橄欖或檸檬角裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Derivative of the Bloody Mary**\n\n*   Created as a variation of the Bloody Mary, using Generic Spirit.\n*   Popularized in the mid-20th century.\n*   The name \"Red Snapper\" is sometimes used interchangeably with \"Bloody Mary,\" but the use of Generic Spirit is the key distinguishing factor.",
+    "zh": "**血腥瑪麗的衍生品**\n\n*   作為血腥瑪麗的變體而創建，使用琴酒。\n*   在 20 世紀中葉普及。\n*   “紅鯛魚”這個名字有時與“血腥瑪麗”互換使用，但使用琴酒是關鍵的區別因素。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake well and strain into a highball glass filled with ice.",
+    "zh": "將所有材料放入裝有冰塊的搖酒器中。充分搖晃，然後倒入裝滿冰塊的高球杯中。"
+  },
+  "garnish": {
+    "en": "Celery stalk, lemon wedge, olives (optional)",
+    "zh": "芹菜莖、檸檬角、橄欖（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Reddish-orange, opaque, savory aroma",
+    "zh": "紅橙色，不透明，鹹香氣味"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "通用烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and backbone of the cocktail.",
+        "zh": "提供雞尾酒的酒精基礎和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and color of the cocktail.",
+        "zh": "提供雞尾酒的基本風味和顏色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness to the cocktail.",
+        "zh": "為雞尾酒增添酸度和亮度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and savory depth.",
+        "zh": "增加鮮味和鹹味的深度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds heat and spice.",
+        "zh": "增加熱度和香料。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavors.",
+        "zh": "增強鹹味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a touch of spice and complexity.",
+        "zh": "增添一絲辛辣和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Breakfast Martini",
+    "zh": "早餐馬丁尼"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA sophisticated and tart cocktail perfect for brunch, featuring:\n\n*   Gin base for a classic feel\n*   Orange marmalade for sweetness and citrus notes\n*   Lemon juice for acidity\n*   Cointreau for added orange complexity",
+    "zh": "**現代經典雞尾酒**\n\n一款精緻而酸爽的雞尾酒，非常適合早午餐，特色：\n\n*   琴酒基底，帶來經典感受\n*   橙皮果醬帶來甜味和柑橘風味\n*   檸檬汁帶來酸度\n*   君度橙酒增加橙香層次"
+  },
+  "historical_reference": {
+    "en": "**Created by Salvatore Calabrese**\n\n*   Invented in 1990s at the Lanesborough Hotel in London\n*   Inspired by Calabrese's wife's love for marmalade on toast\n*   Quickly became a modern classic cocktail",
+    "zh": "**由薩爾瓦托·卡拉布雷斯創作**\n\n*   1990 年代在倫敦萊恩斯伯勒酒店發明\n*   靈感來自卡拉布雷斯妻子對烤麵包上果醬的喜愛\n*   迅速成為現代經典雞尾酒"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and fine strain into chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後用細濾網過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale orange",
+    "zh": "混濁，淡橙色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds additional orange notes and sweetness.",
+        "zh": "增加額外的橙香和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Marmalade",
+        "zh": "橙皮果醬"
+      },
+      "unit": {
+        "en": "bar spoon",
+        "zh": "吧匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor.",
+        "zh": "增加甜味和橙子風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

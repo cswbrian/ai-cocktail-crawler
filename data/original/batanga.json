@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Batanga",
+    "zh": "巴坦加"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Tequila Cocktail**\n\nA classic Mexican highball featuring:\n*   Tequila for the base spirit\n*   Lime juice for acidity\n*   Mexican Coke for sweetness and bubbles\n*   Salt rim for flavor contrast",
+    "zh": "**簡單清爽的龍舌蘭調酒**\n\n經典的墨西哥高杯調酒，特色：\n*   龍舌蘭作為基酒\n*   萊姆汁提供酸度\n*   墨西哥可樂提供甜味和氣泡\n*   鹽口增添風味對比"
+  },
+  "historical_reference": {
+    "en": "**Origin**: La Capilla bar, Tequila, Mexico\n\n*   Created by Don Javier Delgado Corona\n*   Simple and refreshing, a popular local drink\n*   Name means 'baseball bat' or 'club'",
+    "zh": "**起源**: 墨西哥龍舌蘭鎮，La Capilla酒吧\n\n*   由哈維爾·德爾加多·科羅納（Don Javier Delgado Corona）創造\n*   簡單清爽，是受歡迎的當地飲品\n*   名稱意為「棒球棒」或「球桿」"
+  },
+  "technique": {
+    "en": "Salt the rim of a highball glass. Fill with ice, add tequila and lime juice, top with Mexican Coke. Stir gently.",
+    "zh": "在高杯邊緣沾上鹽。加入冰塊，倒入龍舌蘭和萊姆汁，再倒入墨西哥可樂。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass with a salted rim",
+    "zh": "鹽口高杯"
+  },
+  "appearance": {
+    "en": "Clear, pale gold liquid with visible bubbles",
+    "zh": "清澈的淡金色液體，帶有明顯氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with agave flavors.",
+        "zh": "提供以龍舌蘭風味為基礎的烈酒。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance to the drink.",
+        "zh": "為飲品增添酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Mexican Coke",
+        "zh": "墨西哥可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and carbonation. Mexican Coke often uses cane sugar.",
+        "zh": "提供甜味和碳酸。墨西哥可樂通常使用蔗糖。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "unit": {
+        "en": "to taste",
+        "zh": "適量"
+      },
+      "rationale": {
+        "en": "Used for rimming the glass to enhance flavor contrast.",
+        "zh": "用於裝飾杯口，以增強風味對比。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Vodka Gimlet",
+    "zh": "伏特加 Gimlet"
+  },
+  "description": {
+    "en": "**Classic, Refreshing Cocktail**\n\nA simple yet elegant cocktail featuring:\n*   Vodka and lime juice for a tart, clean taste\n*   Simple syrup to balance the acidity.",
+    "zh": "**經典、清爽的雞尾酒**\n\n一款簡單而優雅的雞尾酒，特色：\n*   伏特加和檸檬汁帶來酸澀、乾淨的口感\n*   簡單糖漿平衡酸度。"
+  },
+  "historical_reference": {
+    "en": "While the origin is debated, the Gimlet is believed to have originated in the British Royal Navy.\n\n*   Originally made with gin and Rose's Lime Juice to combat scurvy.\n*   The vodka variation became popular later, offering a cleaner taste.",
+    "zh": "雖然起源存在爭議，但Gimlet被認為起源於英國皇家海軍。\n\n*   最初用琴酒和Rose's萊姆汁製成，以對抗壞血病。\n*   伏特加的變體後來變得流行，提供了更乾淨的味道。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wheel or wedge",
+    "zh": "檸檬片或角"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or cocktail glass",
+    "zh": "冰鎮的淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale green liquid",
+    "zh": "清澈的淡綠色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and a citrusy flavor.",
+        "zh": "增加酸味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the acidity of the lime juice.",
+        "zh": "平衡檸檬汁的酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

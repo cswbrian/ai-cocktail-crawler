@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Amaretto Sour",
+    "zh": "杏仁酸酒"
+  },
+  "description": {
+    "en": "**A Sweet and Sour Delight**\n\nA well-balanced cocktail showcasing the unique flavor of amaretto, complemented by:\n\n*   Fresh lemon juice for sourness\n*   A touch of simple syrup for added sweetness\n*   Optional egg white for a smooth, silky texture",
+    "zh": "**甜酸的喜悅**\n\n一款平衡的雞尾酒，展示了杏仁酒的獨特風味，並輔以：\n\n*   新鮮檸檬汁帶來酸味\n*   少許糖漿增加甜度\n*   可選的蛋白，帶來柔滑如絲的質感"
+  },
+  "historical_reference": {
+    "en": "**A Modern Classic**\n\nWhile the precise origins are debated, the Amaretto Sour gained popularity in the latter half of the 20th century. It represents a modern take on the classic sour template.\n\n*   Popularized in the 1970s and 80s.\n*   A sweeter, nuttier alternative to traditional sours.",
+    "zh": "**現代經典**\n\n雖然確切的起源尚有爭議，但杏仁酸酒在20世紀後半葉廣受歡迎。它代表了對經典酸酒模板的現代演繹。\n\n*   在1970年代和80年代普及。\n*   比傳統酸酒更甜，更具堅果風味的替代品。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a glass filled with ice (or without ice if using a coupe).",
+    "zh": "將所有成分與冰塊搖勻。濾入裝滿冰塊的玻璃杯中（如果使用 Coupe 杯則不加冰）。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "檸檬角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Coupe",
+    "zh": "古典杯或 Coupe 杯"
+  },
+  "appearance": {
+    "en": "Cloudy amber to orange liquid with a frothy white head.",
+    "zh": "混濁的琥珀色至橙色液體，帶有泡沫狀的白色頂部。"
+  },
+  "allergens": [
+    {
+      "en": "Egg white (optional)",
+      "zh": "蛋白（可選）"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Amaretto",
+        "zh": "杏仁酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "The primary flavor component, providing a sweet almond and marzipan flavor.",
+        "zh": "主要風味成分，提供甜杏仁和杏仁蛋白軟糖風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the necessary sourness to balance the sweetness of the amaretto.",
+        "zh": "提供必要的酸度，以平衡杏仁酒的甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the overall flavor profile.",
+        "zh": "增加甜度並平衡整體風味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head. Omit if vegan or concerned about raw eggs.",
+        "zh": "增加絲滑的質感和泡沫。如果吃素或擔心生雞蛋，可以省略。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

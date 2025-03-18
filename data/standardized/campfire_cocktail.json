@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Campfire Cocktail",
+    "zh": "營火雞尾酒"
+  },
+  "description": {
+    "en": "**A Smoky and Sweet Delight**\n\nThis cocktail evokes the feeling of sitting around a campfire with its blend of bourbon, smoky liqueur, and sweet notes. It features:\n*   Bourbon base for warmth\n*   Smoked liqueur for depth\n*   Marshmallow garnish for sweetness and aroma",
+    "zh": "**煙燻與香甜的享受**\n\n這款雞尾酒融合了波本威士忌、煙燻利口酒和甜味，讓人聯想到坐在營火旁。其特色包括：\n*   波本基底提供溫暖感\n*   煙燻利口酒增添深度\n*   棉花糖裝飾帶來甜味和香氣"
+  },
+  "historical_reference": {
+    "en": "While not a centuries-old classic, the Campfire Cocktail is a modern invention, likely dating back to the early 2000s, reflecting the rise in popularity of smoky flavors in cocktails.\n\n*   The exact origin is difficult to pinpoint.\n*   The cocktail aims to capture the essence of a campfire experience.",
+    "zh": "儘管不是一個擁有數百年歷史的經典，但營火雞尾酒是一種現代發明，可能可以追溯到 2000 年代初期，反映了煙燻風味在雞尾酒中越來越受歡迎。\n\n*   確切的起源難以確定。\n*   這款雞尾酒旨在捕捉營火體驗的精髓。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice in a mixing glass. Strain into an Old Fashioned glass filled with ice. Garnish with a toasted marshmallow.",
+    "zh": "將所有材料與冰塊在攪拌杯中攪拌。濾入裝滿冰塊的古典杯中。用烤棉花糖裝飾。"
+  },
+  "garnish": {
+    "en": "Toasted Marshmallow",
+    "zh": "烤棉花糖"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber with a slight haze, garnished with a toasted marshmallow",
+    "zh": "深琥珀色，略帶朦朧，並以烤棉花糖裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the oaky, vanilla base and backbone of the cocktail.",
+        "zh": "提供橡木、香草基底，構成此雞尾酒的骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Smoked Liqueur",
+        "zh": "煙燻利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinct smoky flavor, mimicking the campfire experience.",
+        "zh": "添加獨特的煙燻味，模仿營火體驗。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon and smoke.",
+        "zh": "增加甜度以平衡波本威士忌和煙燻味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes of Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Enhances the overall flavor profile and adds complexity.",
+        "zh": "增強整體風味並增加複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

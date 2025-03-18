@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Death in the Afternoon",
+    "zh": "午後之死"
+  },
+  "description": {
+    "en": "**A potent and celebratory cocktail**\n\nCombining the anise flavor of absinthe with the dryness of Champagne, this drink is:\n\n*   Simple yet sophisticated\n*   Strong and effervescent\n*   Best enjoyed as an aperitif",
+    "zh": "**一款強勁而喜慶的雞尾酒**\n\n將苦艾酒的茴香味道與香檳的乾度相結合，這款飲品：\n\n*   簡單而精緻\n*   濃烈而有氣泡\n*   最適合作為開胃酒享用"
+  },
+  "historical_reference": {
+    "en": "**Created by Ernest Hemingway**\n\n*   Published in *So Red the Rose* cocktail book (1935)\n*   Hemingway's original recipe called for more absinthe\n*   Named for his novel, *Death in the Afternoon*",
+    "zh": "**由歐內斯特·海明威創作**\n\n*   發表於《如此玫瑰紅》雞尾酒書 (1935)\n*   海明威最初的配方需要更多的苦艾酒\n*   以他的小說《午後之死》命名"
+  },
+  "technique": {
+    "en": "Pour absinthe into a champagne flute, top with chilled champagne. Gently stir to combine.",
+    "zh": "將苦艾酒倒入香檳笛型杯中，倒入冰鎮香檳。輕輕攪拌均勻。"
+  },
+  "garnish": {
+    "en": "None traditionally, optional anise-flavored liquorice stick",
+    "zh": "傳統上沒有，可選擇茴香口味的甘草棒"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳笛型杯"
+  },
+  "appearance": {
+    "en": "Opaque, pale yellow, effervescent",
+    "zh": "不透明、淡黃色、有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Champagne",
+        "zh": "香檳"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the drink, providing effervescence and a dry, crisp character.",
+        "zh": "構成飲料的基礎，提供氣泡和乾燥清脆的特性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a strong anise flavor and a slightly bitter edge.",
+        "zh": "增添濃郁的茴香味和略帶苦澀的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

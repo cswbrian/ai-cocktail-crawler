@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Oyster Shooter",
+    "zh": "生蠔Shot"
+  },
+  "description": {
+    "en": "**A briny and savory shot with a refreshing kick.**\n\nThe Oyster Shooter is a potent and flavorful concoction, often consumed as a quick appetizer or hangover remedy. It features:\n*   A fresh oyster for a briny, ocean-like flavor\n*   Vodka for a boozy foundation\n*   Lemon juice and hot sauce to balance the richness",
+    "zh": "**帶有清爽口感的鹹香風味小飲。**\n\n生蠔shot是一種濃烈而美味的混合物，通常作為快速開胃菜或宿醉解藥飲用。 它的特點是：\n*   新鮮生蠔帶來鹹鹹的海洋風味\n*   伏特加提供酒精基礎\n*   檸檬汁和辣椒醬可平衡濃郁感"
+  },
+  "historical_reference": {
+    "en": "**Origins are debated, but likely emerged in coastal areas where oysters were plentiful.**\n\n*   Often associated with oyster bars and seafood restaurants.\n*   Considered a variation of other savory shooters, like the Prairie Oyster (which uses an egg yolk instead of an oyster).",
+    "zh": "**起源尚有爭議，但可能出現在生蠔豐富的沿海地區。**\n\n*   通常與生蠔酒吧和海鮮餐廳相關。\n*   被認為是其他鹹味shot的變體，例如草原生蠔（使用蛋黃代替生蠔）。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shot glass. Consume immediately.",
+    "zh": "將所有成分混合在shot杯中。 立即飲用。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon wedge or a dash of hot sauce",
+    "zh": "可選：檸檬角或少許辣椒醬"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "Shot杯"
+  },
+  "appearance": {
+    "en": "Cloudy, opaque liquid with a briny, slightly green hue",
+    "zh": "混濁不透明的液體，帶有鹽水和略帶綠色的色調"
+  },
+  "allergens": [
+    {
+      "en": "Shellfish",
+      "zh": "貝類海鮮"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base to carry the other flavors.",
+        "zh": "提供中性的酒精基底，以承載其他風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Fresh Oyster",
+        "zh": "新鮮生蠔"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides the signature briny and umami flavor.",
+        "zh": "提供標誌性的鹹味和鮮味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the richness of the oyster.",
+        "zh": "增加酸度，平衡生蠔的濃郁度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds a spicy kick and enhances the overall flavor.",
+        "zh": "增加辛辣味，增強整體風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

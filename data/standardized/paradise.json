@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Paradise",
+    "zh": "天堂"
+  },
+  "description": {
+    "en": "**A pre-Prohibition classic**\n\nThe Paradise cocktail offers a harmonious blend of gin, apricot liqueur, and orange juice, resulting in a balanced and fruity drink with a slightly tart finish.\n\n*   Sweet and tart balance\n*   Fruity profile\n*   Easy to drink",
+    "zh": "**禁酒令前經典**\n\n天堂雞尾酒融合了琴酒、杏桃利口酒和橙汁，帶來和諧的風味，是一款平衡且果香濃郁的飲品，帶有淡淡的酸味。\n\n*   酸甜平衡\n*   水果風味\n*   容易入口"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First appearing around the 1920s.\n\n*   Popularized during the pre-Prohibition era.\n*   Featured in classic cocktail books like *Harry MacElhone's ABC of Mixing Cocktails*.\n*   A simple and elegant cocktail reflecting the tastes of the time.",
+    "zh": "**起源**: 首次出現於 1920 年代左右。\n\n*   在禁酒令之前廣受歡迎。\n*   出現在經典雞尾酒書籍中，例如《*哈里·麥克埃爾霍內的混合雞尾酒 ABC*》。\n*   一款簡潔優雅的雞尾酒，反映了當時的品味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel or cocktail cherry",
+    "zh": "橙皮或雞尾酒櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或 coupe 杯"
+  },
+  "appearance": {
+    "en": "Pink to light orange, clear, and vibrant",
+    "zh": "粉紅色到淺橙色，清澈且充滿活力"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor base and alcoholic strength.",
+        "zh": "提供主要的風味基礎和酒精強度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes apricot flavor and sweetness.",
+        "zh": "貢獻杏桃風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and citrus notes.",
+        "zh": "增加甜味、酸度和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

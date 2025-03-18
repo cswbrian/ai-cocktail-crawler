@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Gin and Tonic",
+    "zh": "琴通尼"
+  },
+  "description": {
+    "en": "**Classic Highball Cocktail**\n\nA simple yet refreshing mix of gin and tonic water.\n\n*   Easy to make\n*   Highly customizable with different gins and garnishes\n*   Perfect for warm weather",
+    "zh": "**經典Highball雞尾酒**\n\n琴酒和通寧水的簡單而清爽的混合。\n\n*   容易製作\n*   可使用不同的琴酒和裝飾進行高度客製化\n*   非常適合溫暖的天氣"
+  },
+  "historical_reference": {
+    "en": "**Origin**: British Colonial India\n\n*   Invented as a way for British officers to take their quinine (an anti-malarial drug) in a palatable form.\n*   Tonic water originally contained much more quinine and was very bitter, so gin and citrus were added to make it more palatable.\n*   Became popular globally in the 20th century.",
+    "zh": "**起源**: 英國殖民地印度\n\n*   發明於英國軍官以可口的形式服用奎寧（一種抗瘧疾藥物）。\n*   通寧水最初含有更多的奎寧，非常苦，因此添加了琴酒和柑橘類水果以使其更可口。\n*   在20世紀在全球廣受歡迎。"
+  },
+  "technique": {
+    "en": "Pour gin over ice in a highball glass, top with tonic water, and garnish.",
+    "zh": "在高球杯中倒入冰塊，加入琴酒，再加入通寧水，最後裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "檸檬角或檸檬片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Clear, effervescent liquid",
+    "zh": "清澈，有氣泡的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic Gin",
+        "zh": "通用琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor with botanicals",
+        "zh": "提供基底風味與植物氣息"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tonic Water",
+        "zh": "湯力水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and carbonation",
+        "zh": "增加苦味和氣泡"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Siesta",
+    "zh": "午睡"
+  },
+  "description": {
+    "en": "**A Tequila Twist on the Hemingway Daiquiri**\n\nA vibrant cocktail featuring:\n*   Tequila for a distinct agave flavor\n*   Campari for bitterness and complexity\n*   Grapefruit juice and lime juice for citrus balance",
+    "zh": "**海明威戴克利的龍舌蘭變奏**\n\n一款充滿活力的雞尾酒，特色：\n*   龍舌蘭帶來獨特的龍舌蘭風味\n*   金巴利帶來苦味和複雜性\n*   葡萄柚汁和萊姆汁帶來柑橘的平衡"
+  },
+  "historical_reference": {
+    "en": "**Created by Katie Stipe at the Violet Hour in Chicago around 2008.**\n\n*   A modern classic, showcasing the versatility of tequila.\n*   Inspired by the Hemingway Daiquiri, swapping rum for tequila and adding Campari.",
+    "zh": "**由 Katie Stipe 於 2008 年左右在芝加哥的 Violet Hour 創作。**\n\n*   現代經典，展示了龍舌蘭的多功能性。\n*   靈感來自海明威戴克利，將蘭姆酒換成龍舌蘭並加入金巴利。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grapefruit or lime wedge",
+    "zh": "葡萄柚或萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "碟型香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale orange, slightly cloudy",
+    "zh": "淡橙色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave-based backbone and earthy notes.",
+        "zh": "提供以龍舌蘭為基礎的骨幹和泥土氣息。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and complexity.",
+        "zh": "增加苦味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweet-sour citrus notes.",
+        "zh": "增加酸甜的柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

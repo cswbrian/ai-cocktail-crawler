@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "White Negroni",
+    "zh": "白色尼格羅尼"
+  },
+  "description": {
+    "en": "A modern twist on the classic Negroni, replacing sweet vermouth with Lillet Blanc and Campari with Suze or other gentian liqueur. It offers a less bitter, more floral and subtly sweet experience. A refined aperitivo, perfect for those who appreciate a lighter take on the original.",
+    "zh": "經典尼格羅尼的現代變奏，以 Lillet Blanc 取代甜苦艾酒，以 Suze 或其他龍膽利口酒取代金巴利。它提供了一種不那麼苦澀，更具花香和微妙甜味的體驗。 精緻的餐前酒，非常適合那些喜歡原創酒款清淡口味的人。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Developed as a variation of the classic Negroni.\n\n*   Attributed to various bartenders seeking a lighter, less bitter version.\n*   Became popular in the early 21st century as part of the modern cocktail renaissance.",
+    "zh": "**起源**: 作為經典尼格羅尼的變體而開發。\n\n*   歸因於尋求更清淡、不那麼苦澀版本的各種調酒師。\n*   在 21 世紀初，隨著現代雞尾酒復興而流行起來。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon or Grapefruit twist",
+    "zh": "檸檬或葡萄柚皮"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or Coupe",
+    "zh": "古典杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow",
+    "zh": "清澈的淡黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical backbone of the cocktail.",
+        "zh": "提供雞尾酒的烈酒基底和植物風味骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉白葡萄酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Replaces sweet vermouth, adding floral and honeyed notes.",
+        "zh": "取代甜苦艾酒，增添花香和蜂蜜的味道。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Suze (or other gentian liqueur)",
+        "zh": "蘇茲（或其他龍膽利口酒）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Replaces Campari, offering a gentler bitterness with herbal and citrus notes.",
+        "zh": "取代金巴利，提供更溫和的苦味，帶有草本和柑橘的味道。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

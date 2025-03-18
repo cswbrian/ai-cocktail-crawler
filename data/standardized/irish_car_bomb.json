@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Irish Car Bomb",
+    "zh": "愛爾蘭汽車炸彈"
+  },
+  "description": {
+    "en": "**Bomb Shot Cocktail**\n\nA combination of Irish Cream and Irish Whiskey dropped into a glass of stout. It is quickly consumed due to the curdling reaction of the ingredients.\n\n*   Rich and creamy initially\n*   Followed by the robust bitterness of the stout\n*   Quickly consumed",
+    "zh": "**炸彈杯調酒**\n\n將愛爾蘭奶油和愛爾蘭威士忌倒入一杯司陶特啤酒中的組合。由於成分的凝結反應，因此很快就被喝完。\n\n*   起初口感濃郁且奶油味十足\n*   隨後是司陶特啤酒的濃郁苦味\n*   迅速飲用"
+  },
+  "historical_reference": {
+    "en": "**Origin & Controversy**\n\nThe Irish Car Bomb's exact origin is debated, but it likely emerged in the United States during the late 20th century. The name is considered highly offensive by many, particularly in Ireland, due to its association with bombings during The Troubles.\n\n*   Name is offensive to some people.\n*   Modern cocktail.\n*   Not served in many bars.",
+    "zh": "**起源與爭議**\n\n愛爾蘭汽車炸彈的確切起源尚有爭議，但它可能於 20 世紀末出現在美國。 由於其與The Troubles期間的爆炸事件相關，因此這個名字被許多人認為具有高度冒犯性，尤其是在愛爾蘭。\n\n*   名稱對某些人來說具有冒犯性。\n*   現代雞尾酒。\n*   許多酒吧不提供。"
+  },
+  "technique": {
+    "en": "Pour stout into a pint glass. Separately, combine Irish cream and Irish whiskey in a shot glass. Drop the shot glass into the stout and consume quickly.",
+    "zh": "將司陶特啤酒倒入品脫杯中。 另外，將愛爾蘭奶油和愛爾蘭威士忌在小酒杯中混合。 將小酒杯放入司陶特啤酒中並快速飲用。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Pint Glass",
+    "zh": "品脫杯"
+  },
+  "appearance": {
+    "en": "Layered dark stout with a creamy head, and a shot of brown liquor visibly dropped in.",
+    "zh": "分層的深色司陶特啤酒，帶有奶油狀泡沫，以及明顯倒入其中的棕色烈酒。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 44,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic kick and traditional Irish flavor.",
+        "zh": "提供主要的酒精衝擊和傳統愛爾蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, creaminess, and complements the Irish whiskey.",
+        "zh": "增加甜味和奶油味，並與愛爾蘭威士忌互補。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

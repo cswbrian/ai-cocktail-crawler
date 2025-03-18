@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "John Daly",
+    "zh": "約翰·達利"
+  },
+  "description": {
+    "en": "**Refreshing and Simple**\n\nThe John Daly is an alcoholic version of an Arnold Palmer, combining:\n*   Vodka for a boozy kick\n*   Iced tea for a refreshing taste\n*   Lemonade for sweetness and tartness",
+    "zh": "**清爽簡單**\n\nJohn Daly是Arnold Palmer的酒精版本，結合了：\n*   伏特加帶來酒精刺激\n*   冰紅茶帶來清爽口感\n*   檸檬水帶來甜味和酸味"
+  },
+  "historical_reference": {
+    "en": "**A Playful Twist on a Classic**\n\n*   Named after the famous golfer, John Daly.\n*   An alcoholic spin on the Arnold Palmer, which is a non-alcoholic mix of iced tea and lemonade.\n*   Popularized in the early 2000s.",
+    "zh": "**經典的有趣轉折**\n\n*   以著名高爾夫球手John Daly的名字命名。\n*   Arnold Palmer的酒精版本，Arnold Palmer是一種非酒精的冰紅茶和檸檬水混合物。\n*   在2000年代初期普及。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "在冰上調製"
+  },
+  "garnish": {
+    "en": "Lemon wedge or slice",
+    "zh": "檸檬角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Collins glass",
+    "zh": "高球杯或柯林斯杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow, like iced tea",
+    "zh": "多雲，淡黃色，像冰紅茶"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base.",
+        "zh": "提供酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Iced Tea",
+        "zh": "冰紅茶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the tea flavor.",
+        "zh": "添加茶味。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Lemonade",
+        "zh": "檸檬汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tartness.",
+        "zh": "增加甜味和酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

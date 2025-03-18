@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Piccadilly Cocktail",
+    "zh": "皮卡迪利雞尾酒"
+  },
+  "description": {
+    "en": "A refreshing and subtly sweet cocktail, perfect as an aperitif.\n\n*   Features a blend of gin, dry vermouth, maraschino liqueur, and bitters.\n*   Shaken and strained for a chilled and clean presentation.",
+    "zh": "一款清新微甜的雞尾酒，非常適合作為餐前酒。\n\n*   融合了琴酒、乾苦艾酒、黑櫻桃利口酒和苦精。\n*   搖盪後過濾，呈現冰鎮清澈的口感。"
+  },
+  "historical_reference": {
+    "en": "The Piccadilly Cocktail is a classic cocktail with origins dating back to the early 20th century.\n\n*   Named after Piccadilly in London, a fashionable area during the time.\n*   First appeared in cocktail books in the 1930s.",
+    "zh": "Piccadilly 雞尾酒是一款經典雞尾酒，其起源可以追溯到 20 世紀初。\n\n*   以倫敦的皮卡迪利命名，該地區在當時是一個時尚區域。\n*   首次出現在 1930 年代的雞尾酒書中。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Maraschino Cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear",
+    "zh": "淡黃色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinctive cherry flavor.",
+        "zh": "增加甜度和獨特的櫻桃風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加乾度和草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of complexity.",
+        "zh": "增添複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

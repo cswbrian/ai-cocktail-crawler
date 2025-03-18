@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Gibson Martini",
+    "zh": "吉布森馬丁尼"
+  },
+  "description": {
+    "en": "*A sophisticated variation of the classic Martini, distinguished by its use of a pickled onion garnish.*\n\nThe Gibson offers a savory twist, making it a favorite for those who prefer a less sweet, more complex cocktail.",
+    "zh": "*經典馬丁尼的精緻變體，以醃洋蔥裝飾為特色。*\n\n吉布森提供了一種鹹味的轉折，使其成為那些喜歡不太甜、更複雜的雞尾酒的人的最愛。"
+  },
+  "historical_reference": {
+    "en": "The origin of the Gibson is debated. One story claims it was created at the Players Club in New York City in the late 19th century. Another account attributes it to a businessman named Walter D.K. Gibson, who requested a Martini with an onion instead of an olive, believing it would ward off colds.\n\nThe pickled onion distinguishes the Gibson from the standard Martini.",
+    "zh": "吉布森的起源備受爭議。 一個故事聲稱它是在 19 世紀末在紐約市的球員俱樂部創建的。 另一種說法認為是一位名叫沃爾特·D·K·吉布森的商人要求的，他要求在馬丁尼酒中加入洋蔥而不是橄欖，他認為這可以預防感冒。\n\n醃洋蔥將吉布森與標準馬丁尼區分開來。"
+  },
+  "technique": {
+    "en": "Stir with ice, strain into chilled glass.",
+    "zh": "與冰攪拌，濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Pickled onion",
+    "zh": "醃洋蔥"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass, chilled",
+    "zh": "馬丁尼杯，冰鎮"
+  },
+  "appearance": {
+    "en": "Clear, colorless",
+    "zh": "清澈，無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and characteristic flavor.",
+        "zh": "提供基酒和特色風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a dry, herbaceous note and complexity.",
+        "zh": "增添乾燥、草本的風味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

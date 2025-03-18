@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Angel Face",
+    "zh": "天使之顏"
+  },
+  "description": {
+    "en": "The Angel Face is a classic cocktail known for its equal parts of gin, apricot brandy, and apple brandy, resulting in a complex, floral, and fruity flavor profile.",
+    "zh": "天使之顏是一款經典雞尾酒，以等量的琴酒、杏桃白蘭地和蘋果白蘭地調製而成，呈現出複雜、花香和果香的風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** The Angel Face cocktail is a classic from the early 20th century.\n\n*   Its exact origin is somewhat obscure, but it gained popularity in cocktail books of the 1920s and 1930s.\n*   Notably featured in *Harry Craddock's Savoy Cocktail Book* (1930).",
+    "zh": "**起源：** 天使之顏雞尾酒是 20 世紀初的經典之作。\n\n*   其確切起源有些模糊，但在 1920 年代和 1930 年代的雞尾酒書籍中廣受歡迎。\n*   尤其以《*哈利·克拉多克的薩伏伊雞尾酒書*》（1930 年）為代表。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖晃，然後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "None typically, optional apple slice",
+    "zh": "通常沒有，可選蘋果片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale golden",
+    "zh": "清澈的淡金色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary alcoholic base and botanical complexity.",
+        "zh": "提供雞尾酒的主要酒精基底和植物性複雜度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Apricot Brandy",
+        "zh": "杏桃白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweet, fruity apricot notes and contributes to the cocktail's body.",
+        "zh": "增添甜美、果香的杏桃味，並有助於雞尾酒的口感。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides crisp apple flavors and enhances the overall complexity.",
+        "zh": "提供清脆的蘋果風味並增強整體複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

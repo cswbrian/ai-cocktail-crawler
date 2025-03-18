@@ -1,0 +1,136 @@
+{
+  "name": {
+    "en": "Smoked Vanilla Espresso Martini",
+    "zh": "煙燻香草濃縮咖啡馬丁尼"
+  },
+  "description": {
+    "en": "**Smoked Vanilla Espresso Martini**\n\nA modern twist on the classic Espresso Martini, featuring:\n*   Smoked vanilla bean infusion for a unique smoky sweetness.\n*   Freshly brewed espresso for a rich coffee flavor.\n*   Coffee liqueur for added depth and complexity.",
+    "zh": "**煙燻香草濃縮咖啡馬丁尼**\n\n經典濃縮咖啡馬丁尼的現代變奏，特色：\n*   煙燻香草豆浸泡液帶來獨特的煙燻甜味。\n*   新鮮現煮的濃縮咖啡帶來濃郁的咖啡風味。\n*   咖啡利口酒增添深度和複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A variation of the Espresso Martini.\n\n*   The Espresso Martini was created in London in 1983 by Dick Bradsell.\n*   This version adds a smoked vanilla element to the original recipe.",
+    "zh": "**起源**：濃縮咖啡馬丁尼的變體。\n\n*   濃縮咖啡馬丁尼於1983年由迪克·布拉德塞爾在倫敦創造。\n*   此版本在原始配方中添加了煙燻香草元素。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "3 coffee beans",
+    "zh": "3顆咖啡豆"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Dark brown with a creamy tan head, coffee bean garnish",
+    "zh": "深棕色，帶有奶油色的泡沫，咖啡豆裝飾"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean base for the other flavors to shine.",
+        "zh": "提供乾淨的基底，讓其他風味得以彰顯。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the coffee flavor and adds sweetness.",
+        "zh": "增強咖啡風味並增加甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Espresso",
+        "zh": "新鮮濃縮咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich coffee flavor.",
+        "zh": "提供濃郁的咖啡風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Smoked Vanilla Syrup",
+        "zh": "煙燻香草糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a smoky vanilla flavor.",
+        "zh": "增添甜味和煙燻香草風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

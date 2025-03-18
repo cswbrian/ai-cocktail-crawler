@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Jack Rose",
+    "zh": "傑克·羅斯"
+  },
+  "description": {
+    "en": "**Classic Apple Brandy Cocktail**\n\nA simple yet elegant cocktail featuring:\n*   Apple brandy (Calvados is preferred)\n*   Lemon juice for tartness\n*   Grenadine for sweetness and color",
+    "zh": "**經典蘋果白蘭地雞尾酒**\n\n一款簡單而優雅的雞尾酒，特色：\n* 蘋果白蘭地（首選卡爾瓦多斯）\n* 檸檬汁帶來酸味\n* 石榴糖漿帶來甜味和色澤"
+  },
+  "historical_reference": {
+    "en": "**Early 20th Century Classic**\n\n*   Popularized in the early 1900s.\n*   Potentially named after gangster Baldy Jack Rose.\n*   Featured in many cocktail books from the era.",
+    "zh": "**20世紀初的經典**\n\n* 在1900年代初普及。\n* 可能以黑幫光頭傑克·羅斯的名字命名。\n* 出現在當時的許多雞尾酒書籍中。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Apple slice or lemon twist (optional)",
+    "zh": "蘋果片或檸檬皮扭花（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pink or light red, clear",
+    "zh": "粉紅色或淺紅色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor of apple and warmth.",
+        "zh": "提供蘋果的基底風味和溫暖感。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinctive red color.",
+        "zh": "增加甜味和獨特的紅色。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

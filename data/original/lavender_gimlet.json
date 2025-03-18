@@ -1,0 +1,104 @@
+{
+  "name": {
+    "en": "Lavender Gimlet",
+    "zh": "薰衣草金利"
+  },
+  "description": {
+    "en": "A floral twist on the classic Gimlet, the Lavender Gimlet offers a fragrant and refreshing experience.\n\n*   Gin-based cocktail.\n*   Features the addition of lavender syrup for a unique floral note.\n*   Balances sweetness, tartness, and botanical complexity.",
+    "zh": "薰衣草金利是經典金利雞尾酒的花香變奏，提供芬芳和清爽的體驗。\n\n*   以琴酒為基底的雞尾酒。\n*   加入薰衣草糖漿，帶來獨特的花香。\n*   平衡甜味、酸味和植物的複雜性。"
+  },
+  "historical_reference": {
+    "en": "The Gimlet is a classic cocktail with a debated origin, possibly dating back to the 19th century.\n\n*   Likely originated with the British Royal Navy.\n*   Traditionally made with gin and lime juice.\n*   The Lavender Gimlet is a modern variation that incorporates lavender syrup.",
+    "zh": "金利是經典雞尾酒，其起源存在爭議，可能可以追溯到 19 世紀。\n\n*   可能起源於英國皇家海軍。\n*   傳統上用琴酒和檸檬汁製成。\n*   薰衣草金利是一種現代變體，加入了薰衣草糖漿。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lavender sprig or lime wheel",
+    "zh": "薰衣草枝或檸檬輪"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or chilled cocktail glass",
+    "zh": "碟形香檳杯或冰鎮雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale lavender, translucent",
+    "zh": "淡薰衣草色，半透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "提供烈酒基底和植物的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lavender Syrup",
+        "zh": "薰衣草糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and distinct lavender flavor.",
+        "zh": "增加甜味和獨特的薰衣草風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity to balance the sweetness.",
+        "zh": "增加酸度和酸度，以平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

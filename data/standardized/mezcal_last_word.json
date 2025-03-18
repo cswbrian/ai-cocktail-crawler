@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Mezcal Last Word",
+    "zh": "梅斯卡爾最後遺言"
+  },
+  "description": {
+    "en": "A smoky twist on the classic Last Word cocktail, replacing gin with mezcal. This adds a layer of complexity and earthiness, complementing the herbal and citrus notes.",
+    "zh": "經典Last Word雞尾酒的煙燻版本，以梅斯卡爾取代琴酒。這增加了複雜性和泥土味，與草本和柑橘味相得益彰。"
+  },
+  "historical_reference": {
+    "en": "The Last Word was created at the Detroit Athletic Club sometime before 1916, then revived in the early 2000s by bartender Murray Stenson. This variation substitutes mezcal for gin, creating a smoky and complex variation of the original cocktail.",
+    "zh": "Last Word大約在1916年之前於底特律運動俱樂部被創造出來，然後在2000年代初期由調酒師Murray Stenson重新推出。此變體以梅斯卡爾代替琴酒，創造出原創雞尾酒的煙燻和複雜版本。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or cherry",
+    "zh": "青檸角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale green and slightly cloudy",
+    "zh": "淡綠色且略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅茲卡爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky, agave-forward base of the cocktail.",
+        "zh": "提供雞尾酒煙燻味和龍舌蘭風味的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and complex flavors.",
+        "zh": "增加草本和複雜風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and cherry notes.",
+        "zh": "增添甜味和櫻桃味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "增加酸味和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

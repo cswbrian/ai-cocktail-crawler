@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Kir",
+    "zh": "基爾"
+  },
+  "description": {
+    "en": "**Simple and Refreshing French Aperitif**\n\nA classic and easy-to-make aperitif, consisting of:\n\n*   Dry white wine (traditionally Bourgogne Aligoté)\n*   Crème de Cassis (blackcurrant liqueur) for sweetness and fruitiness",
+    "zh": "**簡單清爽的法式開胃酒**\n\n一款經典且易於調製的開胃酒，包含：\n\n*   不甜白酒（傳統上使用勃根地阿里高特）\n*   黑醋栗利口酒，增添甜味和果香"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Burgundy, France\n\n*   Popularized by Félix Kir, mayor of Dijon after World War II.\n*   Originally called *Blanc-Cassis*.\n*   Kir used the drink to promote regional products.",
+    "zh": "**起源**: 法國勃根地\n\n*   由二戰後第戎市長費利克斯·基爾推廣。\n*   原名為*Blanc-Cassis*。\n*   基爾使用這種飲料來推廣當地產品。"
+  },
+  "technique": {
+    "en": "Pour Crème de Cassis into glass, top with white wine. Stir gently.",
+    "zh": "將黑醋栗利口酒倒入杯中，倒入白酒。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Few berries",
+    "zh": "可選：少許莓果"
+  },
+  "serve_in_glass": {
+    "en": "White wine glass",
+    "zh": "白酒杯"
+  },
+  "appearance": {
+    "en": "Pale pink to red, depending on the Crème de Cassis used.",
+    "zh": "淡粉紅色至紅色，取決於使用的黑醋栗利口酒。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Dry White Wine",
+        "zh": "不甜白酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the bulk of the drink and provides the dry, crisp base.",
+        "zh": "構成飲品主體，提供乾爽的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Crème de Cassis",
+        "zh": "黑醋栗酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and blackcurrant flavor.",
+        "zh": "增添甜味和黑醋栗風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

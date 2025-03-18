@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Tschunk",
+    "zh": "查克"
+  },
+  "description": {
+    "en": "**Simple but refreshing highball.**\n\nA mix of club-mate and a bitter liqueur (typically Jägermeister), creating a stimulating and bittersweet drink. \n\n*   Served over ice\n*   Popular in Berlin's nightlife",
+    "zh": "**簡單而清爽的Highball。**\n\n將Club-Mate與苦味利口酒（通常是野格力嬌酒）混合，製成一種刺激而苦樂參半的飲料。\n\n* 加冰塊飲用\n* 在柏林的夜生活中很受歡迎"
+  },
+  "historical_reference": {
+    "en": "**Berlin's signature drink**\n\n*   Originating in Berlin's techno scene\n*   Became popular in the 2000s\n*   Combination of local favorite Club-Mate and Jägermeister",
+    "zh": "**柏林的招牌飲品**\n\n*   起源於柏林的Techno場景\n*   在2000年代開始流行\n*   當地最受歡迎的Club-Mate和Jägermeister的結合"
+  },
+  "technique": {
+    "en": "Pour bitter liqueur into a highball glass filled with ice. Top with Club-Mate.",
+    "zh": "將苦味利口酒倒入裝滿冰塊的Highball杯中。再倒入Club-Mate。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or lime wedge",
+    "zh": "可選：檸檬或萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "Highball杯"
+  },
+  "appearance": {
+    "en": "Clear, effervescent, cola-colored drink with a frothy head.",
+    "zh": "清澈、起泡的可樂色飲料，帶有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Generic Bitter Liqueur",
+        "zh": "通用苦味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter, herbaceous base of the cocktail.",
+        "zh": "提供雞尾酒的苦味、草本基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 200,
+      "name": {
+        "en": "Club-Mate",
+        "zh": "Club-Mate"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a unique, lightly caffeinated and herbal sweetness.",
+        "zh": "提供獨特、輕微的咖啡因和草本甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

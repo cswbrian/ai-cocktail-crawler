@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Kentucky Buck",
+    "zh": "肯塔基雄鹿"
+  },
+  "description": {
+    "en": "**A Modern Classic**\n\nThe Kentucky Buck is a refreshing and spicy cocktail that combines bourbon, ginger beer, lemon juice, and a touch of bitters.\n\n*   Known for its balanced flavors and easy-drinking nature.\n*   A great option for bourbon enthusiasts and those looking for a lighter cocktail.\n*   The muddled strawberry adds a fruity complexity.",
+    "zh": "**現代經典**\n\n肯塔基雄鹿是一款清爽辛辣的雞尾酒，結合了波本威士忌、薑汁啤酒、檸檬汁和少許苦味酒。\n\n*   以其均衡的風味和易飲性而聞名。\n*   對於波本威士忌愛好者和尋求清淡雞尾酒的人來說，是一個不錯的選擇。\n*   搗碎的草莓增加了水果的複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Created by Erick Castro**\n\n*   Invented in 2010 at Rickhouse in San Francisco.\n*   A contemporary take on the classic Buck cocktail, which traditionally features a spirit, citrus, and ginger ale or ginger beer.\n*   Quickly gained popularity for its refreshing taste and balanced flavor profile.",
+    "zh": "**由 Erick Castro 創作**\n\n*   2010 年在舊金山的 Rickhouse 發明。\n*   對經典雄鹿雞尾酒的現代詮釋，傳統上以烈酒、柑橘和薑汁汽水或薑汁啤酒為特色。\n*   因其清爽的口感和均衡的風味而迅速普及。"
+  },
+  "technique": {
+    "en": "Muddle strawberries, add bourbon, lemon juice, and bitters. Shake with ice and strain into glass. Top with ginger beer. Garnish.",
+    "zh": "將草莓搗碎，加入波本威士忌、檸檬汁和苦精。與冰塊搖勻後倒入玻璃杯。頂部加入薑汁啤酒。裝飾。"
+  },
+  "garnish": {
+    "en": "Strawberry slice",
+    "zh": "草莓切片"
+  },
+  "serve_in_glass": {
+    "en": "Collins glass or Highball glass",
+    "zh": "柯林杯或高球杯"
+  },
+  "appearance": {
+    "en": "Pale golden, bubbly, and clear",
+    "zh": "淡金色，有氣泡，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and depth of the cocktail, lending notes of caramel and vanilla.",
+        "zh": "提供雞尾酒的基底和深度，帶來焦糖和香草的味道。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Strawberry",
+        "zh": "草莓"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a fresh, fruity note and a hint of sweetness.",
+        "zh": "增加新鮮的水果味和一絲甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balance to the cocktail.",
+        "zh": "為雞尾酒提供酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic depth.",
+        "zh": "增加複雜性和芳香深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

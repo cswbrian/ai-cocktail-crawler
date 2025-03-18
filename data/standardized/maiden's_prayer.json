@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Maiden's Prayer",
+    "zh": "少女的祈禱"
+  },
+  "description": {
+    "en": "A classic cocktail featuring gin, lemon juice, orange curaçao, and dry vermouth. It offers a complex balance of citrus, floral, and herbal notes.",
+    "zh": "一款經典雞尾酒，包含琴酒、檸檬汁、橙味庫拉索和乾苦艾酒。它提供了柑橘、花香和草本風味的複雜平衡。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** This cocktail first appeared in the early 20th century.\n\n*   Attributed to Harry Craddock, though variations exist.\n*   Evolved from simpler gin-based drinks.\n*   Gained popularity during the Prohibition era.",
+    "zh": "**起源：** 這款雞尾酒最早出現在 20 世紀初。\n\n*   歸功於哈利·克拉多克，但存在變體。\n*   從更簡單的琴酒飲料演變而來。\n*   在禁酒時期廣受歡迎。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow and cloudy",
+    "zh": "淡黃色和混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the botanical base of the cocktail.",
+        "zh": "提供雞尾酒的植物基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙味庫拉索"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor.",
+        "zh": "增加甜味和橙子味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and floral notes.",
+        "zh": "增加草本和花香。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

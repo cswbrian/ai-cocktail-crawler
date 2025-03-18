@@ -1,0 +1,147 @@
+{
+  "name": {
+    "en": "New York Sour",
+    "zh": "紐約酸酒"
+  },
+  "description": {
+    "en": "**Whiskey Sour Variation**\n\nA New York Sour is a variation of the classic Whiskey Sour, featuring:\n\n*   A float of dry red wine, typically a Cabernet Sauvignon or Shiraz\n*   Adds complexity and visual appeal\n*   Creates a layered flavor profile, from sour and whiskey-forward to fruity and tannic",
+    "zh": "**威士忌酸酒的變體**\n\n紐約酸酒是經典威士忌酸酒的變體，特色：\n\n*   漂浮一層乾紅葡萄酒，通常是卡本內蘇維翁或希拉\n*   增添複雜性和視覺吸引力\n*   創造分層的風味，從酸味和威士忌味到果味和單寧味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A variation on the Whiskey Sour, its exact origin is not definitively known.\n\n*   Likely emerged in the late 19th or early 20th century\n*   The addition of red wine is what distinguishes it\n*   Represents a bridge between the classic sour and more complex wine-based cocktails",
+    "zh": "**起源**: 威士忌酸酒的變體，確切起源尚不清楚。\n\n*   可能出現在19世紀末或20世紀初\n*   添加紅酒是其特色\n*   代表經典酸酒和更複雜的葡萄酒雞尾酒之間的橋樑"
+  },
+  "technique": {
+    "en": "Dry shake (if using egg white), shake with ice, strain into glass, float red wine on top.",
+    "zh": "先乾式搖盪（如果使用蛋白），再加冰搖盪，倒入杯中，將紅酒漂浮在頂部。"
+  },
+  "garnish": {
+    "en": "Orange peel or brandied cherry (optional)",
+    "zh": "橙皮或白蘭地酒漬櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Two-toned; base is amber, floating red wine layer on top",
+    "zh": "雙色調；底部為琥珀色，頂部漂浮著紅酒層"
+  },
+  "allergens": [
+    {
+      "en": "sulfites (in wine)",
+      "zh": "亞硫酸鹽（在葡萄酒中）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base",
+        "zh": "提供辛辣且濃郁的基底"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Red Wine (Cabernet Sauvignon or Shiraz)",
+        "zh": "乾紅葡萄酒（卡本內蘇維翁或希拉）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Floats on top for color and flavor",
+        "zh": "漂浮在頂部，增添色彩和風味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and brightness",
+        "zh": "增加酸味和明亮度"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sour",
+        "zh": "增加甜度以平衡酸味"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture (omit for vegan option)",
+        "zh": "增加絲滑的口感（素食者可省略）"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

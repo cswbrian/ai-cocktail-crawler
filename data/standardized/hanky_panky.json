@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Hanky Panky",
+    "zh": "惡作劇"
+  },
+  "description": {
+    "en": "**Aromatic and Bittersweet Classic**\n\nThe Hanky Panky is a classic cocktail created by Ada Coleman at the Savoy Hotel in London. It's a sophisticated and complex drink, featuring:\n\n*   A base of gin\n*   Sweet vermouth for depth\n*   Fernet-Branca for a bitter, herbal kick",
+    "zh": "**芳香和苦甜的經典**\n\nHanky Panky是由艾達·科爾曼在倫敦薩伏伊飯店創造的經典雞尾酒。這是一款精緻而複雜的飲品，具有以下特點：\n\n*   以琴酒為基底\n*   甜味美思增添深度\n*   Fernet-Branca帶來苦澀的草本味"
+  },
+  "historical_reference": {
+    "en": "**Created by Ada Coleman at the Savoy**\n\n*   Ada 'Coley' Coleman was a famous bartender at the American Bar in the Savoy Hotel, London.\n*   She created the Hanky Panky for Sir Charles Hawtrey, a famous actor.\n*   The name 'Hanky Panky' was reportedly Hawtrey's exclamation upon tasting the drink.",
+    "zh": "**由艾達·科爾曼在薩伏伊飯店創作**\n\n*   艾達·“科莉”·科爾曼是倫敦薩伏伊飯店美國酒吧的著名調酒師。\n*   她為著名演員查爾斯·霍特里爵士創作了Hanky Panky。\n*   據報導，“Hanky Panky”這個名字是霍特里在品嚐這款飲品時的驚呼。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass. Garnish with an orange peel twist.",
+    "zh": "將所有材料與冰塊一起攪拌，然後倒入冰鎮的玻璃杯中。用橙皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber color",
+    "zh": "清澈的深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜度和草本風味的複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Fernet-Branca",
+        "zh": "芙內布蘭卡香甜利口酒"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a strong bitter and herbal note.",
+        "zh": "增加強烈的苦味和草本味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

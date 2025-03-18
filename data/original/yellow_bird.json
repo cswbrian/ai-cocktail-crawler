@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Yellow Bird",
+    "zh": "黃鳥"
+  },
+  "description": {
+    "en": "**Tropical Delight**\n\nA classic Caribbean cocktail, known for its vibrant color and refreshing taste.\n\nKey characteristics:\n*   Blend of rum, orange liqueur, pineapple, and lime.\n*   Served chilled, often as a vacation drink.",
+    "zh": "**熱帶樂趣**\n\n經典的加勒比海雞尾酒，以其鮮豔的色彩和清爽的口感而聞名。\n\n主要特點：\n*   蘭姆酒、橙味利口酒、鳳梨和萊姆的混合。\n*   冷藏後飲用，通常作為度假飲品。"
+  },
+  "historical_reference": {
+    "en": "*Likely originated in the Caribbean*\n\nBelieved to be created in the latter half of the 20th century:\n\n*   Popularized in Caribbean resorts.\n*   Name possibly inspired by a Caribbean bird species or song.\n*   Recipe variations exist, but the core ingredients remain consistent.",
+    "zh": "*可能起源於加勒比海地區*\n\n據信是在20世紀後半葉創造的：\n\n*   在加勒比海度假勝地普及。\n*   名字可能受到加勒比海鳥類或歌曲的啟發。\n*   配方存在差異，但核心成分保持一致。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge or cherry",
+    "zh": "鳳梨角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or cocktail glass",
+    "zh": "冰鎮過的碟型香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Vibrant yellow, clear",
+    "zh": "鮮豔的黃色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and a light, slightly sweet flavor.",
+        "zh": "提供基底，帶來清淡、微甜的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "增加橙子的風味和甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Galliano",
+        "zh": "加利亞諾香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds vanilla and herbal notes and a layer of complexity.",
+        "zh": "增添香草和草本風味，以及一層複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

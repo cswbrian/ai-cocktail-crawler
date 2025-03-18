@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Gunsmoke",
+    "zh": "槍煙"
+  },
+  "description": {
+    "en": "**Bold and Smoky Classic**\n\nA potent mix of rye whiskey and smoky flavors, with:\n*   A touch of sweetness from the liqueur\n*   Bitters for complexity\n*   Smoked paprika garnish enhances the smoky notes",
+    "zh": "**大膽煙燻經典**\n\n黑麥威士忌和煙燻風味的強效混合，具有：\n*   利口酒帶來一絲甜味\n*   苦精增加複雜性\n*   煙燻辣椒粉裝飾增強煙燻味"
+  },
+  "historical_reference": {
+    "en": "While no definitive historical record exists for the Gunsmoke cocktail, it is likely a modern creation inspired by classic whiskey cocktails.\n\n*   Emerged in the late 20th or early 21st century\n*   Focuses on emphasizing the bolder flavors of rye whiskey.",
+    "zh": "雖然沒有關於 Gunsmoke 雞尾酒的明確歷史記錄，但它很可能是一種現代創作，靈感來自經典威士忌雞尾酒。\n\n*   出現於 20 世紀末或 21 世紀初\n*   專注於強調黑麥威士忌更大膽的風味。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain over a large ice cube.",
+    "zh": "與冰塊攪拌，然後過濾到大冰塊上。"
+  },
+  "garnish": {
+    "en": "Smoked paprika sprinkle",
+    "zh": "煙燻辣椒粉"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber, clear",
+    "zh": "深琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Smoked Liqueur",
+        "zh": "煙燻利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and smoky notes.",
+        "zh": "增添甜味和煙燻味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity.",
+        "zh": "增加深度和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

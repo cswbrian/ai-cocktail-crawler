@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Spicy Fifty",
+    "zh": "辛辣五十"
+  },
+  "description": {
+    "en": "**A Modern Classic**\n\nThe Spicy Fifty is a modern cocktail known for its balance of sweet, spicy, and tart flavors. It features:\n\n*   Vanilla vodka for a smooth base.\n*   Elderflower liqueur for floral notes and sweetness.\n*   Lime juice for acidity.\n*   Chili pepper for a spicy kick.",
+    "zh": "**現代經典**\n\nSpicy Fifty 是一款現代雞尾酒，以其甜、辣和酸味的平衡而聞名。特色：\n\n*   香草伏特加作為順滑的基底。\n*   接骨木花利口酒帶來花香和甜味。\n*   青檸汁帶來酸度。\n*   辣椒帶來辛辣味。"
+  },
+  "historical_reference": {
+    "en": "**Created by Salvatore Calabrese**\n\nThe Spicy Fifty was created by renowned bartender Salvatore Calabrese at The Donovan Bar in London. It quickly gained popularity for its unique flavor profile and has become a staple in modern cocktail menus.",
+    "zh": "**由 Salvatore Calabrese 創作**\n\nSpicy Fifty 由著名調酒師 Salvatore Calabrese 在倫敦的 The Donovan Bar 創作。它以其獨特的風味迅速獲得歡迎，並已成為現代雞尾酒單中的主打。"
+  },
+  "technique": {
+    "en": "Muddle chili pepper in a shaker. Add other ingredients and shake with ice. Double strain into a chilled glass.",
+    "zh": "在搖酒器中搗碎辣椒。加入其他成分並加冰搖晃。雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Thin chili slice or lime wedge.",
+    "zh": "薄辣椒片或青檸角。"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass.",
+    "zh": "冰鎮碟型香檳杯或馬丁尼杯。"
+  },
+  "appearance": {
+    "en": "Pale gold, slightly hazy, with a delicate foam head.",
+    "zh": "淡金色，略帶朦朧，帶有細膩的泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vanilla Vodka",
+        "zh": "香草伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic strength with a hint of vanilla.",
+        "zh": "提供基底風味和酒精強度，帶有淡淡的香草味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness and aromatic complexity.",
+        "zh": "增加花香甜味和芳香複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and spice.",
+        "zh": "增加酸度以平衡甜味和辛辣味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Red Chili Pepper",
+        "zh": "紅辣椒"
+      },
+      "unit": {
+        "en": "slice",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Muddled to release the spicy oils.",
+        "zh": "搗碎以釋放辛辣的油脂。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

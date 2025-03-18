@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Brut",
+    "zh": "布魯特"
+  },
+  "description": {
+    "en": "**A Sparkling Classic**\n\nThe Brut cocktail offers:\n*   Dry and refreshing profile\n*   Fine bubbles from the sparkling wine\n*   A simple yet elegant presentation, often served in a coupe or flute.",
+    "zh": "**經典氣泡飲品**\n\nBrut雞尾酒提供：\n*   乾爽清新的口感\n*   氣泡酒帶來的細緻氣泡\n*   簡約而優雅的呈現方式，通常以高腳杯或長笛杯盛裝。"
+  },
+  "historical_reference": {
+    "en": "**Early 20th Century Classic**\n\n*   Popularized during the early 1900s, enjoying its golden age in the roaring twenties.\n*   A simple combination of gin and sparkling wine.\n*   A lighter alternative to other champagne cocktails with liqueurs or other fortified wines.",
+    "zh": "**20世紀初的經典**\n\n*   在1900年代初期普及，在咆哮的二十年代享受其黃金時代。\n*   琴酒和氣泡酒的簡單結合。\n*   相較於其他添加利口酒或其他加強葡萄酒的香檳雞尾酒，是一種更清淡的選擇。"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except sparkling wine) with ice, strain into chilled glass, top with sparkling wine.",
+    "zh": "將所有材料（氣泡酒除外）與冰塊搖勻，濾入冰鎮的杯子中，然後加入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Lemon twist or orange twist",
+    "zh": "檸檬皮或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Champagne Flute",
+    "zh": "高腳杯或香檳長笛杯"
+  },
+  "appearance": {
+    "en": "Pale golden and effervescent",
+    "zh": "淡金色且起泡"
+  },
+  "allergens": [
+    {
+      "en": "Sulfites (in sparkling wine)",
+      "zh": "亞硫酸鹽（在氣泡酒中）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical base and structure to the cocktail.",
+        "zh": "為雞尾酒提供植物基底和結構。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness.",
+        "zh": "增加酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance acidity and booziness",
+        "zh": "增加甜度以平衡酸度和酒精味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

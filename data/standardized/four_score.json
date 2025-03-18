@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Four Score",
+    "zh": "四分"
+  },
+  "description": {
+    "en": "**A robust and complex variation on the Old Fashioned**\n\nThis cocktail combines the boldness of bourbon with the sweetness of maple syrup and the aromatic depth of walnut liqueur, creating a sophisticated and balanced drink.\n\n*   Bourbon forms the base, offering warmth and oak notes.\n*   Maple syrup adds a natural sweetness that complements the bourbon.\n*   Walnut liqueur introduces a nutty and slightly bitter element.\n*   Bitters balance the sweetness and add complexity.",
+    "zh": "**老式雞尾酒的濃郁而複雜的變體**\n\n這款雞尾酒結合了波本威士忌的濃烈、楓糖漿的甜味和核桃利口酒的芳香深度，創造出一種精緻而平衡的飲品。\n\n*   波本威士忌構成基底，提供溫暖和橡木的味道。\n*   楓糖漿增添了一種與波本威士忌相得益彰的天然甜味。\n*   核桃利口酒引入了堅果味和略帶苦味。\n*   苦精平衡了甜度並增加了複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Modern Interpretation**\n\nThe Four Score is a modern riff on the classic Old Fashioned, incorporating maple syrup and walnut liqueur to add depth and complexity to the traditional recipe.\n\n*   Evolved from the classic Old Fashioned, experimenting with alternative sweeteners and liqueurs.\n*   A contemporary take that caters to modern palates seeking richer and more nuanced flavors.",
+    "zh": "**現代詮釋**\n\nFour Score 是經典老式雞尾酒的現代演繹，融入了楓糖漿和核桃利口酒，為傳統配方增添了深度和複雜性。\n\n*   從經典的老式雞尾酒演變而來，嘗試使用替代甜味劑和利口酒。\n*   一種迎合現代味蕾的當代風味，追求更豐富和更細緻的味道。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into glass. Garnish with an orange peel.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入杯中。用橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber with orange hues",
+    "zh": "清澈，深琥珀色帶橙色色調"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich, oaky base of the cocktail.",
+        "zh": "提供雞尾酒濃郁的橡木基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Walnut Liqueur",
+        "zh": "核桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a nutty depth and subtle bitterness.",
+        "zh": "增添堅果的深度和微妙的苦味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maple Syrup",
+        "zh": "楓糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a unique flavor profile.",
+        "zh": "增添甜味和獨特的風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balance.",
+        "zh": "增加複雜性和平衡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

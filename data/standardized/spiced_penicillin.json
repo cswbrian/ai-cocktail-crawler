@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Spiced Penicillin",
+    "zh": "香料盤尼西林"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA contemporary classic known for its balance of sweet, sour, and spicy flavors, featuring:\n*   Scotch whisky for a smoky base\n*   Fresh ginger and honey for a spicy and sweet element\n*   Lemon juice for brightness and acidity",
+    "zh": "**現代經典雞尾酒**\n\n以其甜、酸和辣味平衡而聞名的現代經典，特色：\n* 蘇格蘭威士忌帶來煙熏基底\n* 新鮮薑和蜂蜜帶來辛辣和甜味\n* 檸檬汁帶來明亮感和酸度"
+  },
+  "historical_reference": {
+    "en": "**Created by Sam Ross at Milk & Honey in New York City in 2005**\n\nA modern classic cocktail known for its medicinal qualities, as well as the mixture of sweet, sour, and smoke. The name is a play on the purported health benefits of the ingredients and their ability to soothe a sore throat, like the antibiotic penicillin.",
+    "zh": "**由薩姆·羅斯於 2005 年在紐約市的 Milk & Honey 創造**\n\n一種現代經典雞尾酒，以其藥用價值以及甜、酸和煙熏的混合而聞名。 這個名字取自成分的假定健康益處，以及它們像抗生素青黴素一樣舒緩喉嚨痛的能力。"
+  },
+  "technique": {
+    "en": "Shake blended scotch, lemon juice, and honey-ginger syrup with ice. Strain into a rocks glass with a large ice cube. Float Islay scotch on top.",
+    "zh": "將混合蘇格蘭威士忌、檸檬汁和蜂蜜薑糖漿與冰塊搖勻。 濾入裝有大冰塊的岩石杯中。 將艾雷島蘇格蘭威士忌浮在頂部。"
+  },
+  "garnish": {
+    "en": "Candied ginger or fresh ginger slice",
+    "zh": "糖漬薑或新鮮薑片"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Cloudy amber liquid with a frothy top and a ginger slice garnish.",
+    "zh": "混濁的琥珀色液體，頂部有泡沫，並以薑片裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor with malty and slightly smoky notes.",
+        "zh": "提供基底風味，帶有麥芽和淡淡的煙熏味。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        },
+        {
+          "en": "malted barley",
+          "zh": "麥芽"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "scottish",
+          "zh": "蘇格蘭"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Islay Single Malt Scotch",
+        "zh": "艾雷島單一麥芽蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Floated on top to add a layer of intense smokiness.",
+        "zh": "浮在頂部，增加濃郁的煙熏味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Honey-Ginger Syrup",
+        "zh": "蜂蜜薑糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a spicy ginger flavor.",
+        "zh": "增加甜味和辛辣的薑味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

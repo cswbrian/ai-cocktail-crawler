@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Spaghett",
+    "zh": "斯帕蓋蒂"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA light and bubbly drink, perfect for warm weather:\n\n*   Easy to prepare\n*   Low in alcohol\n*   Visually appealing",
+    "zh": "**簡單又清爽的雞尾酒**\n\n一款輕盈且充滿氣泡的飲品，非常適合溫暖的天氣：\n\n*   易於準備\n*   低酒精含量\n*   視覺上吸引人"
+  },
+  "historical_reference": {
+    "en": "**Contemporary Cocktail**\n\n*   A variation of the Aperol Spritz\n*   Origin is unclear, but gained popularity in the 2010s\n*   Likely named for its ease of drinking",
+    "zh": "**現代雞尾酒**\n\n*   Aperol Spritz 的變體\n*   起源不明，但在 2010 年代開始流行\n*   可能因其易飲性而得名"
+  },
+  "technique": {
+    "en": "Build in glass over ice. Top with soda water",
+    "zh": "在裝有冰塊的杯中調製。最後加入蘇打水"
+  },
+  "garnish": {
+    "en": "Orange slice or olive",
+    "zh": "橙片或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or highball glass",
+    "zh": "葡萄酒杯或高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, fizzy, with a frothy head",
+    "zh": "淡黃色，氣泡豐富，帶有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Aperol",
+        "zh": "阿佩羅酒"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds a bitter-orange flavor and a vibrant color.",
+        "zh": "增添苦橙風味和鮮豔色彩。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Provides dryness, fizz and balances the sweetness.",
+        "zh": "提供乾澀、氣泡並平衡甜度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

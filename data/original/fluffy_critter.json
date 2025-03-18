@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Fluffy Critter",
+    "zh": "毛茸茸的小動物"
+  },
+  "description": {
+    "en": "**Sweet and Fruity Treat**\n\nA creamy and refreshing cocktail that's both sweet and fruity.\n\n*   Perfect for dessert or a casual drink.\n*   The grenadine gives it a beautiful pink color.",
+    "zh": "**甜蜜水果款待**\n\n這是一款奶油般清爽的雞尾酒，既甜美又帶有水果風味。\n\n*   非常適合當作甜點或休閒飲品。\n*   石榴糖漿賦予其美麗的粉紅色。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A modern creation with no clear historical record.\n\n*   Likely developed in the mid-20th century.\n*   Appeals to those who enjoy sweeter, less alcoholic drinks.",
+    "zh": "**起源**: 現代創作，沒有明確的歷史記錄。\n\n*   可能是在20世紀中葉發展起來的。\n*   吸引那些喜歡更甜、酒精含量較低的飲料的人。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or Highball",
+    "zh": "颶風杯或高球杯"
+  },
+  "appearance": {
+    "en": "Opaque, light pink, frothy",
+    "zh": "不透明，淡粉色，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and tropical notes.",
+        "zh": "提供基酒和熱帶風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶霜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides creaminess and coconut flavor.",
+        "zh": "提供奶油味和椰子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "增加甜味和顏色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "name": {
+    "en": "Moose Milk",
+    "zh": "麋鹿奶"
+  },
+  "description": {
+    "en": "**Rich and Decadent Holiday Drink**\n\nA creamy and warming beverage, often enjoyed during the winter months.  Variations exist, but the core ingredients create a comforting and indulgent experience.\n\n*   Traditionally served warm.\n*   Variations can include coffee or chocolate liqueur.\n*   Often associated with festive gatherings.",
+    "zh": "**濃郁而頹廢的節日飲品**\n\n一種奶油味濃郁且溫暖的飲料，通常在冬季享用。存在多種變化，但核心成分創造出舒適和放縱的體驗。\n\n*   傳統上是溫熱飲用。\n*   變化可以包括咖啡或巧克力利口酒。\n*   通常與節日聚會相關聯。"
+  },
+  "historical_reference": {
+    "en": "**Origins Uncertain, Likely a Holiday Tradition**\n\n*   Moose Milk is a general name for various creamy, boozy beverages.\n*   Often served in the military, particularly during the holidays.\n*   Recipes vary widely, indicating a folk tradition rather than a specific invention.",
+    "zh": "**起源不確定，可能是一種節日傳統**\n\n*   Moose Milk是各種奶油味濃郁的酒精飲料的通用名稱。\n*   經常在軍隊中供應，尤其是在節日期間。\n*   配方差異很大，表明這是一種民間傳統，而不是特定的發明。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a saucepan and heat gently, stirring until warm. Do not boil. Alternatively, combine all ingredients in a shaker with ice, shake, and strain into a glass. Warm or cold as preferred.",
+    "zh": "將所有成分放入平底鍋中，輕輕加熱，攪拌至溫熱。 不要煮沸。 或者，將所有成分與冰塊混合在搖酒器中，搖晃，然後過濾到玻璃杯中。 依喜好選擇溫熱或冰鎮。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or chocolate shavings",
+    "zh": "磨碎的肉荳蔻或巧克力屑"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heat-resistant glass",
+    "zh": "馬克杯或耐熱玻璃杯"
+  },
+  "appearance": {
+    "en": "Creamy, opaque, off-white to light brown",
+    "zh": "奶油色，不透明，灰白色至淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a robust and warming base with molasses notes.",
+        "zh": "提供濃郁而溫暖的基底，帶有糖蜜味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a coffee flavor which brings the drink together",
+        "zh": "增加咖啡風味，將飲料融合在一起"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Whole Milk",
+        "zh": "全脂牛奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy base and body of the drink.",
+        "zh": "提供飲料的奶油基底和酒體。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweetened Condensed Milk",
+        "zh": "煉乳"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and contributes to the creamy texture.",
+        "zh": "增加甜度並有助於奶油般的質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "香草精"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the sweetness and adds a warm, comforting flavor.",
+        "zh": "增強甜度並增加溫暖、舒適的風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

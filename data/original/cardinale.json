@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Cardinale",
+    "zh": "紅衣主教"
+  },
+  "description": {
+    "en": "**An elegant, bitter-sweet cocktail**\n\nThe Cardinale is a variation of the Negroni, replacing sweet vermouth with dry vermouth for a drier, more bitter profile.\n\n*   Simple to make.\n*   Sophisticated flavor.",
+    "zh": "**優雅、苦甜的雞尾酒**\n\n紅衣主教是一種尼格羅尼的變體，用幹味美思代替甜味美思，以獲得更幹、更苦的味道。\n\n*   簡單製作。\n*   精緻的風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in the early 1950s at the Excelsior Hotel in Rome, Italy, by barman Vittorio Scarselli.\n\n*   Named after the red robes worn by Cardinals in the Catholic Church.\n*   A variation on the Negroni, using dry vermouth instead of sweet vermouth.",
+    "zh": "**起源**：由調酒師Vittorio Scarselli於 1950 年代初期在義大利羅馬的 Excelsior 酒店創作。\n\n*   以天主教會紅衣主教穿的紅色長袍命名。\n*   尼格羅尼的一種變體，使用幹味美思代替甜味美思。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into glass with ice. Garnish with orange peel.",
+    "zh": "將所有材料與冰塊攪拌均勻，濾入裝有冰塊的玻璃杯中。用橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep red",
+    "zh": "清澈的深紅色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "提供基酒和植物的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and color.",
+        "zh": "增加苦味和顏色。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增加幹味和草本香氣。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

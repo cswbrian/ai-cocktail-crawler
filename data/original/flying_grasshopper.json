@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Flying Grasshopper",
+    "zh": "飛天蚱蜢"
+  },
+  "description": {
+    "en": "**A Sweet and Refreshing After-Dinner Drink**\n\nThe Flying Grasshopper is a variation on the classic Grasshopper cocktail, adding a float of coffee liqueur for an extra layer of flavor.\n\n*   Served chilled, typically in a coupe or martini glass.\n*   Known for its minty, chocolatey, and creamy profile.\n*   Often enjoyed as a dessert cocktail.",
+    "zh": "**一款香甜清爽的餐後飲品**\n\n飛天蚱蜢是經典蚱蜢雞尾酒的變體，添加了咖啡利口酒，增加了一層風味。\n\n*   冰鎮後飲用，通常在高腳杯或馬丁尼杯中。\n*   以其薄荷味、巧克力味和奶油味而聞名。\n*   通常作為甜點雞尾酒享用。"
+  },
+  "historical_reference": {
+    "en": "The Grasshopper cocktail originated at *Tujague's* in New Orleans in 1918. The Flying Grasshopper is a modern variation. \n\n*Meant to be an after dinner creamy and minty digestif.",
+    "zh": "蚱蜢雞尾酒於 1918 年起源於紐奧良的*Tujague's*。 飛天蚱蜢是一種現代變體。\n\n* intended to be an after dinner creamy and minty digestif."
+  },
+  "technique": {
+    "en": "Shake base spirit and Green Mint Liqueur with ice, strain into a glass, and float the coffee liqueur on top.",
+    "zh": "將基酒和綠薄荷酒與冰塊搖勻，濾入杯中，然後將咖啡利口酒漂浮在頂部。"
+  },
+  "garnish": {
+    "en": "Grated chocolate or mint sprig",
+    "zh": "磨碎的巧克力或薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Opaque, pale green, creamy",
+    "zh": "不透明，淡綠色，奶油狀"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Spirit",
+        "zh": "白酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base.",
+        "zh": "提供酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Green Mint Liqueur",
+        "zh": "綠薄荷酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds mint flavor and green color.",
+        "zh": "添加薄荷味和綠色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Floated on top for coffee flavor.",
+        "zh": "漂浮在頂部以增添咖啡風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Champagne Cocktail",
+    "zh": "香檳雞尾酒"
+  },
+  "description": {
+    "en": "**Classic Sparkling Cocktail**\n\nA simple yet elegant combination that delivers:\n* Bubbly texture from champagne\n* Suble sweetness to enhance the bubbly foundation",
+    "zh": "**經典氣泡雞尾酒**\n\n一個簡單而優雅的組合，提供：\n* 香檳的氣泡口感\n* 細膩的甜味增強氣泡基礎"
+  },
+  "historical_reference": {
+    "en": "**Origins in the 19th Century**\n\n* Popularized in the late 1800s\n* Often served as a celebration drink\n* Simple recipes varied by region",
+    "zh": "**起源於19世紀**\n\n* 1800年代後期開始流行\n* 經常作為慶祝飲品供應\n* 簡單配方因地區而異"
+  },
+  "technique": {
+    "en": "Place sugar cube in glass, add bitters, top with chilled champagne.",
+    "zh": "將方糖放入杯中，加入苦精，倒入冰鎮香檳。"
+  },
+  "garnish": {
+    "en": "Sugar cube (optional), lemon twist (optional)",
+    "zh": "方糖（可選），檸檬皮（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Pale golden, effervescent",
+    "zh": "淡金色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Champagne",
+        "zh": "香檳"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the bubbly foundation of the cocktail.",
+        "zh": "構成雞尾酒的氣泡基礎。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fizz as the champagne dissolves it.",
+        "zh": "當香檳溶解方糖時，會增加甜味和氣泡。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds flavor complexity.",
+        "zh": "增添風味的複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

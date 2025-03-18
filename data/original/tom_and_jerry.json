@@ -1,0 +1,176 @@
+{
+  "name": {
+    "en": "Tom and Jerry",
+    "zh": "湯姆與傑利"
+  },
+  "description": {
+    "en": "**Warm and Festive Holiday Drink**\n\nA rich and comforting drink, perfect for cold weather.  Features:\n*   A base of egg batter, spices, and hot milk.\n*   Fortified with rum and cognac.\n*   Served warm with a sprinkle of nutmeg.",
+    "zh": "**溫暖且具節慶氣氛的假日飲品**\n\n濃郁且舒適的飲品，非常適合寒冷天氣。特色：\n* 以雞蛋麵糊、香料和熱牛奶為基底。\n* 加入蘭姆酒和干邑強化。\n* 溫熱供應，並撒上肉荳蔻。"
+  },
+  "historical_reference": {
+    "en": "**19th-Century Origins**\n\n*   Named after the characters from Pierce Egan's *Life in London* (1821).\n*   Popularized in the United States during the Victorian era.\n*   A communal and convivial drink served during the holidays.",
+    "zh": "**19世紀起源**\n\n* 以皮爾斯·伊根的《倫敦生活》（1821年）中的角色命名。\n* 在維多利亞時代的美國廣為流行。\n* 一種在節日期間供應的共享歡樂飲品。"
+  },
+  "technique": {
+    "en": "Combine ingredients; mix well; top with hot milk and garnish.",
+    "zh": "混合所有材料，充分攪拌，倒入熱牛奶並裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Heat-resistant mug",
+    "zh": "耐熱馬克杯"
+  },
+  "appearance": {
+    "en": "Frothy, creamy, pale yellow",
+    "zh": "起泡、奶油狀、淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "Eggs",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth and warmth.",
+        "zh": "增加深度和溫暖感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruit and spice notes.",
+        "zh": "增加水果和香料的味道。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture to the batter.",
+        "zh": "為麵糊增加濃郁度和質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Sweetens the batter.",
+        "zh": "使麵糊變甜。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Ground Cinnamon",
+        "zh": "肉桂粉"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds warmth and spice.",
+        "zh": "增加溫暖感和香料味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Ground Clove",
+        "zh": "丁香粉"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds warmth and spice.",
+        "zh": "增加溫暖感和香料味。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Milk",
+        "zh": "熱牛奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the liquid base and creaminess.",
+        "zh": "提供液體基底和乳脂。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

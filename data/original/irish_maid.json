@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Irish Maid",
+    "zh": "愛爾蘭女僕"
+  },
+  "description": {
+    "en": "A refreshing and modern twist on the classic Gin Maid cocktail, substituting Irish whiskey for gin. The Irish Maid balances the whiskey's character with the sweetness of elderflower liqueur, the acidity of lemon, and the cooling effect of cucumber. It's a light and easy-drinking cocktail.",
+    "zh": "這是一款經典 Gin Maid 雞尾酒的清新現代版本，將愛爾蘭威士忌代替琴酒。愛爾蘭女僕以接骨木花利口酒的甜味、檸檬的酸度和黃瓜的清涼效果平衡了威士忌的特性。 這是一款清淡易飲的雞尾酒。"
+  },
+  "historical_reference": {
+    "en": "The Irish Maid cocktail is a modern creation, inspired by the Gin Maid and other similar sour cocktails. Its exact origin is not widely documented, but it has gained popularity as a contemporary Irish whiskey cocktail.",
+    "zh": "愛爾蘭女僕雞尾酒是一種現代的創作，靈感來自 Gin Maid 和其他類似的酸味雞尾酒。 其確切起源沒有被廣泛記錄，但它作為一種現代愛爾蘭威士忌雞尾酒而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Muddle cucumber, add remaining ingredients, shake with ice, and strain into glass.",
+    "zh": "將黃瓜搗碎，加入剩餘的材料，加冰搖勻，然後濾入玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Cucumber slice or fan",
+    "zh": "黃瓜片或扇形"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or Old-fashioned glass",
+    "zh": "岩石杯或古典杯"
+  },
+  "appearance": {
+    "en": "Pale yellow to light green, clear",
+    "zh": "淡黃色到淺綠色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and backbone of the cocktail with notes of fruit and malt.",
+        "zh": "提供雞尾酒的基礎風味，帶有水果和麥芽的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness and aromatic complexity.",
+        "zh": "增添花香甜味和芳香複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and enhance the flavors.",
+        "zh": "增加酸度以平衡甜度並增強風味。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Cucumber slices",
+        "zh": "黃瓜片"
+      },
+      "unit": {
+        "en": "slices",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Muddled to add a fresh, cooling element to the drink.",
+        "zh": "搗碎以增加飲料的新鮮感和清涼感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

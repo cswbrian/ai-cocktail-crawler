@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Cremat",
+    "zh": "克雷馬特"
+  },
+  "description": {
+    "en": "**Traditional Catalan Beverage**\n\nA flaming spiced rum drink traditionally prepared outdoors during festivals and gatherings in Catalonia, Spain. It combines rum, sugar, coffee beans, lemon peel, and cinnamon, which are then set aflame to infuse the flavors.",
+    "zh": "**傳統加泰隆尼亞飲品**\n\n一種火焰香料蘭姆酒飲品，傳統上在西班牙加泰隆尼亞的節慶和聚會期間在戶外準備。它結合了蘭姆酒、糖、咖啡豆、檸檬皮和肉桂，然後點燃火焰以融合風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Catalonia, Spain.\n\n*   Rooted in local traditions and festivals.\n*   Often prepared communally and shared among participants.\n*   The flaming ritual is considered an integral part of the experience.",
+    "zh": "**起源**: 西班牙加泰隆尼亞。\n\n*   植根於當地傳統和節慶活動。\n*   通常由社區共同準備，並在參與者之間分享。\n*   火焰儀式被認為是體驗中不可或缺的一部分。"
+  },
+  "technique": {
+    "en": "Place sugar, coffee beans, lemon peel, and cinnamon in a heatproof bowl. Pour rum over the ingredients. Carefully ignite the rum and let it burn for a few minutes, stirring gently. Ladle into individual cups and serve warm.",
+    "zh": "將糖、咖啡豆、檸檬皮和肉桂放入耐熱碗中。將蘭姆酒倒在材料上。小心地點燃蘭姆酒，讓它燃燒幾分鐘，輕輕攪拌。用勺子舀入個人杯中，趁熱上桌。"
+  },
+  "garnish": {
+    "en": "Lemon peel, coffee beans, cinnamon stick (optional)",
+    "zh": "檸檬皮、咖啡豆、肉桂棒（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Earthenware bowl or heatproof glass",
+    "zh": "陶碗或耐熱玻璃杯"
+  },
+  "appearance": {
+    "en": "Dark brown, opaque liquid with visible flames.",
+    "zh": "深棕色、不透明的液體，帶有可見的火焰。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 200,
+      "name": {
+        "en": "Rum",
+        "zh": "蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and ignites to create the flame.",
+        "zh": "提供酒精基底並點燃以產生火焰。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds sweetness and caramelizes when burned.",
+        "zh": "增加甜度，並在燃燒時焦糖化。"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Coffee Beans",
+        "zh": "咖啡豆"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a coffee flavor.",
+        "zh": "增添咖啡風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon Peel",
+        "zh": "檸檬皮"
+      },
+      "unit": {
+        "en": "strip",
+        "zh": "條"
+      },
+      "rationale": {
+        "en": "Adds citrus notes.",
+        "zh": "增添柑橘風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Cinnamon Stick",
+        "zh": "肉桂棒"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds spice and aroma.",
+        "zh": "增加香料和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

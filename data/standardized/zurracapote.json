@@ -1,0 +1,173 @@
+{
+  "name": {
+    "en": "Zurracapote",
+    "zh": "祖拉卡波特"
+  },
+  "description": {
+    "en": "**Refreshing Spanish Wine Punch**\n\nZurracapote is a traditional Spanish wine punch, similar to Sangria but with its own unique character. Key elements include:\n*   Macerated fruit for enhanced flavor\n*   Spice infusion for added complexity\n*   Served chilled, often at festivals and gatherings",
+    "zh": "**清爽的西班牙葡萄酒潘趣酒**\n\nZurracapote 是一種傳統的西班牙葡萄酒潘趣酒，類似於桑格利亞汽酒，但具有其獨特的特色。主要元素包括：\n*   浸泡水果以增強風味\n*   注入香料以增加複雜性\n*   冷藏後飲用，通常在節日和聚會上供應"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Spain, particularly La Rioja region.\n\n*   A traditional summer beverage, often associated with festivals and celebrations.\n*   Recipes vary by region and family, with different fruits and spices used.\n*   Evidence suggests its consumption dates back centuries.",
+    "zh": "**起源**: 西班牙，尤其是里奧哈地區。\n\n*   一種傳統的夏季飲品，通常與節日和慶祝活動有關。\n*   食譜因地區和家庭而異，使用不同的水果和香料。\n*   有證據表明它的消費可以追溯到幾個世紀前。"
+  },
+  "technique": {
+    "en": "Macerate chopped fruit with sugar, spices, and brandy for several hours or overnight. Add red wine and chill before serving.",
+    "zh": "將切碎的水果與糖、香料和白蘭地浸泡數小時或過夜。加入紅酒，冷藏後飲用。"
+  },
+  "garnish": {
+    "en": "Orange slices, lemon slices, and other macerated fruit.",
+    "zh": "橙片、檸檬片和其他浸泡過的水果。"
+  },
+  "serve_in_glass": {
+    "en": "Large punch bowl or pitcher",
+    "zh": "大型潘趣酒碗或水罐"
+  },
+  "appearance": {
+    "en": "Deep red, fruity, and often with visible pieces of fruit.",
+    "zh": "深紅色，果味濃郁，通常帶有可見的果塊。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity to the flavor.",
+        "zh": "增加風味的深度和複雜性。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 750,
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic red wine flavor.",
+        "zh": "提供酒精基底和典型的紅酒風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon",
+        "zh": "檸檬"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and acidity.",
+        "zh": "增加柑橘味和酸度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange",
+        "zh": "橙"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus flavor.",
+        "zh": "增加甜味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Apple",
+        "zh": "蘋果"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds fruity sweetness and body.",
+        "zh": "增加水果的甜味和酒體。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Peach",
+        "zh": "桃子"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds fruity sweetness and body.",
+        "zh": "增加水果的甜味和酒體。"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Sweetens the mixture and balances acidity.",
+        "zh": "使混合物變甜並平衡酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

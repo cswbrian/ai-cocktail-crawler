@@ -1,0 +1,151 @@
+{
+  "name": {
+    "en": "Watermelon Refresher",
+    "zh": "西瓜清爽飲"
+  },
+  "description": {
+    "en": "**A Summery Delight**\n\nThis Watermelon Refresher is a light and hydrating cocktail perfect for warm weather. It balances the sweetness of watermelon with a hint of citrus and herbal notes.\n\n*   Fresh watermelon juice for a fruity base\n*   Lime juice for a tangy zest\n*   Mint leaves for a refreshing aroma",
+    "zh": "**夏日樂趣**\n\n這款西瓜清爽飲品是一款輕盈保濕的雞尾酒，非常適合溫暖的天氣。 它平衡了西瓜的甜味，並帶有淡淡的柑橘和草本味。\n\n*   新鮮西瓜汁作為水果基底\n*   青檸汁帶來酸味\n*   薄荷葉帶來清新的香氣"
+  },
+  "historical_reference": {
+    "en": "While not a classic in the traditional sense, watermelon cocktails have gained popularity in recent years as bartenders explore fresh, seasonal ingredients. This specific recipe is a modern creation, highlighting the natural flavors of watermelon.",
+    "zh": "雖然不是傳統意義上的經典，但近年來，隨著調酒師探索新鮮的時令食材，西瓜雞尾酒越來越受歡迎。 這個具體的食譜是現代的創作，突出了西瓜的天然風味。"
+  },
+  "technique": {
+    "en": "Muddle mint leaves gently. Add all ingredients to a shaker with ice. Shake well and strain into a glass filled with ice.",
+    "zh": "輕輕地揉捏薄荷葉。 將所有材料與冰塊一起加入搖酒器中。 充分搖勻並濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Watermelon wedge and mint sprig",
+    "zh": "西瓜角和薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Collins glass",
+    "zh": "高球杯或柯林斯杯"
+  },
+  "appearance": {
+    "en": "Light pink to red, clear and refreshing",
+    "zh": "淺粉紅色至紅色，清澈且令人耳目一新"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean base for the other flavors.",
+        "zh": "為其他風味提供乾淨的基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Fresh Watermelon Juice",
+        "zh": "新鮮西瓜汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and sweetness.",
+        "zh": "提供主要的風味和甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing and aromatic element.",
+        "zh": "增添清新和芳香的元素。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "添加甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "name": {
+    "en": "Singapore Sling",
+    "zh": "新加坡司令"
+  },
+  "description": {
+    "en": "**A Classic Tropical Cocktail**\n\nThe Singapore Sling is a complex and refreshing cocktail with a balance of sweet, sour, and herbal flavors. It features:\n*   Gin as the base spirit\n*   Cherry liqueur (Cherry Heering) for sweetness and color\n*   Benedictine for herbal and honeyed notes\n*   Cointreau for citrus complexity\n*   Pineapple juice for tropical flavor\n*   Lime juice for acidity\n*   A dash of Angostura bitters for added depth",
+    "zh": "**經典熱帶雞尾酒**\n\n新加坡司令是一款複雜而清爽的雞尾酒，融合了甜、酸和草本風味。 特色包括：\n*   以琴酒為基酒\n*   櫻桃利口酒（櫻桃希林）帶來甜味和色彩\n*   法國廊酒帶來草本和蜂蜜味\n*   君度橙酒帶來柑橘的複雜性\n*   鳳梨汁帶來熱帶風味\n*   萊姆汁帶來酸度\n*   安格式苦味酒增添風味深度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Singapore, Raffles Hotel, early 20th Century.\n\n*   Created by bartender Ngiam Tong Boon.\n*   Originally conceived as a 'ladies' drink.\n*   Recipe variations exist, but the core ingredients remain consistent.",
+    "zh": "**起源**: 新加坡，萊佛士酒店，20 世紀初。\n\n*   由調酒師嚴崇文 (Ngiam Tong Boon) 創作。\n*   最初被設計為“女士飲品”。\n*   配方存在變化，但核心成分保持一致。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a hurricane glass filled with ice. Garnish.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入裝滿冰塊的颶風杯中。 裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and Maraschino cherry",
+    "zh": "鳳梨角和醃漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass",
+    "zh": "颶風杯"
+  },
+  "appearance": {
+    "en": "Pink to reddish hue, frothy",
+    "zh": "粉紅色至微紅色色調，起泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic backbone and botanical complexity.",
+        "zh": "提供主要的酒精骨幹和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds cherry flavor, sweetness, and color.",
+        "zh": "增添櫻桃風味、甜味和色彩。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and complexity.",
+        "zh": "增添橙子風味和複雜性。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and honeyed notes.",
+        "zh": "增添草本和蜂蜜的味道。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and body.",
+        "zh": "增加熱帶甜味和酒體。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity to balance the sweetness.",
+        "zh": "提供酸度，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a touch of bitterness and complexity.",
+        "zh": "增添一絲苦味和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

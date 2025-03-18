@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Spiced Horsefeather",
+    "zh": "香料馬尾"
+  },
+  "description": {
+    "en": "**Spiced Horsefeather Cocktail**\n\nA refreshing twist on the classic Horsefeather with a spicy kick.\n\n*   Bourbon provides a smooth base.\n*   Ginger beer adds spice and effervescence.\n*   Bitters and lime contribute complexity and balance.",
+    "zh": "**香料馬尾雞尾酒**\n\n經典馬尾的清爽變奏，帶有辛辣味。\n\n*   波本威士忌提供順滑的基底。\n*   薑汁啤酒增添辛辣和氣泡感。\n*   苦精和萊姆有助於增加複雜度和平衡感。"
+  },
+  "historical_reference": {
+    "en": "The Horsefeather is a simple highball cocktail that originated in Lawrence, Kansas. It's believed to be a variation of the Moscow Mule, with whiskey replacing vodka. Adding bitters gives it a 'spiced' quality. \n\n*   **Origin:** Lawrence, Kansas\n*   **Type:** Highball cocktail\n*   **Related:** Moscow Mule",
+    "zh": "馬尾是一種簡單的高杯雞尾酒，起源於堪薩斯州勞倫斯。它被認為是莫斯科騾子的變體，用威士忌代替伏特加。添加苦精使其具有“香料”的味道。\n\n*   **起源：**堪薩斯州勞倫斯\n*   **類型：**高杯雞尾酒\n*   **相關：**莫斯科騾子"
+  },
+  "technique": {
+    "en": "Build in glass. Add bourbon, bitters, and lime juice to a highball glass filled with ice. Top with ginger beer and stir gently. Garnish with a lime wedge.",
+    "zh": "在高杯中調製。在裝滿冰塊的高杯中加入波本威士忌、苦精和萊姆汁。頂部加入薑汁啤酒，輕輕攪拌。用萊姆角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Pale straw color with visible bubbles and lime garnish.",
+    "zh": "淡稻草色，帶有可見的氣泡和萊姆裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and warmth.",
+        "zh": "提供基酒和溫暖感。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 3,
+      "name": {
+        "en": "Dashes Angostura Bitters",
+        "zh": "安格斯圖拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice notes.",
+        "zh": "增加複雜性和香料味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balance.",
+        "zh": "提供酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

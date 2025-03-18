@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en": "Fuzzy Navel",
+    "zh": "模糊的肚臍"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA straightforward mix of peach schnapps and orange juice, resulting in a sweet and fruity drink:\n\n*   Easy to make and widely popular\n*   Ideal for casual settings and warm weather",
+    "zh": "**簡單清爽的雞尾酒**\n\n水蜜桃香甜酒和柳橙汁的簡單混合，帶來香甜的水果風味：\n\n*   容易製作且廣受歡迎\n*   適合休閒場合和溫暖的天氣"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Believed to have originated in the 1980s\n\n*   Popularized for its simplicity and sweet taste\n*   Name combines \"Fuzzy\" (referring to the peach fuzz) and \"Navel\" (a type of orange)",
+    "zh": "**起源**: 據信起源於1980年代\n\n*   因其簡單和甜味而普及\n*   名稱結合了“Fuzzy”（指水蜜桃的絨毛）和“Navel”（一種橙子）"
+  },
+  "technique": {
+    "en": "Pour peach schnapps and orange juice into a highball glass filled with ice. Stir gently.",
+    "zh": "將水蜜桃香甜酒和柳橙汁倒入裝滿冰塊的高球杯中。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry (optional)",
+    "zh": "橙片或櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Opaque, bright orange",
+    "zh": "不透明，鮮橙色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Peach Schnapps",
+        "zh": "水蜜桃香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary peach flavor and alcoholic base.",
+        "zh": "提供主要的水蜜桃風味和酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and balances the sweetness of the schnapps.",
+        "zh": "增加柑橘味，平衡香甜酒的甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

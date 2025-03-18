@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Spritzer",
+    "zh": "氣泡酒"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA light and bubbly drink, perfect for warm weather, featuring:\n*   White wine as the base.\n*   Sparkling water for effervescence.\n*   Optional additions of fruit, herbs, or liqueurs for added flavor.",
+    "zh": "**簡單清爽的雞尾酒**\n\n一種輕盈且充滿氣泡的飲料，非常適合溫暖的天氣，特色：\n*   以白酒為基底。\n*   加入氣泡水產生氣泡。\n*   可選擇添加水果、香草或利口酒以增加風味。"
+  },
+  "historical_reference": {
+    "en": "**European Origins**\n\n*   The spritzer originated in the 19th century in Europe.\n*   Originally a way to dilute wine with sparkling water.\n*   Became popular as a light and refreshing summer drink.",
+    "zh": "**歐洲起源**\n\n*   Spritzer起源於19世紀的歐洲。\n*   最初是為了用氣泡水稀釋葡萄酒。\n*   後來成為一種輕盈清爽的夏季飲品而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Pour white wine into glass with ice. Top with sparkling water. Add fruit liqueur (optional). Garnish.",
+    "zh": "將白酒倒入裝有冰塊的杯子中。 倒入氣泡水。 加入水果利口酒（可選）。 裝飾。"
+  },
+  "garnish": {
+    "en": "Optional: Fruit slice or herb sprig (e.g., lemon, orange, berries, mint).",
+    "zh": "可選：水果切片或香草枝（例如：檸檬、橙子、莓果、薄荷）。"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or highball glass",
+    "zh": "葡萄酒杯或高球杯"
+  },
+  "appearance": {
+    "en": "Effervescent, clear liquid, color varies based on additions.",
+    "zh": "起泡、清澈的液體，顏色取決於添加物。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic White Wine",
+        "zh": "一般白酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the alcoholic base of the drink, providing a light and crisp foundation.",
+        "zh": "構成飲品的酒精基底，提供清淡爽脆的基礎。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Fruit Liqueur",
+        "zh": "一般水果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Optional. Adds sweetness and additional flavour.",
+        "zh": "可選。 增加甜味和額外的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the wine, making it lighter.",
+        "zh": "增加氣泡並稀釋葡萄酒，使其更清淡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

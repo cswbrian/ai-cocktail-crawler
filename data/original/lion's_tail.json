@@ -1,0 +1,158 @@
+{
+  "name": {
+    "en": "Lion's Tail",
+    "zh": "獅尾"
+  },
+  "description": {
+    "en": "**A pre-Prohibition sour showcasing bourbon and allspice.**\n\nThe Lion's Tail is a somewhat obscure classic cocktail that offers a delightful balance of flavors:\n\n*   Bourbon for depth and warmth\n*   Allspice Dram for spicy complexity\n*   Lime juice for bright acidity\n*   Simple syrup for balance\n*   Angostura bitters for added depth\n*   Egg white (optional) for texture",
+    "zh": "**一款禁酒令前經典酸味雞尾酒，突顯波本威士忌和多香果的風味。**\n\n獅尾是一款略為默默無聞的經典雞尾酒，提供令人愉悅的風味平衡：\n\n*   波本威士忌帶來深度和溫暖\n*   多香果利口酒帶來辛辣的複雜性\n*   青檸汁帶來明亮的酸度\n*   簡糖漿用於平衡\n*   安格式苦精增加深度\n*   蛋白（可選）增加質地"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in the early 20th century, but the exact creator and date are unknown.\n\n*   First documented in *Patrick Gavin Duffy's Official Mixer's Manual* (1934)\n*   Features uncommon allspice dram liqueur",
+    "zh": "**起源**: 據信起源於20世紀初，但確切的創作者和日期不詳。\n\n*   首次記錄在*Patrick Gavin Duffy's Official Mixer's Manual* (1934)中\n*   以不常見的多香果利口酒為特色"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or zest",
+    "zh": "青檸角或青檸皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, golden-yellow with a frothy white head",
+    "zh": "混濁，金黃色，帶有泡沫狀的白色頭部"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base, adding notes of vanilla and caramel.",
+        "zh": "提供基底，增添香草和焦糖的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Allspice Dram",
+        "zh": "多香果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a unique spicy flavor.",
+        "zh": "增添獨特的辛辣風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the acidity of the lime juice.",
+        "zh": "平衡青檸汁的酸度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and depth.",
+        "zh": "增加複雜性和深度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加柔滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

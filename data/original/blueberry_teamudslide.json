@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Blueberry Tea Mudslide",
+    "zh": "藍莓茶泥石流"
+  },
+  "description": {
+    "en": "**Indulgent Dessert Cocktail**\n\nA sweet and creamy cocktail perfect for dessert, featuring:\n*   Vodka base for a subtle kick\n*   Coffee liqueur for rich coffee flavor\n*   Irish cream for a smooth, creamy texture\n*   Blueberry tea syrup for a unique fruity twist",
+    "zh": "**縱享甜點雞尾酒**\n\n一款適合搭配甜點的香甜奶油雞尾酒，特色：\n*   伏特加基底，帶來微妙的刺激感\n*   咖啡利口酒帶來濃郁的咖啡風味\n*   愛爾蘭奶油帶來柔滑、奶油般的質感\n*   藍莓茶糖漿帶來獨特的水果風味"
+  },
+  "historical_reference": {
+    "en": "The Mudslide cocktail is a relatively modern creation, gaining popularity in the latter half of the 20th century.\n\n*   Its exact origins are debated, but it's believed to have originated in the Caribbean.\n*   The Blueberry Tea variant is a more recent adaptation adding a fruity twist to the classic Mudslide.",
+    "zh": "泥石流雞尾酒是一個相對現代的創作，在20世紀後半葉開始流行。\n\n*   其確切起源尚有爭議，但據信起源於加勒比海地區。\n*   藍莓茶變體是最近的改編版本，為經典泥石流增添了水果風味。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "將所有材料與冰塊混合均勻。倒入玻璃杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Blueberries and a sprinkle of cocoa powder",
+    "zh": "藍莓和可可粉"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or large wine glass",
+    "zh": "颶風杯或大型葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown with a frothy top",
+    "zh": "奶油色，淺棕色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "提供中性的酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增添咖啡風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creamy texture and sweetness.",
+        "zh": "增添奶油般的質感和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Blueberry Tea Syrup",
+        "zh": "藍莓茶糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruity sweetness and blueberry tea flavor.",
+        "zh": "增加水果的甜味和藍莓茶的味道。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

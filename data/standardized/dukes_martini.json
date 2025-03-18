@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Dukes Martini",
+    "zh": "公爵馬丁尼"
+  },
+  "description": {
+    "en": "**Classic Martini Variation**\n\nThe Dukes Martini is known for its extreme dryness and potent strength, achieved through a very high gin-to-vermouth ratio and the use of a tincture rather than a traditional vermouth pour. It is served ice-cold, directly from the freezer. The key elements are:\n\n*   Very dry style with minimal vermouth.\n*   Use of orange bitters tincture.\n*   Extremely cold preparation.",
+    "zh": "**經典馬丁尼變奏**\n\nDukes Martini 以其極度 сухость 和強勁的效力而聞名，這是通過非常高的琴酒與苦艾酒的比例以及使用酊劑而不是傳統的苦艾酒傾倒來實現的。 它是冰鎮的，直接從冰箱中取出。 關鍵要素是：\n\n*   非常 сухость 的風格，最少量的苦艾酒。\n*   使用橙子苦味酒酊劑。\n*   極冷的準備。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Popularized at Dukes Bar in London, known for its strong martinis.\n\n*   Made famous by Salvatore Calabrese, a legendary bartender.\n*   Characterized by a very high gin-to-vermouth ratio and the use of orange bitters tincture.\n*   Served straight from the freezer, ensuring extreme coldness.",
+    "zh": "**起源**: 在倫敦的 Dukes Bar 廣受歡迎，以其濃烈的馬丁尼酒而聞名。\n\n*   由傳奇酒保 Salvatore Calabrese 打造。\n*   其特點是非常高的琴酒與苦艾酒的比例以及使用橙子苦味酒酊劑。\n*   直接從冰箱中取出，確保極度寒冷。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a frozen glass, or pour directly from a pre-mixed, freezer-stored bottle.",
+    "zh": "將所有原料與冰塊攪拌，然後濾入冰凍的玻璃杯中，或直接從預先混合並儲存在冰箱中的瓶子中倒出。"
+  },
+  "garnish": {
+    "en": "Lemon twist (expressed oils and discarded) or olive, optional",
+    "zh": "檸檬皮（擠出油後丟棄）或橄欖，可選"
+  },
+  "serve_in_glass": {
+    "en": "Frozen Martini glass",
+    "zh": "冰凍馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale straw-colored liquid",
+    "zh": "清澈、淡稻草色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main flavor profile and backbone of the cocktail.",
+        "zh": "提供主要的風味和雞尾酒的骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "短劃"
+      },
+      "rationale": {
+        "en": "Adds a subtle herbal and floral note, complementing the gin.",
+        "zh": "增添微妙的草本和花香，與琴酒相輔相成。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters Tincture",
+        "zh": "橙味苦精酊劑"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "短劃"
+      },
+      "rationale": {
+        "en": "Adds a touch of citrus complexity.",
+        "zh": "增添一絲柑橘風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

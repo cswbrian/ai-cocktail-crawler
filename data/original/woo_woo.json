@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Woo Woo",
+    "zh": "巫巫"
+  },
+  "description": {
+    "en": "A sweet and fruity highball cocktail, popular for its ease of preparation and refreshing taste. The Woo Woo is a simple mix of vodka, peach schnapps, and cranberry juice, typically served over ice in a highball glass.",
+    "zh": "一款香甜且帶有水果風味的高杯雞尾酒，因其易於製作和清爽的口感而廣受歡迎。Woo Woo 是一種簡單的混合物，由伏特加、水蜜桃香甜酒和蔓越莓汁混合而成，通常在高杯玻璃杯中加冰飲用。"
+  },
+  "historical_reference": {
+    "en": "The exact origin of the Woo Woo is somewhat unclear, but it gained popularity in the 1980s and 1990s as a simple and appealing party drink.\n\n*   Likely emerged as a variation of other vodka-cranberry cocktails.\n*   Became a staple in bars and nightclubs due to its easy preparation and crowd-pleasing flavor.",
+    "zh": "Woo Woo 的確切起源有些不明，但它在 1980 年代和 1990 年代作為一種簡單而有吸引力的派對飲品而廣受歡迎。\n\n*   可能作為其他伏特加蔓越莓雞尾酒的變體而出現。\n*   由於其易於準備和受歡迎的口味，成為酒吧和夜總會的主打。"
+  },
+  "technique": {
+    "en": "Build over ice. Add vodka and peach schnapps to a highball glass filled with ice. Top with cranberry juice and stir gently. Garnish with a lime wedge or cherry.",
+    "zh": "在高杯中加冰。將伏特加和水蜜桃香甜酒倒入裝滿冰塊的高杯玻璃杯中。加入蔓越莓汁並輕輕攪拌。用青檸角或櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or cherry",
+    "zh": "青檸角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Clear, bright pink to red",
+    "zh": "清澈、明亮的粉紅色至紅色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Peach Schnapps",
+        "zh": "水蜜桃香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds peach flavor and sweetness.",
+        "zh": "增添水蜜桃風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

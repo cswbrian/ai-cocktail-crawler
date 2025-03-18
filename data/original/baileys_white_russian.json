@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Baileys White Russian",
+    "zh": "百利甜酒白色俄羅斯"
+  },
+  "description": {
+    "en": "**Creamy and Indulgent Cocktail**\n\nA variation of the classic White Russian, substituting coffee liqueur with Baileys Irish Cream, resulting in a richer, sweeter and smoother experience.\n\n*   A simple to make, decadent cocktail.\n*   Best served cold over ice.",
+    "zh": "**奶油濃郁的雞尾酒**\n\n經典白色俄羅斯的一種變體，用百利甜酒代替咖啡利口酒，帶來更豐富、更甜和更順滑的體驗。\n\n*   容易製作的頹廢雞尾酒。\n*   最好加冰冷飲。"
+  },
+  "historical_reference": {
+    "en": "The White Russian cocktail is derived from the Black Russian, which first appeared in 1949. The addition of cream transformed it into the White Russian. The Baileys White Russian is a modern adaptation, substituting coffee liqueur with Baileys for a different flavor profile.",
+    "zh": "白色俄羅斯雞尾酒源自黑色俄羅斯，後者於 1949 年首次出現。 添加奶油後變成了白色俄羅斯。 百利甜酒白色俄羅斯是一種現代改編，用百利甜酒代替咖啡利口酒，以獲得不同的風味。"
+  },
+  "technique": {
+    "en": "Build in glass over ice. Gently layer cream on top.",
+    "zh": "在裝有冰塊的杯子中調製。 輕輕地將奶油分層放在頂部。"
+  },
+  "garnish": {
+    "en": "Optional: Grated nutmeg or chocolate shavings",
+    "zh": "可選：磨碎的肉荳蔻或巧克力刨花"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown liquid",
+    "zh": "奶油色，淺棕色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Baileys Irish Cream",
+        "zh": "百利甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creamy, sweet, coffee and chocolate flavors.",
+        "zh": "添加奶油、甜味、咖啡和巧克力風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and a smooth texture to the cocktail.",
+        "zh": "增加雞尾酒的濃郁度和順滑口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

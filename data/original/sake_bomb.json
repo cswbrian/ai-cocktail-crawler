@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en": "Sake Bomb",
+    "zh": "清酒炸彈"
+  },
+  "description": {
+    "en": "**Simple yet impactful combination.**\n\nA sake bomb is a beer cocktail, served with sake balanced on chopsticks above the beer:\n*   The patron chants \"Sake Bomb\" and hits the table\n*   The sake drops into the beer\n*   The drink is consumed quickly.",
+    "zh": "**簡單但有衝擊力的組合。**\n\n清酒炸彈是一種啤酒雞尾酒，將清酒平衡在啤酒上方的筷子上：\n*   顧客吟唱“清酒炸彈”並敲擊桌子\n*   清酒滴入啤酒中\n*   快速飲用。"
+  },
+  "historical_reference": {
+    "en": "**Origins are uncertain, but likely a post-WWII American invention**\n\n*   Popularized in the United States and other Western countries.\n*   A playful, often rowdy, way to consume sake and beer together.\n*   Exact origin and first usage are unknown.",
+    "zh": "**起源不確定，但可能是二戰後美國人的發明**\n\n*   在美國和其他西方國家流行。\n*   一種有趣且通常喧鬧的方式，將清酒和啤酒一起飲用。\n*   確切的起源和首次使用尚不清楚。"
+  },
+  "technique": {
+    "en": "Balance sake in shot glass atop chopsticks over a pint of beer. Yell 'Sake Bomb!' and drop it in.",
+    "zh": "將清酒放在小酒杯中，用筷子在啤酒品脫杯上保持平衡。大喊“清酒炸彈！”然後將其放入。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Pint Glass",
+    "zh": "品脫杯"
+  },
+  "appearance": {
+    "en": "Beer with sake floating inside the glass.",
+    "zh": "啤酒中漂浮著清酒。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sake",
+        "zh": "清酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic kick and unique flavor.",
+        "zh": "提供主要的酒精刺激和獨特風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

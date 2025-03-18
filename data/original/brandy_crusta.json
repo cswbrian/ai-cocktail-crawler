@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Brandy Crusta",
+    "zh": "白蘭地 Crusta"
+  },
+  "description": {
+    "en": "**Elegant Brandy Cocktail**\n\nConsidered by some to be the predecessor of the Sidecar, featuring:\n\n*   Sugared rim for added sweetness and visual appeal.\n*   Citrus oils expressed from the garnish which enhances the aroma.",
+    "zh": "**優雅的白蘭地雞尾酒**\n\n有些人認為是Sidecar的前身，特色：\n\n*   糖邊增添甜味和視覺吸引力。\n*   來自裝飾的柑橘精油，增強了香氣。"
+  },
+  "historical_reference": {
+    "en": "**One of the oldest classic cocktails.**\n\n*   Created by Joseph Santini at City Exchange in New Orleans, around 1840s.\n*   One of the first cocktails to use citrus peel as a major component.",
+    "zh": "**最古老的經典雞尾酒之一。**\n\n*   由約瑟夫·桑蒂尼（Joseph Santini）於1840年代左右在新奧爾良的城市交易所創建。\n*   最早使用柑橘皮作為主要成分的雞尾酒之一。"
+  },
+  "technique": {
+    "en": "Sugar the rim of a glass with lemon juice and sugar. Carefully place a long citrus peel inside the glass. Shake ingredients with ice and strain into the prepared glass.",
+    "zh": "用檸檬汁和糖在玻璃杯邊緣沾上糖。小心地將長長的柑橘皮放入玻璃杯中。將材料與冰塊搖勻後，倒入準備好的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Large lemon or orange peel, carefully fitted inside the glass",
+    "zh": "大塊檸檬皮或橙皮，小心地裝在玻璃杯內"
+  },
+  "serve_in_glass": {
+    "en": "Crusta Glass",
+    "zh": "Crusta 杯"
+  },
+  "appearance": {
+    "en": "Bright amber liquid with a sugared rim and citrus garnish",
+    "zh": "明亮的琥珀色液體，帶有糖邊和柑橘裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing rich, fruity and oaky notes.",
+        "zh": "構成雞尾酒的基底，提供豐富、果香和橡木風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complex cherry notes.",
+        "zh": "增加甜度和複雜的櫻桃風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the drink",
+        "zh": "增加複雜性並平衡飲料"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "For sugaring the rim of the glass.",
+        "zh": "用於在杯子邊緣加糖。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

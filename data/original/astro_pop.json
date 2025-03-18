@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Astro Pop",
+    "zh": "太空冰棒"
+  },
+  "description": {
+    "en": "A layered non-alcoholic drink visually resembling a rocket pop popsicle. Typically features grenadine, blue curaçao syrup (non-alcoholic), and lemonade or Sprite. The layering effect is achieved by carefully pouring ingredients with different densities over the back of a spoon.",
+    "zh": "一種非酒精分層飲品，視覺上類似於火箭冰棒。通常包含石榴糖漿、藍柑橘糖漿（非酒精）和檸檬水或雪碧。分層效果是透過小心地將不同密度的成分倒在湯匙背面來實現的。"
+  },
+  "historical_reference": {
+    "en": "Inspired by the Astro Pop popsicle, a popular frozen treat, this drink aims to recreate the popsicle's iconic colors and sweet flavor profile in a beverage format. The precise origin of the drink is difficult to pinpoint, but it likely emerged as a fun, visually appealing, and non-alcoholic option for themed parties or events.",
+    "zh": "這款飲品的靈感來自廣受歡迎的冰凍食品 Astro Pop 冰棒，旨在以飲料形式重現冰棒的標誌性顏色和甜味。該飲料的確切起源難以確定，但它很可能是一種有趣、視覺吸引力且非酒精的選擇，適用於主題派對或活動。"
+  },
+  "technique": {
+    "en": "Layer ingredients carefully by pouring over the back of a spoon, starting with the densest (grenadine), followed by blue curaçao syrup, and topped with lemonade or Sprite.",
+    "zh": "小心地將成分分層，從最密集的成分（石榴糖漿）開始，倒在湯匙背面，然後是藍柑橘糖漿，最後是檸檬水或雪碧。"
+  },
+  "garnish": {
+    "en": "Cherry, lemon slice, or small rocket popsicle",
+    "zh": "櫻桃、檸檬片或小型火箭冰棒"
+  },
+  "serve_in_glass": {
+    "en": "Tall glass, such as a Collins or highball glass",
+    "zh": "高杯，例如柯林斯杯或高球杯"
+  },
+  "appearance": {
+    "en": "Vibrant layered drink with distinct colors, often blue, red, and white",
+    "zh": "色彩鮮豔的分層飲品，通常是藍色、紅色和白色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Vodka (optional)",
+        "zh": "伏特加（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Can be added for an extra kick, though traditionally not included",
+        "zh": "可以添加以增加酒勁，但傳統上不包括"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Provides the red layer and adds sweetness.",
+        "zh": "提供紅色層並增加甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Blue Curaçao Syrup (Non-alcoholic)",
+        "zh": "藍柑橘糖漿（非酒精）"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Provides the blue layer and adds a citrusy flavor.",
+        "zh": "提供藍色層並增加柑橘風味。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Lemonade or Sprite",
+        "zh": "檸檬水或雪碧"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Forms the white or clear layer and adds sweetness and bubbles.",
+        "zh": "形成白色或透明層，並增加甜味和氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "name": {
+    "en": "Gold Rush",
+    "zh": "淘金熱"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA simple yet satisfying mix of bourbon, honey, and lemon, featuring:\n*   Bourbon for a rich, oaky base\n*   Honey syrup for sweetness and depth\n*   Lemon juice for a balancing tartness",
+    "zh": "**現代經典雞尾酒**\n\n波本威士忌、蜂蜜和檸檬的簡單而令人滿意的混合，特色：\n*   波本威士忌提供濃郁的橡木基底\n*   蜂蜜糖漿帶來甜味和深度\n*   檸檬汁帶來平衡的酸味"
+  },
+  "historical_reference": {
+    "en": "**Created by T.J. Siebert at Milk & Honey in New York City in the early 2000s**\n\n*   A modern variation of the Whiskey Sour.\n*   Uses honey syrup instead of simple syrup.\n*   Quickly became a modern classic due to its simplicity and balance.",
+    "zh": "**由 T.J. Siebert 在 2000 年代初於紐約市的 Milk & Honey 創作**\n\n*   威士忌酸酒的現代變體。\n*   使用蜂蜜糖漿代替簡糖漿。\n*   由於其簡單性和平衡性，迅速成為現代經典。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入杯中。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or peel",
+    "zh": "檸檬角或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Golden yellow, slightly opaque",
+    "zh": "金黃色，略帶不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's base and oaky notes.",
+        "zh": "提供雞尾酒的基底和橡木味。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance sweetness.",
+        "zh": "增加酸度以平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

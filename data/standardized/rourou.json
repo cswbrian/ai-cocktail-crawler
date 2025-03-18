@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Rourou",
+    "zh": "柔柔"
+  },
+  "description": {
+    "en": "**Refreshing and Fruity**\n\nA vibrant cocktail with a balanced sweet and sour profile.\n*   Features gin as the base spirit.\n*   Includes grapefruit juice for a citrusy kick.\n*   Uses grenadine for sweetness and color.",
+    "zh": "**清新水果風味**\n\n一款充滿活力、甜酸平衡的雞尾酒。\n*   以琴酒為基酒。\n*   加入葡萄柚汁以增添柑橘風味。\n*   使用石榴糖漿增添甜味和色彩。"
+  },
+  "historical_reference": {
+    "en": "**Origin Unknown**\n\nThe Rourou is a less common but appreciated cocktail.\n\n*   Exact origin and creator remain elusive\n*   Appears in some modern cocktail guides",
+    "zh": "**起源不明**\n\nRourou是一款較不常見但備受讚賞的雞尾酒。\n\n*   確切的起源和創造者仍然難以捉摸\n*   出現在一些現代雞尾酒指南中"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的冰鎮杯中。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or cherry",
+    "zh": "葡萄柚角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Coupe",
+    "zh": "高球杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light orange-pink",
+    "zh": "混濁，淺橙粉色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical notes.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrusy and slightly bitter flavor.",
+        "zh": "增添柑橘味和淡淡的苦味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a vibrant red color.",
+        "zh": "增加甜味和鮮豔的紅色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

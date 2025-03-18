@@ -1,0 +1,224 @@
+{
+  "name": {
+    "en": "Three-Mile Long Island Iced Tea",
+    "zh": "三英里長島冰茶"
+  },
+  "description": {
+    "en": "A potent variation of the Long Island Iced Tea, this cocktail blends four base spirits with triple sec and sweet and sour mix, topped with cola for color and fizz. It's named \"Three-Mile\" for its strong alcoholic content and the punch it packs.",
+    "zh": "這是長島冰茶的強力變體，將四種基酒與橙皮酒和酸甜汁混合，再加入可樂以增加顏色和氣泡。它被命名為“三英里”，因為它具有很高的酒精含量和衝擊力。"
+  },
+  "historical_reference": {
+    "en": "A variation on the Long Island Iced Tea, likely created after the original to increase alcoholic strength.\n\n*   The exact origin is unknown.\n*   The name suggests a stronger effect than the original.",
+    "zh": "長島冰茶的變體，可能是在原版之後創建的，以增加酒精強度。\n\n*   確切的起源未知。\n*   這個名字表明比原版有更強的效果。"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except cola) with ice. Strain into ice-filled glass. Top with cola and garnish.",
+    "zh": "將所有材料（可樂除外）與冰塊搖勻。濾入裝滿冰塊的玻璃杯中。頂部放上可樂和裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wedge",
+    "zh": "檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Iced tea color, transparent",
+    "zh": "冰紅茶色，透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a neutral alcoholic base.",
+        "zh": "增加中性的酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds botanical complexity.",
+        "zh": "增加植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds earthy and agave notes.",
+        "zh": "添加泥土和龍舌蘭的味道。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Triple Sec",
+        "zh": "通用橙皮酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增加柑橘味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Sweet and Sour Mix",
+        "zh": "酸甜汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweet and sour balance.",
+        "zh": "增加酸甜平衡。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds color, sweetness, and fizz.",
+        "zh": "增加顏色、甜度和氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 9,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

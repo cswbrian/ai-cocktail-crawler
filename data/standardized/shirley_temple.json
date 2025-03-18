@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Shirley Temple",
+    "zh": "雪莉·坦普"
+  },
+  "description": {
+    "en": "**A Classic Non-Alcoholic Cocktail**\n\nA sweet and bubbly drink perfect for all ages. It features:\n*   Ginger ale or ginger beer for a spicy kick\n*   Grenadine for sweetness and color\n*   Garnish with a maraschino cherry",
+    "zh": "**經典無酒精雞尾酒**\n\n適合所有年齡層的香甜氣泡飲品。特色：\n*   薑汁汽水或薑汁啤酒帶來辛辣感\n*   石榴糖漿增添甜味和色彩\n*   用馬拉斯奇諾櫻桃裝飾"
+  },
+  "historical_reference": {
+    "en": "**Origin:** The Shirley Temple is believed to have been invented in the 1930s at Chasen's restaurant in Los Angeles, California.\n\n*   Created for child actress Shirley Temple so she could have a special drink like the adults.\n*   Several variations exist, but the core ingredients remain consistent.",
+    "zh": "**起源：** 雪莉·坦普爾據信於 1930 年代在加利福尼亞州洛杉磯的 Chasen's 餐廳發明。\n\n*   為童星雪莉·坦普爾創作，讓她可以像成年人一樣喝特殊的飲料。\n*   存在多種變體，但核心成分保持一致。"
+  },
+  "technique": {
+    "en": "Pour ingredients over ice in a highball glass and garnish.",
+    "zh": "將材料倒入裝有冰塊的高杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Bright red, bubbly, festive",
+    "zh": "鮮紅色，有氣泡，歡樂的"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ginger Ale",
+        "zh": "薑汁汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bubbly and slightly spicy element.",
+        "zh": "增添氣泡和些微辛辣感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and a vibrant red color.",
+        "zh": "提供甜味和鮮豔的紅色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 0,
+    "body": 2,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Perfect Brooklyn",
+    "zh": "完美布魯克林"
+  },
+  "description": {
+    "en": "A variation on the classic Brooklyn cocktail, the Perfect Brooklyn uses both dry and sweet vermouth for a balanced profile, along with Maraschino liqueur and Amer Picon or an alternative orange bitters.",
+    "zh": "完美布魯克林是經典布魯克林雞尾酒的變體，它使用乾味美思和甜味美思來達到平衡的口感，並搭配黑櫻桃利口酒和阿美皮孔（或替代的橙味苦精）。"
+  },
+  "historical_reference": {
+    "en": "The Brooklyn cocktail family emerged in the early 20th century, named after different Brooklyn neighborhoods. The Perfect Brooklyn likely gained popularity alongside other variations like the Red Hook and the Greenpoint, each showcasing subtle twists on the Manhattan formula.",
+    "zh": "布魯克林雞尾酒系列出現在 20 世紀初，以布魯克林的不同街區命名。 完美布魯克林可能與紅鉤和綠點等其他變體一起流行起來，每種變體都展示了曼哈頓配方的微妙變化。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Brandied Cherry",
+    "zh": "白蘭地櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini Glass",
+    "zh": "郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid",
+    "zh": "清澈的琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy backbone of the cocktail.",
+        "zh": "提供雞尾酒的辛辣骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry sweetness and complexity.",
+        "zh": "增添微妙的櫻桃甜味和複雜性。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes dryness and herbal notes.",
+        "zh": "帶來乾澀感和草本氣息。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Amer Picon (or Orange Bitters)",
+        "zh": "阿美皮孔（或橙味苦精）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and orange notes.",
+        "zh": "增加苦味和橙味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Hugo",
+    "zh": "雨果"
+  },
+  "description": {
+    "en": "**Refreshing Italian Aperitivo**\n\nA light and bubbly cocktail perfect for warm weather:\n*   Elderflower liqueur provides floral notes\n*   Mint adds freshness\n*   Lime adds a touch of acidity\n*   Prosecco tops it off with bubbles",
+    "zh": "**清爽的義大利開胃酒**\n\n一款輕盈的氣泡雞尾酒，非常適合溫暖的天氣：\n*   接骨木花利口酒提供花香\n*   薄荷增添清新感\n*   檸檬增添一絲酸度\n*   普羅賽克氣泡酒帶來氣泡感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: South Tyrol, Italy\n\n*   Created in 2005 by Roland Gruber\n*   Quickly gained popularity throughout Italy and beyond\n*   A modern classic aperitivo",
+    "zh": "**起源**: 義大利南提洛\n\n*   2005年由Roland Gruber創造\n*   迅速在整個義大利及其他地區廣受歡迎\n*   現代經典開胃酒"
+  },
+  "technique": {
+    "en": "Muddle mint with lime in a glass, add ice, liqueur, prosecco and sparkling water. Stir gently.",
+    "zh": "在杯中將薄荷與檸檬搗碎，加入冰塊、利口酒、普羅賽克氣泡酒和氣泡水。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Mint sprig and lime wedge",
+    "zh": "薄荷枝和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass",
+    "zh": "葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Pale green, effervescent, garnished with mint and lime",
+    "zh": "淡綠色，起泡，薄荷和檸檬裝飾"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly base and slight sweetness.",
+        "zh": "提供氣泡基底和些微甜味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness.",
+        "zh": "增添花香甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing herbal note.",
+        "zh": "增添清爽的草本風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds extra fizz and dilutes the sweetness.",
+        "zh": "增加氣泡並稀釋甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

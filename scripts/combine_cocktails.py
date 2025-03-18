@@ -3,7 +3,7 @@ from pathlib import Path
 
 def combine_cocktails():
     # Path to the JSON directory
-    json_dir = Path('data/cocktails')
+    json_dir = Path('data/standardized')
     
     # Get all JSON files in the directory
     json_files = json_dir.glob('*.json')

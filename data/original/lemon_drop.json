@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Lemon Drop",
+    "zh": "檸檬 ड्रॉप"
+  },
+  "description": {
+    "en": "**Sweet and Sour Delight**\n\nA classic cocktail known for its vibrant citrus flavor and a balance of sweet and sour.\n\n*   Typically served in a sugar-rimmed glass.\n*   Easy to drink and refreshing.\n*   Perfect as an aperitif.",
+    "zh": "**酸甜的喜悅**\n\n一款經典雞尾酒，以其充滿活力的柑橘風味和甜酸平衡而聞名。\n\n*   通常在高腳杯中供應，杯口有糖圈。\n*   容易入口且令人耳目一新。\n*   非常適合作為餐前酒。"
+  },
+  "historical_reference": {
+    "en": "*The Lemon Drop Martini is a relatively modern cocktail, gaining popularity in the 1970s and 80s.*\n\n*Inspired by the lemon drop candy, hence the sweet and sour flavor profile.*\n\n*Often credited to Norman Jay Hobday, the founder of Henry Africa's Bar in San Francisco.*",
+    "zh": "*檸檬汁馬提尼是一種相對現代的雞尾酒，在1970年代和80年代開始流行。*\n\n*靈感來自檸檬糖，因此具有酸甜的風味。*\n\n*通常歸功於舊金山Henry Africa's Bar的創始人Norman Jay Hobday。*"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or sugar-coated rim.",
+    "zh": "檸檬皮或糖漬杯緣。"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass or coupe.",
+    "zh": "冰鎮馬提尼杯或淺碟香檳杯。"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear, served with a sugar-coated rim.",
+    "zh": "淡黃色，清澈，杯緣裹上砂糖。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "None",
+        "zh": "無"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lemon juice.",
+        "zh": "增加甜味以平衡檸檬汁。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

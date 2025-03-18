@@ -1,0 +1,86 @@
+{
+  "name": {
+    "en": "Churchill Martini",
+    "zh": "邱吉爾馬丁尼"
+  },
+  "description": {
+    "en": "**The Churchill Martini: A minimalist approach**\n\nLegend has it that Winston Churchill preferred his Martini with a mere glance at a bottle of vermouth. This version embodies that spirit, focusing almost entirely on the quality of the gin.\n\nKey Characteristics:\n*   Extremely dry\n*   Gin-forward\n*   Chilled meticulously",
+    "zh": "**邱吉爾馬丁尼：極簡主義**\n\n傳說溫斯頓·邱吉爾喜歡他的馬丁尼，只是瞥一眼苦艾酒瓶。這個版本體現了這種精神，幾乎完全關注琴酒的品質。\n\n主要特點：\n*   非常不甜\n*   以琴酒為主\n*   精心冷卻"
+  },
+  "historical_reference": {
+    "en": "**A tribute to Winston Churchill's preference.**\n\nWhile the exact recipe is debated, the 'Churchill Martini' generally refers to a very dry Martini, with minimal to no vermouth. Some accounts claim Churchill simply wanted the vermouth bottle in the same room as the gin.\n\n*   Represents a minimalist approach to the classic Martini.\n*   Emphasizes the quality of the gin above all else.\n*   A testament to personal preference in cocktails.",
+    "zh": "**向溫斯頓·邱吉爾的偏好致敬。**\n\n雖然確切的配方存在爭議，但“邱吉爾馬丁尼”通常指的是非常不甜的馬丁尼，幾乎不含或完全不含苦艾酒。 有些描述聲稱邱吉爾只是希望苦艾酒瓶與琴酒在同一個房間裡。\n\n*   代表經典馬丁尼的極簡主義方法。\n*   最重要的是強調琴酒的品質。\n*   證明雞尾酒的個人喜好。"
+  },
+  "technique": {
+    "en": "Stir gin with ice until well-chilled. Strain into a chilled Martini glass.",
+    "zh": "將琴酒與冰塊攪拌至完全冷卻。 濾入冰鎮的馬丁尼杯中。"
+  },
+  "garnish": {
+    "en": "None. (Optional: Lemon twist, discarded)",
+    "zh": "無。(可選：檸檬皮扭轉，使用後丟棄)"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Crystal clear",
+    "zh": "清澈如水晶"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the foundation of the cocktail, providing a juniper-forward flavor profile.",
+        "zh": "構成雞尾酒的基礎，提供杜松子風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

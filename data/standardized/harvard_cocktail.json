@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Harvard Cocktail",
+    "zh": "哈佛雞尾酒"
+  },
+  "description": {
+    "en": "A classic cocktail featuring cognac, sweet vermouth, and bitters, creating a balanced and sophisticated drink.",
+    "zh": "一款經典雞尾酒，以干邑白蘭地、甜味美思和苦精為特色，創造出平衡而精緻的飲品。"
+  },
+  "historical_reference": {
+    "en": "The Harvard Cocktail is a classic cocktail with a history dating back to the late 19th century. There are some sources linking this cocktail to Harvard University or its graduates.\n\n*   **Origins:** Believed to have originated in the late 1800s.\n*   **Inspiration:** Possibly named in honor of Harvard University.",
+    "zh": "哈佛雞尾酒是一款歷史悠久的經典雞尾酒，可以追溯到19世紀後期。有些資料將這種雞尾酒與哈佛大學或其畢業生聯繫起來。\n\n*   **起源：** 據信起源於1800年代後期。\n*   **靈感：** 可能以紀念哈佛大學而命名。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled, then strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻至冰鎮，然後濾入冰鎮過的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep red",
+    "zh": "清澈深紅色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and complex fruit notes.",
+        "zh": "提供基酒和複雜的果香。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜度和草本的複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Boker's Bitters",
+        "zh": "Boker's 苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds complexity and a bitter edge.",
+        "zh": "增加複雜性和苦味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness to balance the drink.",
+        "zh": "增添一絲甜味，以平衡飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

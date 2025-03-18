@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Vesper",
+    "zh": "薇絲朋"
+  },
+  "description": {
+    "en": "**A sophisticated and potent cocktail**\n\nCreated by Ian Fleming's James Bond, this cocktail is a blend of:\n*   Gin for the primary spirituous character\n*   Vodka to lighten the body\n*   Lillet Blanc for floral and subtly sweet notes.",
+    "zh": "**精緻而濃烈的雞尾酒**\n\n由伊恩·佛萊明筆下的詹姆士·龐德所創造，這款雞尾酒混合了：\n*   琴酒，提供主要的烈酒特性\n*   伏特加，減輕酒體厚重感\n*   Lillet Blanc，帶來花香和微妙的甜味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Ian Fleming in his novel *Casino Royale* (1953).\n\n*   Named after Vesper Lynd, a fictional character in the novel.\n*   Originally specified Kina Lillet, which is no longer available (modern recipes use Lillet Blanc).\n*   Famously ordered 'shaken, not stirred' by James Bond.",
+    "zh": "**起源**: 由伊恩·佛萊明在他的小說《*皇家賭場*》（1953年）中創造。\n\n*   以小說中的虛構人物薇絲朋·琳德命名。\n*   最初指定使用金娜·利萊酒，但該酒已停產（現代配方使用Lillet Blanc）。\n*   詹姆士·龐德著名地要求「搖盪，不要攪拌」。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice until well-chilled. Strain into a chilled glass and garnish.",
+    "zh": "將所有材料與冰塊搖盪至完全冰鎮。濾入冰鎮過的杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭花"
+  },
+  "serve_in_glass": {
+    "en": "Chilled cocktail glass",
+    "zh": "冰鎮雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale straw color",
+    "zh": "清澈的淡稻草色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the cocktail's strong, juniper-forward base.",
+        "zh": "構成雞尾酒強烈、以杜松子為主的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle sweetness and floral notes.",
+        "zh": "增添微妙的甜味和花香。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds alcoholic strength and smooths the cocktail.",
+        "zh": "增加酒精強度並柔化雞尾酒。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Cheeky Vimto",
+    "zh": "淘氣雲圖"
+  },
+  "description": {
+    "en": "**A modern twist on a classic.**\n\nThe Cheeky Vimto is a vibrant and playful cocktail that offers a sweet and fruity experience, reminiscent of the popular Vimto soft drink. It balances the botanical notes of gin with the sweet and slightly tart flavors of berries and herbs.\n\n*   A sweet and fruity gin-based cocktail\n*   Easy to drink and very refreshing\n*   An interesting alternative to the gin & tonic",
+    "zh": "**經典的現代轉折。**\n\nCheeky Vimto 是一款充滿活力且有趣的雞尾酒，提供甜美的水果體驗，讓人聯想到流行的 Vimto 軟飲料。它平衡了琴酒的植物風味與漿果和草藥的甜美和略帶酸味。\n\n*   一款以琴酒為基礎的甜美水果雞尾酒\n*   容易飲用且非常清爽\n*   琴酒和通寧水的有趣替代品"
+  },
+  "historical_reference": {
+    "en": "The Cheeky Vimto is a modern cocktail, inspired by the popular Vimto soft drink. While not a 'classic' in the traditional sense, it plays on nostalgic flavors.\n\nVimto itself was created in 1908 in Manchester, England, as a herbal tonic and health drink.",
+    "zh": "Cheeky Vimto 是一款現代雞尾酒，靈感來自流行的 Vimto 軟飲料。雖然不是傳統意義上的「經典」，但它發揮了懷舊的味道。\n\nVimto 本身於 1908 年在英國曼徹斯特作為草藥滋補品和保健飲品而創建。"
+  },
+  "technique": {
+    "en": "Build over ice.",
+    "zh": "在冰上調製。"
+  },
+  "garnish": {
+    "en": "Mixed berries on a cocktail skewer",
+    "zh": "混合莓果串在雞尾酒籤上"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Deep purple, slightly effervescent",
+    "zh": "深紫色，略帶氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical base.",
+        "zh": "提供植物風味基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Black Raspberry Liqueur",
+        "zh": "黑覆盆子利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds berry flavour and sweetness.",
+        "zh": "增加漿果風味和甜味。"
+      }
+    },
+    {
+      "amount": 75,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bubbles and balances sweetness.",
+        "zh": "增加氣泡並平衡甜度。"
+      }
+    },
+    {
+      "amount": 12,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness to balance the sweetness.",
+        "zh": "增加酸度以平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

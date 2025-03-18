@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Baileys Hot Chocolate",
+    "zh": "百利甜酒熱朱古力"
+  },
+  "description": {
+    "en": "**Indulgent Warm Beverage**\n\nA simple yet luxurious combination:\n*   Baileys Irish Cream for smooth, creamy flavor\n*   Hot chocolate for rich, chocolatey goodness\n*   Optional toppings for added flair",
+    "zh": "**放縱的暖飲**\n\n簡單而奢華的組合：\n*   百利甜酒帶來柔滑、奶油般的風味\n*   熱朱古力帶來濃郁的朱古力美味\n*   可選配料增添風味"
+  },
+  "historical_reference": {
+    "en": "**Modern Comfort Drink**\n\n*   Hot chocolate has ancient roots, dating back to the Mayans and Aztecs\n*   Baileys Irish Cream was introduced in 1974\n*   The combination of the two is a modern invention enjoyed worldwide",
+    "zh": "**現代的舒適飲品**\n\n*   熱朱古力有著古老的根源，可以追溯到瑪雅和阿茲特克人\n*   百利甜酒於1974年推出\n*   兩者的結合是一種現代發明，在世界各地都很受歡迎"
+  },
+  "technique": {
+    "en": "Heat milk, mix in chocolate powder, add generic Irish Cream, stir, garnish.",
+    "zh": "加熱牛奶，拌入朱古力粉，加入通用愛爾蘭奶油，攪拌，裝飾。"
+  },
+  "garnish": {
+    "en": "Whipped cream, chocolate shavings, marshmallows (optional)",
+    "zh": "鮮奶油、朱古力碎、棉花糖（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Mug",
+    "zh": "馬克杯"
+  },
+  "appearance": {
+    "en": "Rich, dark brown, creamy",
+    "zh": "濃郁的深棕色，奶油狀"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic Irish Cream",
+        "zh": "通用愛爾蘭奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creamy, nutty, and vanilla notes.",
+        "zh": "增添奶油、堅果和香草味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 150,
+      "name": {
+        "en": "Milk",
+        "zh": "牛奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the hot chocolate.",
+        "zh": "構成熱朱古力的基礎。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Chocolate Powder",
+        "zh": "朱古力粉"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds rich chocolate flavor.",
+        "zh": "增添濃郁的朱古力風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

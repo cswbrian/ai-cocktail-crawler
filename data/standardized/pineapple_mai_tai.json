@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Pineapple Mai Tai",
+    "zh": "鳳梨邁泰"
+  },
+  "description": {
+    "en": "**A Tropical Paradise in a Glass**\n\nThe Pineapple Mai Tai is a fruity and vibrant twist on the classic Mai Tai, showcasing the bright flavors of pineapple. It features:\n\n*   Aged rum for depth\n*   Orange curaçao for citrus notes\n*   Fresh lime juice for balance\n*   Pineapple juice for tropical sweetness\n*   Orgeat syrup for almond notes",
+    "zh": "**杯中的熱帶天堂**\n\n鳳梨邁泰是經典邁泰的果味和充滿活力的變奏，展現了鳳梨的明亮風味。 它具有：\n\n*   陳年蘭姆酒帶來深度\n*   橙味庫拉索帶來柑橘味\n*   新鮮的酸橙汁帶來平衡\n*   鳳梨汁帶來熱帶甜味\n*   杏仁糖漿帶來杏仁味"
+  },
+  "historical_reference": {
+    "en": "**A Variation on a Classic**\n\nThe Mai Tai was created in 1944 by Victor J. Bergeron (Trader Vic) at his restaurant in Oakland, California. This Pineapple Mai Tai is a more modern variation, adding pineapple juice to the original recipe for a sweeter and more tropical flavor.\n\n* The original Mai Tai was meant to showcase the flavor of rum.\n* The name \"Mai Tai\" comes from the Tahitian word \"maita'i,\" meaning \"good.\"",
+    "zh": "**經典的變奏**\n\n邁泰雞尾酒於 1944 年由 Victor J. Bergeron (Trader Vic) 在他在加州奧克蘭的餐廳中創作。 這款鳳梨邁泰是一種更現代的變奏，在原始配方中添加了鳳梨汁，以獲得更甜美和更熱帶的風味。\n\n* 最初的邁泰旨在展現蘭姆酒的風味。\n* “Mai Tai”這個名字來自大溪地語“maita'i”，意思是“好”。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice. Garnish.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的杯子中。 裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge, maraschino cherry, mint sprig.",
+    "zh": "鳳梨角、櫻桃、薄荷枝。"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned or Tiki Mug",
+    "zh": "雙份古典杯或提基杯"
+  },
+  "appearance": {
+    "en": "Golden amber, frothy top, vibrant and inviting.",
+    "zh": "金黃琥珀色，頂部泡沫豐富，充滿活力且吸引人。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich, complex base with notes of caramel and oak.",
+        "zh": "提供豐富、複雜的基底，帶有焦糖和橡木的風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙味庫拉索"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and complexity.",
+        "zh": "增加橙子的風味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity to balance sweetness.",
+        "zh": "提供酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty sweetness and a creamy texture.",
+        "zh": "增添堅果的甜味和奶油般的質感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

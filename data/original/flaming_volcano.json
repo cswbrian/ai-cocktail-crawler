@@ -1,0 +1,168 @@
+{
+  "name": {
+    "en": "Flaming Volcano",
+    "zh": "火焰火山"
+  },
+  "description": {
+    "en": "**A theatrical tropical cocktail**\n\nThe Flaming Volcano is a show-stopping cocktail perfect for sharing, featuring:\n*   A blend of rums, fruit juices, and orgeat syrup.\n*   Served in a large communal bowl, often volcano-shaped.\n*   The ignited overproof rum creates a mesmerizing flame.\n*   Use extreme caution when lighting and consuming.",
+    "zh": "**一款戲劇化的熱帶雞尾酒**\n\n火焰火山是一款引人注目的雞尾酒，非常適合分享，其特色包括：\n*   混合了蘭姆酒、果汁和杏仁糖漿。\n*   盛裝在大型的公共碗中，通常是火山形狀。\n*   點燃的高濃度蘭姆酒會產生令人著迷的火焰。\n*   點燃和飲用時務必格外小心。"
+  },
+  "historical_reference": {
+    "en": "**Origin: Likely Trader Vic's or Don the Beachcomber's**\n\n*   Popularized in the mid-20th century during the tiki craze.\n*   The exact origin is debated, but it is undoubtedly a product of the tiki culture.\n*   The flaming aspect is purely for show and adds no flavor.",
+    "zh": "**起源：可能來自 Trader Vic's 或 Don the Beachcomber's**\n\n*   在 20 世紀中期隨著提基文化的熱潮而流行。\n*   確切的起源尚有爭議，但毫無疑問是提基文化的產物。\n*   火焰方面純粹是為了展示，不會增加任何風味。"
+  },
+  "technique": {
+    "en": "Combine all ingredients except overproof rum in a shaker with ice. Shake well and strain into the bowl. Float the overproof rum on top and ignite with caution.",
+    "zh": "將除高濃度蘭姆酒外的所有材料與冰塊放入搖酒器中。充分搖晃後倒入碗中。將高濃度蘭姆酒倒在頂部，小心點燃。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge, maraschino cherries, orchids",
+    "zh": "鳳梨角、醃漬櫻桃、蘭花"
+  },
+  "serve_in_glass": {
+    "en": "Large communal bowl (often volcano-shaped)",
+    "zh": "大型共用碗（通常是火山形狀）"
+  },
+  "appearance": {
+    "en": "Multi-colored layers with a flaming center",
+    "zh": "多層顏色，中心有火焰"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a base for the cocktail and flammability.",
+        "zh": "提供雞尾酒的基底和可燃性。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth and richness to the flavor profile.",
+        "zh": "增加風味的深度和豐富度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Overproof Rum",
+        "zh": "高濃度蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Used for setting the cocktail on fire.",
+        "zh": "用於點燃雞尾酒。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Brandy",
+        "zh": "杏桃白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle stone fruit notes.",
+        "zh": "增加淡淡的核果香氣。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and body.",
+        "zh": "增加熱帶甜味和酒體。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and balances the sweetness.",
+        "zh": "增加柑橘味，平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty sweetness and a creamy texture.",
+        "zh": "增加堅果甜味和奶油般的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 4,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

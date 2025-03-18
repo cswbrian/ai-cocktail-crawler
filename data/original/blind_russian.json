@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Blind Russian",
+    "zh": "盲人俄羅斯"
+  },
+  "description": {
+    "en": "**Creamy Coffee Indulgence**\n\nA variation of the White Russian, but using dark creme de cacao instead of coffee liqueur. It features:\n\n*   Vodka for a strong base\n*   Dark Creme de Cacao for a rich, chocolate-coffee flavor.\n*   Heavy cream for a smooth, velvety texture.",
+    "zh": "**奶油咖啡享受**\n\n白俄羅斯變體，但使用黑可可奶油代替咖啡利口酒。其特色：\n\n*   伏特加提供強勁的基底\n*   黑可可奶油帶來濃郁的巧克力咖啡風味。\n*   鮮奶油帶來柔滑的天鵝絨般質地。"
+  },
+  "historical_reference": {
+    "en": "The Blind Russian is a variation of the White Russian, which is a derivative of the Black Russian cocktail.\n\n*   The White Russian gained popularity in the late 20th century.\n*   The substitution of coffee liqueur with dark creme de cacao creates a unique, chocolate-infused experience.\n*   Its exact origin is unclear, but it likely emerged as a creative twist in the cocktail scene.",
+    "zh": "Blind Russian 是 White Russian 的變體，而 White Russian 又是 Black Russian 雞尾酒的衍生品。\n\n*   White Russian 在 20 世紀後期開始流行。\n*   用黑可可奶油代替咖啡利口酒，創造出獨特的巧克力風味體驗。\n*   其確切起源尚不清楚，但它很可能作為雞尾酒場景中的一種創意轉折而出現。"
+  },
+  "technique": {
+    "en": "Build in glass. Add vodka and creme de cacao to an old-fashioned glass filled with ice. Float heavy cream on top. Garnish.",
+    "zh": "在杯中調製。在裝滿冰塊的古典杯中加入伏特加和可可奶油。在上面漂浮鮮奶油。裝飾。"
+  },
+  "garnish": {
+    "en": "Grated chocolate or coffee beans.",
+    "zh": "磨碎的巧克力或咖啡豆。"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Opaque, dark brown liquid with a creamy white layer on top.",
+    "zh": "不透明深棕色液體，頂部帶有乳白色奶油層。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Dark Creme de Cacao",
+        "zh": "黑可可奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a rich chocolate and coffee flavor.",
+        "zh": "增添濃郁的巧克力和咖啡風味。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a creamy texture and balances the alcohol.",
+        "zh": "增加奶油般的口感並平衡酒精。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Strawberry Caipirinha",
+    "zh": "草莓卡琵莉亞"
+  },
+  "description": {
+    "en": "**Fruity Twist on a Classic**\n\nA vibrant variation of the traditional Caipirinha, featuring:\n*   Muddled strawberries for sweetness and fruity notes\n*   Cachaça for a Brazilian kick\n*   Lime for tartness and balance",
+    "zh": "**經典的果味轉折**\n\n傳統卡琵莉亞的鮮豔變體，特色：\n*   搗碎的草莓帶來甜味和果香\n*   卡莎夏帶來巴西風味\n*   青檸帶來酸味和平衡"
+  },
+  "historical_reference": {
+    "en": "*A modern variation on the classic Caipirinha.*\n\nWhile the classic Caipirinha has roots dating back centuries in Brazil, the strawberry version is a more recent adaptation, showcasing the drink's versatility and appeal to modern palates.",
+    "zh": "*經典卡琵莉亞的現代變體.*\n\n雖然經典卡琵莉亞在巴西擁有數百年的歷史，但草莓版本是最近的改編，展示了這種飲料的多功能性和對現代口味的吸引力。"
+  },
+  "technique": {
+    "en": "Muddle strawberries and sugar, add lime, then Cachaça. Top with crushed ice and stir.",
+    "zh": "將草莓和糖混合搗碎，加入青檸，然後加入卡莎夏。 頂部放上碎冰並攪拌。"
+  },
+  "garnish": {
+    "en": "Strawberry slice and lime wedge",
+    "zh": "草莓片和青檸角"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Vibrant red, pulpy, and refreshing",
+    "zh": "鮮豔的紅色，多果肉，令人耳目一新"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡莎夏"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit, characteristic of the Caipirinha",
+        "zh": "提供基酒，是卡琵莉亞的特色"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Fresh Strawberries",
+        "zh": "新鮮草莓"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "顆"
+      },
+      "rationale": {
+        "en": "Adds natural sweetness and strawberry flavor.",
+        "zh": "增加天然甜味和草莓風味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Lime",
+        "zh": "青檸"
+      },
+      "unit": {
+        "en": "half",
+        "zh": "半個"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "White Sugar",
+        "zh": "白砂糖"
+      },
+      "unit": {
+        "en": "tbsp",
+        "zh": "湯匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

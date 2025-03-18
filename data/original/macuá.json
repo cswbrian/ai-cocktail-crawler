@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Macuá",
+    "zh": "馬夸"
+  },
+  "description": {
+    "en": "**Nicaragua's National Cocktail**\n\nA refreshing and vibrant cocktail featuring:\n*   Gold rum as the base spirit\n*   Guava juice for a tropical sweetness\n*   Orange and lime juice for balanced citrus\n*   Simple syrup for added sweetness, adjusted to taste",
+    "zh": "**尼加拉瓜的國家雞尾酒**\n\n一款清新而充滿活力的雞尾酒，特色：\n*   金蘭姆酒作為基酒\n*   番石榴汁帶來熱帶甜味\n*   橙汁和萊姆汁帶來平衡的柑橘味\n*   簡糖漿增加甜度，可根據口味調整"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Nicaragua\n\n*   Created in the 20th century\n*   Named after a native bird of Nicaragua",
+    "zh": "**起源**: 尼加拉瓜\n\n*   20世紀創造\n*   以尼加拉瓜的一種本土鳥類命名"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a highball glass filled with ice. Garnish with a lime wedge.",
+    "zh": "將所有材料與冰塊搖勻。濾入裝滿冰塊的高球杯中。用萊姆角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear, vibrant",
+    "zh": "淡黃色，清澈，充滿活力"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gold Rum",
+        "zh": "金蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and the body of the cocktail, offering notes of caramel and oak.",
+        "zh": "提供雞尾酒的基底和酒體，帶來焦糖和橡木的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Guava Juice",
+        "zh": "番石榴汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and unique flavor.",
+        "zh": "增加熱帶甜味和獨特風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adjusts the sweetness as needed.",
+        "zh": "根據需要調整甜度"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Godmother",
+    "zh": "教母"
+  },
+  "description": {
+    "en": "**Simple Yet Sophisticated**\n\nA two-ingredient cocktail that showcases the interplay between vodka and amaretto.\n\n*   Easy to make\n*   Offers a sweet and nutty flavor profile",
+    "zh": "**簡單而精緻**\n\n一款僅由兩種成分組成的雞尾酒，展現了伏特加和杏仁酒之間的相互作用。\n\n*   容易製作\n*   提供甜美和堅果風味"
+  },
+  "historical_reference": {
+    "en": "**Origin and History**\n\n*   Likely emerged in the latter half of the 20th century.\n*   The name 'Godmother' suggests a variation of the 'Godfather' cocktail, replacing Scotch whisky with vodka.\n*   Popularized for its simplicity and appealing flavor profile.",
+    "zh": "**起源與歷史**\n\n*   可能出現在20世紀後半葉。\n*   “教母”這個名字暗示了“教父”雞尾酒的變體，用伏特加代替了蘇格蘭威士忌。\n*   因其簡單性和吸引人的風味而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Build: Pour ingredients into an ice-filled glass and stir gently.",
+    "zh": "兌和法：將原料倒入裝滿冰塊的杯子中，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None, or a cherry",
+    "zh": "無，或一顆櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, pale amber",
+    "zh": "清澈，淡琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with a clean and neutral profile.",
+        "zh": "提供乾淨和中性的基酒。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto",
+        "zh": "杏仁酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sweet almond flavor and aroma.",
+        "zh": "增加甜杏仁的味道和香氣。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

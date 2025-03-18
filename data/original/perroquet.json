@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Perroquet",
+    "zh": "鸚鵡"
+  },
+  "description": {
+    "en": "*A refreshing and herbaceous cocktail.*\n\nFeaturing a vibrant green color and a delightful balance of sweetness and herbal notes, the Perroquet is a variation of the classic green-colored cocktails. The slight licorice flavor of the pastis complements the gin base, making it a refreshing choice for warm weather.",
+    "zh": "*一款清新且帶有草本味的雞尾酒.*\n\n鸚鵡雞尾酒擁有鮮豔的綠色，並具有甜味和草本香氣的完美平衡，是經典綠色雞尾酒的變體。茴香酒的淡淡甘草味與琴酒基底相得益彰，是溫暖天氣的清新之選。"
+  },
+  "historical_reference": {
+    "en": "While the exact origin of the Perroquet is debated, it is believed to be a variation of other green cocktails using absinthe or pastis, popular in the early 20th century. The name 'Perroquet' (French for 'parrot') likely refers to the drink's bright green color.",
+    "zh": "雖然鸚鵡雞尾酒的確切起源尚有爭議，但人們認為它是 20 世紀初流行的使用苦艾酒或茴香酒的其他綠色雞尾酒的變體。「Perroquet」（法語中的「鸚鵡」）這個名稱可能指的是飲料的鮮豔綠色。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass. Garnish.",
+    "zh": "將所有材料與冰塊一起搖勻，然後濾入冰鎮的玻璃杯中。裝飾。"
+  },
+  "garnish": {
+    "en": "Cherry or lime wedge",
+    "zh": "櫻桃或檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or coupe",
+    "zh": "古典杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Bright green, clear, and vibrant.",
+    "zh": "鮮綠色、清澈且充滿活力。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical backbone of the cocktail.",
+        "zh": "提供雞尾酒的基酒和植物骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Pastis",
+        "zh": "茴香酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinct anise flavor and green hue.",
+        "zh": "增添獨特的茴香味和綠色色調。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡單糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the other ingredients.",
+        "zh": "增加甜度以平衡其他成分。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Calvados Port",
+    "zh": "蘋果白蘭地波特"
+  },
+  "description": {
+    "en": "**Rich and Fruity Cocktail**\n\nA luxurious after-dinner drink that highlights the depth of Calvados:\n\n*   Calvados base for robust apple flavor\n*   Port wine adds sweetness and body\n*   Bitters to balance and enhance the experience",
+    "zh": "**濃郁果香的雞尾酒**\n\n一款奢華的餐後飲品，突顯蘋果白蘭地的深度：\n\n*   以蘋果白蘭地為基底，帶來濃郁的蘋果風味\n*   波特酒增添甜味和酒體\n*   苦精平衡並提升風味"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\n*   A contemporary cocktail designed to showcase the pairing of Calvados and Port.\n*   Likely originated in the late 20th or early 21st century as a variation on classic brandy cocktails.",
+    "zh": "**現代創作**\n\n*   一款現代雞尾酒，旨在展示蘋果白蘭地和波特酒的搭配。\n*   可能起源於20世紀末或21世紀初，是經典白蘭地雞尾酒的變體。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain",
+    "zh": "加冰攪拌後過濾"
+  },
+  "garnish": {
+    "en": "Apple slice or cherry",
+    "zh": "蘋果片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or coupe",
+    "zh": "岩石杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Deep amber with ruby highlights",
+    "zh": "深琥珀色，帶有紅寶石色澤"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Apple Brandy (Calvados)",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the apple brandy base with complex fruit notes.",
+        "zh": "提供蘋果白蘭地基底，具有複雜的果香。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "apple brandy",
+          "zh": "蘋果白蘭地"
+        },
+        {
+          "en": "calvados",
+          "zh": "卡爾瓦多斯"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Port Wine (Tawny)",
+        "zh": "波特酒（茶色）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, body, and dried fruit notes.",
+        "zh": "增添甜味、酒體和乾果香氣。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters (Angostura)",
+        "zh": "苦精（安格式）"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "增加複雜性並平衡甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

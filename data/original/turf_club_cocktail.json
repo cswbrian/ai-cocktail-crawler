@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Turf Club Cocktail",
+    "zh": "跑馬俱樂部雞尾酒"
+  },
+  "description": {
+    "en": "A classic cocktail featuring London Dry Gin, dry vermouth, maraschino liqueur, orange bitters, and absinthe. It is a spirit-forward drink with a complex flavor profile and a slightly bitter finish.",
+    "zh": "一款經典雞尾酒，以倫敦乾琴酒、乾苦艾酒、黑櫻桃利口酒、橙味苦精和苦艾酒為特色。 這是一款烈酒主導的飲品，具有複雜的風味和略帶苦味的餘味。"
+  },
+  "historical_reference": {
+    "en": "The Turf Club Cocktail is a classic cocktail that dates back to the late 19th century. While its exact origins are debated, it is believed to have originated in London gentlemen's clubs or bars. Its name, referencing horse racing, and spirit-forward nature have maintained its popularity.",
+    "zh": "跑馬俱樂部雞尾酒是一款經典雞尾酒，可以追溯到 19 世紀末。 雖然其確切起源存在爭議，但據信它起源於倫敦紳士俱樂部或酒吧。 它的名字參考了賽馬，以及烈酒主導的特性，使其保持了受歡迎程度。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass. Optionally rinse the glass with absinthe first.",
+    "zh": "與冰攪拌並濾入冰鎮的玻璃杯中。 （可選）先用苦艾酒沖洗玻璃杯。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale red-amber",
+    "zh": "清澈，淡紅色琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "London Dry Gin",
+        "zh": "倫敦乾琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "提供基酒和植物的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 5,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness and cherry flavor.",
+        "zh": "增加一絲甜味和櫻桃味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "乾苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增加乾澀感和草本風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a hint of citrus and bitterness.",
+        "zh": "增加柑橘和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Up to Date",
+    "zh": "最新款"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA refreshing and complex cocktail featuring:\n*   Fresh citrus for brightness\n*   Egg white for a silky texture\n*   Absinthe for a subtle anise note\n*   Sugar for balance",
+    "zh": "**現代經典雞尾酒**\n\n一款清新而複雜的雞尾酒，特色：\n*   新鮮柑橘帶來明亮感\n*   蛋白帶來絲滑口感\n*   苦艾酒帶來微妙的茴芹味\n*   糖帶來平衡"
+  },
+  "historical_reference": {
+    "en": "**Created by Sam Ross in 2000s at Milk & Honey in New York City**\n\n*   A modern variation on the classic Gin Sour\n*   Features absinthe, which distinguishes it from other gin sours\n*   Named by combining the bartender's previous cocktail \"Down to Date\" and moving upwards alphabetically",
+    "zh": "**由 Sam Ross 於 2000 年代在紐約市的 Milk & Honey 創作**\n\n*   經典琴酒酸酒的現代變體\n*   以苦艾酒為特色，使其與其他琴酒酸酒區分開來\n*   透過結合調酒師之前的雞尾酒“Down to Date”並按字母順序向上移動來命名"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into chilled glass.",
+    "zh": "將所有材料乾搖，然後再次與冰塊搖勻。 雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist and/or a few drops of Angostura bitters on the foam",
+    "zh": "橙皮扭轉和/或在泡沫上滴幾滴安格式苦味酒"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "淺碟香檳杯或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head",
+    "zh": "混濁的淡黃色，帶有泡沫狀白色酒頭"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "London Dry Gin",
+        "zh": "倫敦乾琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and botanical flavors.",
+        "zh": "提供基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinct anise flavor and aromatic complexity.",
+        "zh": "增添獨特的茴芹風味和複雜的香氣。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and sourness.",
+        "zh": "增加酸度和酸味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sour.",
+        "zh": "增加甜味以平衡酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫狀的酒頭。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

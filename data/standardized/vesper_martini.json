@@ -1,0 +1,135 @@
+{
+  "name": {
+    "en": "Vesper Martini",
+    "zh": "維斯珀馬丁尼"
+  },
+  "description": {
+    "en": "**A sophisticated and potent cocktail**\n\nA classic variation on the Martini, made famous by James Bond, featuring:\n*   Gin for a strong base\n*   Vodka for smoothness\n*   Lillet Blanc for a subtle sweetness and floral aroma",
+    "zh": "**一款精緻且強勁的雞尾酒**\n\n馬丁尼的經典變奏，因詹姆士·龐德而聞名，特色：\n*   琴酒提供強勁的基底\n*   伏特加帶來柔順感\n*   Lillet Blanc 帶來微妙的甜味和花香"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Ian Fleming in his novel *Casino Royale* (1953).\n\n*   Named after Vesper Lynd, a fictional character.\n*   Specifically calls for Kina Lillet, which is now Lillet Blanc.",
+    "zh": "**起源**：由伊恩·弗萊明在他的小說《*皇家賭場*》（1953年）中創作。\n\n*   以虛構角色維斯珀·林德命名。\n*   特別要求使用金巴利樂，現在是 Lillet Blanc。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice until well-chilled, then strain into a chilled glass. Garnish with a lemon twist.",
+    "zh": "將所有材料與冰塊搖勻至冰鎮，然後倒入冰鎮的杯中。用檸檬扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow",
+    "zh": "清澈的淡黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and aromatic base.",
+        "zh": "提供主要的風味和香氣基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds smoothness and neutral spirit.",
+        "zh": "增加柔順感和中性烈酒。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "Lillet Blanc"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle sweetness, floral and herbal notes.",
+        "zh": "增加微妙的甜味、花香和草本香氣。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

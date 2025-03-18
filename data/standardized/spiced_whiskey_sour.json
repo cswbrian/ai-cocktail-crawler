@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Spiced Whiskey Sour",
+    "zh": "香料威士忌酸酒"
+  },
+  "description": {
+    "en": "**A Spicy Twist on a Classic**\n\nThis cocktail elevates the traditional Whiskey Sour with a blend of warm spices, creating a comforting and flavorful experience.\n\n*   Whiskey base for a familiar foundation\n*   Lemon juice for necessary sourness\n*   Spiced syrup for depth and warmth\n*   Egg white for a smooth texture (optional)",
+    "zh": "**經典的辛辣風味**\n\n這款雞尾酒通過混合溫暖的香料提升了傳統威士忌酸酒的口感，創造了一種舒適而美味的體驗。\n\n*   威士忌基底提供熟悉的基礎\n*   檸檬汁提供必要的酸味\n*   香料糖漿增添深度和溫暖感\n*   蛋白提供柔滑的質地（可選）"
+  },
+  "historical_reference": {
+    "en": "**Evolution of the Sour**\n\n*   The Whiskey Sour emerged in the mid-19th century.\n*   It's a fundamental template for many sour variations.\n*   The addition of spices adds a modern twist.",
+    "zh": "**酸酒的演變**\n\n*   威士忌酸酒出現在19世紀中葉。\n*   它是許多酸味變體的基礎模板。\n*   香料的添加增添了現代感。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass. Dry shake first if using egg white.",
+    "zh": "將所有材料與冰塊一起搖晃，然後過濾到玻璃杯中。如果使用蛋白，先進行乾搖。"
+  },
+  "garnish": {
+    "en": "Orange slice and star anise",
+    "zh": "橙片和八角"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy amber liquid with a frothy head",
+    "zh": "混濁的琥珀色液體，帶有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and warmth.",
+        "zh": "提供基酒和溫暖感。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and brightness.",
+        "zh": "增加酸味和明亮度。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Spiced Syrup",
+        "zh": "香料糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and spiced notes.",
+        "zh": "增加甜味和香料味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg white (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加柔滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

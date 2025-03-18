@@ -1,0 +1,157 @@
+{
+  "name": {
+    "en": "Old Cuban",
+    "zh": "老古巴"
+  },
+  "description": {
+    "en": "A sophisticated, sparkling cocktail that is often described as a rum-based Mojito with Champagne. It offers a refreshing balance of sweetness, acidity, and herbal notes, making it a perfect celebratory drink.",
+    "zh": "這是一款精緻的氣泡雞尾酒，通常被描述為以蘭姆酒為基底，加上香檳的莫吉托。它提供了清爽的甜味、酸度和草本風味的平衡，使其成為完美的慶祝飲品。"
+  },
+  "historical_reference": {
+    "en": "Created by Audrey Saunders at the Pegu Club in New York City in the early 2000s, the Old Cuban is a modern classic that bridges the gap between a Mojito and a French 75. It quickly gained popularity for its refreshing taste and elegant presentation.",
+    "zh": "Old Cuban由奧黛麗·桑德斯 (Audrey Saunders) 於 2000 年代初期在紐約市的 Pegu Club 創作，是一款現代經典之作，彌合了莫吉托和法式 75 之間的差距。它以其清爽的口感和優雅的呈現方式迅速獲得歡迎。"
+  },
+  "technique": {
+    "en": "Muddle mint, add other ingredients except sparkling wine. Shake with ice. Strain into chilled glass and top with sparkling wine. Garnish with a mint sprig.",
+    "zh": "將薄荷葉搗碎，加入其他材料（氣泡酒除外）。加冰搖勻。濾入冰鎮過的杯子，倒入氣泡酒，並用薄荷枝裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Champagne flute",
+    "zh": "高腳杯或香檳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent",
+    "zh": "淡黃色，起泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and a rich, complex flavor.",
+        "zh": "提供基酒和豐富、複雜的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Champagne or Sparkling Wine",
+        "zh": "香檳或氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a dry, elegant finish.",
+        "zh": "增加氣泡感和乾燥、優雅的餘韻。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity of the lime.",
+        "zh": "增加甜味，平衡檸檬的酸度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing herbal aroma and flavor.",
+        "zh": "增添清爽的草本香氣和風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice.",
+        "zh": "增加複雜性和辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

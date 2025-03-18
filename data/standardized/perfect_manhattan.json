@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Perfect Manhattan",
+    "zh": "完美曼哈頓"
+  },
+  "description": {
+    "en": "**A variation on the classic Manhattan cocktail**.\n\nIt balances the boldness of rye whiskey with the herbal sweetness of both sweet and dry vermouth, creating a complex and refined drink.\n\n*   Equal parts sweet and dry vermouth\n*   Bitters to enhance the flavors\n*   Luxardo Cherry for garnish",
+    "zh": "**經典曼哈頓雞尾酒的變奏**。\n\n它平衡了黑麥威士忌的濃烈與甜味和不甜的苦艾酒的草本甜味，創造出一種複雜而精緻的飲品。\n\n*   等量的甜味和不甜的苦艾酒\n*   苦精以增強風味\n*   Luxardo櫻桃作為裝飾"
+  },
+  "historical_reference": {
+    "en": "**A refined twist on the classic Manhattan**.\n\nWhile the exact origin of the Perfect Manhattan is debated, it is generally believed to have emerged in the late 19th or early 20th century as bartenders experimented with variations of the original Manhattan recipe.\n\nThe addition of equal parts sweet and dry vermouth distinguishes it from the standard Manhattan, creating a more balanced and nuanced flavor profile.",
+    "zh": "**經典曼哈頓的精緻轉變**。\n\n雖然完美曼哈頓的確切起源尚有爭議，但普遍認為它出現在 19 世紀末或 20 世紀初，當時調酒師嘗試了原始曼哈頓配方的變體。\n\n添加等量的甜味和不甜的苦艾酒，使其與標準曼哈頓區分開來，從而創造出更平衡和細緻的風味。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Luxardo Cherry",
+    "zh": "盧薩多櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass",
+    "zh": "冰鎮過的淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid with a reddish hue",
+    "zh": "清澈的琥珀色液體，帶有紅色色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the robust base and spicy notes.",
+        "zh": "提供堅實的基底和辛辣味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "增加甜味和草本味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加乾度和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and depth.",
+        "zh": "增加複雜性和深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

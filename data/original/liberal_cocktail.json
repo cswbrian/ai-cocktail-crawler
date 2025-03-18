@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Liberal Cocktail",
+    "zh": "自由派雞尾酒"
+  },
+  "description": {
+    "en": "**A pre-Prohibition Classic**\n\nThe Liberal cocktail offers a balanced blend of rye whiskey, Italian vermouth, and orange bitters, served up or on the rocks. It's a simple, yet sophisticated drink with a smooth finish.\n\n*   Rye whiskey provides the base spirit and adds spiciness.\n*   Italian vermouth contributes sweetness and herbal notes.\n*   Orange bitters add a citrusy aroma and a touch of bitterness.",
+    "zh": "**禁酒令前經典之作**\n\n自由派雞尾酒將黑麥威士忌、義大利苦艾酒和橙味苦精完美融合，可選擇直接飲用或加冰飲用。 是一款簡單而精緻的飲品，口感順滑。\n\n*   黑麥威士忌作為基酒，增添辛辣味。\n*   義大利苦艾酒帶來甜味和草本風味。\n*   橙味苦精增添柑橘香氣和一絲苦味。"
+  },
+  "historical_reference": {
+    "en": "The Liberal Cocktail is a classic cocktail that appeared in several cocktail books in the early 20th century, prior to Prohibition. It's a variation on the Manhattan or Martini, showcasing the versatility of rye whiskey and vermouth. It is mentioned in *Patrick Gavin Duffy's Official Mixer's Manual* (1934).",
+    "zh": "自由派雞尾酒是一款經典雞尾酒，出現在 20 世紀初禁酒令之前的幾本雞尾酒書籍中。 它是曼哈頓或馬丁尼的變體，展示了黑麥威士忌和苦艾酒的多功能性。 它在*帕特里克·加文·達菲的官方調酒師手冊*（1934 年）中被提及。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass. Garnish with an orange peel twist.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的玻璃杯中。 用橙皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or Old-fashioned glass",
+    "zh": "雞尾酒杯或古典杯"
+  },
+  "appearance": {
+    "en": "Clear, light amber liquid",
+    "zh": "清澈的淺琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣而濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Italian Vermouth",
+        "zh": "義大利苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Orange Bitters",
+        "zh": "滴橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic citrus notes and a touch of bitterness.",
+        "zh": "增添柑橘香氣和一絲苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

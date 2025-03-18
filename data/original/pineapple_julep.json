@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Pineapple Julep",
+    "zh": "鳳梨茱莉普"
+  },
+  "description": {
+    "en": "**Tropical Twist on a Classic**\n\nA refreshing variation of the classic Mint Julep, this cocktail features:\n* Fresh pineapple for sweetness and tropical flavor\n* Mint for aromatic coolness\n* Bourbon for a robust base",
+    "zh": "**經典的熱帶風味**\n\n這是經典薄荷茱莉普的清爽變奏，這款雞尾酒的特色：\n* 新鮮鳳梨帶來甜味和熱帶風味\n* 薄荷帶來芳香的涼爽感\n* 波本威士忌提供強勁的基底"
+  },
+  "historical_reference": {
+    "en": "While the exact origin is debated, juleps have existed since the 1700s. This is a modern interpretation:\n\n* Juleps evolved from medicinal drinks.\n* The Pineapple Julep is a more recent adaptation.",
+    "zh": "雖然確切的起源尚有爭議，但茱莉普酒自 1700 年代以來就已存在。 這是一種現代詮釋：\n\n* 茱莉普酒源自藥用飲品。\n* 鳳梨茱莉普是最近的改編。"
+  },
+  "technique": {
+    "en": "Muddle mint leaves gently with simple syrup in a julep cup or rocks glass. Add pineapple juice and bourbon. Fill with crushed ice. Stir until the cup is frosted. Garnish.",
+    "zh": "在茱莉普杯或岩石杯中，將薄荷葉與簡糖漿輕輕混合。 加入鳳梨汁和波本威士忌。 裝滿碎冰。 攪拌直到杯子結霜。 裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, pineapple wedge (optional)",
+    "zh": "薄荷枝，鳳梨角（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or Julep cup",
+    "zh": "岩石杯或茱莉普杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light yellow-green with mint sprig garnish",
+    "zh": "混濁的淡黃綠色，以薄荷枝裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky notes.",
+        "zh": "提供基酒和橡木風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides aromatic freshness.",
+        "zh": "提供芳香清新感。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Fresh Pineapple Juice",
+        "zh": "新鮮鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the sourness.",
+        "zh": "平衡酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

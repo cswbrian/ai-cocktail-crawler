@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Suffering Bastard",
+    "zh": "受難的混蛋"
+  },
+  "description": {
+    "en": "**The Suffering Bastard**: A complex and refreshing tiki-style cocktail.\n\nCreated by Joe Scialom at the Shepheard's Hotel bar in Cairo during World War II to aid patrons suffering from hangovers. A mix of gin, brandy, lime, ginger beer, and bitters, it's both potent and revitalizing.",
+    "zh": "**受難的混蛋**: 一款複雜而清爽的提基風格雞尾酒。\n\n由喬·夏洛姆在二戰期間於開羅的Shepheard's Hotel酒吧創作，旨在幫助顧客緩解宿醉。混合了琴酒、白蘭地、萊姆、薑汁啤酒和苦精，既 potent 又充滿活力。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Joe Scialom at the Shepheard's Hotel bar in Cairo during World War II.\n\n*   Intended as a hangover cure for Allied officers.\n*   A variation on the classic gin and ginger beer combination, elevated with brandy, lime, and bitters.\n*   The name reflects the state of the patrons who needed it most.",
+    "zh": "**起源**: 由喬·夏洛姆在二戰期間於開羅的Shepheard's Hotel酒吧創作。\n\n*   旨在為盟軍軍官提供宿醉的解藥。\n*   經典琴酒和薑汁啤酒組合的變體，並以白蘭地、萊姆和苦精提升。\n*   這個名字反映了最需要它的人的狀態。"
+  },
+  "technique": {
+    "en": "Shake first four ingredients with ice, strain into glass filled with ice, top with ginger beer. Garnish.",
+    "zh": "將前四種材料與冰塊搖勻，濾入裝滿冰塊的玻璃杯中，加入薑汁啤酒。 裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, cucumber slice",
+    "zh": "薄荷枝、小黃瓜片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Tiki mug",
+    "zh": "高球杯或提基杯"
+  },
+  "appearance": {
+    "en": "Light amber, slightly hazy",
+    "zh": "淡琥珀色，略帶朦朧"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical base and backbone to the cocktail.",
+        "zh": "提供植物基礎和雞尾酒的骨幹。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth, complexity, and a fruity note.",
+        "zh": "增加深度、複雜性和果香。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds necessary sourness to balance the other ingredients.",
+        "zh": "增加必要的酸度以平衡其他成分。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic spice.",
+        "zh": "增添複雜性和芳香香料。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and effervescent lift.",
+        "zh": "提供辛辣和氣泡的提升。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

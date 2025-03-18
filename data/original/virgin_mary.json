@@ -1,0 +1,155 @@
+{
+  "name": {
+    "en": "Virgin Mary",
+    "zh": "聖母瑪利亞"
+  },
+  "description": {
+    "en": "**Savory and Refreshing Tomato-Based Drink**\n\nA non-alcoholic version of the Bloody Mary, known for its:\n*   Rich tomato flavor\n*   Spicy and savory notes\n*   Customizable ingredients for personal preference",
+    "zh": "**清爽的番茄風味飲品**\n\n血腥瑪麗的無酒精版本，以其著稱：\n*   濃郁的番茄味\n*   辛辣和鮮味\n*   可根據個人喜好調整配料"
+  },
+  "historical_reference": {
+    "en": "**Derivative of the Bloody Mary Cocktail**\n\nThe Virgin Mary is believed to have originated as a non-alcoholic alternative to the Bloody Mary, catering to those who prefer a savory tomato-based drink without the vodka. Its creation likely coincided with the rising popularity of the Bloody Mary itself.\n\n*   Popularized in the mid-20th century",
+    "zh": "**血腥瑪麗雞尾酒的衍生品**\n\n據信，聖母瑪利亞起源於血腥瑪麗的無酒精替代品，專為那些喜歡不含伏特加的鹹味番茄飲料的人而設。 它的創作可能與血腥瑪麗本身越來越受歡迎的程度相吻合。\n\n*   於 20 世紀中葉普及"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice, shake well, and strain into a glass filled with ice",
+    "zh": "將所有材料放入加冰的搖酒器中，充分搖晃，然後濾入裝滿冰塊的杯子中"
+  },
+  "garnish": {
+    "en": "Celery stalk, lemon wedge, olives, or other savory toppings",
+    "zh": "芹菜桿、檸檬角、橄欖或其他鹹味配料"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Thick, red, and pulpy, often with visible spices",
+    "zh": "濃稠、紅色、果肉感，通常帶有可見的香料"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor",
+        "zh": "提供基底風味"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness",
+        "zh": "增加酸度和明亮度"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and complexity",
+        "zh": "增添鮮味和複雜性"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Tabasco Sauce",
+        "zh": "塔巴斯科辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds heat",
+        "zh": "增加辣度"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances savory notes",
+        "zh": "增強鹹味"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds spice",
+        "zh": "增加風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 5,
+    "booziness": 0,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

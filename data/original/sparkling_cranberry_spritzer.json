@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Sparkling Cranberry Spritzer",
+    "zh": "氣泡蔓越莓 Spritzer"
+  },
+  "description": {
+    "en": "A refreshing and festive drink, perfect for celebrations. This spritzer combines the tartness of cranberry with the bubbly delight of sparkling wine or club soda for a light and enjoyable beverage.",
+    "zh": "一款清爽且喜慶的飲品，非常適合慶祝活動。這款 Spritzer 將蔓越莓的酸味與氣泡酒或俱樂部蘇打水的氣泡樂趣相結合，成為一款清淡且令人愉悅的飲品。"
+  },
+  "historical_reference": {
+    "en": "The origin of spritzers can be traced back to the 19th century when Austro-Hungarian soldiers diluted strong local wines with sparkling water to make them more palatable.\n\n*   Spritzers evolved over time with the addition of various fruit juices and liqueurs\n*   The Cranberry Spritzer is a more modern variation, leveraging the popularity of cranberry juice as a cocktail mixer.",
+    "zh": "Spritzer 的起源可以追溯到 19 世紀，當時奧匈帝國的士兵用氣泡水稀釋當地濃烈的葡萄酒，使其更易於飲用。\n\n*   隨著時間的推移，Spritzer 不斷發展，添加了各種果汁和利口酒\n*   蔓越莓 Spritzer 是一種更現代的變體，利用了蔓越莓汁作為雞尾酒混合物的普及。"
+  },
+  "technique": {
+    "en": "Combine ingredients in a glass with ice. Stir gently to combine.",
+    "zh": "將所有材料放入裝有冰塊的玻璃杯中。 輕輕攪拌混合。"
+  },
+  "garnish": {
+    "en": "Cranberries and rosemary sprig",
+    "zh": "蔓越莓和迷迭香枝"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or highball glass",
+    "zh": "葡萄酒杯或高球杯"
+  },
+  "appearance": {
+    "en": "Light pink to red, effervescent",
+    "zh": "淡粉色至紅色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Flavored Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a hint of citrus and complexity.",
+        "zh": "增添一絲柑橘味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides tartness and cranberry flavor.",
+        "zh": "提供酸味和蔓越莓風味。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a touch of sweetness.",
+        "zh": "增添氣泡和一絲甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Club Soda",
+        "zh": "俱樂部蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds extra fizz and dilutes the drink slightly.",
+        "zh": "增加額外的氣泡並稍微稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 2,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

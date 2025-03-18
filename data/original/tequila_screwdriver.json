@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Tequila Screwdriver",
+    "zh": "龍舌蘭螺絲起子"
+  },
+  "description": {
+    "en": "A simple twist on the classic Screwdriver, replacing vodka with tequila for a south-of-the-border kick.\n\n*   Easy to make\n*   Refreshing and citrusy\n*   Perfect for warm weather",
+    "zh": "經典螺絲起子的簡單變奏，以龍舌蘭酒取代伏特加，帶來墨西哥風味。\n\n*   容易製作\n*   清爽柑橘味\n*   非常適合溫暖天氣"
+  },
+  "historical_reference": {
+    "en": "The Tequila Screwdriver is a modern variation of the classic Screwdriver cocktail. The original Screwdriver is believed to have originated in the 1940s or 1950s. The Tequila version likely appeared later as tequila gained popularity in the United States.",
+    "zh": "龍舌蘭螺絲起子是經典螺絲起子雞尾酒的現代變體。最初的螺絲起子據信起源於 1940 年代或 1950 年代。 龍舌蘭酒版本可能在龍舌蘭酒在美國越來越受歡迎之後才出現。"
+  },
+  "technique": {
+    "en": "Build in glass, add ice, stir gently.",
+    "zh": "在高飛球杯中調製，加入冰塊，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Orange slice or wedge",
+    "zh": "柳橙片或角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高飛球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant orange",
+    "zh": "混濁的鮮豔橘色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic agave flavor.",
+        "zh": "提供酒精基底和標誌性的龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and the primary flavor component.",
+        "zh": "增加甜味、酸度和主要風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

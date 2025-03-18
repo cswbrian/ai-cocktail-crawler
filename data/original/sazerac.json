@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Sazerac",
+    "zh": "薩澤拉克"
+  },
+  "description": {
+    "en": "**The Sazerac: A New Orleans Classic**\n\nA truly iconic cocktail, the Sazerac is known for its unique preparation and bold flavors.\n\nKey characteristics include:\n\n*   Absinthe rinse for a distinctive aroma.\n*   Peychaud's bitters for a floral and slightly sweet bitterness.\n*   Rye whiskey providing a spicy and robust base.\n*   Lemon peel oils adding a bright citrus note.",
+    "zh": "**薩澤拉克：新奧爾良經典**\n\n薩澤拉克是一款真正具有標誌性的雞尾酒，以其獨特的製作方法和濃郁的風味而聞名。\n\n主要特點包括：\n\n*   苦艾酒漱口水帶來獨特的香氣。\n*   Peychaud's 苦味酒帶來花香和略帶甜味的苦味。\n*   黑麥威士忌提供辛辣而濃郁的基底。\n*   檸檬皮油增添明亮的柑橘香氣。"
+  },
+  "historical_reference": {
+    "en": "**Origins in New Orleans**\n\nThe Sazerac dates back to the 1850s in New Orleans. It was originally made with Sazerac-de-Forge et Fils cognac, but rye whiskey became the spirit of choice over time.\n\nKey historical points:\n\n*   Developed at the Sazerac Coffee House.\n*   Peychaud's Bitters were created by Antoine Amedie Peychaud, a New Orleans apothecary.\n*   Absinthe was later replaced by Herbsaint due to absinthe bans.",
+    "zh": "**起源於新奧爾良**\n\n薩澤拉克可以追溯到 1850 年代的新奧爾良。 它最初是用 Sazerac-de-Forge et Fils 干邑白蘭地製成的，但隨著時間的推移，黑麥威士忌成為首選烈酒。\n\n主要歷史點：\n\n*   在薩澤拉克咖啡館開發。\n*   Peychaud's Bitters 由新奧爾良藥劑師 Antoine Amedie Peychaud 創建。\n*   由於禁止使用苦艾酒，苦艾酒後來被 Herbsaint 取代。"
+  },
+  "technique": {
+    "en": "Rinse a chilled old-fashioned glass with absinthe, discarding any excess. Muddle sugar cube with Peychaud's bitters in a mixing glass. Add rye whiskey and ice. Stir until well-chilled. Strain into the prepared glass. Express lemon peel oils over the drink and discard.",
+    "zh": "用苦艾酒沖洗冰鎮的古典杯，丟棄多餘的酒。在攪拌杯中將方糖與佩喬氏苦味酒混合。加入黑麥威士忌和冰塊。攪拌至完全冷卻。濾入準備好的玻璃杯中。將檸檬皮油擠在飲料上並丟棄。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist (expressed and discarded)",
+    "zh": "檸檬皮扭轉（擠壓後丟棄）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass (chilled)",
+    "zh": "古典杯（冰鎮）"
+  },
+  "appearance": {
+    "en": "Clear amber liquid with a slight golden hue",
+    "zh": "清澈的琥珀色液體，帶有淡淡的金黃色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the backbone of the cocktail, providing spice and complexity.",
+        "zh": "構成雞尾酒的骨幹，提供香料和複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Used to rinse the glass, providing an anise aroma and flavor.",
+        "zh": "用於沖洗玻璃杯，提供茴香的香氣和味道。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness to balance the spice and bitterness.",
+        "zh": "增添一絲甜味，以平衡香料和苦味。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Provides floral and slightly sweet bitter notes, crucial to the Sazerac's unique flavor profile.",
+        "zh": "提供花香和略帶甜味的苦味，這對於薩澤拉克獨特的風味至關重要。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

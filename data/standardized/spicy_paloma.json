@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Spicy Paloma",
+    "zh": "香辣帕洛瑪"
+  },
+  "description": {
+    "en": "**A Spicy Twist on a Classic Paloma**\n\nThis cocktail elevates the traditional Paloma with a spicy kick. It offers:\n\n*   A refreshing combination of tequila and grapefruit soda.\n*   A spicy element from the chili liqueur or fresh chili.\n*   A tangy and slightly salty finish.",
+    "zh": "**經典Paloma的辛辣轉折**\n\n這款雞尾酒以辛辣風味提升了傳統的Paloma。它提供了：\n\n*   龍舌蘭酒和葡萄柚蘇打水的清爽組合。\n*   來自辣椒利口酒或新鮮辣椒的辛辣元素。\n*   濃郁且略帶鹹味的尾韻。"
+  },
+  "historical_reference": {
+    "en": "**Paloma Origins**\n\nThe Paloma is a popular tequila-based cocktail believed to have originated in Mexico. While its exact origins are debated, it is a widely enjoyed alternative to the Margarita.\n\nThe addition of spice is a modern twist, catering to preferences for bolder flavors.",
+    "zh": "**Paloma的起源**\n\nPaloma是一種受歡迎的以龍舌蘭為基底的雞尾酒，據信起源於墨西哥。雖然它的確切起源存在爭議，但它是廣泛享用的瑪格麗塔替代品。\n\n添加香料是一種現代的轉折，旨在滿足對更大膽風味的偏好。"
+  },
+  "technique": {
+    "en": "Combine tequila, lime juice, chili liqueur (or muddled chili), and salt in a highball glass with ice. Top with grapefruit soda and stir gently. Garnish.",
+    "zh": "將龍舌蘭酒、萊姆汁、辣椒利口酒（或搗碎的辣椒）和鹽放入裝有冰塊的高杯玻璃杯中。 加入葡萄柚蘇打水，輕輕攪拌。 裝飾。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or chili slice",
+    "zh": "葡萄柚角或辣椒片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Pale pink, effervescent, with a spicy aroma",
+    "zh": "淡粉紅色，起泡，帶有辛辣香氣"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's foundation and agave notes.",
+        "zh": "提供雞尾酒的基礎和龍舌蘭風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Chili Liqueur",
+        "zh": "辣椒利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a spicy kick to the cocktail.",
+        "zh": "為雞尾酒增添辛辣味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Soda",
+        "zh": "葡萄柚蘇打"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, citrus notes, and effervescence.",
+        "zh": "增加甜味、柑橘風味和氣泡。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸味並平衡甜度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Salt",
+        "zh": "一撮鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the flavors.",
+        "zh": "增強風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

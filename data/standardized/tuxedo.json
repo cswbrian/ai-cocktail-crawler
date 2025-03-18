@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Tuxedo",
+    "zh": "塔士多"
+  },
+  "description": {
+    "en": "**A Classic Gin Martini Variation**\n\nThe Tuxedo is a sophisticated cocktail featuring:\n\n*   Old Tom Gin for a slightly sweeter profile\n*   Dry Vermouth for dryness and herbal notes\n*   Orange bitters for citrus aroma",
+    "zh": "**經典琴酒馬丁尼的變奏**\n\nTuxedo 是一款精緻的雞尾酒，特色：\n\n*   老湯姆琴酒帶來稍微的甜味\n*   Dry Vermouth 帶來乾度和草本香氣\n*   橙味苦精帶來柑橘香氣"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Late 19th Century, USA\n\n*   Named after the Tuxedo Club in New York\n*   Evolved from earlier Martini variations\n*   Numerous variations exist, with different ratios and additions",
+    "zh": "**起源**: 19 世紀末，美國\n\n*   以紐約的 Tuxedo Club 命名\n*   從早期的馬丁尼酒演變而來\n*   存在許多變體，具有不同的比例和添加物"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or Olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow liquid",
+    "zh": "清澈的淡黃色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base with a slightly sweeter profile than London Dry.",
+        "zh": "提供烈酒基底，比倫敦乾琴酒略甜。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes, balancing the gin.",
+        "zh": "增加乾澀和草本味，平衡琴酒。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a slight hint of cherry flavor. (Optional)",
+        "zh": "添加一絲櫻桃味。(可選)"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Orange Bitters",
+        "zh": "少許橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds citrus complexity and aroma.",
+        "zh": "增加柑橘的複雜度和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "name": {
+    "en": "Caesar",
+    "zh": "凱撒"
+  },
+  "description": {
+    "en": "**Canada's National Cocktail**\n\nA savory cocktail featuring:\n*   Clamato juice for a unique salty and umami base.\n*   Hot sauce and Worcestershire sauce for spice and depth.\n*   A heavily garnished rim for added flavor and visual appeal.",
+    "zh": "**加拿大的國民雞尾酒**\n\n一款鹹香的雞尾酒，特色：\n*   蛤蜊番茄汁提供獨特的鹹味和鮮味基底。\n*   辣醬和伍斯特醬增添辛辣和深度。\n*   大量裝飾的杯緣增添風味和視覺吸引力。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Invented in Calgary, Alberta, Canada in 1969 by Walter Chell at the Calgary Inn.\n\n*   Originally named the 'Bloody Caesar'.\n*   Inspired by the flavors of Spaghetti alle vongole.\n*   Clamato juice was the key ingredient that differentiated it from a Bloody Mary.",
+    "zh": "**起源**: 1969年由沃爾特·切爾在加拿大艾伯塔省卡爾加里的卡爾加里酒店發明。\n\n*   最初名為“血腥凱撒”。\n*   靈感來自蛤蜊義大利麵的味道。\n*   蛤蜊番茄汁是使其與血腥瑪麗區分開來的關鍵成分。"
+  },
+  "technique": {
+    "en": "Rim the glass with celery salt or a spice mix. Combine ingredients in the glass with ice and stir gently. Garnish heavily.",
+    "zh": "在玻璃杯邊緣塗上芹菜鹽或香料混合物。將配料與冰塊混合在玻璃杯中，然後輕輕攪拌。大量裝飾。"
+  },
+  "garnish": {
+    "en": "Celery stalk, lime wedge, pickled bean, pepperoni stick, olives, and spiced rim.",
+    "zh": "芹菜梗、檸檬角、醃豆、義大利香腸條、橄欖和香料杯緣。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass with a spiced rim.",
+    "zh": "高球杯，杯緣帶有香料。"
+  },
+  "appearance": {
+    "en": "Cloudy red, with visible spices and garnish.",
+    "zh": "混濁的紅色，帶有明顯的香料和裝飾。"
+  },
+  "allergens": [
+    {
+      "en": "Shellfish",
+      "zh": "甲殼類海鮮"
+    },
+    {
+      "en": "Gluten (optional)",
+      "zh": "麩質（可選）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base allowing the other ingredients to shine.",
+        "zh": "提供中性的酒精基底，讓其他成分的味道得以展現。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Clamato Juice",
+        "zh": "蛤蜊番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor, a blend of tomato juice and clam broth.",
+        "zh": "提供基礎風味，番茄汁和蛤蜊高湯的混合物。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds heat and spice.",
+        "zh": "增加熱度和辛辣味。"
+      }
+    },
+    {
+      "amount": 4,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and savory depth.",
+        "zh": "增加鮮味和鹹香的深度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lime Wedge",
+        "zh": "檸檬角"
+      },
+      "unit": {
+        "en": "wedge",
+        "zh": "角"
+      },
+      "rationale": {
+        "en": "Adds a touch of citrus.",
+        "zh": "增添一絲柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Salt and Pepper",
+        "zh": "鹽和胡椒"
+      },
+      "unit": {
+        "en": "pinches",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Seasoning the drink",
+        "zh": "調味飲料"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

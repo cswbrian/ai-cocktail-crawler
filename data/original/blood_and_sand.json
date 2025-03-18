@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Blood and Sand",
+    "zh": "血與沙"
+  },
+  "description": {
+    "en": "**A Classic Equal-Parts Cocktail**\n\nThe Blood and Sand is named after the 1922 bullfighting film *Blood and Sand*, starring Rudolph Valentino. It features a unique combination of ingredients:\n\n*   Scotch whisky provides a smoky base.\n*   Sweet vermouth adds a layer of herbal sweetness.\n*   Cherry Heering offers a distinctive cherry flavor.\n*   Fresh orange juice brightens the drink with citrus notes.",
+    "zh": "**經典的等比例雞尾酒**\n\n血與沙是以 1922 年由魯道夫·瓦倫蒂諾主演的鬥牛電影《*血與沙*》命名的。它具有獨特的成分組合：\n\n* 蘇格蘭威士忌提供煙熏基底。\n* 甜味美思增添了一層草本甜味。\n* 櫻桃希林提供獨特的櫻桃風味。\n* 新鮮橙汁以柑橘味點亮飲品。"
+  },
+  "historical_reference": {
+    "en": "**Origins in the Early 20th Century**\n\nThe Blood and Sand cocktail is believed to have been created around 1922, inspired by the eponymous film *Blood and Sand*, a silent movie about bullfighting starring Rudolph Valentino.\n\nThe cocktail gained popularity in the 1930s, appearing in cocktail books of the era. Despite its somewhat unusual combination of ingredients, it remains a recognized classic.",
+    "zh": "**起源於 20 世紀初**\n\n血與沙雞尾酒據信創作於 1922 年左右，靈感來自同名電影《*血與沙*》，這是一部由魯道夫·瓦倫蒂諾主演的關於鬥牛的默片。\n\n這款雞尾酒在 1930 年代廣受歡迎，出現在當時的雞尾酒書籍中。儘管其成分組合有些不尋常，但它仍然是一種公認的經典。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel or brandied cherry (optional)",
+    "zh": "橙皮或白蘭地櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "高腳杯或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Deep red to amber hue, depending on ingredient ratios and freshness, no garnish",
+    "zh": "深紅色至琥珀色，取決於成分比例和新鮮度，沒有裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundation with a smoky and malty flavor profile.",
+        "zh": "提供帶有煙熏和麥芽風味的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes a rich cherry flavor and sweetness.",
+        "zh": "提供濃郁的櫻桃風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and spiced notes, contributing to the complexity.",
+        "zh": "添加草本和香料味，有助於增加複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Orange Juice",
+        "zh": "新鮮橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds brightness and acidity to balance the drink.",
+        "zh": "增加亮度和酸度，以平衡飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

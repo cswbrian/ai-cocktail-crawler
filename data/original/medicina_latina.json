@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Medicina Latina",
+    "zh": "拉丁療法"
+  },
+  "description": {
+    "en": "**Medicina Latina: A Latin Remedy**\n\nA modern classic, this cocktail is a twist on the classic Penicillin cocktail, replacing the Scotch with Reposado Tequila.\n\n*   Reposado Tequila for a rich agave base\n*   Honey syrup for sweetness\n*   Ginger for spice\n*   Lemon juice for acidity",
+    "zh": "**Medicina Latina：拉丁療法**\n\n這款現代經典雞尾酒是經典盤尼西林雞尾酒的變奏，用Reposado龍舌蘭取代了蘇格蘭威士忌。\n\n*   Reposado龍舌蘭提供濃郁的龍舌蘭基底\n*   蜂蜜糖漿帶來甜味\n*   生薑帶來辛辣味\n*   檸檬汁帶來酸度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Inspired by the Penicillin cocktail created by Sam Ross at Milk & Honey in New York City.\n\n*   A modern twist on a medicinal-inspired drink.\n*   Replaces Scotch with Reposado Tequila for a Latin American flavor profile.",
+    "zh": "**起源**：靈感來自薩姆·羅斯在紐約市牛奶與蜂蜜酒吧創作的盤尼西林雞尾酒。\n\n*   對藥用風味飲品的現代演繹。\n*   用Reposado龍舌蘭取代蘇格蘭威士忌，帶來拉丁美洲風味。"
+  },
+  "technique": {
+    "en": "Muddle ginger, add remaining ingredients, shake with ice and double strain into a rocks glass filled with ice.",
+    "zh": "搗碎生薑，加入剩餘成分，加冰搖晃，然後雙重過濾到裝滿冰塊的岩石杯中。"
+  },
+  "garnish": {
+    "en": "Candied ginger",
+    "zh": "糖漬薑片"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Hazy amber color with a frothy white head",
+    "zh": "朦朧的琥珀色，帶有泡沫狀的白色酒帽"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Reposado Tequila",
+        "zh": "Reposado龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base with agave notes and oaky complexity.",
+        "zh": "提供基底，帶有龍舌蘭風味和橡木的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and spice.",
+        "zh": "增加酸度，平衡甜味和辛辣味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Honey Syrup (3:1 Honey to Water)",
+        "zh": "蜂蜜糖漿（3:1 蜂蜜兌水）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a rich, floral aroma.",
+        "zh": "增加甜度以及濃郁的花香。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Ginger Coins",
+        "zh": "薑片"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a spicy and pungent kick.",
+        "zh": "增加辛辣和刺激的味道。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

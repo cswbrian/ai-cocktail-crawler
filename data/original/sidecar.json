@@ -1,0 +1,104 @@
+{
+  "name": {
+    "en": "Sidecar",
+    "zh": " साइडकार (Sāidùkǎ)"
+  },
+  "description": {
+    "en": "*Classic Sour Cocktail*\n\nA harmonious blend of:\n*   Branded Spirit for structure and complexity.\n*   Generic Orange Liqueur contributes to the overall flavor profile, adding sweetness and complementing the brandy's character.\n*   Lemon Juice for brightness and acidity to balance the sweet components.",
+    "zh": "*經典酸味雞尾酒*\n\n和諧融合：\n*   品牌烈酒，賦予結構和複雜性。\n*   通用橙味利口酒，豐富整體風味，增添甜味並襯托白蘭地的特性。\n*   檸檬汁，帶來明亮感和酸度，平衡甜味成分。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Likely originated around World War I in either London or Paris.\n\n*   Popularized in the 1920s.\n*   The exact origin is debated, with competing claims from the Ritz Hotel in Paris and a bar in London.\n*   The name 'Sidecar' possibly derives from the motorcycle sidecar, as a captain was driven to the bar in one.",
+    "zh": "**起源**：可能起源於第一次世界大戰前後的倫敦或巴黎。\n\n*   在 1920 年代普及。\n*   確切起源尚有爭議，巴黎麗茲酒店和倫敦的一家酒吧均聲稱是其發源地。\n*   “Sidecar”這個名字可能源於摩托車邊車，因為一位上尉乘坐邊車前往酒吧。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. Garnish if desired.",
+    "zh": "將所有材料與冰塊搖勻。濾入冰鎮的玻璃杯中。如果需要，可以裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel twist or sugared rim (optional)",
+    "zh": "橙皮扭轉或糖漬杯緣（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass, chilled",
+    "zh": "冰鎮的淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow to amber, depending on the cognac and sugar used, clear.",
+    "zh": "淡黃色至琥珀色，取決於使用的干邑和糖，清澈。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Branded Spirit",
+        "zh": "品牌烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic body and flavor base of the cocktail.",
+        "zh": "提供雞尾酒的主要酒體和風味基礎。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor.",
+        "zh": "增加甜味和橙子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

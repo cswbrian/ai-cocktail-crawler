@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Blue Hawaiian",
+    "zh": "藍色夏威夷"
+  },
+  "description": {
+    "en": "**A Tropical Vacation in a Glass**\n\nThe Blue Hawaiian is a vibrant, sweet, and fruity cocktail perfect for hot weather. It combines rum, pineapple juice, cream of coconut, and blue curaçao to create its signature color and flavor.\n\nKey characteristics:\n*   Sweet and fruity flavor profile\n*   Distinctive blue color\n*   Creamy texture due to the cream of coconut",
+    "zh": "**杯中的熱帶假期**\n\n藍色夏威夷是一款充滿活力、香甜、果味濃郁的雞尾酒，非常適合炎熱的天氣。它結合了蘭姆酒、鳳梨汁、椰奶和藍柑橘酒，創造出其標誌性的顏色和風味。\n\n主要特徵：\n*   香甜的果味\n*   獨特的藍色\n*   由於椰奶而產生的奶油質地"
+  },
+  "historical_reference": {
+    "en": "**Created in Hawaii in 1957**\n\n*   Invented by Harry Yee, head bartender at the Hilton Hawaiian Village in Waikiki.\n*   Yee was asked to create a blue cocktail to promote a blue curaçao liqueur.\n*   The Blue Hawaiian quickly became a popular tropical drink.",
+    "zh": "**1957年在夏威夷創造**\n\n*   由威基基希爾頓夏威夷度假村的首席調酒師哈利·伊發明。\n*   伊被要求創造一種藍色雞尾酒，以推廣藍柑香酒。\n*   藍色夏威夷很快成為一種流行的熱帶飲品。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "將所有材料與冰塊混合至光滑。倒入杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and cherry",
+    "zh": "鳳梨角和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Poco Grande or Hurricane glass",
+    "zh": "大肚杯或颶風杯"
+  },
+  "appearance": {
+    "en": "Bright blue, opaque, frothy",
+    "zh": "亮藍色，不透明，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Coconut",
+      "zh": "椰子"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and tropical notes.",
+        "zh": "提供酒精基底和熱帶風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Blue Curaçao",
+        "zh": "藍橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the distinctive blue color and a hint of orange flavor.",
+        "zh": "增添獨特的藍色和淡淡的橙子風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶霜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a creamy texture with coconut flavor.",
+        "zh": "增加甜味和奶油質地，帶有椰子味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical fruit flavor.",
+        "zh": "增加甜味和熱帶水果風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

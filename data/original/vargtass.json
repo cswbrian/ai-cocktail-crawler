@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Vargtass",
+    "zh": "狼爪"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Scandinavian Cocktail**\n\nA Vargtass, meaning 'Wolf's Paw' in Swedish, is a straightforward cocktail:\n*   Vodka-based\n*   Mixed with cloudberry liqueur\n*   Topped with soda water",
+    "zh": "**簡單清爽的斯堪地那維亞雞尾酒**\n\nVargtass 在瑞典語中意為“狼爪”，是一種簡單的雞尾酒：\n* 基於伏特加\n* 與雲莓利口酒混合\n* 蘇打水補滿"
+  },
+  "historical_reference": {
+    "en": "**Scandinavian Origins**\n\nThe exact origin of the Vargtass is difficult to pinpoint, but it's a popular drink in Scandinavian countries, especially Sweden.\n\n*   Traditional drink in Nordic countries\n*   Cloudberry liqueur is a signature ingredient\n*   Enjoyed as an aperitif or light cocktail",
+    "zh": "**斯堪地那維亞起源**\n\nVargtass 的確切起源難以確定，但它是斯堪地那維亞國家，尤其是瑞典的流行飲品。\n\n* 北歐國家的傳統飲品\n* 雲莓利口酒是標誌性成分\n* 用作開胃酒或清淡雞尾酒享用"
+  },
+  "technique": {
+    "en": "Build in glass with ice, top with soda water, stir gently.",
+    "zh": "在高飛球杯中放入冰塊，倒入伏特加和雲莓利口酒，用蘇打水補滿，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Cloudberries or lemon twist (optional)",
+    "zh": "雲莓或檸檬皮（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高飛球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow, frothy head",
+    "zh": "混濁、淡黃色、泡沫狀酒頭"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Cloudberry Liqueur",
+        "zh": "雲莓利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the distinctive sweet and tangy flavor of cloudberries.",
+        "zh": "增添雲莓獨特的甜味和濃郁風味"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

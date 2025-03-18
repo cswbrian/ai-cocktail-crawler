@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Harvey Wallbanger",
+    "zh": "哈維沃爾班格"
+  },
+  "description": {
+    "en": "**A Retro Classic**\n\nThe Harvey Wallbanger is a simple yet iconic cocktail:\n*   Features a base of vodka and orange juice.\n*   Distinguished by a float of Galliano liqueur on top.\n*   The drink is named after a surfer.",
+    "zh": "**懷舊經典**\n\n哈維沃爾班格是一款簡單但標誌性的雞尾酒：\n*   以伏特加和橙汁為基底。\n*   以頂部漂浮的加利安奴利口酒為特色。\n*   這款飲料以一位衝浪者命名。"
+  },
+  "historical_reference": {
+    "en": "**Origin & History**\n\n*   Created in 1952 by Donato \"Duke\" Antone, a bartender in Los Angeles.\n*   The name came from a surfer who frequented Antone's bar and enjoyed the drink a bit too much, often banging into walls.\n*   The cocktail gained popularity in the 1970s.",
+    "zh": "**起源與歷史**\n\n*   1952年由洛杉磯的調酒師Donato \"Duke\" Antone創造。\n*   這個名字來自一位經常光顧Antone酒吧的衝浪者，他非常喜歡這種飲料，經常撞到牆壁。\n*   這款雞尾酒在1970年代廣受歡迎。"
+  },
+  "technique": {
+    "en": "Pour vodka and orange juice into a highball glass filled with ice. Float Galliano on top.",
+    "zh": "將伏特加和橙汁倒入裝滿冰塊的高球杯中。在頂部漂浮加利安奴。"
+  },
+  "garnish": {
+    "en": "Orange slice and/or maraschino cherry",
+    "zh": "橙片和/或馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Layered orange and yellow with a floating Galliano top",
+    "zh": "分層的橙色和黃色，頂部漂浮著加利安奴"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base for the cocktail.",
+        "zh": "為雞尾酒提供酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Galliano L'Autentico",
+        "zh": "加利安奴香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a complex herbal and vanilla flavor, floated on top.",
+        "zh": "添加複雜的草本和香草風味，漂浮在頂部。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Orange Juice, freshly squeezed",
+        "zh": "鮮榨橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus flavor and volume to the cocktail.",
+        "zh": "為雞尾酒增添柑橘風味和體積。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

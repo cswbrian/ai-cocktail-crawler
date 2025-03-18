@@ -1,0 +1,160 @@
+{
+  "name": {
+    "en": "Royal Mai Tai",
+    "zh": "皇家 Mai Tai"
+  },
+  "description": {
+    "en": "**A sophisticated take on the classic Mai Tai.**\n\nThis version elevates the traditional recipe with:\n*   Premium aged rums for a richer base.\n*   Subtle use of orgeat and lime to balance sweetness and tartness.\n*   A touch of dry curaçao for added complexity.",
+    "zh": "**經典 Mai Tai 的精緻版本。**\n\n此版本通過以下方式提升了傳統配方：\n*   優質陳年蘭姆酒，帶來更豐富的基底。\n*   巧妙使用杏仁糖漿和酸橙來平衡甜味和酸味。\n*   少許乾邑橙皮酒，增添複雜性。"
+  },
+  "historical_reference": {
+    "en": "**The Mai Tai's Royal Upgrade**\n\n*   Created as a more refined version of the original Mai Tai.\n*   Focuses on higher-quality ingredients and a more balanced profile.\n*   Emerged in response to the simplification of the classic recipe over time.",
+    "zh": "**Mai Tai 的皇家升級版**\n\n*   被創建為原始 Mai Tai 的更精緻版本。\n*   專注於更高品質的成分和更平衡的風味。\n*   出現是為了回應經典配方隨著時間的推移而簡化。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a double old fashioned glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的雙層古典杯中。"
+  },
+  "garnish": {
+    "en": "Mint sprig, lime wedge, orchid (optional)",
+    "zh": "薄荷枝、酸橙角、蘭花（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned Glass",
+    "zh": "雙層古典杯"
+  },
+  "appearance": {
+    "en": "Golden amber, clear, with a frothy head",
+    "zh": "金黃琥珀色，清澈，帶有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides depth and complexity to the base.",
+        "zh": "為基底提供深度和複雜性。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Martinique Rhum Agricole",
+        "zh": "馬提尼克農業蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds grassy notes and a unique character.",
+        "zh": "增添青草味和獨特風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Curaçao",
+        "zh": "乾邑橙皮酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and complexity.",
+        "zh": "增添柑橘味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides essential acidity and balance.",
+        "zh": "提供必要的酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty sweetness and a creamy texture.",
+        "zh": "增加堅果的甜味和奶油般的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

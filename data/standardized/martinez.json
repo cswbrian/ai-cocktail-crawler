@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Martinez",
+    "zh": "馬丁尼茲"
+  },
+  "description": {
+    "en": "A classic cocktail that bridges the gap between a Martini and a Manhattan. It features Old Tom Gin, sweet vermouth, maraschino liqueur, and bitters, creating a complex and slightly sweet flavor profile.\n\n*   A precursor to the modern Martini.\n*   Offers a balance of sweetness and bitterness.\n*   Often garnished with a lemon or orange peel.",
+    "zh": "一款經典的雞尾酒，彌合了馬丁尼和曼哈頓之間的差距。它以老湯姆琴酒、甜味苦艾酒、黑櫻桃利口酒和苦精為特色，創造出複雜而略帶甜味的風味。\n\n*   現代馬丁尼的前身。\n*   提供甜味和苦味的平衡。\n*   通常用檸檬或橙皮裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Late 19th century, possibly in Martinez, California\n\n*   Several stories exist about its creation, but the exact origin is debated.\n*   Likely a precursor to the Martini, evolving from similar ingredients.\n*   An early recipe appears in O.H. Byron's *The Bartender's Guide* (1884)",
+    "zh": "**起源：**19 世紀末，可能在加利福尼亞州馬丁尼茲\n\n*   關於它的創造有幾個故事，但確切的起源存在爭議。\n*   可能是馬丁尼的前身，由相似的成分演變而來。\n*   早期配方出現在 O.H. Byron 的《*調酒師指南*》（1884 年）中"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊一起攪拌並濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon or Orange peel",
+    "zh": "檸檬皮或橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, reddish-amber hue",
+    "zh": "清澈的紅琥珀色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with a slightly sweeter profile than London Dry Gin.",
+        "zh": "提供基酒，風味比倫敦 сухо 琴酒略甜。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry flavor and sweetness.",
+        "zh": "增加微妙的櫻桃味和甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of spice and complexity.",
+        "zh": "增加了一層香料和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

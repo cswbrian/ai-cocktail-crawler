@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Nuclear Daiquiri",
+    "zh": "核子黛綺莉"
+  },
+  "description": {
+    "en": "A potent and vibrant variation on the classic Daiquiri, featuring the distinctive flavors of Green Chartreuse and a touch of maraschino liqueur.\n\n*   **Sweet and herbal**\n*   Visually striking with its bright color",
+    "zh": "經典 Daiquiri 的強大而充滿活力的變體，具有 Green Chartreuse 的獨特風味和少許黑櫻桃利口酒。\n\n*   **香甜草本**\n*   色彩鮮豔，引人注目"
+  },
+  "historical_reference": {
+    "en": "The exact origin of the Nuclear Daiquiri is unclear, but it likely emerged in the late 20th century as a playful twist on the classic Daiquiri, reflecting a trend towards more adventurous and potent cocktails.\n\n*   **Modern twist on a classic**\n*   Name suggests a strong, vibrant drink",
+    "zh": "核子 Daiquiri 的確切起源尚不清楚，但它可能出現在 20 世紀末，是對經典 Daiquiri 的一種有趣的轉變，反映了對更大膽和更有效的雞尾酒的趨勢。\n\n*   **經典的現代轉折**\n*   名稱表示濃烈、充滿活力的飲品"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "檸檬角或檸檬片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Bright, glowing yellow-green",
+    "zh": "明亮，發光的黃綠色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a light, clean base",
+        "zh": "提供清淡的基底"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complex herbal notes and a unique color",
+        "zh": "添加複雜的草本味和獨特的顏色"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle cherry notes and sweetness",
+        "zh": "增加微妙的櫻桃味和甜味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance",
+        "zh": "增加酸度和平衡感"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds sweetness",
+        "zh": "增加甜度"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 8,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

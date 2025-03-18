@@ -1,0 +1,104 @@
+{
+  "name": {
+    "en": "Delilah",
+    "zh": "黛利拉"
+  },
+  "description": {
+    "en": "*A refreshing and floral cocktail.*\n\nFeaturing:\n\n*   Gin base for a botanical profile.\n*   Elderflower liqueur for floral sweetness.\n*   Lemon juice for tartness and balance.",
+    "zh": "*一款清新且帶有花香的雞尾酒.*\n\n特色：\n\n*   琴酒基底，帶來植物風味。\n*   接骨木花利口酒，增添花香甜味。\n*   檸檬汁，帶來酸味和平衡。"
+  },
+  "historical_reference": {
+    "en": "While the exact origin is not definitively known, it's a modern cocktail inspired by floral and citrus flavors.\n\nLikely emerged in the early 21st century with the rise of elderflower liqueurs in cocktail culture.",
+    "zh": "雖然確切的起源尚不清楚，但它是一款受花香和柑橘風味啟發的現代雞尾酒。\n\n隨著接骨木花利口酒在雞尾酒文化中的興起，可能出現在 21 世紀初。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or edible flower",
+    "zh": "檸檬皮或食用花"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly hazy",
+    "zh": "淡黃色，略帶朦朧"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical base.",
+        "zh": "提供主要的植物基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness.",
+        "zh": "增添花香甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity.",
+        "zh": "增加酸味和酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

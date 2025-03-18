@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Brandy Old Fashioned",
+    "zh": "白蘭地古典雞尾酒"
+  },
+  "description": {
+    "en": "A classic variation of the Old Fashioned, using brandy as its base spirit. It is known for its smooth, rich flavor profile, balanced with sweetness and a hint of spice.",
+    "zh": "古典雞尾酒的經典變體，以白蘭地為基酒。 它以其柔滑、濃郁的風味而聞名，並與甜味和一絲香料味相平衡。"
+  },
+  "historical_reference": {
+    "en": "The Old Fashioned cocktail dates back to the late 19th century. The Brandy Old Fashioned emerged as a popular variation, particularly in Wisconsin, where brandy gained a strong following.",
+    "zh": "古典雞尾酒可以追溯到19世紀後期。 白蘭地古典雞尾酒是一種流行的變體，尤其是在威斯康星州，白蘭地在那裡獲得了廣泛的追隨者。"
+  },
+  "technique": {
+    "en": "Muddle sugar with bitters and water, add brandy and ice. Stir to chill, garnish.",
+    "zh": "將糖與苦精和水混合，加入白蘭地和冰塊。 攪拌冷卻，裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel and/or maraschino cherry",
+    "zh": "橙皮和/或醃製櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, dark amber liquid with a slight reddish hue",
+    "zh": "清澈的深琥珀色液體，略帶紅色色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich, fruity base of the cocktail.",
+        "zh": "提供這款雞尾酒豐富、果香的基底。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the brandy.",
+        "zh": "增加甜味，以平衡白蘭地。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and a bitter counterpoint.",
+        "zh": "增加複雜性和苦味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "To dissolve the sugar.",
+        "zh": "溶解糖。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

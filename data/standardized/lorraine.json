@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Lorraine",
+    "zh": "洛林"
+  },
+  "description": {
+    "en": "**A sophisticated pre-prohibition era cocktail**.\n\nThe Lorraine cocktail features a delicate balance of gin, maraschino liqueur, and apricot brandy, complemented by a whisper of dry vermouth. It's a light and aromatic drink, perfect as an aperitif.\n\n*   Delicate balance of flavors\n*   Aromatic and refreshing",
+    "zh": "**一款精緻的禁酒令前時代雞尾酒**。\n\nLorraine雞尾酒的特色在於琴酒、黑櫻桃利口酒和杏桃白蘭地的微妙平衡，並以少許乾苦艾酒做為襯托。 這是一款清淡而芳香的飲品，非常適合作為開胃酒。\n\n* 口味的微妙平衡\n* 芳香且令人耳目一新"
+  },
+  "historical_reference": {
+    "en": "**A classic cocktail with unclear origins**\n\nWhile the exact history is hazy, The Lorraine appears in several cocktail books from the early 20th century. This indicates it was a popular drink of that era.\n\n*   Likely originated in the early 1900s\n*   Popular during the pre-prohibition era\n*   Several variations exist, with different ratios of ingredients",
+    "zh": "**一款起源不明的經典雞尾酒**\n\n儘管確切的歷史模糊不清，但Lorraine出現在20世紀初的幾本雞尾酒書中。 這表明它是那個時代流行的飲品。\n\n* 可能起源於1900年代初期\n* 在禁酒令前時代很受歡迎\n* 存在多種變體，配料比例不同"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled cocktail glass. Garnish with a cherry.",
+    "zh": "將所有材料與冰塊攪拌至完全冰鎮。 濾入冰鎮的雞尾酒杯中。 用櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Cherry",
+    "zh": "櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, light amber liquid with a slight pink hue",
+    "zh": "清澈、淺琥珀色液體，略帶粉紅色調"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "提供烈酒基底和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry sweetness and complex flavor.",
+        "zh": "增添微妙的櫻桃甜味和複雜的風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Brandy",
+        "zh": "杏桃白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes fruity notes and a hint of almond.",
+        "zh": "貢獻水果味和淡淡的杏仁味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes to balance the sweetness.",
+        "zh": "增加乾度及草本香，平衡甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Widow's Kiss",
+    "zh": "寡婦之吻"
+  },
+  "description": {
+    "en": "A vintage cocktail known for its complex and bittersweet profile. The Widow's Kiss combines apple brandy with herbal and subtly sweet liqueurs, creating a sophisticated and warming drink.\n\n*   A pre-prohibition era cocktail\n*   Features a blend of sweet and bitter elements\n*   Often served as an after-dinner drink.",
+    "zh": "一款以其複雜和苦甜風味而聞名的老式雞尾酒。寡婦之吻將蘋果白蘭地與草本和微妙的甜味利口酒結合在一起，創造出一種精緻而溫暖的飲品。\n\n*   禁酒令之前的時代的雞尾酒\n*   融合了甜味和苦味元素\n*   通常作為餐後飲品供應。"
+  },
+  "historical_reference": {
+    "en": "The Widow's Kiss first appeared in *Harry Johnson's Bartenders' Manual* in 1882.\n\n*   A classic cocktail from the late 19th century.\n*   Known for its use of apple brandy and various liqueurs.\n*   Offers a unique flavor profile that balances sweetness, bitterness, and herbal notes.",
+    "zh": "寡婦之吻首次出現在1882年的《*哈利·約翰遜的調酒師手冊*》中。\n\n*   19世紀後期的經典雞尾酒。\n*   以使用蘋果白蘭地和各種利口酒而聞名。\n*   提供獨特的風味，平衡了甜味、苦味和草本的味道。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "None (optional: brandied cherry)",
+    "zh": "無（可選：白蘭地浸櫻桃）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass, chilled",
+    "zh": "冰鎮的敞口香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Golden amber, clear",
+    "zh": "金黃琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Apple Brandy (Calvados)",
+        "zh": "蘋果白蘭地（卡爾瓦多斯）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the foundation of the cocktail, providing a rich apple flavor.",
+        "zh": "構成雞尾酒的基礎，提供濃郁的蘋果風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "班尼迪克汀"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and honeyed sweetness.",
+        "zh": "增加草本和蜂蜜的甜味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes herbal complexity and subtle sweetness.",
+        "zh": "有助於草本的複雜性和微妙的甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Enzoni",
+    "zh": "恩佐尼"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA refreshing and balanced sour featuring:\n*   Gin base\n*   Campari for bitterness and color\n*   Fresh lime juice for tartness\n*   Muddled grapes for sweetness and body.",
+    "zh": "**現代經典雞尾酒**\n\n令人耳目一新且均衡的酸味雞尾酒，特色：\n*   琴酒基底\n*   金巴利帶來苦味和色澤\n*   新鮮萊姆汁帶來酸味\n*   混合葡萄以增加甜度和酒體。"
+  },
+  "historical_reference": {
+    "en": "**Created by Vincenzo Errico**\n\n*   Invented in 2007 at Milk & Honey in New York City\n*   A modern twist on the gin sour\n*   Named after its creator",
+    "zh": "**由Vincenzo Errico創作**\n\n*   2007年在紐約市的Milk & Honey發明\n*   琴酒酸酒的現代演繹\n*   以其創作者的名字命名"
+  },
+  "technique": {
+    "en": "Muddle grapes, add remaining ingredients, shake with ice, and strain into glass filled with ice.",
+    "zh": "將葡萄搗碎，加入剩餘成分，加冰搖勻，然後濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Green grapes",
+    "zh": "綠葡萄"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Clear, pale green",
+    "zh": "清澈，淡綠色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "提供酒體基礎和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness, color and complexity.",
+        "zh": "增加苦味、顏色和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Green Grapes",
+        "zh": "綠葡萄"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a fresh, fruity note.",
+        "zh": "增加甜味和新鮮的果香。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance to the cocktail.",
+        "zh": "為雞尾酒增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

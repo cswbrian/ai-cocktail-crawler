@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Pink Gin",
+    "zh": "粉紅琴酒"
+  },
+  "description": {
+    "en": "**Simple and Classic Gin Cocktail**\n\nA minimalist cocktail showcasing the interplay of gin and bitters.\n*   Gin provides the botanical base.\n*   Bitters add complexity and a characteristic pink hue.",
+    "zh": "**簡單經典的琴酒雞尾酒**\n\n一款極簡主義的雞尾酒，展示了琴酒和苦精之間的相互作用。\n*   琴酒提供植物基底。\n*   苦精增添複雜性和標誌性的粉紅色調。"
+  },
+  "historical_reference": {
+    "en": "**Naval Origins**\n\n*   Developed in the British Royal Navy.\n*   Angostura bitters were added to gin to help with seasickness.\n*   The bitters also gave the drink its characteristic pink color.",
+    "zh": "**海軍起源**\n\n*   在英國皇家海軍中發展起來。\n*   在琴酒中加入安格式圖拉苦精有助於緩解暈船。\n*   苦精也賦予了飲料其特有的粉紅色。"
+  },
+  "technique": {
+    "en": "Add gin and bitters to a chilled glass with ice. Stir gently.",
+    "zh": "將琴酒和苦精加入裝有冰塊的冰鎮杯中。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None, or a lemon/lime twist (optional)",
+    "zh": "無，或檸檬/萊姆皮扭花（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Martini glass (chilled)",
+    "zh": "古典杯或馬丁尼杯（冰鎮）"
+  },
+  "appearance": {
+    "en": "Pale pink to rose-colored clear liquid",
+    "zh": "淡粉色至玫瑰色清澈液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical backbone of the cocktail.",
+        "zh": "提供調酒的基酒和植物風味骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness, color, and complexity.",
+        "zh": "增加苦味、顏色和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

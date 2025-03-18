@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Smoked Horsefeather",
+    "zh": "煙燻羽毛"
+  },
+  "description": {
+    "en": "**A Spicy and Smoky Refreshment**\n\nThe Smoked Horsefeather is a modern twist on the classic Horsefeather cocktail, introducing a smoky element through the use of smoked paprika. It's a refreshing and invigorating drink, perfect for warm weather, offering:\n\n*   A spicy kick from ginger beer\n*   A balanced tartness from lime juice\n*   A subtle smoky depth from the smoked paprika.",
+    "zh": "**辛辣且煙燻的清爽飲品**\n\n煙燻羽毛是一款經典羽毛雞尾酒的現代轉折，透過使用煙燻紅椒粉引入煙燻元素。這是一款清爽且令人振奮的飲品，非常適合溫暖的天氣，提供：\n\n*   薑汁啤酒帶來的辛辣味\n*   萊姆汁帶來的均衡酸味\n*   煙燻紅椒粉帶來的微妙煙燻深度。"
+  },
+  "historical_reference": {
+    "en": "**Modern Interpretation of a Classic**\n\nThe Horsefeather is a simple highball cocktail that originated in Kansas. The Smoked Horsefeather is a contemporary adaptation:\n\n*   Horsefeather is traditionally Bourbon or Rye, Ginger beer and bitters.\n*   The addition of smoked paprika adds a unique smoky twist.\n*   The Smoked Horsefeather retains the refreshing qualities of the original.",
+    "zh": "**經典的現代詮釋**\n\n羽毛是一款起源於堪薩斯州的簡單高球雞尾酒。 煙燻羽毛是當代的改編：\n\n*   羽毛傳統上是波本威士忌或黑麥威士忌、薑汁啤酒和苦味酒。\n*   加入煙燻紅椒粉增添了獨特的煙燻風味。\n*   煙燻羽毛保留了原版的清爽品質。"
+  },
+  "technique": {
+    "en": "Build over ice, top with ginger beer, stir gently, and garnish.",
+    "zh": "在冰上調製，加入薑汁啤酒，輕輕攪拌，然後裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge and smoked paprika sprinkle.",
+    "zh": "萊姆角和煙燻紅椒粉。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Light amber with a slight haze and visible bubbles.",
+    "zh": "淺琥珀色，帶有輕微霧度和可見氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky notes.",
+        "zh": "提供基酒和橡木桶風味。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Smoked Paprika",
+        "zh": "煙燻紅椒粉"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds smoky flavor and aroma.",
+        "zh": "增添煙燻風味和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

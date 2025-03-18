@@ -1,0 +1,110 @@
+{
+  "name": {
+    "en": "Dark 'n' Stormy",
+    "zh": "黑闇風暴"
+  },
+  "description": {
+    "en": "**Simple yet Bold Cocktail**\n\nA refreshing mix of dark rum and ginger beer, known for its:\n*   Spicy and slightly sweet flavor profile.\n*   Easy preparation and widely available ingredients.\n*   Strong association with Bermuda.",
+    "zh": "**簡單而大膽的雞尾酒**\n\n深色蘭姆酒和薑汁啤酒的清爽混合，以其:\n*   辛辣和略帶甜味的風味而聞名。\n*   易於準備和廣泛可用的成分。\n*   與百慕達的強烈關聯。"
+  },
+  "historical_reference": {
+    "en": "**Bermuda's National Drink**\n\n*   Originated in Bermuda sometime after World War I.\n*   Created when a ginger beer factory was started by the Royal Naval Officer's Club.\n*   The name comes from a comment made by an old sailor that the drink was the color of a stormy cloud.",
+    "zh": "**百慕達的國民飲品**\n\n*   起源於第一次世界大戰後的百慕達。\n*   由英國皇家海軍軍官俱樂部開設薑汁啤酒廠後創造。\n*   這個名字來自一位老水手評論說這種飲料的顏色像暴風雨雲的顏色。"
+  },
+  "technique": {
+    "en": "Fill the glass with ice, add ginger beer, then gently float the dark rum on top.",
+    "zh": "在高杯中放入冰塊，加入薑汁啤酒，然後輕輕地將深色蘭姆酒浮在頂部。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Dark amber to black liquid with a frothy white head",
+    "zh": "深琥珀色至黑色液體，帶有泡沫狀的白色頂部"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's rich flavor and alcoholic base.",
+        "zh": "提供雞尾酒濃郁的風味和酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a spicy and sweet element with carbonation.",
+        "zh": "增加辛辣和甜味，並帶有氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

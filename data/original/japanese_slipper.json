@@ -1,0 +1,87 @@
+{
+  "name": {
+    "en": "Japanese Slipper",
+    "zh": "日本拖鞋"
+  },
+  "description": {
+    "en": "**Sweet and Fruity Mid-Century Cocktail**\n\nA vibrant and playful cocktail, the Japanese Slipper is known for its striking green color and sweet melon flavor. It is a popular choice for those who enjoy fruity and refreshing drinks.\n\nKey characteristics:\n*   Easy to drink with a balanced sweetness\n*   Visually appealing due to its bright green hue\n*   Simple to make with equal parts of each ingredient",
+    "zh": "**香甜水果風味的世紀中期雞尾酒**\n\n日本拖鞋是一款充滿活力和趣味的雞尾酒，以其鮮豔的綠色和香甜的哈密瓜風味而聞名。對於喜歡水果味和清爽飲品的人來說，這是一個受歡迎的選擇。\n\n主要特徵：\n*   易於飲用，甜度均衡\n*   由於其鮮豔的綠色色調，在視覺上很吸引人\n*   製作簡單，每種成分的比例均等"
+  },
+  "historical_reference": {
+    "en": "**Origins and Creator**\n\nThe Japanese Slipper cocktail was created in 1984 by Jean-Paul Bourguignon at Mietta's Restaurant in Melbourne, Australia. It quickly gained popularity due to its unique flavor profile and vibrant appearance. Its name reflects the exotic appeal and novelty of the Midori melon liqueur at the time.\n*   Created in 1984 in Melbourne, Australia\n*   Creator: Jean-Paul Bourguignon\n*   Named for the Midori liqueur's exotic appeal",
+    "zh": "**起源與創造者**\n\n日本拖鞋雞尾酒由 Jean-Paul Bourguignon 於 1984 年在澳大利亞墨爾本的 Mietta's 餐廳創造。由於其獨特的風味和鮮豔的外觀，它迅速受到歡迎。它的名字反映了當時蜜多麗哈密瓜利口酒的異國情調和新穎性。\n*   1984 年在澳大利亞墨爾本創作\n*   創作者：Jean-Paul Bourguignon\n*   以蜜多麗利口酒的異國情調命名"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中"
+  },
+  "garnish": {
+    "en": "Melon slice or maraschino cherry",
+    "zh": "哈密瓜片或醃漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or martini glass",
+    "zh": "雞尾酒杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Bright green and clear",
+    "zh": "鮮綠色且清澈"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Midori Melon Liqueur",
+        "zh": "蜜多麗哈密瓜利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary melon flavor and vibrant green color",
+        "zh": "提供主要的哈密瓜風味和鮮豔的綠色"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and complexity",
+        "zh": "增加柑橘味和複雜性"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

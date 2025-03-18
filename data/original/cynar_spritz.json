@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Cynar Spritz",
+    "zh": "金巴利氣泡酒"
+  },
+  "description": {
+    "en": "A refreshing and bittersweet aperitivo cocktail, perfect for warm weather. The Cynar Spritz is a simple yet elegant drink that balances bitter notes with the sweetness of Prosecco and the effervescence of soda water. It's easy to make and a guaranteed crowd-pleaser.\n\n**Key Features:**\n*   Bittersweet Flavor\n*   Refreshing and Effervescent\n*   Easy to Prepare",
+    "zh": "一款清新且帶有苦甜味的餐前雞尾酒，非常適合溫暖的天氣。 Cynar Spritz 是一種簡單而優雅的飲品，將苦味與普羅賽克的甜味和蘇打水的氣泡感相結合。 它易於製作，並且保證能讓人感到愉悅。\n\n**主要特點：**\n*   苦甜味\n*   清新且氣泡豐富\n*   容易準備"
+  },
+  "historical_reference": {
+    "en": "The spritz is believed to have originated in the Veneto region of Italy during the 19th century. Soldiers of the Austrian Empire, stationed in the region, found the local wines too strong and would ask for them to be \"spritzed\" with water. The Cynar Spritz is a modern variation of the classic Aperol Spritz, substituting Aperol with Cynar for a more pronounced bitter flavor.\n\n*Originated in Veneto, Italy\n*Modern variation of the classic Spritz",
+    "zh": "據說 Spritz 起源於 19 世紀義大利的威尼托地區。 駐紮在該地區的奧地利帝國士兵發現當地的葡萄酒太烈，因此要求在葡萄酒中“噴灑”水。 Cynar Spritz 是經典 Aperol Spritz 的現代變體，用 Cynar 代替 Aperol，以獲得更濃郁的苦味。\n\n*起源於義大利威尼托\n*經典 Spritz 的現代變體"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "在冰上調製"
+  },
+  "garnish": {
+    "en": "Orange slice",
+    "zh": "橙片"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass",
+    "zh": "葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Aperol-orange hue with lively bubbles",
+    "zh": "呈現Aperol橙色色調，帶有活潑的氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Component 1",
+        "zh": "成分 1"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the signature bittersweet taste.",
+        "zh": "提供標誌性的苦甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, bubbles, and Italian flair.",
+        "zh": "增加甜味、氣泡和義大利風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Royal Arrival",
+    "zh": "皇家降臨"
+  },
+  "description": {
+    "en": "**Elegant Gin-Based Cocktail**\n\nA refined and balanced drink featuring:\n*   Gin for a strong botanical foundation\n*   Lemon juice for a crisp tartness\n*   Simple syrup for gentle sweetness\n*   Champagne for a sparkling, luxurious finish",
+    "zh": "**優雅的琴酒基底雞尾酒**\n\n一款精緻且平衡的飲品，特色：\n*   琴酒帶來濃郁的植物風味\n*   檸檬汁帶來清爽的酸味\n*   簡糖漿帶來溫和的甜味\n*   香檳帶來閃耀奢華的尾韻"
+  },
+  "historical_reference": {
+    "en": "**A Champagne Cocktail Variation**\n\n*   Believed to be a variant of a classic champagne cocktail, enhanced with gin and citrus.\n*   Popularized in the early 20th century during celebrations and high-society events.\n*   The name suggests elegance and prestige, fitting for celebratory occasions.",
+    "zh": "**香檳雞尾酒的變體**\n\n*   據信是經典香檳雞尾酒的變體，添加了琴酒和柑橘。\n*   20世紀初在慶祝活動和上流社會活動中廣受歡迎。\n*   這個名字暗示著優雅和聲望，適合慶祝場合。"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into a champagne flute. Top with chilled champagne. Garnish with a lemon twist.",
+    "zh": "將琴酒、檸檬汁和簡糖漿與冰塊搖勻。濾入香檳長笛杯中。倒入冰鎮香檳至滿杯。用檸檬皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳長笛杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow with a frothy white head",
+    "zh": "清澈的淡黃色，帶有泡沫狀的白色酒頭"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and balances the sourness.",
+        "zh": "提供甜味並平衡酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

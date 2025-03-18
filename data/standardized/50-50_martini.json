@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "50/50 Martini",
+    "zh": "50/50 馬丁尼"
+  },
+  "description": {
+    "en": "**A balanced and potent Martini variation**\n\nThe 50/50 Martini is a less dry version of the classic Martini, featuring equal parts gin and vermouth. This results in a smoother and more aromatic cocktail, showcasing the botanicals of both ingredients.\n\n*   Equal parts gin and vermouth for balance.\n*   Well-chilled for a crisp and refreshing experience.",
+    "zh": "**一款平衡且強勁的馬丁尼變體**\n\n50/50馬丁尼是經典馬丁尼的一種較不乾的版本，琴酒和苦艾酒的比例相等。這帶來了更柔滑和更芳香的雞尾酒，展現了兩種成分的植物風味。\n\n*   琴酒和苦艾酒比例相等，以求平衡。\n*   充分冷卻，帶來清脆和清爽的體驗。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: An early variation of the Martini, gaining popularity in the early 20th century.\n\n*   Highlights the interplay between gin and vermouth.\n*   Considered a stepping stone between sweeter cocktails and the dry Martini.\n*   Often seen as a more approachable Martini for those new to the drink.",
+    "zh": "**起源**：馬丁尼的早期變體，在20世紀初開始流行。\n\n*   突顯琴酒和苦艾酒之間的相互作用。\n*   被認為是較甜雞尾酒和乾馬丁尼之間的墊腳石。\n*   通常被認為對於不熟悉這種飲料的人來說，是一種更容易接受的馬丁尼。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless liquid",
+    "zh": "清澈，無色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and aromatic backbone.",
+        "zh": "提供主要的風味和香氣骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and wine-like complexity, balancing the gin.",
+        "zh": "增加草本和葡萄酒般的複雜性，平衡琴酒。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

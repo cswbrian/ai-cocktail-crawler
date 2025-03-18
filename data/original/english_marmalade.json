@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "English Marmalade",
+    "zh": "英式柑橘醬"
+  },
+  "description": {
+    "en": "**Traditional English Spread**\n\nA preserve made from citrus fruits, most commonly Seville oranges.\n\n*   Characterized by its bittersweet flavor and chunks of peel.\n*   Often enjoyed on toast or used in baking.",
+    "zh": "**傳統英式塗醬**\n\n一種由柑橘類水果製成的蜜餞，最常見的是塞維利亞橙。\n\n*   以其苦甜味和果皮塊為特徵。\n*   通常在吐司上享用或用於烘焙。"
+  },
+  "historical_reference": {
+    "en": "**Scottish Origins (Possible)**\n\n*   The invention of marmalade is debated, with some crediting Dundee, Scotland in the 18th century.\n*   Janet Keiller is often attributed with the first commercial production.",
+    "zh": "**蘇格蘭起源（可能）**\n\n*   果醬的發明尚有爭議，有些人認為是18世紀蘇格蘭的鄧迪。\n*   珍妮特·凱勒經常被認為是第一個商業生產者。"
+  },
+  "technique": {
+    "en": "Boiling and Simmering",
+    "zh": "煮沸和慢燉"
+  },
+  "garnish": {
+    "en": "N/A",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Jar",
+    "zh": "罐"
+  },
+  "appearance": {
+    "en": "Vibrant orange, translucent jelly with visible citrus peel",
+    "zh": "鮮豔的橙色，半透明果凍，帶有明顯的柑橘皮"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1000,
+      "name": {
+        "en": "Seville Oranges",
+        "zh": "塞維利亞橙"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Main ingredient for the unique bitter-sweet flavor",
+        "zh": "獨特苦甜味的主要成分"
+      }
+    },
+    {
+      "amount": 1500,
+      "name": {
+        "en": "Granulated Sugar",
+        "zh": "砂糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds sweetness and helps with preservation",
+        "zh": "增加甜度並有助於保存"
+      }
+    },
+    {
+      "amount": 1500,
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Used to help boil and soften the oranges",
+        "zh": "用於幫助煮沸和軟化橙子"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sweetness",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 0,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Virgin Mojito",
+    "zh": "處女莫吉托"
+  },
+  "description": {
+    "en": "**Refreshing Non-Alcoholic Cocktail**\n\nA delightful alcohol-free version of the classic Mojito:\n*   Muddled mint and lime create a vibrant base.\n*   Sugar adds a touch of sweetness.\n*   Topped with soda water for a bubbly finish.",
+    "zh": "**清爽的無酒精雞尾酒**\n\n經典莫吉托的美味無酒精版本：\n*   搗碎的薄荷和檸檬創造出充滿活力的基底。\n*   糖增添一絲甜味。\n*   蘇打水讓口感更具氣泡感。"
+  },
+  "historical_reference": {
+    "en": "The Mojito is thought to have originated in Havana, Cuba. Although the exact origins are unknown, it is believed to have evolved from earlier medicinal drinks. The Virgin Mojito is simply a non-alcoholic adaptation of the classic Mojito cocktail.\n\n*   **Origin**: Cuba\n*   **Type**: Mocktail",
+    "zh": "莫吉托被認為起源於古巴哈瓦那。 雖然確切的起源尚不清楚，但據信它是從早期的藥用飲品演變而來。 處女莫吉托只是經典莫吉托雞尾酒的無酒精改編版。\n\n*   **起源**：古巴\n*   **類型**：無酒精雞尾酒"
+  },
+  "technique": {
+    "en": "Muddle mint, lime, and sugar in a glass. Fill with ice, top with soda water, and stir gently.",
+    "zh": "在杯中搗碎薄荷、檸檬和糖。 加入冰塊，倒入蘇打水，然後輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Mint sprig and lime wedge",
+    "zh": "薄荷枝和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light green with mint leaves and lime wedges",
+    "zh": "混濁的淺綠色，帶有薄荷葉和檸檬角"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides a fresh, herbal flavor",
+        "zh": "提供清新草本風味"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes",
+        "zh": "增加酸度和柑橘味"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the sourness",
+        "zh": "使飲料變甜並平衡酸味"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the mixture",
+        "zh": "增加氣泡並稀釋混合物"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

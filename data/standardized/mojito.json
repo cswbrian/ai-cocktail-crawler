@@ -1,0 +1,155 @@
+{
+  "name": {
+    "en": "Mojito",
+    "zh": "莫希托"
+  },
+  "description": {
+    "en": "**Classic Cuban Refreshment**\n\nA vibrant and refreshing cocktail featuring:\n*   Muddled mint and lime for herbal and citrus notes\n*   Rum for a tropical kick\n*   Soda water for effervescence",
+    "zh": "**經典古巴飲品**\n\n一款充滿活力且令人耳目一新的雞尾酒，特色：\n*   搗碎的薄荷和檸檬，帶來草本和柑橘風味\n*   蘭姆酒帶來熱帶風味\n*   蘇打水產生氣泡"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Havana, Cuba\n\n*   Evolved from a medicinal drink\n*   Popularized during the Prohibition era\n*   Hemingway's favorite cocktail",
+    "zh": "**起源**: 古巴，哈瓦那\n\n*   由藥用飲料演變而來\n*   在禁酒時期廣受歡迎\n*   海明威最喜歡的雞尾酒"
+  },
+  "technique": {
+    "en": "Muddle lime, mint, and sugar. Add rum and ice. Top with soda water.",
+    "zh": "搗碎檸檬、薄荷和糖。加入蘭姆酒和冰塊。倒入蘇打水。"
+  },
+  "garnish": {
+    "en": "Mint sprig and lime wedge",
+    "zh": "薄荷枝和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green with mint sprigs and lime wedges",
+    "zh": "混濁的淡綠色，帶有薄荷枝和檸檬角"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and tropical notes.",
+        "zh": "提供酒精基底和熱帶風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Lime Wedges",
+        "zh": "檸檬角"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus flavor.",
+        "zh": "增添酸味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 12,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides aromatic and herbal notes.",
+        "zh": "提供芳香和草本風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度，平衡酸味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the mixture.",
+        "zh": "增加氣泡並稀釋混合物。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

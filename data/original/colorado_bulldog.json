@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Colorado Bulldog",
+    "zh": "科羅拉多鬥牛犬"
+  },
+  "description": {
+    "en": "A variation of the White Russian, the Colorado Bulldog substitutes cola for cream, adding a refreshing fizz and a slightly different flavor profile.  It's a simple and approachable cocktail, easy to make and enjoy.\n\n*   Vodka provides the spirituous base.\n*   Coffee liqueur adds sweetness and coffee flavor.\n*   Cola provides the creamy element and effervescence",
+    "zh": "科羅拉多鬥牛犬是白色俄羅斯的變種，以可樂代替鮮奶油，增添了清爽的氣泡和略有不同的風味。這是一款簡單易飲的雞尾酒，容易製作和享用。\n\n*   伏特加提供烈酒基底。\n*   咖啡利口酒增加甜味和咖啡風味。\n*   可樂提供乳脂感和氣泡"
+  },
+  "historical_reference": {
+    "en": "The exact origin of the Colorado Bulldog is not well-documented, but it's generally considered a modern variation on the White Russian, likely created sometime in the late 20th century. The name suggests a possible association with Colorado, though the connection is unclear.\n\n*   Modern cocktail variation\n*   Evolved from the White Russian.",
+    "zh": "科羅拉多鬥牛犬的確切起源沒有詳細記載，但通常被認為是白色俄羅斯的現代變體，可能是在 20 世紀末的某個時候創造的。 這個名字暗示可能與科羅拉多州有關，儘管這種聯繫尚不清楚。\n\n*   現代雞尾酒變化\n*   從白色俄羅斯演變而來。"
+  },
+  "technique": {
+    "en": "Build in glass with ice.",
+    "zh": "在裝有冰塊的杯子中調製。"
+  },
+  "garnish": {
+    "en": "None, or a cherry.",
+    "zh": "無，或一顆櫻桃。"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned or Collins Glass",
+    "zh": "古典杯或柯林杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown with a frothy top and cola effervescence.",
+    "zh": "奶油色，淺棕色，頂部有泡沫，可樂起泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, fizz, and a creamy texture.",
+        "zh": "增加甜味、氣泡和奶油般的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

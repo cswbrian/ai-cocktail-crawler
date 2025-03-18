@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "La Louisiane",
+    "zh": "路易斯安那"
+  },
+  "description": {
+    "en": "**Complex and sophisticated New Orleans Cocktail**\n\nA variation on the Sazerac, featuring:\n*   Rye Whiskey Base\n*   Bénédictine\n*   Vermouth\n*   Absinthe\n*   Bitters",
+    "zh": "**複雜而精緻的新奧爾良雞尾酒**\n\n薩澤拉克的變體，特色：\n*   黑麥威士忌基底\n*   法國廊酒\n*   苦艾酒\n*   苦艾酒\n*   苦味酒"
+  },
+  "historical_reference": {
+    "en": "**A New Orleans Classic**\n\n*   Created at the La Louisiane restaurant in New Orleans.\n*   A complex variation of the Sazerac cocktail.",
+    "zh": "**新奧爾良經典**\n\n*   在新奧爾良的 La Louisiane 餐廳創建。\n*   薩澤拉克雞尾酒的複雜變體。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Luxardo Cherry",
+    "zh": "盧薩多黑櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Ruby red, clear",
+    "zh": "寶石紅色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with spicy notes.",
+        "zh": "提供基酒和辛辣味"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "班尼迪克汀"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本複雜性。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweet and herbal notes",
+        "zh": "增加甜味和草本香"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 3,
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "少量佩喬氏苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds bitter and floral notes.",
+        "zh": "增添苦味和花香。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Dash Absinthe",
+        "zh": "少量苦艾酒"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds anise flavor.",
+        "zh": "增加茴香味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

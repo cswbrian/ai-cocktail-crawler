@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Revelation",
+    "zh": "啟示"
+  },
+  "description": {
+    "en": "**A Modern Classic**\n\nThe Revelation is a visually striking and complex cocktail:\n\n*   Features a vibrant color gradient.\n*   Balances floral, fruity, and subtly bitter notes.\n*   Offers a refreshing and sophisticated drinking experience.",
+    "zh": "**現代經典**\n\n啟示是一款視覺上引人注目且複雜的雞尾酒：\n\n*   具有鮮豔的顏色漸變。\n*   平衡了花香、果香和微妙的苦味。\n*   提供清爽而精緻的飲用體驗。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Revelation is a relatively recent addition to the cocktail canon:\n\n*   No definitive origin story exists.\n*   Represents contemporary mixology's focus on aesthetics and flavor balance.\n*   Frequently found on craft cocktail menus.",
+    "zh": "**現代創作**\n\n啟示是雞尾酒經典中相對較新的成員：\n\n*   沒有明確的起源故事。\n*   代表了當代調酒術對美學和風味平衡的關注。\n*   經常出現在手工雞尾酒菜單上。"
+  },
+  "technique": {
+    "en": "Shake gin, simple syrup, crème de violette, and lemon juice with ice. Strain into chilled glass. Gently float red wine on top.",
+    "zh": "將琴酒、糖漿、紫羅蘭利口酒和檸檬汁與冰塊搖勻。濾入冰鎮過的杯子。輕輕將紅酒漂浮在頂部。"
+  },
+  "garnish": {
+    "en": "Edible flower or orange twist",
+    "zh": "食用花朵或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Opaque, layered, vibrant red and purple",
+    "zh": "不透明，分層，鮮豔的紅色和紫色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundational botanical complexity and structure.",
+        "zh": "提供基礎的植物複雜性和結構。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Crème de Violette",
+        "zh": "紫羅蘭利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a floral aroma and a subtle violet flavor.",
+        "zh": "提供花香和微妙的紫羅蘭風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Red Wine Float",
+        "zh": "紅酒漂浮"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complexity, color, and a dry finish.",
+        "zh": "增加複雜性、顏色和乾爽的尾韻。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the other ingredients.",
+        "zh": "增加甜度以平衡其他成分。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity to balance the sweetness and enhance the flavors.",
+        "zh": "增加酸度和酸度，以平衡甜度並增強風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

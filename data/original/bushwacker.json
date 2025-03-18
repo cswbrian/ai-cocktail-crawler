@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Bushwacker",
+    "zh": "叢林行者"
+  },
+  "description": {
+    "en": "**A decadent, frozen cocktail reminiscent of a chocolate milkshake.**\n\n*   Originated in the U.S. Virgin Islands.\n*   Typically blended with ice and a variety of liqueurs and creams.\n*   Often garnished with chocolate syrup or shavings.",
+    "zh": "**一款令人愉悅的冷凍雞尾酒，讓人聯想到巧克力奶昔。**\n\n*   起源於美屬維爾京群島。\n*   通常與冰塊以及各種利口酒和奶油混合。\n*   經常使用巧克力糖漿或碎屑裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Bushwacker originated at the Sandshaker Bar in Pensacola Beach, Florida.\n\n*   Created in 1975 by Angie Conigliaro and Tom Busby.\n*   Inspired by a similar drink served in the Virgin Islands.\n*   Quickly became a local favorite and spread in popularity.",
+    "zh": "**起源**: 「叢林行者」起源於佛羅里達州彭薩科拉海灘的Sandshaker酒吧。\n\n*   由安吉·科尼格里亞羅和湯姆·巴斯比於1975年創建。\n*   靈感來自維爾京群島供應的類似飲品。\n*   迅速成為當地人的最愛，並廣受歡迎。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "將所有材料與冰塊混合至均勻。"
+  },
+  "garnish": {
+    "en": "Chocolate shavings or syrup drizzle",
+    "zh": "巧克力碎屑或糖漿淋面"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass or milkshake glass",
+    "zh": "品脫杯或奶昔杯"
+  },
+  "appearance": {
+    "en": "Dark brown, thick, milkshake-like consistency",
+    "zh": "深棕色，濃稠，類似奶昔的稠度"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base.",
+        "zh": "提供豐富、以糖蜜為基礎的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee notes that complements the chocolate.",
+        "zh": "添加咖啡味，與巧克力相得益彰。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Crème de Cacao",
+        "zh": "可可酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and sweetness.",
+        "zh": "增加巧克力風味和甜度。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶霜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical coconut flavor.",
+        "zh": "增加甜度和熱帶椰子風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Thickens and chills the cocktail.",
+        "zh": "增稠並冰鎮雞尾酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

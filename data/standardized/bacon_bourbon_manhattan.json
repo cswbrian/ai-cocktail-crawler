@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Bacon Bourbon Manhattan",
+    "zh": "培根波本曼哈頓"
+  },
+  "description": {
+    "en": "A savory twist on the classic Manhattan, featuring bacon-infused bourbon for a smoky and salty flavor. The sweetness of the vermouth and the bitterness of the bitters are balanced by the savory bacon notes, creating a complex and unforgettable cocktail.\n\n*   **Unique and Bold:** A departure from traditional sweetness.\n*   **Savory-Sweet Balance:** Harmonious blend of flavors.\n*   **Bacon Accentuation:** Enhances bourbon complexity.",
+    "zh": "經典曼哈頓的鹹味轉變，以培根浸泡波本威士忌為特色，帶來煙熏和鹹味。 味美思的甜味和苦精的苦味與鹹香培根味相平衡，創造出一款複雜而難忘的雞尾酒。\n\n*   **獨特而大膽：** 背離傳統的甜味。\n*   **鹹甜平衡：** 口味的和諧融合。\n*   **培根口音：** 增強波本威士忌的複雜性。"
+  },
+  "historical_reference": {
+    "en": "The Manhattan cocktail dates back to the 1870s in New York City. This bacon-infused variation is a modern twist, building on the classic to add a savory element.\n\n*   **Classic Roots:** Building upon a well-established cocktail.\n*   **Modern Variation:** Recent adaptations for adventurous palates.\n*   **Bacon Popularity:** Leverages the appeal of bacon in contemporary cuisine.",
+    "zh": "曼哈頓雞尾酒可追溯至 1870 年代紐約市。 這種培根風味的變體是一種現代風味，建立在經典之上，增添了鹹味元素。\n\n*   **經典根源：** 建立在成熟的雞尾酒之上。\n*   **現代變奏：** 近期為追求冒險口味的人所做的調整。\n*   **培根的流行：** 利用培根在現代美食中的吸引力。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Crispy bacon strip",
+    "zh": "酥脆的培根條"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass",
+    "zh": "冰鎮香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with a slight cloudiness, garnished with bacon.",
+    "zh": "深琥珀色液體，略帶混濁，以培根裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bacon-Infused Bourbon",
+        "zh": "培根浸泡波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky and rich base of the cocktail.",
+        "zh": "為雞尾酒提供煙熏和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增添甜味和草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of bitterness and spice.",
+        "zh": "增加一層苦味和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Division Bell",
+    "zh": "分裂鐘"
+  },
+  "description": {
+    "en": "A modern classic cocktail created by Sam Ross at Attaboy in New York City. It is a variation of the Last Word, replacing the Chartreuse with gentian liqueur.",
+    "zh": "一款現代經典雞尾酒，由薩姆·羅斯在紐約市的 Attaboy 創造。 它是「最後一杯」的變體，用龍膽利口酒取代了 Chartreuse。"
+  },
+  "historical_reference": {
+    "en": "* Created by Sam Ross at Attaboy (New York City). \n* A modern variation of the *Last Word* cocktail. \n* Named after a Pink Floyd album, *The Division Bell*.",
+    "zh": "* 由薩姆·羅斯在 Attaboy（紐約市）創作。\n* 「最後一杯」雞尾酒的現代變體。\n* 以 Pink Floyd 的專輯 *The Division Bell* 命名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled coupe glass. Garnish with a cherry.",
+    "zh": "將所有材料與冰塊一起搖勻。 濾入冰鎮的碟型香檳杯中。 用櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Cherry",
+    "zh": "櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale golden hue.",
+    "zh": "清澈的淡金色色調。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "提供烈酒基底和植物複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and cherry flavor.",
+        "zh": "增加甜味和櫻桃風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gentian Liqueur",
+        "zh": "龍膽利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a unique bitter and herbal flavor.",
+        "zh": "增加獨特的苦味和草本風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

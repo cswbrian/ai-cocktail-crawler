@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "El Diablo",
+    "zh": "惡魔"
+  },
+  "description": {
+    "en": "**Spicy and Refreshing Tequila Cocktail**\n\nA vibrant mix of tequila, crème de cassis, lime, and ginger beer. The El Diablo is known for its layered flavors:\n\n*   Tequila provides a solid base with earthy undertones\n*   Crème de cassis adds a rich berry sweetness and deep color\n*   Lime juice brings a necessary tartness\n*   Ginger beer adds spice and effervescence",
+    "zh": "**辛辣清爽的龍舌蘭雞尾酒**\n\n龍舌蘭酒、黑醋栗利口酒、萊姆和薑汁啤酒的活力組合。El Diablo 以其層次分明的風味而聞名：\n\n*   龍舌蘭酒提供堅實的基底和泥土味\n*   黑醋栗利口酒增添濃郁的漿果甜味和深沉的色澤\n*   萊姆汁帶來必要的酸味\n*   薑汁啤酒增添了香料和氣泡"
+  },
+  "historical_reference": {
+    "en": "**Created by Trader Vic**\n\n*   First appeared in Trader Vic's *Book of Food and Drink* in 1946\n*   Named \"El Diablo\" meaning \"The Devil\" in Spanish, likely referring to the drink's potent and fiery character",
+    "zh": "**由 Trader Vic 創造**\n\n*   首次出現在 Trader Vic 於 1946 年出版的《*食物與飲品之書*》中\n*   命名為「El Diablo」，在西班牙語中意為「魔鬼」，可能指的是這款飲品強勁而火熱的特性"
+  },
+  "technique": {
+    "en": "Build. Add tequila, crème de cassis, and lime juice to a highball glass filled with ice. Top with ginger beer. Garnish.",
+    "zh": "直接調合法。將龍舌蘭酒、黑醋栗利口酒和萊姆汁加入裝滿冰塊的高球杯中。頂部倒入薑汁啤酒。裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "萊姆角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Deep red, effervescent",
+    "zh": "深紅色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and earthy notes.",
+        "zh": "提供基酒和泥土味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Crème de Cassis",
+        "zh": "黑醋栗酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds berry sweetness and color.",
+        "zh": "增加漿果甜味和顏色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds spice and effervescence.",
+        "zh": "增加香料和氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

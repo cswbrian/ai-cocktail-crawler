@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Trader Vic's Mai Tai",
+    "zh": "Trader Vic's 邁泰"
+  },
+  "description": {
+    "en": "**The quintessential tiki cocktail.**\n\nA complex blend of rums, citrus, and orgeat syrup, carefully balanced for a tropical escape. The original recipe, while debated, calls for specific types of rum and a meticulous technique.\n\nKey elements:\n*   A blend of aged Jamaican and agricole rhum\n*   Fresh lime juice for brightness\n*   Orgeat syrup for nutty sweetness\n*   Orange curaçao for citrus notes",
+    "zh": "**典型的提基雞尾酒。**\n\n蘭姆酒、柑橘和杏仁糖漿的複雜混合，經過精心調配，帶來熱帶風情。最初的配方雖然存在爭議，但需要特定種類的蘭姆酒和精細的技術。\n\n主要元素：\n* 陳年牙買加和農業蘭姆酒的混合\n* 新鮮青檸汁帶來清爽感\n* 杏仁糖漿帶來堅果般的甜味\n* 橙味庫拉索帶來柑橘風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Victor J. Bergeron (Trader Vic) in 1944 at his restaurant in Oakland, California.\n\nThe Mai Tai was intended to showcase the flavor of the rum without being overly sweet or masked by other ingredients. The original recipe used 17-year-old J. Wray & Nephew Jamaican rum, which is no longer available, requiring modern bartenders to find suitable replacements.\n\n*   One of the most iconic tiki cocktails.\n*   The name “Mai Tai” comes from the Tahitian word *maita'i*, meaning “good”.\n*   Quickly became popular and spread throughout the world.",
+    "zh": "**起源**: 由Victor J. Bergeron（Trader Vic）於1944年在他在加州奧克蘭的餐廳創作。\n\nMai Tai旨在展示蘭姆酒的風味，而不會過於甜膩或被其他成分掩蓋。最初的配方使用17年的J. Wray＆Nephew牙買加蘭姆酒，現在已無法獲得，因此現代調酒師需要尋找合適的替代品。\n\n* 最具代表性的提基雞尾酒之一。\n* 名稱“Mai Tai”來自塔希提語單詞*maita'i*，意思是“好”。\n* 迅速普及並傳播到世界各地。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with crushed ice. Pour unstrained into glass. Garnish lavishly.",
+    "zh": "將所有材料與碎冰搖勻。 不過濾直接倒入杯中。 盡情裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, lime wheel, optional: orchid or other tropical fruit",
+    "zh": "薄荷枝，青檸輪，可選：蘭花或其他熱帶水果"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned or Tiki Mug",
+    "zh": "雙份古典杯或提基馬克杯"
+  },
+  "appearance": {
+    "en": "Cloudy amber to light brown liquid, depending on rum blend, with vibrant green garnish",
+    "zh": "混濁的琥珀色至淺棕色液體，取決於蘭姆酒的混合，帶有鮮豔的綠色裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Jamaican Rum",
+        "zh": "陳年牙買加蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides depth, complexity and funky notes.",
+        "zh": "提供深度、複雜性和獨特的風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Martinique Rhum Agricole",
+        "zh": "馬丁尼克農業蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds grassy and vegetal notes, contributing to the complexity.",
+        "zh": "增添青草和植物的風味，增加了複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙味庫拉索"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and complexity.",
+        "zh": "增加橙子的風味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential acidity and citrus balance.",
+        "zh": "增加必要的酸度和柑橘平衡。"
+      }
+    },
+    {
+      "amount": 12,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides nutty sweetness and creamy texture.",
+        "zh": "提供堅果般的甜味和奶油般的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

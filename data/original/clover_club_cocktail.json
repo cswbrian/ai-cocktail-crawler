@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Clover Club",
+    "zh": "三葉草俱樂部"
+  },
+  "description": {
+    "en": "**Classic Pre-Prohibition Cocktail**\n\nA balanced and flavorful cocktail featuring:\n\n*   Gin base with raspberry syrup\n*   Lemon juice for tartness\n*   Egg white for a silky smooth texture",
+    "zh": "**經典禁酒令前雞尾酒**\n\n一款均衡且風味濃郁的雞尾酒，特色：\n\n*   以琴酒為基底，搭配覆盆子糖漿\n*   檸檬汁增添酸味\n*   蛋白帶來絲滑柔順的口感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Bellevue-Stratford Hotel, Philadelphia, 1896.\n\n*   Named after the Clover Club, a men's club.\n*   Popular during the pre-Prohibition era.\n*   Lost popularity, then revived in recent years.",
+    "zh": "**起源**：費城貝爾維尤-斯特拉特福酒店，1896年。\n\n*   以男士俱樂部“三葉草俱樂部”命名。\n*   在禁酒令前非常流行。\n*   一度失去人氣，近年來又重新流行。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients first, then shake with ice. Double strain into chilled glass.",
+    "zh": "先將所有材料乾搖，然後加冰搖勻。雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Raspberries",
+    "zh": "覆盆子"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pink and frothy with a creamy texture",
+    "zh": "粉紅色，起泡且具有奶油般的質地"
+  },
+  "allergens": [
+    {
+      "en": "Egg White",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and raspberry flavor.",
+        "zh": "增添甜味和覆盆子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的口感和泡沫。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness to balance the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Planter's Punch",
+    "zh": "種植園主潘趣酒"
+  },
+  "description": {
+    "en": "**A Classic Tropical Cocktail**\n\nPlanter's Punch is a rum-based cocktail with a complex balance of sweet, sour, and spice, often featuring:\n\n*   A blend of fruit juices for depth of flavor\n*   Grenadine and sugar for sweetness\n*   Bitters for added complexity and balance",
+    "zh": "**經典熱帶雞尾酒**\n\nPlanter's Punch 是一種以蘭姆酒為基底的雞尾酒，具有甜、酸和辛辣的複雜平衡，通常具有：\n\n*   混合果汁以獲得濃郁的風味\n*   石榴糖漿和糖帶來甜味\n*   苦精增加複雜性和平衡感"
+  },
+  "historical_reference": {
+    "en": "**Origins in Jamaica**\n\n*   Believed to have originated in Jamaica, possibly at the Planters' Hotel in Kingston.\n*   The exact recipe varies, but the rhyme 'One of Sour, Two of Sweet, Three of Strong, Four of Weak' is a common guideline.\n*   Became popular in the late 19th and early 20th centuries.",
+    "zh": "**起源於牙買加**\n\n*   據信起源於牙買加，可能是在金斯敦的 Planters' Hotel。\n*   確切的配方各不相同，但“一份酸、兩份甜、三份烈、四份淡”的韻律是常見的指導方針。\n*   在 19 世紀末和 20 世紀初開始流行。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange slice, cherry, pineapple wedge",
+    "zh": "橙片、櫻桃、鳳梨角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Hurricane glass",
+    "zh": "高球杯或颶風杯"
+  },
+  "appearance": {
+    "en": "Dark amber to reddish-brown, often with fruit garnishes.",
+    "zh": "深琥珀色至紅棕色，通常帶有水果裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and characteristic flavor profile.",
+        "zh": "提供主要的酒精基底和獨特的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增添柑橘風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and acidity.",
+        "zh": "增加熱帶甜味和酸度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides essential sourness to balance the sweetness.",
+        "zh": "提供必要的酸味，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a vibrant red color.",
+        "zh": "增加甜味和鮮豔的紅色。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic notes.",
+        "zh": "增加複雜性和芳香。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

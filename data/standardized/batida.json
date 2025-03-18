@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Batida",
+    "zh": "巴西果昔"
+  },
+  "description": {
+    "en": "**Brazilian Smoothie Cocktail**\n\nA Batida is a blended Brazilian cocktail, similar to a smoothie. The most common version is made with cachaça, fruit (often coconut or passion fruit), condensed milk, and ice. It's a refreshing and creamy drink, perfect for warm weather.\n\nKey characteristics:\n*   Creamy texture from condensed milk.\n*   Fruity flavor from the added fruit.\n*   Versatile, allowing for many fruit variations.",
+    "zh": "**巴西思慕雪雞尾酒**\n\nBatida 是一種混合的巴西雞尾酒，類似於思慕雪。 最常見的版本是用卡沙夏、水果（通常是椰子或百香果）、煉乳和冰製成的。 它是清爽又濃郁的飲料，非常適合溫暖的天氣。\n\n主要特點：\n*   煉乳帶來的奶油質地。\n*   添加水果帶來的果味。\n*   多功能，允許多種水果變化。"
+  },
+  "historical_reference": {
+    "en": "**Brazilian Origins**\n\nThe Batida is a traditional Brazilian cocktail whose origins are not precisely documented, but it is believed to have evolved from simpler fruit and cachaça mixtures. It's a popular drink throughout Brazil, enjoyed in homes and bars alike.\n\n*   Name translates to \"shaken\" or \"beaten\" in Portuguese.\n*   Reflects Brazil's abundance of fresh fruit.\n*   A simpler, less formal cocktail compared to the Caipirinha.",
+    "zh": "**巴西起源**\n\nBatida 是一種傳統的巴西雞尾酒，其起源沒有精確的記載，但據信它是由更簡單的水果和卡沙夏混合物演變而來的。 這是一種在整個巴西都很受歡迎的飲料，在家庭和酒吧都很受歡迎。\n\n*   在葡萄牙語中，名稱翻譯為「搖晃」或「敲打」。\n*   反映了巴西豐富的新鮮水果。\n*   與 Caipirinha 相比，它是一種更簡單、更不正式的雞尾酒。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "將所有材料與冰塊混合攪拌至光滑。"
+  },
+  "garnish": {
+    "en": "Fruit slice or wedge, sprinkle of cinnamon (optional)",
+    "zh": "水果片或角，撒上少許肉桂粉（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or highball glass",
+    "zh": "颶風杯或高球杯"
+  },
+  "appearance": {
+    "en": "A creamy, frothy beverage, often pale in color, reflecting the fruit used.",
+    "zh": "一種奶油般的泡沫飲料，通常顏色較淡，反映了所使用的水果。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡夏莎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinctive Brazilian flavor.",
+        "zh": "提供酒精基底和獨特的巴西風味。"
+      },
+      "tags": [
+        {
+          "en": "Cachaça",
+          "zh": "卡夏莎"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Fruit (e.g., coconut, passion fruit)",
+        "zh": "水果（例如椰子、百香果）"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Provides the main flavor profile of the drink.",
+        "zh": "提供飲料的主要風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Condensed Milk",
+        "zh": "煉乳"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a creamy texture.",
+        "zh": "增加甜味和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Ice Cubes",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "To chill and thicken the drink.",
+        "zh": "用於冷卻和增稠飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

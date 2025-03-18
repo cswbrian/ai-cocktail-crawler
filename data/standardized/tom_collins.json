@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Tom Collins",
+    "zh": "湯姆柯林斯"
+  },
+  "description": {
+    "en": "**Classic Gin Fizz Cocktail**\n\nA refreshing and effervescent cocktail perfect for warm weather, featuring:\n*   Gin for a botanical base\n*   Lemon juice for a tart and zesty flavor\n*   Sugar for sweetness to balance the acidity\n*   Club soda for a bubbly and refreshing finish",
+    "zh": "**經典琴費士雞尾酒**\n\n這是一款清爽且氣泡豐富的雞尾酒，非常適合溫暖的天氣，特色：\n*   琴酒提供植物風味基底\n*   檸檬汁帶來酸澀和充滿活力的風味\n*   糖提供甜味以平衡酸度\n*   蘇打水帶來氣泡和清爽的尾韻"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Originated in London in the 19th century.\n\n*   Named after a headwaiter at Limmer's Old House in London.\n*   First written formula appeared in 1876 in Jerry Thomas' *Bartender's Guide*.",
+    "zh": "**起源**: 19世紀起源於倫敦。\n\n*   以倫敦Limmer's Old House的領班命名。\n*   第一個書面配方出現在1876年傑瑞·托馬斯的《*調酒師指南*》中。"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into a Collins glass filled with ice. Top with club soda. Garnish with a lemon wedge or cherry.",
+    "zh": "將琴酒、檸檬汁和糖漿與冰塊搖勻。濾入裝滿冰塊的柯林斯杯中。加入蘇打水。用檸檬角或櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "檸檬角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Collins glass",
+    "zh": "柯林斯杯"
+  },
+  "appearance": {
+    "en": "Clear, bubbly, pale yellow",
+    "zh": "清澈、有氣泡、淡黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical flavors.",
+        "zh": "提供酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity.",
+        "zh": "增加酸澀味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lemon juice.",
+        "zh": "增加甜度以平衡檸檬汁。"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Club Soda",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en": "Gin Pahit",
+    "zh": "琴酒巴 hit"
+  },
+  "description": {
+    "en": "**Classic Aromatic Cocktail**\n\nA simple yet refined cocktail showcasing gin's botanical complexity.\n\n*   Characterized by a strong gin presence.\n*   Bitters add depth and balance.\n*   Often served as an aperitif.",
+    "zh": "**經典香氣雞尾酒**\n\n一款簡單而精緻的雞尾酒，展現琴酒的植物複雜性。\n\n*   以強烈的琴酒風味為特色。\n*   苦精增添深度和平衡感。\n*   通常作為開胃酒供應。"
+  },
+  "historical_reference": {
+    "en": "**Origins and History**\n\n*   Likely originated in Southeast Asia during the colonial era.\n*   'Pahit' means 'bitter' in Malay/Indonesian, reflecting the drink's core characteristic.\n*   Created as a medicinal drink that evolved into a social beverage",
+    "zh": "**起源與歷史**\n\n*   可能起源於殖民時代的東南亞。\n*   'Pahit' 在馬來語/印尼語中意為'苦'，反映了這種飲料的核心特徵。\n*   最初是一種藥用飲料，後來演變成社交飲料"
+  },
+  "technique": {
+    "en": "Stir ingredients with ice and strain into a chilled glass.",
+    "zh": "將材料與冰塊攪拌均勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist (optional)",
+    "zh": "檸檬皮扭轉（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or coupe",
+    "zh": "古典杯或香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale straw color",
+    "zh": "清澈，淡稻草色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical and alcoholic base.",
+        "zh": "提供主要的植物風味和酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness and aromatic complexity.",
+        "zh": "增加苦味和香氣的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

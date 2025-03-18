@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Mint Julep",
+    "zh": "薄荷茱莉普"
+  },
+  "description": {
+    "en": "**Classic Southern Cocktail**\n\nA refreshing and aromatic cocktail, featuring:\n*   Bourbon as the base spirit\n*   Fresh mint for herbal notes\n*   Sugar for sweetness\n*   Crushed ice for chilling and dilution",
+    "zh": "**經典南方雞尾酒**\n\n一款清爽芳香的雞尾酒，特色：\n*   波本威士忌作為基酒\n*   新鮮薄荷帶來草本香氣\n*   糖帶來甜味\n*   碎冰用於冰鎮和稀釋"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in the Southern United States in the 18th century.\n\n*   The Mint Julep has strong associations with Kentucky and the Kentucky Derby.\n*   Early versions were often made with brandy or other spirits before bourbon became the standard.\n*   It was considered a morning drink or a medicinal beverage in its early days.",
+    "zh": "**起源**: 據信起源於 18 世紀的美國南部。\n\n*   薄荷茱莉普與肯塔基州和肯塔基德比有著密切的聯繫。\n*   在波本威士忌成為標準之前，早期版本通常使用白蘭地或其他烈酒製成。\n*   在早期，它被認為是一種早晨飲料或藥用飲料。"
+  },
+  "technique": {
+    "en": "Muddle mint and sugar, add bourbon, fill with crushed ice, stir, and garnish.",
+    "zh": "將薄荷和糖混合搗碎，加入波本威士忌，加入碎冰，攪拌並裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Pewter Julep Cup or Old-Fashioned Glass",
+    "zh": "錫製茱莉普杯或古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green liquid with crushed ice",
+    "zh": "混濁的淡綠色液體，含有碎冰"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and characteristic flavor.",
+        "zh": "提供基酒和特色風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon and mint.",
+        "zh": "增加甜度，以平衡波本威士忌和薄荷的味道。"
+      }
+    },
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides the characteristic herbal flavor and aroma.",
+        "zh": "提供獨特的草本風味和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

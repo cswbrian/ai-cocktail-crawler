@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Baileys and Cream Soda",
+    "zh": "百利甜酒與奶油蘇打"
+  },
+  "description": {
+    "en": "**Simple and Sweet Treat**\n\nA straightforward mix that combines the richness of Irish cream liqueur with the bubbly sweetness of cream soda. The result is a creamy, indulgent, and easy-to-drink cocktail.\n\n*   Easy to prepare\n*   Sweet and creamy",
+    "zh": "**簡單又甜蜜的享受**\n\n直接將愛爾蘭奶油利口酒的濃郁與奶油蘇打的氣泡甜味結合在一起。 其結果是一種奶油味，放縱且易於飲用的雞尾酒。\n\n*   易於準備\n*   香甜可口"
+  },
+  "historical_reference": {
+    "en": "The combination of Baileys and cream soda is a relatively modern creation. Baileys Irish Cream itself was invented in 1974 by Gilbeys of Ireland.",
+    "zh": "Baileys和奶油蘇打的組合是相對現代的創作。 Baileys愛爾蘭奶油本身於1974年由愛爾蘭的Gilbeys發明。"
+  },
+  "technique": {
+    "en": "Pour Irish cream liqueur into a highball glass filled with ice. Top with cream soda and stir gently.",
+    "zh": "將愛爾蘭奶油利口酒倒入裝滿冰塊的高球杯中。 加入奶油蘇打並輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Whipped cream, chocolate shavings, or a cherry.",
+    "zh": "可選：鮮奶油、巧克力碎或櫻桃。"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Creamy beige liquid with a foamy head.",
+    "zh": "米色奶油液體，帶有泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy texture and distinctive flavor.",
+        "zh": "提供奶油般的質地和獨特的風味。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cream Soda",
+        "zh": "奶油蘇打"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and carbonation.",
+        "zh": "增加甜度和氣泡。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

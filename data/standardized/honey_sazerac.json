@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Honey Sazerac",
+    "zh": "蜂蜜薩澤拉克"
+  },
+  "description": {
+    "en": "*A variation on the classic Sazerac, substituting honey for sugar to add a unique sweetness and depth.*\n\nThe Honey Sazerac offers:\n*   Rye whiskey spiciness balanced by honey's mellow sweetness.\n*   Absinthe rinse for an aromatic lift.\n*   Bitters to enhance complexity and balance.",
+    "zh": "*經典薩澤拉克的一種變體，用蜂蜜代替糖，以增加獨特的甜味和深度。*\n\n蜂蜜薩澤拉克提供：\n*   黑麥威士忌的辛辣味與蜂蜜的醇厚甜味相平衡。\n*   苦艾酒杯潤，帶來芳香提升。\n*   苦精以增強複雜性和平衡。"
+  },
+  "historical_reference": {
+    "en": "*The Sazerac is a New Orleans classic dating back to the mid-19th century. This variation substitutes honey for sugar, a common substitution exploring different sweetness profiles.*\n\n*   Original Sazerac used Cognac before switching to Rye.\n*   Honey provides a different sweetness profile than refined sugar.",
+    "zh": "*薩澤拉克是一種新奧爾良經典雞尾酒，其歷史可以追溯到19世紀中葉。 這個變體用蜂蜜代替糖，這是一種常見的替代方案，旨在探索不同的甜味。\n\n*   原始薩澤拉克使用干邑白蘭地，然後才改用黑麥威士忌。\n*   蜂蜜提供了與精製糖不同的甜味。"
+  },
+  "technique": {
+    "en": "Rinse chilled glass with absinthe, add remaining ingredients to a mixing glass with ice, stir until well-chilled, strain into the prepared glass. Express lemon peel over the drink and discard.",
+    "zh": "用苦艾酒潤洗冰鎮過的杯子，將剩餘的材料加入帶冰的攪拌杯中，攪拌至完全冰鎮，濾入準備好的杯子。 將檸檬皮擠在飲料上並丟棄。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist (expressed and discarded)",
+    "zh": "檸檬皮扭花（擠壓後丟棄）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass, chilled",
+    "zh": "古典杯，冰鎮"
+  },
+  "appearance": {
+    "en": "Golden amber, clear, and slightly viscous.",
+    "zh": "金黃琥珀色，清澈且略帶黏稠。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy base and backbone of the cocktail.",
+        "zh": "提供雞尾酒的辛辣基底和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 5,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Used to rinse the glass, adding a subtle anise aroma and flavor.",
+        "zh": "用於潤洗酒杯，增添淡淡的茴香味和風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a unique flavor profile.",
+        "zh": "增加甜味和獨特的風味。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a complex bitter note and floral aroma.",
+        "zh": "增加複雜的苦味和花香。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a spicy and aromatic complexity.",
+        "zh": "增加了辛辣和芳香的複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

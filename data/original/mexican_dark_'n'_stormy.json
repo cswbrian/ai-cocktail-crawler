@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Mexican Dark 'n' Stormy",
+    "zh": "墨西哥黑闇風暴"
+  },
+  "description": {
+    "en": "**A Mexican twist on the classic Dark 'n' Stormy**\n\nThis cocktail replaces ginger beer with Mexican Coke and adds a hint of spice with a touch of chili liqueur.\n\n*   Dark Rum for a robust base\n*   Mexican Coke for sweetness and spice\n*   Lime juice for added zesty flavor",
+    "zh": "**經典黑闇風暴的墨西哥風味變奏**\n\n這款雞尾酒用墨西哥可樂取代了薑汁啤酒，並加入少量辣椒利口酒增添風味。\n\n*   黑蘭姆酒作為強勁的基底\n*   墨西哥可樂帶來甜味和香料味\n*   青檸汁增添風味"
+  },
+  "historical_reference": {
+    "en": "**Inspired by the Dark 'n' Stormy**\n\nThe Dark 'n' Stormy is a cocktail made with Gosling's Black Seal rum and ginger beer. This version uses Mexican Coke, and a touch of chili liqueur, giving it a Mexican twist.\n\n*   The original Dark 'n' Stormy is trademarked by Gosling's.\n*   Mexican Coke often uses cane sugar, which alters the flavor.",
+    "zh": "**靈感來自黑闇風暴**\n\n黑闇風暴是由高斯林黑海豹蘭姆酒和薑汁啤酒調製而成的雞尾酒。此版本使用墨西哥可樂和少許辣椒利口酒，賦予其墨西哥風味。\n\n*   原版黑闇風暴由高斯林公司註冊商標。\n*   墨西哥可樂通常使用蔗糖，這會改變風味。"
+  },
+  "technique": {
+    "en": "Build over ice and gently stir to combine, float base spirit on top.",
+    "zh": "在冰上調製並輕輕攪拌混合，將基酒浮在頂部。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with a frothy head and lime wedge",
+    "zh": "深琥珀色液體，帶有泡沫和檸檬角"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and depth of flavor.",
+        "zh": "提供基酒和風味深度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Chili Liqueur",
+        "zh": "辣椒利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a touch of spice.",
+        "zh": "增添些許風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Mexican Coke",
+        "zh": "墨西哥可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, spice, and carbonation.",
+        "zh": "增加甜味、香料味和碳酸。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance the sweetness.",
+        "zh": "增加酸度以平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

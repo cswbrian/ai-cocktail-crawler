@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Polar Bear",
+    "zh": "北極熊"
+  },
+  "description": {
+    "en": "**Creamy and Refreshing Cocktail**\n\nA smooth and decadent cocktail reminiscent of a creamsicle, featuring:\n*   Vodka base for a clean profile\n*   White crème de cacao for chocolate notes\n*   Heavy cream for a rich, velvety texture",
+    "zh": "**濃郁清爽的雞尾酒**\n\n令人聯想到奶油冰棒的柔滑頹廢雞尾酒，特色：\n* 伏特加基底，帶來乾淨的風味\n* 白色可可奶油帶來巧克力風味\n* 濃奶油帶來豐富、如天鵝絨般的口感"
+  },
+  "historical_reference": {
+    "en": "The Polar Bear cocktail is a modern creation, with no definitive historical origin. It is often attributed to bartenders experimenting with creamy, dessert-like flavors in the late 20th or early 21st century.\n\n* Likely emerged from the trend of dessert cocktails\n* Inspired by flavors like creamsicles and white chocolate",
+    "zh": "極地熊雞尾酒是一種現代創作，沒有明確的歷史淵源。它通常歸功於調酒師在 20 世紀末或 21 世紀初嘗試奶油狀、甜點般的風味。\n\n* 可能源於甜點雞尾酒的趨勢\n* 靈感來自奶油冰棒和白巧克力等口味"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖晃，然後濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or chocolate shavings",
+    "zh": "磨碎的肉荳蔻或巧克力屑"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass, chilled",
+    "zh": "冰鎮過的碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Opaque white, frothy top",
+    "zh": "不透明的白色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Crème de Cacao",
+        "zh": "可可酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides chocolate flavor and sweetness.",
+        "zh": "提供巧克力風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and a velvety texture.",
+        "zh": "增加濃郁度和如天鵝絨般的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

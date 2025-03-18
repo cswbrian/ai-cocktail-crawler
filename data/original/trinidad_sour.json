@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Trinidad Sour",
+    "zh": "千里達酸酒"
+  },
+  "description": {
+    "en": "A surprisingly balanced and complex cocktail featuring a large quantity of bitters. Despite the high proportion of bitters, the drink is palatable and offers a unique flavor profile.\n\n*   Unusual bitters-forward cocktail\n*   Complex and aromatic\n*   Surprisingly approachable",
+    "zh": "這是一款出乎意料地平衡且複雜的雞尾酒，以大量的苦精為特色。儘管苦精的比例很高，但這款飲品依然美味，並提供獨特的風味。\n\n*   不尋常的以苦精為主的雞尾酒\n*   複雜而芳香\n*   出乎意料地平易近人"
+  },
+  "historical_reference": {
+    "en": "Created by Giuseppe Gonzalez at Dutch Kills in New York City. A modern classic known for its unconventional use of bitters as a primary ingredient.",
+    "zh": "由Giuseppe Gonzalez在紐約市的Dutch Kills酒吧創作。這是一款現代經典之作，以其非常規地使用苦精作為主要成分而聞名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass. Add ice and garnish.",
+    "zh": "將所有材料與冰塊搖勻後，濾入杯中。加入冰塊和裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber, opaque",
+    "zh": "深琥珀色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a backbone to the cocktail.",
+        "zh": "為雞尾酒增添骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "The primary flavoring agent.",
+        "zh": "主要的調味劑。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the bitters.",
+        "zh": "增加甜度，平衡苦精。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Juice",
+        "zh": "果汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度及平衡感"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

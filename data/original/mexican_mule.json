@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Mexican Mule",
+    "zh": "墨西哥騾子"
+  },
+  "description": {
+    "en": "A zesty variation on the classic Moscow Mule, the Mexican Mule substitutes vodka with tequila, offering a vibrant and refreshing cocktail. \n\n*   **Simple to make**\n*   **Refreshing twist**\n*   **Serve chilled!**",
+    "zh": "墨西哥騾子是經典莫斯科騾子的活潑變奏，用龍舌蘭酒代替伏特加，帶來充滿活力和清爽的雞尾酒。\n\n*   **容易製作**\n*   **清爽的轉變**\n*   **冰鎮後享用！**"
+  },
+  "historical_reference": {
+    "en": "The Mule family of cocktails gained popularity in the mid-20th century. \n\nThe **Moscow Mule** is considered the original, with other variations emerging using different base spirits and flavors. The Mexican Mule is a simple adaptation using tequila to give a Southwestern flair.",
+    "zh": "騾子系列雞尾酒在 20 世紀中葉開始流行。\n\n**莫斯科騾子**被認為是原創，其他變體使用不同的基酒和風味。 墨西哥騾子是一個簡單的調整，使用龍舌蘭酒來賦予西南風味。"
+  },
+  "technique": {
+    "en": "Combine tequila and lime juice in a mug filled with ice. Top with ginger beer. Garnish with a lime wedge.",
+    "zh": "將龍舌蘭酒和青檸汁倒入裝滿冰塊的杯子中。 加入薑汁啤酒。 用青檸角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "青檸角或片"
+  },
+  "serve_in_glass": {
+    "en": "Copper mug or Highball glass",
+    "zh": "銅杯或高球杯"
+  },
+  "appearance": {
+    "en": "Pale, bubbly, light amber",
+    "zh": "淡色、氣泡、淺琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic kick.",
+        "zh": "提供基底風味和酒精。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Dirty Martini",
+    "zh": "髒馬丁尼"
+  },
+  "description": {
+    "en": "**The Dirty Martini: A Savory Twist on a Classic**\n\nA classic martini with olive brine added. Key characteristics include:\n*   Salty and savory flavor profile\n*   Cloudy appearance from the olive brine\n*   Customizable level of 'dirtiness' (amount of brine)",
+    "zh": "**髒馬丁尼：經典的鹹味轉折**\n\n在經典馬丁尼中加入橄欖鹽水。 主要特徵包括：\n*   鹹味和鹹香的風味\n*   橄欖鹽水造成的混濁外觀\n*   可自定義的“髒”度（鹽水量）"
+  },
+  "historical_reference": {
+    "en": "**Origin and Evolution**\n\nThe exact origin is debated, but the Dirty Martini likely emerged in the early 20th century as a variation on the classic Dry Martini:\n\n*   Early versions may have used olive juice rather than brine.\n*   The popularity of the drink grew throughout the 20th century, solidifying its place as a modern classic.\n*   Variations exist using different types of olives or flavored brines.",
+    "zh": "**起源與演變**\n\n確切的起源尚有爭議，但髒馬丁尼可能在 20 世紀初作為經典 Dry Martini 的變體而出現：\n\n*   早期版本可能使用橄欖汁代替鹽水。\n*   這種飲料的受歡迎程度在整個 20 世紀不斷增長，鞏固了其作為現代經典的地位。\n*   存在使用不同類型橄欖或調味鹽水的變體。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled martini glass.",
+    "zh": "將所有材料與冰塊攪拌均勻至冰鎮。 濾入冰鎮的馬丁尼杯中。"
+  },
+  "garnish": {
+    "en": "Olives (usually 3 on a skewer or cocktail pick)",
+    "zh": "橄欖（通常用串或雞尾酒籤串起 3 顆）"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass (chilled)",
+    "zh": "馬丁尼杯（冰鎮）"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to greenish liquid",
+    "zh": "混濁，淡黃色至綠色的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main alcoholic base and botanical flavors.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜香艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and slightly bitter notes to balance the gin.",
+        "zh": "增加草本和略帶苦味，以平衡琴酒。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Olive Brine",
+        "zh": "橄欖鹽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the signature salty and savory flavor that defines a Dirty Martini.",
+        "zh": "增加了標誌性的鹹味和鹹香風味，定義了髒馬丁尼。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

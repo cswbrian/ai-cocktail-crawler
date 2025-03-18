@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Kahlúa Fizz",
+    "zh": "卡魯哇氣泡飲"
+  },
+  "description": {
+    "en": "**A Refreshing Coffee Cocktail**\n\nThe Kahlúa Fizz is a simple and delightful cocktail that combines the rich flavors of coffee liqueur with the effervescence of soda water.\n\nKey Features:\n*   Creamy and bubbly texture\n*   Balanced sweetness and coffee notes\n*   Easy to prepare at home",
+    "zh": "**清爽的咖啡雞尾酒**\n\n卡魯哇氣泡飲是一款簡單而令人愉悅的雞尾酒，它結合了濃郁的咖啡利口酒風味和蘇打水的氣泡。\n\n主要特點：\n*   奶油和氣泡的質地\n*   平衡的甜味和咖啡味\n*   易於在家準備"
+  },
+  "historical_reference": {
+    "en": "**Origins of the Kahlúa Fizz**\n\n*   The Kahlúa Fizz is a modern classic, building on the popularity of coffee liqueurs in cocktails.\n*   It is a variation of a 'fizz', which typically combines a spirit, citrus, sugar, and soda water.\n*   The exact origin is difficult to pinpoint, but it gained popularity in the late 20th century.",
+    "zh": "**卡魯哇氣泡飲的起源**\n\n*   卡魯哇氣泡飲是一種現代經典，建立在咖啡利口酒在雞尾酒中的普及之上。\n*   它是“氣泡飲”的一種變體，通常將烈酒、柑橘、糖和蘇打水混合在一起。\n*   確切的起源很難確定，但它在 20 世紀末開始流行。"
+  },
+  "technique": {
+    "en": "Combine generic spirit and coffee liqueur in a highball glass with ice. Top with soda water and cream. Stir gently.",
+    "zh": "將通用烈酒和咖啡利口酒與冰塊在高杯玻璃杯中混合。加入蘇打水和鮮奶油。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Coffee beans (optional)",
+    "zh": "咖啡豆（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Frothy, creamy, light brown",
+    "zh": "起泡、奶油色、淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "通用烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds alcoholic strength and a neutral base.",
+        "zh": "增加酒精強度和中性基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Generic Coffee Liqueur",
+        "zh": "通用咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary coffee flavor.",
+        "zh": "提供主要的咖啡風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加豐富度和質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

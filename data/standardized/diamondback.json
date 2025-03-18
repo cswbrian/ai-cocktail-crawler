@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Diamondback",
+    "zh": "鑽石背"
+  },
+  "description": {
+    "en": "**Complex and Spirit-Forward**\n\nA variation on the Manhattan, featuring:\n*   Rye whiskey as its base\n*   Apple brandy for fruitiness\n*   Chartreuse for herbal complexity",
+    "zh": "**複雜且以烈酒為主的風味**\n\n曼哈頓的變體，特色：\n*   以黑麥威士忌為基底\n*   蘋果白蘭地帶來果香\n*   夏特勒茲酒增添草本的複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to the Diamondback Lounge in the Hotel DuPont, Wilmington, Delaware, USA.\n\n*   Created sometime in the 1950s or 1960s\n*   Named after the Diamondback rattlesnake",
+    "zh": "**起源**: 歸功於美國德拉瓦州威爾明頓杜邦酒店的響尾蛇酒廊。\n\n*   創建於 1950 年代或 1960 年代\n*   以菱背響尾蛇命名"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled cocktail glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的雞尾酒杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "醃漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Amber, clear",
+    "zh": "琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apple Brandy (Calvados)",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruit notes.",
+        "zh": "增加水果香氣。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "apple brandy",
+          "zh": "蘋果白蘭地"
+        },
+        {
+          "en": "calvados",
+          "zh": "卡爾瓦多斯"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and honeyed complexity.",
+        "zh": "添加草本和蜂蜜的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

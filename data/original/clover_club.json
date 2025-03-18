@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Clover Club",
+    "zh": "三葉草俱樂部"
+  },
+  "description": {
+    "en": "**A Pre-Prohibition Classic**\n\nA delightful and visually appealing cocktail featuring:\n*   Gin base for a botanical foundation.\n*   Raspberry syrup for sweetness and color.\n*   Lemon juice for tartness and balance.\n*   Egg white for a silky smooth texture and frothy head.",
+    "zh": "**禁酒令之前的經典之作**\n\n一款令人愉悅且視覺上吸引人的雞尾酒，特色：\n*   琴酒基底，提供植物風味。\n*   覆盆子糖漿，增添甜味和色彩。\n*   檸檬汁，帶來酸味和平衡。\n*   蛋白，營造絲滑的質地和泡沫。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Clover Club cocktail is named after the *Clover Club Society*, a group of Philadelphia lawyers who met at the Bellevue-Stratford Hotel in the late 19th century.\n\n*   Popular in the late 19th and early 20th centuries.\n*   Fell out of favor but has seen a resurgence in recent years.\n*   Typically associated with pre-Prohibition era cocktails.",
+    "zh": "**起源**: 苜蓿俱樂部雞尾酒的名字來自*苜蓿俱樂部協會*，該協會是19世紀末在費城貝爾維尤-斯特拉特福德酒店聚會的一群律師。\n\n*   19世紀末和20世紀初流行。\n*   一度失寵，但近年來又重新流行起來。\n*   通常與禁酒令時代之前的雞尾酒相關聯。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients vigorously without ice to emulsify the egg white. Add ice and shake again until well-chilled. Strain into a chilled glass.",
+    "zh": "將所有材料不加冰乾搖，充分乳化蛋白。加入冰塊，再次搖晃至冰鎮。濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Raspberries (3) on a skewer or Lemon twist",
+    "zh": "覆盆子 (3顆) 串在竹籤上，或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pink, frothy, and opaque",
+    "zh": "粉紅色、起泡且不透明"
+  },
+  "allergens": [
+    {
+      "en": "Egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and structure of the cocktail.",
+        "zh": "提供雞尾酒的基底風味和結構。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and raspberry flavor.",
+        "zh": "提供甜味和覆盆子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balance to the drink.",
+        "zh": "為飲品增添酸味和平衡。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head to the cocktail.",
+        "zh": "為雞尾酒增添絲滑的質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "name": {
+    "en": "Brandy Manhattan",
+    "zh": "白蘭地曼哈頓"
+  },
+  "description": {
+    "en": "A sophisticated twist on the classic Manhattan, using brandy as its base. The Brandy Manhattan offers a smoother, fruitier profile compared to its whiskey counterpart, while still maintaining a balanced sweetness and aromatic complexity.",
+    "zh": "經典曼哈頓的精緻變奏，以白蘭地為基酒。相較於以威士忌為基底的版本，白蘭地曼哈頓的口感更為滑順、果香更濃郁，同時保有均衡的甜度和複雜的香氣。"
+  },
+  "historical_reference": {
+    "en": "The Manhattan cocktail emerged in the late 19th century. Substituting brandy for whiskey creates a Brandy Manhattan, offering a variation with a different flavor profile. While not as widely documented as the original, it's a recognized classic variation.",
+    "zh": "曼哈頓雞尾酒出現於 19 世紀末。 以白蘭地代替威士忌創造了白蘭地曼哈頓，提供了一種具有不同風味的變體。 雖然不如原版那樣被廣泛記錄，但它是一種公認的經典變體。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後，濾入冰鎮過的杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry or orange peel",
+    "zh": "馬拉斯奇諾櫻桃或橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass, or rocks glass.",
+    "zh": "冰鎮過的淺碟香檳杯或馬丁尼杯，或古典杯。"
+  },
+  "appearance": {
+    "en": "Clear, deep amber with a reddish hue.",
+    "zh": "清澈、深琥珀色，略帶紅色調。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavor.",
+        "zh": "提供基酒和濃郁的風味。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, body, and herbal notes.",
+        "zh": "增加甜味、酒體和草本風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "增加複雜性並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

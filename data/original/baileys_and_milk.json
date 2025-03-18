@@ -1,0 +1,101 @@
+{
+  "name": {
+    "en": "Baileys and Milk",
+    "zh": "百利甜酒加牛奶"
+  },
+  "description": {
+    "en": "**Simple Cream Liqueur Drink**\n\nA basic combination for a sweet and creamy drink. Often served over ice. The richness of Baileys Irish Cream is slightly diluted by the addition of Milk.\n\n*   Easy to prepare.\n*   Sweet and creamy flavor profile.\n*   Can be adjusted to preference by changing the ratio of Baileys to Milk.",
+    "zh": "**簡單的奶油利口酒飲品**\n\n一種基礎組合，可以製作出香甜且濃郁的飲品。通常會加冰塊飲用。加入牛奶可稍微稀釋百利甜酒的濃郁度。\n\n*   容易準備。\n*   香甜且濃郁的風味。\n*   可以藉由改變百利甜酒與牛奶的比例來調整至個人喜好。"
+  },
+  "historical_reference": {
+    "en": "**Modern Cream Liqueur Cocktail**\n\n*   Baileys Irish Cream was introduced in 1974.\n*   The combination with milk is a straightforward way to enjoy the liqueur.\n*   No known specific origin other than as a common practice.",
+    "zh": "**現代奶油利口酒雞尾酒**\n\n*   百利甜酒於1974年推出。\n*   與牛奶的組合是一種享受此利口酒的簡單方式。\n*   除了作為一種常見的做法外，沒有已知的特定起源。"
+  },
+  "technique": {
+    "en": "Pour Baileys into glass, add ice, top with Milk, stir gently.",
+    "zh": "將百利甜酒倒入杯中，加入冰塊，倒入牛奶，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None typically, chocolate shavings optional",
+    "zh": "通常沒有，可選巧克力刨花"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or small tumbler",
+    "zh": "古典杯或小號平底杯"
+  },
+  "appearance": {
+    "en": "Creamy, light to medium brown liquid",
+    "zh": "奶油色，淺至中棕色液體"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Baileys Irish Cream",
+        "zh": "百利甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic content.",
+        "zh": "提供主要風味和酒精含量。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Milk",
+        "zh": "牛奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the Baileys, adds creamy texture.",
+        "zh": "稀釋百利甜酒，增加奶油質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

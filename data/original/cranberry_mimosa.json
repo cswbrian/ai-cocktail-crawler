@@ -1,0 +1,76 @@
+{
+  "name": {
+    "en": "Cranberry Mimosa",
+    "zh": "蔓越莓含羞草"
+  },
+  "description": {
+    "en": "**Festive brunch cocktail.**\n\n*   A simple twist on the classic Mimosa\n*   Perfect for holidays or special occasions.\n*   Uses Cranberry juice for a bright tart flavor.",
+    "zh": "**節日早午餐雞尾酒。**\n\n*   經典含羞草雞尾酒的簡單變奏。\n*   非常適合節日或特殊場合。\n*   使用蔓越莓汁，帶來明亮的酸味。"
+  },
+  "historical_reference": {
+    "en": "A variation of the classic Mimosa cocktail, cranberry mimosas are a more modern invention, perfect for the holidays. The classic mimosa dates back to 1925, invented at the Ritz Hotel in Paris.",
+    "zh": "蔓越莓含羞草是經典含羞草雞尾酒的變體，是一種更現代的發明，非常適合節日。經典的含羞草可以追溯到 1925 年，在巴黎麗茲酒店發明。"
+  },
+  "technique": {
+    "en": "Pour cranberry juice into flute, top with sparkling wine",
+    "zh": "將蔓越莓汁倒入長笛杯中，頂部倒入氣泡酒"
+  },
+  "garnish": {
+    "en": "Cranberries and/or orange slice",
+    "zh": "蔓越莓和/或柳橙片"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳長笛杯"
+  },
+  "appearance": {
+    "en": "Pink to red, effervescent",
+    "zh": "粉紅色至紅色，起泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly alcoholic base.",
+        "zh": "提供氣泡酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 5,
+    "booziness": 4,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

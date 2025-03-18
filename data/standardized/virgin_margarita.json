@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Virgin Margarita",
+    "zh": "無酒精瑪格麗特"
+  },
+  "description": {
+    "en": "*Refreshing and zesty, perfect for a hot day*\n\nA non-alcoholic twist on the classic Margarita, featuring:\n*   Lime juice for a tangy kick\n*   Agave nectar for a touch of sweetness\n*   Orange juice for well-rounded citrus flavors",
+    "zh": "*清新爽口，非常適合炎熱的天氣*\n\n經典瑪格麗特的無酒精版本，特色：\n*   青檸汁帶來酸爽的口感\n*   龍舌蘭花蜜帶來一絲甜味\n*   橙汁帶來圓潤的柑橘風味"
+  },
+  "historical_reference": {
+    "en": "The Margarita's exact origin is debated. Several stories exist, all placing its creation in Mexico during the 1930s or 40s. This version omits the tequila for an alcohol-free option. It remains a popular choice for those seeking a refreshing and flavorful drink without the alcohol.",
+    "zh": "瑪格麗特的確切起源尚有爭議。有多個故事，都將其創作地點設定在 1930 年代或 40 年代的墨西哥。此版本省略了龍舌蘭酒，以提供不含酒精的選擇。對於那些尋求清爽且風味十足的無酒精飲料的人來說，它仍然是一個受歡迎的選擇。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a salted glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到鹽口杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel, salted rim",
+    "zh": "青檸角或片，鹽口"
+  },
+  "serve_in_glass": {
+    "en": "Salted Margarita glass or rocks glass",
+    "zh": "鹽口瑪格麗特杯或岩石杯"
+  },
+  "appearance": {
+    "en": "Pale green, slightly opaque, with a salted rim",
+    "zh": "淡綠色，略微不透明，帶有鹽口"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides essential tartness and citrus flavor.",
+        "zh": "提供必要的酸味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭花蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a subtle floral note.",
+        "zh": "增加甜味和淡淡的花香。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the citrus profile with balanced sweetness.",
+        "zh": "通過均衡的甜度增強柑橘風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 0,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

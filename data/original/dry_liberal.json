@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Dry Martini",
+    "zh": "乾馬丁尼"
+  },
+  "description": {
+    "en": "**Classic Martini Variation**\n\nA dry and sophisticated cocktail:\n*   Gin-forward with minimal vermouth\n*   Lemon twist for brightness and aroma\n*   Very dry style for experienced palates",
+    "zh": "**經典馬丁尼變體**\n\n一款乾燥而精緻的雞尾酒：\n*   以琴酒為主，少量苦艾酒\n*   檸檬皮扭花增添明亮感和香氣\n*   非常乾的風格，適合有經驗的味蕾"
+  },
+  "historical_reference": {
+    "en": "**Martini Evolution**\n\nThe Dry Martini emerged in the early 20th century as tastes shifted towards drier cocktails.\n\n*  A variation on the classic Martini\n*  Uses significantly less dry vermouth for a drier profile\n*  Became popular during the mid-20th century",
+    "zh": "**馬丁尼的演變**\n\n乾馬丁尼在20世紀初出現，當時的口味轉向更乾的雞尾酒。\n\n*  經典馬丁尼的變體\n*  使用明顯較少的乾苦艾酒，以獲得更乾的風味\n*  在20世紀中期開始流行"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰攪拌後倒入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭花"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass, chilled",
+    "zh": "馬丁尼杯，冰鎮"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow liquid",
+    "zh": "清澈的淡黃色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and botanical complexity.",
+        "zh": "提供基底和植物的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle herbal and floral notes, balancing the gin.",
+        "zh": "添加微妙的草本和花香，平衡琴酒。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

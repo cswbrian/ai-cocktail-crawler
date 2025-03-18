@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Kir Royale",
+    "zh": "皇家基爾"
+  },
+  "description": {
+    "en": "*A delightful and simple cocktail*\n\nThe Kir Royale is a sophisticated twist on the classic Kir, replacing dry white wine with sparkling wine, usually Champagne. It's elegant, festive, and easy to make.\n\n*   **Simple to make**\n*   **Festive**\n*   **Elegant**",
+    "zh": "*一款令人愉悅且簡單的雞尾酒*\n\n皇家基爾是對經典基爾的精緻改良，用氣泡酒（通常是香檳）代替了乾白葡萄酒。它優雅、喜慶且易於製作。\n\n* **製作簡單**\n* **喜慶**\n* **優雅**"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Burgundy, France\n\nThe Kir Royale is a variant of the Kir cocktail, named after Canon Félix Kir, a French priest and mayor of Dijon after WWII. He popularized the drink by serving it at receptions, promoting regional products.",
+    "zh": "**起源**: 法國勃艮第\n\n皇家基爾是基爾雞尾酒的變體，以二戰後法國神父兼第戎市長費利克斯·基爾命名。他通過在招待會上供應這種飲料來推廣該地區的產品，從而普及了這種飲料。"
+  },
+  "technique": {
+    "en": "Pour liqueur into the glass, then top with chilled sparkling wine.",
+    "zh": "將利口酒倒入酒杯，然後倒入冰鎮的氣泡酒。"
+  },
+  "garnish": {
+    "en": "Optional: Raspberry or Blackberry",
+    "zh": "可選：覆盆子或黑莓"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Deep pink or red, effervescent",
+    "zh": "深粉紅色或紅色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Blackcurrant Liqueur",
+        "zh": "黑醋栗利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and blackcurrant flavor.",
+        "zh": "增加甜味和黑醋栗風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly base and dryness.",
+        "zh": "提供氣泡基底和清爽感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

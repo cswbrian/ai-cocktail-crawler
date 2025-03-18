@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Flirtini",
+    "zh": "調情尼"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA fruity and bubbly cocktail that is typically served in a martini glass. A refreshing and visually appealing drink, often associated with celebratory occasions.\n\n*   Vodka base for a clean taste\n*   Cranberry juice for tartness and color\n*   Triple Sec for citrus notes and sweetness\n*   Sparkling wine for effervescence",
+    "zh": "**現代經典雞尾酒**\n\n一款充滿水果風味和氣泡的雞尾酒，通常在高腳杯中供應。 一種清新且視覺上吸引人的飲品，通常與慶祝場合相關。\n\n*   伏特加基底帶來乾淨的口感\n*   蔓越莓汁帶來酸味和色彩\n*   橙皮酒帶來柑橘味和甜味\n*   氣泡酒帶來氣泡感"
+  },
+  "historical_reference": {
+    "en": "**Popularized by Sex and the City**\n\nThe Flirtini gained widespread recognition after being featured in the popular TV series *Sex and the City*.\n\n*   Became a trendy and fashionable drink in the late 1990s and early 2000s.\n*   The exact origin before the TV show is somewhat unclear, but its popularity exploded due to the show's influence.",
+    "zh": "**因《慾望城市》而廣受歡迎**\n\n在熱門電視劇《慾望城市》中亮相後，Flirtini 獲得了廣泛的認可。\n\n*   在 1990 年代末和 2000 年代初成為一種流行且時尚的飲品。\n*   在該電視劇之前，確切的起源有些不明確，但由於該電視劇的影響，其受歡迎程度猛增。"
+  },
+  "technique": {
+    "en": "Combine vodka, cranberry juice, and triple sec in a shaker with ice. Shake well until chilled. Strain into a chilled martini glass or coupe. Top with sparkling wine. Garnish.",
+    "zh": "將伏特加、蔓越莓汁和橙皮酒放入裝有冰塊的搖酒器中。 充分搖勻直至冷卻。 濾入冰鎮的馬丁尼杯或敞口香檳杯中。 加入氣泡酒。 裝飾。"
+  },
+  "garnish": {
+    "en": "Orange twist or a few fresh cranberries",
+    "zh": "橙皮或一些新鮮蔓越莓"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe glass",
+    "zh": "馬丁尼杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, light pink to rose-colored liquid with fine bubbles",
+    "zh": "清澈、淺粉色至玫瑰色液體，帶有細緻氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, neutral base for the cocktail.",
+        "zh": "為雞尾酒提供乾淨、中性的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Triple Sec",
+        "zh": "橙皮酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增加柑橘味和甜味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling Wine (Prosecco or Champagne)",
+        "zh": "氣泡酒（普羅塞克或香檳）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a touch of elegance.",
+        "zh": "增加氣泡和一絲優雅。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and a characteristic pink color.",
+        "zh": "增加酸味和標誌性的粉紅色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

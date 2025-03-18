@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "John Collins",
+    "zh": "約翰柯林斯"
+  },
+  "description": {
+    "en": "**Classic Gin Fizz Variation**\n\nA refreshing, long drink featuring:\n*   Gin base\n*   Lemon juice for tartness\n*   Sugar for sweetness\n*   Topped with carbonated water",
+    "zh": "**經典琴費士變化款**\n\n一款清爽的長飲，特色：\n*   琴酒基底\n*   檸檬汁帶來酸味\n*   糖帶來甜味\n*   頂部加入碳酸水"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Named after a head waiter, John Collins, at Limmer's Old House in London in the 1800s.\n\n*   Originally made with genever, a Dutch spirit.\n*   Evolved to use Old Tom Gin and eventually London Dry Gin.",
+    "zh": "**起源**: 以1800年代倫敦Limmer's Old House的領班服務員John Collins命名。\n\n*   最初使用荷蘭琴酒（genever）調製。\n*   演變為使用老湯姆琴酒，最終改用倫敦乾琴酒。"
+  },
+  "technique": {
+    "en": "Build in glass. Add gin, lemon juice, and simple syrup to a Collins glass filled with ice. Top with carbonated water and stir gently. Garnish with a lemon wedge or cherry.",
+    "zh": "在杯中調製。將琴酒、檸檬汁和糖漿倒入裝滿冰塊的柯林斯杯中。頂部加入碳酸水並輕輕攪拌。用檸檬角或櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "檸檬角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Collins glass",
+    "zh": "柯林斯杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow, fizzy",
+    "zh": "清澈、淡黃色、有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's spirituous base and botanical complexity.",
+        "zh": "提供調酒的烈酒基底和植物複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      }
+    },
+    {
+      "amount": 80,
+      "name": {
+        "en": "Carbonated Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and lengthens the drink.",
+        "zh": "增加氣泡並延長飲用時間。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

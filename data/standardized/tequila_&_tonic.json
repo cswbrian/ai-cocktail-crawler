@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Tequila & Tonic",
+    "zh": "龍舌蘭湯力"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Highball**\n\nA classic combination of tequila and tonic water:\n* Easy to make and customizable\n* Great for warm weather\n* Can be garnished with lime or other citrus",
+    "zh": "**簡單清爽的高杯調酒**\n\n龍舌蘭酒和湯力水的經典組合：\n* 容易製作且可客製化\n* 非常適合溫暖的天氣\n* 可以用檸檬或其他柑橘類水果裝飾"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Tequila and Tonic is a modern variation on gin and tonic and other highballs.\n\n*   Likely emerged with increased tequila popularity.\n*   Simple and refreshing combination.",
+    "zh": "**起源**: 龍舌蘭湯力是琴湯尼和其他高杯調酒的現代變體。\n\n*   隨著龍舌蘭酒的普及而出現。\n*   簡單而清爽的組合。"
+  },
+  "technique": {
+    "en": "Pour tequila into a highball glass filled with ice. Top with tonic water. Garnish with a lime wedge.",
+    "zh": "將龍舌蘭酒倒入裝滿冰塊的高杯中。加入湯力水。用檸檬角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "檸檬角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Clear and bubbly, with a slight color depending on the tequila",
+    "zh": "清澈且有氣泡，顏色會因龍舌蘭酒而略有不同"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic agave flavor.",
+        "zh": "提供酒精基底和標誌性的龍舌蘭風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Tonic Water",
+        "zh": "湯力水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz, bitterness, and sweetness to complement the tequila.",
+        "zh": "增加氣泡、苦味和甜味，以襯托龍舌蘭酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

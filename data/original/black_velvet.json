@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Black Velvet",
+    "zh": "黑色天鵝絨"
+  },
+  "description": {
+    "en": "**Simple yet Elegant Cocktail**\n\nA blend of stout and sparkling wine, typically champagne. This cocktail:\n*   Is known for its dark color and layered appearance.\n*   Offers a unique combination of rich stout and dry sparkling wine.\n*   It is historically linked to Prince Albert's mourning.",
+    "zh": "**簡單而優雅的雞尾酒**\n\n司陶特黑啤酒和氣泡酒（通常是香檳）的混合。這款雞尾酒：\n*   以其深色和分層外觀而聞名。\n*   提供濃郁的司陶特黑啤酒和乾氣泡酒的獨特組合。\n*   歷史上與艾伯特親王的哀悼有關。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: London, 1861, Brooks's Club\n\n*   Created in 1861 at Brooks's Club in London.\n*   Invented to mourn the death of Prince Albert, Queen Victoria's consort.\n*   The dark stout symbolizes mourning, while the champagne adds a touch of royalty and celebration of his life.",
+    "zh": "**起源**: 倫敦，1861年，布魯克斯俱樂部\n\n*   1861年在倫敦的布魯克斯俱樂部創作。\n*   為哀悼維多利亞女王的配偶艾伯特親王去世而發明。\n*   深色司陶特黑啤酒象徵哀悼，而香檳則增添了一絲皇室氣息和對他一生的慶祝。"
+  },
+  "technique": {
+    "en": "Pour chilled stout into the glass, then gently top with chilled champagne",
+    "zh": "將冰鎮的司陶特黑啤酒倒入酒杯，然後輕輕地倒入冰鎮香檳"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Flute or pint glass",
+    "zh": "長笛杯或品脫杯"
+  },
+  "appearance": {
+    "en": "Dark, layered, with contrasting colors of stout and sparkling wine",
+    "zh": "深色，分層，司陶特黑啤酒和氣泡酒的顏色形成鮮明對比"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 4,
+      "name": {
+        "en": "Stout",
+        "zh": "司陶特黑啤酒"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Provides a rich, malty, and slightly bitter base",
+        "zh": "提供濃郁、麥芽味和略帶苦味的基底"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 4,
+      "name": {
+        "en": "Champagne",
+        "zh": "香檳"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a touch of elegance",
+        "zh": "增添氣泡和一絲優雅"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

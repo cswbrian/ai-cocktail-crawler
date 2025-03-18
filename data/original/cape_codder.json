@@ -1,0 +1,84 @@
+{
+  "name": {
+    "en": "Cape Codder",
+    "zh": "科德角調酒"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA straightforward mix of vodka and cranberry juice, known for its:\n*   Easy preparation\n*   Tart and slightly sweet flavor\n*   Versatility as a base for other cocktails",
+    "zh": "**簡單而清爽的雞尾酒**\n\n伏特加和蔓越莓汁的直接混合，以其著稱：\n*   易於準備\n*   酸和略帶甜味\n*   作為其他雞尾酒的基底具有多功能性"
+  },
+  "historical_reference": {
+    "en": "**Origins and Popularity**\n\n*   Originates from Cape Cod, Massachusetts.\n*   Popularized by Ocean Spray in the mid-20th century to promote cranberry juice.\n*   Simple recipe contributed to its widespread appeal.",
+    "zh": "**起源與普及**\n\n*   起源於麻薩諸塞州科德角。\n*   20 世紀中葉，Ocean Spray 公司為了推廣蔓越莓汁而普及了這種酒。\n*   簡單的配方促成了它的廣泛流行。"
+  },
+  "technique": {
+    "en": "Pour vodka and cranberry juice into a highball glass filled with ice. Garnish with a lime wedge or cranberries.",
+    "zh": "將伏特加和蔓越莓汁倒入裝滿冰塊的高杯中。 用檸檬角或蔓越莓裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or Cranberries",
+    "zh": "檸檬角或蔓越莓"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Clear red liquid",
+    "zh": "清澈的紅色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor.",
+        "zh": "提供酒精基底和中性風味"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the tart and sweet flavor.",
+        "zh": "提供酸甜的風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

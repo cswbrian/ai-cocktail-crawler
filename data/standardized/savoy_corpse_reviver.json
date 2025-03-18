@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Savoy Corpse Reviver No. 2",
+    "zh": "薩伏伊復活特調2號"
+  },
+  "description": {
+    "en": "A potent and complex cocktail designed to 'revive' the imbiber. It balances citrus, herbal, and slightly bitter notes for a stimulating effect. It is a pre-lunch drink, as it is quite potent.",
+    "zh": "一款強勁而複雜的雞尾酒，旨在「恢復」飲用者。它平衡了柑橘、草本和略帶苦味的味道，產生刺激效果。這是一種午餐前的飲料，因為它非常有效。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: *The Savoy Cocktail Book* (1930) features multiple 'Corpse Reviver' cocktails.\n\n*   Corpse Reviver #2 is the most famous, created to 'revive' or cure hangovers.\n*   Attributed to Harry Craddock at The Savoy Hotel in London.",
+    "zh": "**起源**:《*薩伏伊雞尾酒書*》（1930 年）收錄了多款「Corpse Reviver」雞尾酒。\n\n*   Corpse Reviver #2 最為著名，旨在「恢復」或治療宿醉。\n*   歸功於倫敦薩沃伊酒店的哈里·克拉多克。"
+  },
+  "technique": {
+    "en": "Rinse a chilled glass with absinthe, discarding the excess. Shake all other ingredients with ice and strain into the glass.",
+    "zh": "用苦艾酒沖洗冰鎮的玻璃杯，倒掉多餘的。將所有其他成分與冰塊搖勻，然後過濾到玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or cocktail glass",
+    "zh": "冰鎮的 coupe 杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, translucent",
+    "zh": "淡黃色，半透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundation and backbone of the cocktail.",
+        "zh": "提供雞尾酒的基礎和骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "增加橙子風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a complex mix of fruit, herbs, and subtle bitterness.",
+        "zh": "增加了水果、草藥和微妙苦味的複雜混合物。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Used as a rinse for anise and herbal notes",
+        "zh": "用作茴芹和草藥香氣的沖洗劑"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds necessary sourness and balance.",
+        "zh": "增加必要的酸味和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 8,
+    "body": 5,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

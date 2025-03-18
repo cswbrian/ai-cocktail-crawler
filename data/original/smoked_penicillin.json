@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Smoked Penicillin",
+    "zh": "煙熏盤尼西林"
+  },
+  "description": {
+    "en": "A smoky twist on the modern classic. Combines the medicinal notes of ginger and honey with Islay Scotch for a layered, complex profile.\n\n*   Smoked Scotch adds depth.\n*   Ginger and honey provide balance.\n*   Lemon juice brightens the mix.",
+    "zh": "現代經典的煙熏變奏。結合了薑和蜂蜜的藥用味道，以及艾雷島蘇格蘭威士忌，帶來層次豐富的風味。\n\n*   煙熏蘇格蘭威士忌增加了深度。\n*   薑和蜂蜜提供了平衡。\n*   檸檬汁提亮了整體口感。"
+  },
+  "historical_reference": {
+    "en": "The Penicillin cocktail was invented by Sam Ross at Milk & Honey in New York City in 2005. It's a modern classic known for its balanced sweet, sour, and spicy flavors with a smoky finish from the Islay Scotch.\n\nThe Smoked Penicillin is an adaptation that emphasizes the smoky element.",
+    "zh": "Penicillin雞尾酒由Sam Ross於2005年在紐約市的Milk & Honey發明。它是一款現代經典，以其平衡的甜、酸和辣味以及艾雷島蘇格蘭威士忌帶來的煙熏味而聞名。\n\nSmoked Penicillin是強調煙熏元素的改編版本。"
+  },
+  "technique": {
+    "en": "Shake blended scotch, lemon juice, and ginger-honey syrup with ice. Strain into a rocks glass with a large ice cube. Float the Islay scotch on top.",
+    "zh": "將混合蘇格蘭威士忌、檸檬汁和薑蜂蜜糖漿與冰塊一起搖勻。濾入裝有大冰塊的岩石杯中。將艾雷島蘇格蘭威士忌漂浮在頂部。"
+  },
+  "garnish": {
+    "en": "Candied ginger",
+    "zh": "糖漬薑片"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Cloudy gold with a slight honey hue",
+    "zh": "混濁的金色，帶有淡淡的蜂蜜色澤"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Blended Scotch Whisky",
+        "zh": "混合蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a balanced foundation with subtle smokiness.",
+        "zh": "提供均衡的基底，帶有微妙的煙熏味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Ginger-Honey Syrup",
+        "zh": "薑蜂蜜糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and spicy ginger notes.",
+        "zh": "增加甜味和辛辣的薑味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Smoked Islay Single Malt Scotch Whisky (float)",
+        "zh": "煙熏艾雷島單一麥芽蘇格蘭威士忌（漂浮）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a potent smoky top note.",
+        "zh": "增加強烈的煙熏味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness.",
+        "zh": "增加酸度和明亮度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

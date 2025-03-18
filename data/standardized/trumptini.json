@@ -1,0 +1,148 @@
+{
+  "name": {
+    "en": "Trumptini",
+    "zh": "川普提尼"
+  },
+  "description": {
+    "en": "**A Controversial Cocktail**\n\nA cocktail known for its bold (and some might say brash) flavor profile. It is an experience:\n\n*   Uses orange bitters generously\n*   Some recipes include a 'wall' of simple syrup for sweetness\n*   The use of food coloring is controversial",
+    "zh": "**一款備受爭議的雞尾酒**\n\n這款雞尾酒以其大膽（有些人可能會說魯莽）的風味而聞名。這是一種體驗：\n\n*   大量使用橙味苦精\n*   有些食譜包括用「一道牆」的糖漿來增加甜度\n*   食用色素的使用備受爭議"
+  },
+  "historical_reference": {
+    "en": "**A Modern Creation (Possibly)**\n\n*   Attributed to various bartenders, origin is debated\n*   A playful cocktail referencing a political figure\n*   The exact recipe varies widely, reflecting its satirical nature.",
+    "zh": "**現代創作（可能）**\n\n*   歸功於不同的調酒師，起源存在爭議\n*   一款以政治人物為靈感的趣味雞尾酒\n*   確切的配方差異很大，反映了其諷刺的本質。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel, Maraschino cherry",
+    "zh": "橙皮，馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "馬丁尼杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Opaque, golden-orange with a frothy head",
+    "zh": "不透明，金橙色，帶有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral base for the other flavors to shine through.",
+        "zh": "提供中性基底，讓其他風味得以展現。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur (e.g., Triple Sec)",
+        "zh": "橙酒（例如：君度橙酒）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the orange flavor.",
+        "zh": "增強橙子的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a hint of acidity.",
+        "zh": "增加甜味和一絲酸味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color.",
+        "zh": "增加甜味和紅色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

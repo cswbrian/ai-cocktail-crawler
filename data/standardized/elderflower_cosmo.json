@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Elderflower Cosmo",
+    "zh": "接骨木花 Cosmo"
+  },
+  "description": {
+    "en": "**A Floral Twist on a Classic**\n\nThe Elderflower Cosmo is a modern variation of the Cosmopolitan cocktail, featuring:\n*   Vodka base for a clean profile\n*   Elderflower liqueur for floral notes\n*   Cranberry juice for tartness and color\n*   Lime juice for acidity",
+    "zh": "**經典的現代花香變奏**\n\n接骨木花 Cosmo 是大都會雞尾酒的現代變體，特色：\n*   伏特加基底，口感清爽\n*   接骨木花利口酒，帶來花香\n*   蔓越莓汁，帶來酸味和顏色\n*   萊姆汁，帶來酸度"
+  },
+  "historical_reference": {
+    "en": "**A Modern Cocktail with Classic Roots**\n\nThe Elderflower Cosmo builds upon the popularity of the Cosmopolitan, introducing a modern twist with the addition of elderflower liqueur.\n\n*   The Cosmopolitan gained prominence in the 1990s.\n*   The Elderflower version leverages the St. Germain liqueur popularity.",
+    "zh": "**具有古典根源的現代雞尾酒**\n\n接骨木花 Cosmo 建立在大都會雞尾酒的受歡迎程度之上，通過添加接骨木花利口酒引入了現代風味。\n\n*   大都會在 1990 年代聲名鵲起。\n*   接骨木花版本利用了聖日耳曼利口酒的受歡迎程度。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or edible flower",
+    "zh": "檸檬角或食用花"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe",
+    "zh": "馬丁尼杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Pale pink, clear, and vibrant",
+    "zh": "淡粉色、清澈且充滿活力"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean and neutral base.",
+        "zh": "提供乾淨和中性的基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness and aroma.",
+        "zh": "增加花香甜味和香氣。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and color.",
+        "zh": "增添酸味和顏色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

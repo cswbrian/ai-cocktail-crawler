@@ -1,0 +1,179 @@
+{
+  "name": {
+    "en": "Long Island Iced Tea",
+    "zh": "長島冰茶"
+  },
+  "description": {
+    "en": "**Potent and Refreshing Cocktail**\n\nA blend of white spirits, citrus, and cola, resulting in:\n* A high-alcohol content drink\n* A taste mimicking iced tea despite the absence of tea\n* A sweet and sour flavor profile",
+    "zh": "**強勁清爽的雞尾酒**\n\n混合多種白色烈酒、柑橘和可樂，帶來：\n* 高酒精濃度的飲品\n* 口感模仿冰紅茶，儘管沒有茶\n* 酸甜的風味"
+  },
+  "historical_reference": {
+    "en": "**Disputed Origins**:\n\n*   One story claims it was invented during Prohibition to disguise the alcohol.\n*   Another credits Robert Butt in Long Island, NY, in the 1970s.",
+    "zh": "**起源有爭議**：\n\n*   一個說法是在禁酒時期發明，以掩蓋酒精。\n*   另一個說法是Robert Butt在1970年代於紐約長島發明。"
+  },
+  "technique": {
+    "en": "Combine all ingredients (except cola) in a shaker with ice. Shake well until chilled. Strain into a highball glass filled with ice. Top with cola. Garnish with a lemon wedge.",
+    "zh": "將所有材料（除了可樂）放入裝有冰塊的搖酒器中。充分搖晃至冰鎮。濾入裝滿冰塊的高球杯中。用可樂填滿。用檸檬角裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wedge",
+    "zh": "檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Iced tea color, clear to slightly hazy",
+    "zh": "冰紅茶色，清澈或略帶朦朧"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a neutral alcoholic base.",
+        "zh": "增加中性的酒精基底。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Gin",
+        "zh": "通用琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds botanical complexity.",
+        "zh": "增加植物的複雜性。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic White Rum",
+        "zh": "通用白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "通用龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds an earthy note.",
+        "zh": "增加泥土的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a hint of orange and sweetness.",
+        "zh": "增加橙香和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the citrus.",
+        "zh": "增加甜度以平衡柑橘。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "top",
+        "zh": "補滿"
+      },
+      "rationale": {
+        "en": "Adds color and sweetness, topping up the drink.",
+        "zh": "增加顏色和甜度，填滿飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en": "Fernet & Coke",
+    "zh": "費內可樂"
+  },
+  "description": {
+    "en": "**Simple Highball Cocktail**\n\nA straightforward mix of Fernet-Branca and cola, offering:\n\n*   A strong bitter flavor balanced by the sweetness of cola.\n*   An easy-to-make, refreshing drink.\n*   Popular in Argentina and other regions.",
+    "zh": "**簡單的高杯調酒**\n\n費內布蘭卡和可樂的簡單混合，提供：\n\n*   強烈的苦味，由可樂的甜味平衡。\n*   容易製作、清爽的飲料。\n*   在阿根廷和其他地區很受歡迎。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Popularized in Argentina and globally. A common call is \"Fernet con coca\".\n\n*   Fernet-Branca was created in Milan, Italy in 1845.\n*   Its use with cola is a regional variation, particularly beloved in Argentina.\n*   The specific origin of the exact combination is debated, but likely arose organically from local preferences.",
+    "zh": "**起源**: 在阿根廷和全球普及。常見的叫法是「Fernet con coca」。\n\n*   費內布蘭卡於1845年在義大利米蘭創立。\n*   與可樂混合使用是一種地區變體，在阿根廷尤其受歡迎。\n*   確切組合的具體起源尚有爭議，但可能源於當地偏好。"
+  },
+  "technique": {
+    "en": "Pour Fernet-Branca into a highball glass filled with ice. Top with cola. Stir gently.",
+    "zh": "將費內布蘭卡倒入裝滿冰塊的高杯杯中。加入可樂。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or orange slice",
+    "zh": "可選：檸檬片或橙片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯杯"
+  },
+  "appearance": {
+    "en": "Dark brown, effervescent",
+    "zh": "深棕色，有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Fernet-Branca",
+        "zh": "芙內布蘭卡香甜利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter and herbal backbone of the drink.",
+        "zh": "提供飲料的苦味和草本骨幹。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and effervescence, balancing the bitterness of Fernet-Branca.",
+        "zh": "增加甜味和氣泡，平衡費內布蘭卡的苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

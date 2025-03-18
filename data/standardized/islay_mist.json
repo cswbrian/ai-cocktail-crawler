@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Islay Mist",
+    "zh": "伊斯萊迷霧"
+  },
+  "description": {
+    "en": "**Islay Mist: A Gentle Introduction to Peat**\n\nIslay Mist is a blended Scotch whisky that offers a milder, sweeter introduction to the typically intense flavors of Islay whiskies. It features:\n\n*   A blend of Islay single malt (Laphroaig is a key component) and Highland malts\n*   A noticeable but not overpowering peatiness\n*   A honeyed sweetness and notes of spice",
+    "zh": "**伊斯萊迷霧：泥煤的溫和入門**\n\n伊斯萊迷霧是一款混合蘇格蘭威士忌，提供了比典型的艾雷島威士忌更溫和、更甜美的風味。它的特色是：\n\n*   艾雷島單一麥芽（拉弗格是主要成分）和高地麥芽的混合\n*   明顯但不強烈的泥煤味\n*   蜂蜜般的甜味和香料味"
+  },
+  "historical_reference": {
+    "en": "**History of Islay Mist**\n\nIslay Mist was created in the 1920s to be a more accessible and affordable whisky for the guests of the Lord Margadale at Islay House. It aimed to capture the essence of Islay whisky in a smoother blend, and:\n\n*   Blended to be smoother than single malt Islay whiskies\n*   Features Laphroaig single malt as a key component\n*   Represents a gateway to Islay whisky for many drinkers",
+    "zh": "**伊斯萊迷霧的歷史**\n\n伊斯萊迷霧於1920年代創建，旨在為艾雷島莊園的Margadale勳爵的客人提供更平易近人且價格合理的威士忌。它的目標是以更順滑的混合酒捕捉艾雷島威士忌的精髓，並且：\n\n*   混合酒比單一麥芽艾雷島威士忌更順滑\n*   以拉弗格單一麥芽威士忌為主要成分\n*   代表了許多飲酒者通往艾雷島威士忌的途徑"
+  },
+  "technique": {
+    "en": "Neat or on the rocks",
+    "zh": "純飲或加冰"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or neat",
+    "zh": "岩石杯或純飲杯"
+  },
+  "appearance": {
+    "en": "Golden amber",
+    "zh": "金黃琥珀色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Scotch",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky and sweet base.",
+        "zh": "提供煙燻和甜味的基底。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        },
+        {
+          "en": "malted barley",
+          "zh": "麥芽"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "scottish",
+          "zh": "蘇格蘭"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "name": {
+    "en": "Leite de Onça",
+    "zh": "美洲豹奶"
+  },
+  "description": {
+    "en": "**Brazilian Chocolate Delight**\n\nA rich and creamy cocktail featuring cachaça, chocolate, and condensed milk:\n*   A popular after-dinner drink in Brazil\n*   Sweet and decadent\n*   Can be served blended with ice for a frozen treat.",
+    "zh": "**巴西巧克力盛宴**\n\n一款濃郁奶油味的雞尾酒，以卡沙夏、巧克力和煉乳為特色：\n*   巴西流行的餐後飲品\n*   香甜且頹廢\n*   可以與冰混合後作為冷凍飲品提供。"
+  },
+  "historical_reference": {
+    "en": "The origins of Leite de Onça are not precisely documented, but it's a well-known traditional Brazilian cocktail. The name 'Leite de Onça' translates to 'Jaguar's Milk'. It is speculated that its high caloric value and strong alcohol content might be the reason for such name, as it provides energy and boldness.\n\nThe specific creation date and bartender are unknown, but variations of creamy, chocolate-infused cachaça drinks have been enjoyed in Brazil for many years.",
+    "zh": "Leite de Onça 的起源沒有精確記載，但它是一種廣為人知的傳統巴西雞尾酒。 名稱“Leite de Onça”翻譯為“美洲虎的牛奶”。 推測其高熱量值和高酒精含量可能是造成此名稱的原因，因為它提供了能量和膽量。\n\n具體的創作日期和調酒師不詳，但多年來巴西一直有以奶油和巧克力調味的卡沙夏飲品。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice. Alternatively, blend with ice for a frozen version.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的玻璃杯中。 或者，與冰混合以製成冷凍版本。"
+  },
+  "garnish": {
+    "en": "Chocolate shavings or grated nutmeg",
+    "zh": "巧克力碎屑或磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or small tumbler",
+    "zh": "古典杯或小玻璃杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy white to light brown",
+    "zh": "不透明，乳白色至淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡夏莎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the strong alcoholic base and Brazilian character.",
+        "zh": "提供強烈的酒精基底和巴西特色。"
+      },
+      "tags": [
+        {
+          "en": "Cachaça",
+          "zh": "卡夏莎"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Chocolate Liqueur",
+        "zh": "巧克力利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the chocolate flavor.",
+        "zh": "增強巧克力風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweetened Condensed Milk",
+        "zh": "煉乳"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creamy texture.",
+        "zh": "增加甜味和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cocoa Powder",
+        "zh": "可可粉"
+      },
+      "unit": {
+        "en": "grams",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and bitterness.",
+        "zh": "增添巧克力風味和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

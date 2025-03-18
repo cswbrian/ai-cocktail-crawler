@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Bourbon Lancer",
+    "zh": "波本槍騎兵"
+  },
+  "description": {
+    "en": "A simple, stirred cocktail showcasing the rich flavor of bourbon, balanced with sweet vermouth and a dash of bitters. It is similar to a Manhattan, but with a slightly different profile, often enjoyed as an aperitif or after-dinner drink.\n\nKey characteristics include:\n*   Bourbon's vanilla and caramel notes\n*   Vermouth's herbal and slightly bitter edge\n*   Bitters for added complexity",
+    "zh": "一款簡單的攪拌式雞尾酒，展現波本威士忌的豐富風味，以甜味美思和少量苦精達到平衡。它類似於曼哈頓，但具有略有不同的風味，通常作為餐前酒或餐後酒享用。\n\n主要特徵包括：\n* 波本威士忌的香草和焦糖味\n*  美思的草本和略帶苦味\n*  苦精增加複雜性"
+  },
+  "historical_reference": {
+    "en": "While the exact origin is debated, it's believed to be a variation of classic bourbon cocktails from the late 19th or early 20th century.\n\nLikely evolved as a simpler variation of more complex bourbon cocktails, emphasizing the core ingredients. Its simplicity contributed to its sustained appeal throughout the 20th century and beyond.",
+    "zh": "雖然確切的起源尚有爭議，但它被認為是19世紀末或20世紀初經典波本威士忌雞尾酒的變體。\n\n可能演變成更複雜的波本威士忌雞尾酒的更簡單變體，強調核心成分。它的簡單性有助於其在整個20世紀及以後持續的吸引力。"
+  },
+  "technique": {
+    "en": "Stir ingredients with ice and strain into a chilled glass.",
+    "zh": "將材料與冰塊攪拌均勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry or orange twist",
+    "zh": "馬拉斯奇諾櫻桃或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Amber with a slight reddish hue",
+    "zh": "琥珀色，略帶紅色色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic strength.",
+        "zh": "提供基底風味和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, herbal notes, and complexity.",
+        "zh": "增加甜度、草本風味和複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格式苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "增加複雜性並平衡甜度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

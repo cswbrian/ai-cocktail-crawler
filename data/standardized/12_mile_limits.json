@@ -1,0 +1,167 @@
+{
+  "name": {
+    "en": "12 Mile Limit",
+    "zh": "12英里限制"
+  },
+  "description": {
+    "en": "**A Prohibition-Era Classic**\n\nThe 12 Mile Limit is a vibrant and refreshing cocktail that balances sweet, sour, and subtly spicy notes:\n\n*   Complex blend of rum, rye whiskey, and brandy.\n*   Grenadine adds sweetness and color.\n*   Lemon juice provides essential acidity.",
+    "zh": "**禁酒時代的經典之作**\n\n12英里限制是一款充滿活力且令人耳目一新的雞尾酒，平衡了甜、酸和微妙的辛辣味：\n\n*   蘭姆酒、黑麥威士忌和白蘭地的複雜混合。\n*   石榴糖漿增添了甜味和色彩。\n*   檸檬汁提供必要的酸度。"
+  },
+  "historical_reference": {
+    "en": "**Origins in the Prohibition Era**\n\nThis cocktail's name refers to the historical limit of US territorial waters enforced during Prohibition. It's thought that this cocktail was created at a bar just outside of that boundary so patrons could drink legally. \n\n*   Created during the Prohibition era.\n*   Named after the US territorial waters limit.",
+    "zh": "**起源於禁酒時代**\n\n這款雞尾酒的名稱指的是禁酒時期美國領海的歷史限制。據說這款雞尾酒是在該邊界之外的酒吧創造的，因此顧客可以合法飲酒。\n\n*   創建於禁酒時代。\n*   以美國領海限制命名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into chilled glass.",
+    "zh": "將所有材料與冰塊搖勻。濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge",
+    "zh": "檸檬或萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a slight green hue",
+    "zh": "混濁、淡黃色，略帶綠色調"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundational spirit, a light body, and subtle sweetness.",
+        "zh": "提供基酒，酒體輕盈，略帶甜味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth, fruit notes, and complexity.",
+        "zh": "增加深度、水果味和複雜性。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds spice, dryness, and a boozy kick.",
+        "zh": "增加香料味、乾度和酒勁。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, color, and a fruity note.",
+        "zh": "增加甜味、顏色和果味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

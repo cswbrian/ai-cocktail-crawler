@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Bamboo Cocktail",
+    "zh": "竹子雞尾酒"
+  },
+  "description": {
+    "en": "*A classic aperitif cocktail*\n\nA simple yet elegant mix of sherry, vermouth, and orange bitters.\n\n*   Low ABV, making it suitable for daytime drinking\n*   Often served before a meal to stimulate the appetite",
+    "zh": "*經典的餐前雞尾酒*\n\n雪莉酒、苦艾酒和橙味苦精的簡單而優雅的混合。\n\n*   酒精度低，適合白天飲用\n*   通常在餐前飲用以刺激食慾"
+  },
+  "historical_reference": {
+    "en": "*Created in the late 19th century*\n\n*   Attributed to Louis Eppinger at the Hoffman House in New York\n*   Named after the Bamboo Room at the hotel\n*   A low-alcohol alternative to the Martini",
+    "zh": "*創建於19世紀後期*\n\n*   歸功於紐約霍夫曼之家的路易斯·埃平格\n*   以酒店的竹屋命名\n*   馬丁尼的低酒精替代品"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into chilled glass",
+    "zh": "與冰攪拌並過濾到冰鎮的玻璃杯中"
+  },
+  "garnish": {
+    "en": "Lemon twist or Olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟杯"
+  },
+  "appearance": {
+    "en": "Pale golden, clear",
+    "zh": "淡金色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "不甜雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and nutty flavor.",
+        "zh": "提供基底和堅果風味。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and floral notes.",
+        "zh": "增添草本和花香。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of complexity and aroma.",
+        "zh": "增加複雜性和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

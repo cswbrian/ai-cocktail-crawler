@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Spiced Pear Old Fashioned",
+    "zh": "香料梨子古典雞尾酒"
+  },
+  "description": {
+    "en": "**A modern twist on a classic Old Fashioned**\n\nThis cocktail combines the warmth of bourbon with the sweet spice of pear, creating a comforting and complex drink. The addition of aromatic bitters enhances the overall flavor profile.\n\n*   Fruity and spicy\n*   Smooth and warming\n*   Perfect for autumn and winter",
+    "zh": "**經典古典雞尾酒的現代演繹**\n\n這款雞尾酒將波本威士忌的溫暖與梨子的甜香融合，創造出一款令人感到舒適且複雜的飲品。芳香苦精的加入提升了整體風味。\n\n*   果香和辛辣\n*   柔滑而溫暖\n*   非常適合秋季和冬季"
+  },
+  "historical_reference": {
+    "en": "The Old Fashioned is a classic cocktail dating back to the 19th century. This variation incorporates pear and spices for a seasonal update. The origins of the old fashioned are debated, but it is widely regarded as one of the first cocktails.\n\n*   Created in the late 1800s\n*   Originally a simple mix of whiskey, sugar, water, and bitters\n*   Many variations exist today, incorporating different fruits and spices",
+    "zh": "古典雞尾酒是一種可以追溯到 19 世紀的經典雞尾酒。此變體融入了梨和香料，帶來季節性的更新。古典雞尾酒的起源尚有爭議，但它被廣泛認為是最早的雞尾酒之一。\n\n*   創立於 1800 年代後期\n*   最初是威士忌、糖、水和苦精的簡單混合物\n*   如今存在許多變體，融入了不同的水果和香料"
+  },
+  "technique": {
+    "en": "Muddle sugar cube with bitters and pear puree. Add bourbon and ice. Stir until chilled and diluted. Garnish with a pear slice and star anise.",
+    "zh": "將方糖與苦精和梨子泥混合均勻。加入波本威士忌和冰塊。攪拌至冰鎮和稀釋。用梨片和八角裝飾。"
+  },
+  "garnish": {
+    "en": "Pear slice and star anise",
+    "zh": "梨片和八角"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Golden brown, clear",
+    "zh": "金棕色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, oaky base with vanilla and caramel notes.",
+        "zh": "提供濃郁、帶有香草和焦糖味的橡木基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon and spice.",
+        "zh": "增加甜度，以平衡波本威士忌和香料。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "dashes Angostura Bitters",
+        "zh": "安格式巴拿馬苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and depth.",
+        "zh": "增加複雜度和深度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Pear Puree",
+        "zh": "梨子泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the fresh pear flavor.",
+        "zh": "增加新鮮的梨子風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

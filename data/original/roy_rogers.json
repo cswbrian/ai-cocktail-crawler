@@ -1,0 +1,83 @@
+{
+  "name": {
+    "en": "Roy Rogers",
+    "zh": "羅伊·羅傑斯"
+  },
+  "description": {
+    "en": "**Non-Alcoholic Classic**\n\nA simple and refreshing mocktail, Roy Rogers is a non-alcoholic alternative to the Shirley Temple. It is made with cola and grenadine, and often garnished with a maraschino cherry.\n\n*   Easy to make\n*   Sweet and bubbly\n*   Family-friendly",
+    "zh": "**經典無酒精飲品**\n\n簡單清爽的無酒精雞尾酒，羅伊·羅傑斯是秀蘭·鄧波的無酒精替代品。 它由可樂和石榴糖漿製成，通常以馬拉斯奇諾櫻桃裝飾。\n\n*   易於製作\n*   香甜有氣泡\n*   適合家庭"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Roy Rogers, a famous singing cowboy and actor, frequented the hotel's bar (likely the now-defunct non-alcoholic bar) and did not drink alcohol. The bartender created the drink for him as a grown-up alternative to the Shirley Temple.\n\n* Created in the 1940s or 1950s\n* Named after Roy Rogers, a singing cowboy and actor.",
+    "zh": "**起源**: 羅伊·羅傑斯（Roy Rogers）是一位著名的歌唱牛仔和演員，經常光顧酒店的酒吧（可能是現在已經倒閉的無酒精酒吧），但不喝酒。 酒保為他創造了這種飲料，作為秀蘭·鄧波兒的成人替代品。\n\n* 創造於 1940 年代或 1950 年代\n* 以歌唱牛仔和演員羅伊·羅傑斯的名字命名。"
+  },
+  "technique": {
+    "en": "Pour grenadine into a highball glass filled with ice. Top with cola. Garnish with a maraschino cherry.",
+    "zh": "將石榴糖漿倒入裝滿冰塊的高球杯中。 加入可樂。 用馬拉斯奇諾櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Deep red, effervescent",
+    "zh": "深紅色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color",
+        "zh": "增加甜味和紅色"
+      }
+    },
+    {
+      "amount": 8,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds bubbly base and sweetness",
+        "zh": "提供氣泡基底和甜味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

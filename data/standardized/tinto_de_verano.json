@@ -1,0 +1,87 @@
+{
+  "name": {
+    "en": "Tinto de Verano",
+    "zh": "夏日紅酒"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Spanish Drink**\n\nTinto de Verano is a light and refreshing Spanish drink, easier to make than Sangria.\n\n*   Typically served cold during the summer months.\n*   A mix of red wine and lemon-lime soda or sparkling lemonade.\n*   Can be customized with various fruits or garnishes.",
+    "zh": "**簡單清爽的西班牙飲品**\n\nTinto de Verano 是一種輕盈清爽的西班牙飲品，比桑格利亞汽酒更容易製作。\n\n*   通常在夏季冷飲。\n*   混合紅酒和檸檬萊姆汽水或氣泡檸檬水。\n*   可以使用各種水果或裝飾物進行客製化。"
+  },
+  "historical_reference": {
+    "en": "**Spanish Origin**\n\nTinto de Verano translates to \"summer red wine.\"\n\n*   Invented in the 1920s by Federico Vargas in Córdoba, Spain.\n*   Originally called \"Vargas\" after its creator.\n*   Became popular as a refreshing alternative to heavier wines during the hot Spanish summers.",
+    "zh": "**西班牙起源**\n\nTinto de Verano 翻譯為“夏季紅酒”。\n\n*   由 Federico Vargas 於 1920 年代在西班牙科爾多瓦發明。\n*   最初以其創造者的名字命名為“Vargas”。\n*   在炎熱的西班牙夏季，作為較濃葡萄酒的清爽替代品而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Pour red wine and lemon-lime soda over ice. Stir gently.",
+    "zh": "將紅酒和檸檬萊姆汽水倒入冰塊中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon or orange slice",
+    "zh": "檸檬或橙片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or large wine glass",
+    "zh": "高杯玻璃杯或大型酒杯"
+  },
+  "appearance": {
+    "en": "Light red or rosé color, bubbly and refreshing",
+    "zh": "淡紅色或粉紅色，氣泡清爽"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the drink, providing body and fruity notes.",
+        "zh": "構成飲料的基底，提供酒體和果味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Lemon-Lime Soda or Sparkling Lemonade",
+        "zh": "檸檬萊姆汽水或氣泡檸檬水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, bubbles, and citrus notes.",
+        "zh": "增加甜味、氣泡和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

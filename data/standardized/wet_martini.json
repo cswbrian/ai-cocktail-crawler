@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Wet Martini",
+    "zh": "濕馬丁尼"
+  },
+  "description": {
+    "en": "**Wet Martini: A Variation on a Classic**\n\nThe 'wet' style Martini emphasizes vermouth, creating a smoother, less assertive drink. Key characteristics include:\n\n*   A higher proportion of vermouth compared to the standard Dry Martini.\n*   A softer, more aromatic flavor profile.\n*   Often preferred by those who enjoy a less boozy cocktail.",
+    "zh": "**濕馬丁尼：經典的變奏**\n\n「濕」式馬丁尼強調了苦艾酒，創造出更順滑、不那麼強烈的飲品。主要特徵包括：\n\n*   與標準的乾馬丁尼相比，苦艾酒的比例更高。\n*   更柔和、更芳香的風味。\n*   通常是喜歡酒精味較淡雞尾酒的人的首選。"
+  },
+  "historical_reference": {
+    "en": "**Evolution of the Martini**\n\nThe wet Martini evolved alongside the dry Martini as tastes shifted. Key milestones include:\n\n*   Early Martinis often had a much sweeter profile.\n*   As preferences changed, less vermouth was used, leading to the dry Martini.\n*   The wet Martini represents a balanced middle ground for some palates.",
+    "zh": "**馬丁尼的演變**\n\n隨著口味的轉變，濕馬丁尼與乾馬丁尼一起演變。主要里程碑包括：\n\n*   早期的馬丁尼通常具有更甜的風味。\n*   隨著偏好的改變，使用的苦艾酒越來越少，從而產生了乾馬丁尼。\n*   濕馬丁尼代表了一些人味蕾的平衡中間地帶。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰攪拌並濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Olive or Lemon Twist",
+    "zh": "橄欖或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Martini Glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale straw color",
+    "zh": "清澈、淡稻草色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing botanical notes.",
+        "zh": "構成雞尾酒的基底，提供植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and floral notes and contributes to the cocktail's smoothness.",
+        "zh": "增添草本和花香，並有助於雞尾酒的柔順口感。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

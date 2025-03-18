@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Ochsenblut",
+    "zh": "牛血"
+  },
+  "description": {
+    "en": "**Simple and Bold Wine Cocktail**\n\nA straightforward wine cocktail, often enjoyed as an aperitif or a simple refreshment:\n*   Dry red wine provides the base.\n*   Cassis adds a touch of sweetness and dark fruit notes.\n*   Lemon twist expresses citrus oils to enhance the aroma.",
+    "zh": "**簡單而濃郁的葡萄酒雞尾酒**\n\n一款簡單的葡萄酒雞尾酒，常作為餐前酒或簡單的提神飲品享用：\n* 乾紅葡萄酒作為基底。\n* 黑醋栗利口酒增添一絲甜味和深色水果風味。\n* 檸檬皮扭轉釋放柑橘油，增強香氣。"
+  },
+  "historical_reference": {
+    "en": "The Ochsenblut, translating to \"ox blood\" in German, is a wine cocktail known for its deep red color. Its exact origin is unclear, but it's a simple classic likely created to make red wine more palatable or interesting.\n\n*   Likely originated in Germany or Austria.\n*   Name refers to the drink's blood-red appearance.",
+    "zh": "Ochsenblut 在德語中翻譯為“牛血”，是一種以其深紅色而聞名的葡萄酒雞尾酒。其確切起源尚不清楚，但它是一種簡單的經典飲品，可能旨在使紅酒更美味或更有趣。\n\n* 可能起源於德國或奧地利。\n* 名稱指的是飲料的血紅色外觀。"
+  },
+  "technique": {
+    "en": "Build. Combine ingredients in a wine glass with ice. Stir gently.",
+    "zh": "直接調合法。將材料放入裝有冰塊的葡萄酒杯中。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass",
+    "zh": "葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Deep red, almost blood-like color",
+    "zh": "深紅色，幾乎像血一樣的顏色"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Creme de Cassis",
+        "zh": "黑醋栗利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and blackcurrant flavor.",
+        "zh": "增加甜味和黑醋栗風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dry Red Wine",
+        "zh": "不甜紅葡萄酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the primary body and flavor profile.",
+        "zh": "構成主要的酒體和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "The Ribbon",
+    "zh": "緞帶"
+  },
+  "description": {
+    "en": "**Fruity & Floral Gin Sour**\n\nA twist on the classic Gin Sour with a vibrant pink hue and a refreshing taste.\n\n*   Uses generic red berry liqueur for sweetness and color\n*   Rose water adds a delicate floral aroma\n*   Egg white creates a silky smooth texture.",
+    "zh": "**水果和花香琴酒酸酒**\n\n經典琴酒酸酒的變奏版，具有鮮豔的粉紅色和清爽的口感。\n\n*   使用通用紅色漿果利口酒增加甜味和顏色\n*   玫瑰水增添了細膩的花香\n*   蛋白營造出絲般柔滑的質地。"
+  },
+  "historical_reference": {
+    "en": "An original creation inspired by classic Gin Sours. Dates back to the 2010s, popularized in cocktail bars focusing on modern techniques and flavor combinations.",
+    "zh": "受經典琴酒酸酒啟發的原創飲品。 可以追溯到2010年代，在專注於現代技術和風味組合的雞尾酒吧中廣受歡迎。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Double strain into chilled glass.",
+    "zh": "將所有材料乾搖，然後加入冰塊搖晃。 雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Rose petal or dehydrated citrus wheel",
+    "zh": "玫瑰花瓣或脫水柑橘片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "郁金香杯或Nick＆Nora杯"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant pink, frothy top",
+    "zh": "多雲，鮮豔的粉紅色，頂部有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and botanical notes.",
+        "zh": "提供主要的酒精骨幹和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Red Berry Liqueur",
+        "zh": "紅色漿果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a vibrant red color.",
+        "zh": "增加甜味和鮮豔的紅色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Rose Water",
+        "zh": "玫瑰水"
+      },
+      "unit": {
+        "en": "drops",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Enhances the floral aroma and flavor.",
+        "zh": "加強花香和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

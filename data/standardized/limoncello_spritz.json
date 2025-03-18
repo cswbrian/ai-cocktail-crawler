@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Limoncello Spritz",
+    "zh": "檸檬酒氣泡飲"
+  },
+  "description": {
+    "en": "*A refreshing and vibrant Italian-inspired cocktail.*\n\nA delightful combination of:\n*   Limoncello's citrusy sweetness\n*   Prosecco's bubbly dryness\n*   Soda water for added effervescence.\n\n**Perfect for a summer aperitivo!**",
+    "zh": "*一款令人耳目一新的義大利風味雞尾酒.*\n\n令人愉悅的組合：\n*   檸檬甜酒的柑橘甜味\n*   普羅賽克的氣泡乾爽\n*   蘇打水增加氣泡感。\n\n**非常適合夏季餐前開胃酒！**"
+  },
+  "historical_reference": {
+    "en": "The Spritz is a wine-based cocktail believed to have originated in the Veneto region of Italy. The Limoncello Spritz is a modern variation, substituting the traditional bitter liqueur or wine with limoncello.",
+    "zh": "Spritz 是一種以葡萄酒為基底的雞尾酒，據信起源於義大利威尼托地區。檸檬酒 Spritz 是一種現代變體，用檸檬酒代替傳統的苦味利口酒或葡萄酒。"
+  },
+  "technique": {
+    "en": "Build over ice. Combine Limoncello and Prosecco in glass, top with soda water. Stir gently.",
+    "zh": "在冰上調製。將檸檬酒和普羅賽克倒入杯中，加入蘇打水。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon slice or wheel, fresh mint sprig",
+    "zh": "檸檬片或輪，新鮮薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or large goblet",
+    "zh": "葡萄酒杯或大高腳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent",
+    "zh": "淡黃色，起泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Limoncello",
+        "zh": "檸檬甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the citrus base and sweetness.",
+        "zh": "提供柑橘基底和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and effervescence.",
+        "zh": "增添乾爽和氣泡感。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds extra fizz and dilutes slightly.",
+        "zh": "增加額外的氣泡並稍微稀釋。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

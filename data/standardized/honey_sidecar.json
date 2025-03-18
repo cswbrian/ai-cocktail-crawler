@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Honey Sidecar",
+    "zh": "蜂蜜賽車"
+  },
+  "description": {
+    "en": "**A Honeyed Twist on a Classic**\n\nThe Honey Sidecar offers a smoother, sweeter take on the traditional Sidecar cocktail. It combines the bright citrus notes of lemon with the warmth and depth of honey, creating a balanced and inviting drink. The cognac provides a rich base, complemented by the sweet and tangy elements.",
+    "zh": "**經典的蜂蜜風味**\n\n蜂蜜Sidecar在傳統的Sidecar雞尾酒中提供更柔滑，更甜美的口感。 它結合了檸檬明亮的柑橘味與蜂蜜的溫暖和深度，創造出平衡而誘人的飲品。 干邑白蘭地提供了豐富的基底，並輔以甜味和濃郁的元素。"
+  },
+  "historical_reference": {
+    "en": "**Evolution of the Sidecar**\n\nThe Honey Sidecar is a variation of the classic Sidecar cocktail, which originated around World War I, possibly in Paris. The Sidecar is traditionally made with cognac, lemon juice, and orange liqueur (such as Cointreau). The Honey Sidecar simply replaces the orange liqueur with honey syrup, offering a different flavor profile.",
+    "zh": "**Sidecar的演變**\n\n蜂蜜Sidecar是經典Sidecar雞尾酒的變種，起源於第一次世界大戰前後，可能是在巴黎。 傳統的Sidecar由干邑白蘭地，檸檬汁和橙味利口酒（如Cointreau）製成。 蜂蜜Sidecar僅用蜂蜜糖漿代替橙味利口酒，從而提供不同的風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Double strain into a chilled glass. Express orange peel over the drink.",
+    "zh": "將所有材料與冰塊搖勻。 雙重過濾到冰鎮的杯子中。 將橙皮在飲料上擠壓。"
+  },
+  "garnish": {
+    "en": "Orange peel twist (expressed)",
+    "zh": "橙皮扭轉（擠壓精油）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass, chilled",
+    "zh": "冰鎮的郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale golden, slightly opaque, with a silky sheen",
+    "zh": "淡金色，略帶不透明，帶有絲般光澤"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base, offering rich fruit and oak notes.",
+        "zh": "提供酒體基礎，帶來濃郁的果香和橡木味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Replaces the traditional orange liqueur, providing sweetness and honey notes.",
+        "zh": "取代傳統的橙味利口酒，提供甜味和蜂蜜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a crucial sour element to balance the sweetness.",
+        "zh": "增加重要的酸味元素，以平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

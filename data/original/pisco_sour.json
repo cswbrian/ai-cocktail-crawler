@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Pisco Sour",
+    "zh": "皮斯可酸酒"
+  },
+  "description": {
+    "en": "**Classic South American Cocktail**\n\nA refreshing and tangy cocktail from South America, typically made with:\n\n*   Pisco as the base spirit.\n*   Lime juice for acidity.\n*   Egg white for a creamy texture.\n*   Bitters for aromatic complexity.",
+    "zh": "**經典南美雞尾酒**\n\n一款來自南美，清爽且帶有酸味的雞尾酒，通常包含：\n\n*   皮斯可白蘭地作為基酒。\n*   萊姆汁提供酸度。\n*   蛋白提供滑順口感。\n*   苦精增添香氣層次。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in the early 20th century in Lima, Peru.\n\n*   Attributed to bartender Victor Vaughen Morris, an American expatriate.\n*   The exact origin is debated, but Morris is widely credited with popularizing the drink.\n*   It is a source of national pride for both Peru and Chile, each claiming it as their own.",
+    "zh": "**起源**: 20世紀初於秘魯利馬創造。\n\n*   歸功於美國僑民調酒師維克多·沃恩·莫里斯。\n*   確切的起源尚有爭議，但莫里斯普遍被認為是這種飲料的推廣者。\n*   它是秘魯和智利兩國的民族自豪感來源，兩國都聲稱它是自己國家的。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice, then shake again with ice. Strain into glass and garnish.",
+    "zh": "將所有材料不加冰乾搖，然後再加冰搖晃。濾入杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "3 drops of Angostura bitters, swirled",
+    "zh": "安格式苦精3滴，旋轉裝飾"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or old-fashioned glass",
+    "zh": "冰鎮的碟型香檳杯或古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, frothy white with a few drops of bitters on top",
+    "zh": "雲霧狀，頂部有泡沫，並帶有幾滴苦精"
+  },
+  "allergens": [
+    {
+      "en": "Egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the distinctive flavor and base strength of the cocktail.",
+        "zh": "提供此雞尾酒獨特的風味與基底酒精度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime juice",
+        "zh": "萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and citrus flavor.",
+        "zh": "提供酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜度，平衡酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg white",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides a creamy texture and frothy top.",
+        "zh": "提供滑順的口感與頂部的泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 8,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

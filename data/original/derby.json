@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Derby",
+    "zh": "德比"
+  },
+  "description": {
+    "en": "**A classic pre-Prohibition cocktail**\n\nA simple yet elegant combination, featuring:\n*   Bourbon as its base spirit\n*   A touch of sweetness from sugar\n*   Mint leaves for a refreshing aroma and flavor",
+    "zh": "**經典禁酒令前雞尾酒**\n\n一個簡單而優雅的組合，特色：\n*   波本威士忌作為基酒\n*   少許糖帶來的甜味\n*   薄荷葉帶來清爽的香氣和風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Louisville, Kentucky, USA\n\n*   Evolved from the Mint Julep\n*   Associated with the Kentucky Derby horse race\n*   Popularized in the late 19th century",
+    "zh": "**起源**: 美國肯塔基州路易斯維爾\n\n*   由薄荷朱利酒演變而來\n*   與肯塔基德比賽馬相關\n*   在19世紀後期普及"
+  },
+  "technique": {
+    "en": "Muddle sugar and mint, add bourbon, ice, stir.",
+    "zh": "將糖和薄荷搗碎，加入波本威士忌、冰塊，攪拌。"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Pale amber, clear",
+    "zh": "淡琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and main flavor profile.",
+        "zh": "提供基底和主要風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon.",
+        "zh": "增加甜度以平衡波本威士忌。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides refreshing aroma and flavor.",
+        "zh": "提供清爽的香氣和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

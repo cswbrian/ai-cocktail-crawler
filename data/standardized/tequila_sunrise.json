@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Tequila Sunrise",
+    "zh": "龍舌蘭日出"
+  },
+  "description": {
+    "en": "A visually striking cocktail known for its vibrant colors and fruity flavors. The grenadine settles at the bottom, creating a sunrise effect as it mixes with the other ingredients. Refreshing and easy to drink, it's a popular choice for brunches and casual gatherings.",
+    "zh": "一款視覺上引人注目的雞尾酒，以其鮮豔的色彩和水果風味而聞名。石榴糖漿沉澱在底部，當它與其他成分混合時，會產生日出效果。清爽易飲，是早午餐和休閒聚會的熱門選擇。"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Two competing stories exist:\n\n*   **Agua Caliente**: 1930s-era cocktail with tequila, lime juice, crème de cassis and soda water.\n*   **Arizona Biltmore**: In the 1930s, Gene Sulit created a drink with tequila, lime juice, grenadine, and soda water.",
+    "zh": "**起源**: 存在兩個相互競爭的故事：\n\n*   **阿瓜卡連特**: 1930年代的雞尾酒，含有龍舌蘭酒、萊姆汁、黑醋栗利口酒和蘇打水。\n*   **亞利桑那比爾特莫**: 1930年代，吉恩·蘇利特創作了一種含有龍舌蘭酒、萊姆汁、石榴糖漿和蘇打水的飲品。"
+  },
+  "technique": {
+    "en": "Pour tequila and orange juice into a highball glass filled with ice. Gently add grenadine, allowing it to settle at the bottom. Garnish with an orange slice and a cherry.",
+    "zh": "將龍舌蘭酒和柳橙汁倒入裝滿冰塊的高球杯中。輕輕加入石榴糖漿，使其沉澱在底部。用橙片和櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice and a cherry",
+    "zh": "橙片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Layered red, orange, and yellow, resembling a sunrise",
+    "zh": "分層的紅色、橙色和黃色，類似日出"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's alcoholic base and characteristic flavor.",
+        "zh": "提供雞尾酒的酒精基底和特色風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, citrus flavor, and volume to the cocktail.",
+        "zh": "為雞尾酒增添甜味、柑橘風味和體積。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creates the signature sunrise effect.",
+        "zh": "增加甜度，並營造標誌性的日出效果。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

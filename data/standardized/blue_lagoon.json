@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Blue Lagoon",
+    "zh": "藍色潟湖"
+  },
+  "description": {
+    "en": "**Tropical & Refreshing Cocktail**\n\nA vibrant blue cocktail that combines citrus and sweet flavors:\n\n*   Popular for its striking color.\n*   Easy to drink and visually appealing.\n*   Often associated with beach parties and summer.",
+    "zh": "**熱帶清爽雞尾酒**\n\n一款充滿活力的藍色雞尾酒，結合了柑橘和甜味：\n\n*   以其引人注目的顏色而聞名。\n*   容易入口且外觀吸引人。\n*   經常與海灘派對和夏季聯繫在一起。"
+  },
+  "historical_reference": {
+    "en": "**Unknown Origin**\n\n*   The exact origin is not well-documented, but the cocktail gained popularity in the 20th century.\n*   Likely created as a visually appealing and easy-to-drink option.",
+    "zh": "**起源不明**\n\n*   確切的起源沒有詳細記錄，但這種雞尾酒在 20 世紀開始流行。\n*   可能是作為一種視覺上吸引人且容易飲用的選擇而創造的。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice.",
+    "zh": "與冰塊搖勻後，倒入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry",
+    "zh": "橙片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or cocktail glass",
+    "zh": "高杯玻璃杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Vibrant blue, transparent",
+    "zh": "鮮豔的藍色，透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, neutral alcoholic base.",
+        "zh": "提供乾淨、中性的酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Blue Curaçao",
+        "zh": "藍橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the distinctive blue color and orange flavor.",
+        "zh": "增添獨特的藍色和橙子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus balance.",
+        "zh": "添加柑橘平衡感。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "teaspoon",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Sweetens the drink.",
+        "zh": "增添飲品甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

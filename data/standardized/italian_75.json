@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Italian 75",
+    "zh": "義大利75"
+  },
+  "description": {
+    "en": "An Italian variation on the classic French 75, replacing champagne with prosecco for a lighter, fruitier profile. It's a refreshing and celebratory cocktail, perfect for any occasion. The combination of gin, lemon, sugar, and prosecco creates a delightful balance of sweet, sour, and bubbly.",
+    "zh": "經典法式 75 的義大利變體，以普羅賽克代替香檳，帶來更清淡、更具果味的風味。 這是一款清爽且適合慶祝的雞尾酒，適合任何場合。 琴酒、檸檬、糖和普羅賽克的結合創造了甜、酸和氣泡的美味平衡。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A variation of the classic French 75 cocktail.\n\n*   The French 75 is named after a French 75mm field gun, due to its perceived kick.\n*   This variation substitutes champagne with prosecco to give it a distinctly Italian flair.",
+    "zh": "**起源**：經典法式 75 雞尾酒的變體。\n\n*   法式 75 以法國 75 毫米野戰砲命名，因為它具有強勁的後勁。\n*   此變體以普羅賽克代替香檳，賦予其獨特的義大利風味。"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into a champagne flute and top with prosecco. Garnish with a lemon twist.",
+    "zh": "將琴酒、檸檬汁和糖漿與冰塊一起搖勻。 濾入香檳杯中，再倒入普羅賽克。 以檸檬皮裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist or optional olive",
+    "zh": "檸檬皮或可選橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent",
+    "zh": "淡黃色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the strong, botanical base of the cocktail.",
+        "zh": "提供雞尾酒的濃烈植物風味基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and sourness to balance the sweetness.",
+        "zh": "增加酸度和酸味，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity of the lemon juice.",
+        "zh": "增加甜度，以平衡檸檬汁的酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

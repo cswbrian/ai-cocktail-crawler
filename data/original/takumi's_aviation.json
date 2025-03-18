@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Aviation",
+    "zh": "飛行"
+  },
+  "description": {
+    "en": "**Classic Pre-Prohibition Cocktail**\n\nA delightful blend of gin, lemon juice, maraschino liqueur, and crème de violette, resulting in:\n\n*   A visually stunning pale lavender hue.\n*   A balanced sweet and sour profile with floral notes.\n*   A refreshing and complex flavor experience.",
+    "zh": "**經典禁酒令前雞尾酒**\n\n琴酒、檸檬汁、黑櫻桃利口酒和紫羅蘭利口酒的完美結合，帶來：\n\n*   視覺上令人驚艷的淡薰衣草色調。\n*   平衡的酸甜風味，帶有花香。\n*   清新而複雜的風味體驗。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early 20th century.\n\n*   First appeared in Ensslin's 1916 book *Recipes for Mixed Drinks*.\n*   The crème de violette gives the drink its distinctive color and floral aroma.\n*   During and after Prohibition, crème de violette became difficult to find, leading to variations omitting the ingredient, making the cocktail colorless.",
+    "zh": "**起源：** 20世紀初由紐約華力克酒店的首席調酒師雨果·恩斯林（Hugo Ensslin）創作。\n\n*   首次出現在恩斯林1916年的著作《混合飲品配方》中。\n*   紫羅蘭利口酒賦予飲品獨特的顏色和花香。\n*   在禁酒令和之後，紫羅蘭利口酒變得難以找到，導致出現了省略該成分的變體，使雞尾酒失去了顏色。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Brandied Cherry",
+    "zh": "白蘭地漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass",
+    "zh": "冰鎮的 coupe 杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale lavender, translucent",
+    "zh": "淡薰衣草色，半透明"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical base and alcoholic strength.",
+        "zh": "提供主要的植物風味和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry sweetness and complex flavor depth.",
+        "zh": "增加微妙的櫻桃甜味和複雜的風味深度。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Crème de Violette",
+        "zh": "紫羅蘭利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the signature floral aroma and lavender hue.",
+        "zh": "提供標誌性的花香和薰衣草色調。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds necessary acidity to balance the sweetness.",
+        "zh": "增加必要的酸度以平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Chicago Cocktail",
+    "zh": "芝加哥雞尾酒"
+  },
+  "description": {
+    "en": "**The Chicago Cocktail: A Classic Pre-Prohibition Drink**\n\nA unique and flavorful cocktail featuring:\n*   A base of rye whiskey, adding a spicy kick.\n*   A dash of Boker's bitters for complexity (Angostura can be substituted).\n*   Sparkling wine to lengthen and add effervescence.\n*   A lemon twist to lift the aroma and add a citrus note.",
+    "zh": "**芝加哥雞尾酒：經典禁酒令前飲品**\n\n一款獨特而美味的雞尾酒，特色：\n*   以裸麥威士忌為基底，增添辛辣風味。\n*   少量Boker's苦精（可用安格式苦艾酒代替）增添複雜性。\n*   氣泡酒延長並增加氣泡。\n*   檸檬扭轉提升香氣並增加柑橘味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Late 19th Century, USA.\n\nThe Chicago Cocktail appears in several bartending books from the late 19th and early 20th centuries. There are many variations in recipes that may include:\n*   Brandy instead of Whiskey\n*   Curacao\n*   Maraschino Liqueur\n*   Absinthe",
+    "zh": "**起源**: 19世紀後期，美國。\n\n芝加哥雞尾酒出現在19世紀末和20世紀初的幾本調酒書籍中。 食譜有很多變化，可能包括：\n*   白蘭地代替威士忌\n*   庫拉索島橙酒\n*   黑櫻桃利口酒\n*   苦艾酒"
+  },
+  "technique": {
+    "en": "Shake the sugar, bitters, and bourbon with ice. Strain into a chilled glass and top with sparkling wine. Garnish with a lemon peel twist.",
+    "zh": "將糖、苦精和波本威士忌與冰塊一起搖晃。 濾入冰鎮的玻璃杯中，然後加入氣泡酒。 用檸檬皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Champagne Flute",
+    "zh": "高腳杯或香檳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy head",
+    "zh": "混濁的淡黃色，帶有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and boozy element of the cocktail.",
+        "zh": "提供雞尾酒的基底和酒精元素。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "teaspoon",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness and complexity.",
+        "zh": "增加苦味和複雜性。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds volume and effervescence.",
+        "zh": "增加體積和氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

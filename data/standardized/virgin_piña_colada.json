@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Virgin Piña Colada",
+    "zh": "無酒精鳳梨可樂達"
+  },
+  "description": {
+    "en": "**Tropical Delight without the Alcohol**\n\nA non-alcoholic version of the classic Piña Colada, offering:\n*   A refreshing blend of pineapple and coconut cream\n*   A sweet and creamy texture\n*   Perfect for all ages",
+    "zh": "**無酒精熱帶風味**\n\n經典的Piña Colada無酒精版本，提供：\n*   菠蘿和椰奶的清爽混合\n*   香甜柔滑的質地\n*   適合所有年齡層"
+  },
+  "historical_reference": {
+    "en": "**A Spin on the Classic**\n\n*   The Piña Colada was created in Puerto Rico in 1954.\n*   This virgin version omits the rum, making it a family-friendly option.",
+    "zh": "**經典的變奏**\n\n*   Piña Colada於1954年在波多黎各創作。\n*   此無酒精版本省略了蘭姆酒，使其成為適合家庭的選擇。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "將所有材料與冰塊混合攪拌至光滑。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or maraschino cherry",
+    "zh": "菠蘿角和/或馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or highball glass",
+    "zh": "颶風杯或高球杯"
+  },
+  "appearance": {
+    "en": "Creamy, off-white to light yellow, frothy.",
+    "zh": "乳白色至淺黃色，有泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the tropical base flavor.",
+        "zh": "提供熱帶風味的基底。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and coconut flavor.",
+        "zh": "增加奶油感和椰子風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 0,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

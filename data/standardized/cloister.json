@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Cloister",
+    "zh": "隱修士"
+  },
+  "description": {
+    "en": "**Refreshing and Complex Gin Cocktail**\n\nThe Cloister is a classic cocktail featuring a harmonious blend of gin, citrus, and herbal notes:\n\n*   Gin for the base spirit\n*   Yellow Chartreuse for herbal complexity and sweetness\n*   Lemon juice for tartness\n*   Grapefruit juice for bitterness and citrus depth\n*   Apricot liqueur for subtle fruity sweetness and aroma",
+    "zh": "**清爽且複雜的琴酒雞尾酒**\n\n隱修士是一款經典雞尾酒，融合了琴酒、柑橘和草本風味：\n\n*   琴酒作為基酒\n*   黃色 Chartreuse 帶來草本的複雜性和甜味\n*   檸檬汁帶來酸味\n*   葡萄柚汁帶來苦味和柑橘的深度\n*   杏桃利口酒帶來微妙的果香甜味和香氣"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Believed to have originated in the early 20th century, during the Golden Age of cocktails.\n\n*   Likely created in a high-end bar or hotel.\n*   The exact origins are debated but the Savoy Cocktail Book contains one of the first recipes.\n*   The name *Cloister* evokes a sense of serenity and sophistication.",
+    "zh": "**起源**：據信起源於 20 世紀初，即雞尾酒的黃金時代。\n\n*   可能是在高檔酒吧或酒店創造的。\n*   確切的起源尚有爭議，但《薩伏伊雞尾酒書》包含最早的配方之一。\n*   *Cloister* 這個名字喚起一種寧靜和精緻的感覺。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or grapefruit peel",
+    "zh": "檸檬皮或葡萄柚皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Light amber, slightly cloudy",
+    "zh": "淡琥珀色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical character and spirituous base.",
+        "zh": "提供主要的植物風味和烈酒基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal notes and sweetness.",
+        "zh": "增加草本風味和甜味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle fruity sweetness.",
+        "zh": "增加微妙的果香甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances sweetness.",
+        "zh": "增加酸味並平衡甜味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and complexity.",
+        "zh": "增加苦味和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

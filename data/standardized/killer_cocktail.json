@@ -1,0 +1,191 @@
+{
+  "name": {
+    "en": "Killer Cocktail",
+    "zh": "殺手雞尾酒"
+  },
+  "description": {
+    "en": "**Potent and Complex Tiki Cocktail**\n\nA dangerously delicious blend of strong spirits and exotic flavors:\n*   Dark rum provides the base\n*   Various fruit juices and syrups add sweetness and depth\n*   Bitters and spices provide a complex finish",
+    "zh": "**強勁而複雜的提基雞尾酒**\n\n烈酒和異國風味的危險美味混合：\n*   深色蘭姆酒提供基底\n*   各種果汁和糖漿增加甜度和深度\n*   苦精和香料提供複雜的尾韻"
+  },
+  "historical_reference": {
+    "en": "**Modern Tiki Creation**\n\n*   Inspired by classic tiki cocktails of the mid-20th century.\n*   A contemporary twist on traditional recipes, emphasizing bold flavors and strong spirits.\n*   Likely developed in the late 20th or early 21st century.",
+    "zh": "**現代提基創作**\n\n*   靈感來自20世紀中葉的經典提基雞尾酒。\n*   傳統食譜的現代演繹，強調大膽的風味和烈酒。\n*   可能在20世紀末或21世紀初開發。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge, maraschino cherry, cocktail umbrella",
+    "zh": "鳳梨角，馬拉斯奇諾櫻桃，雞尾酒傘"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or tiki mug",
+    "zh": "颶風杯或提基杯"
+  },
+  "appearance": {
+    "en": "Dark red, opaque, frothy head",
+    "zh": "深紅色，不透明，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses base.",
+        "zh": "提供濃郁的糖蜜基底。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增加柑橘味和甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Amaretto",
+        "zh": "通用阿瑪雷托"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty flavor and sweetness.",
+        "zh": "增加堅果風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Orange Juice",
+        "zh": "通用橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Pineapple Juice",
+        "zh": "通用鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness and acidity.",
+        "zh": "增加熱帶甜味和酸度。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Generic Grenadine",
+        "zh": "通用紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color.",
+        "zh": "增加甜味和紅色。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Generic Angostura Bitters",
+        "zh": "通用安格式苦酒"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and bitterness.",
+        "zh": "增加複雜性和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

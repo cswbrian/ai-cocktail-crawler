@@ -1,0 +1,160 @@
+{
+  "name": {
+    "en": "Michelada",
+    "zh": "米切拉達"
+  },
+  "description": {
+    "en": "**Savory Mexican Beer Cocktail**\n\nA refreshing and spicy beer cocktail perfect for hot days, featuring:\n*   Lime juice for brightness\n*   Hot sauce and spices for a kick\n*   Salted rim to enhance the flavors",
+    "zh": "**鹹香墨西哥啤酒雞尾酒**\n\n一款適合炎熱天氣的清爽辛辣啤酒雞尾酒，特色：\n*   檸檬汁帶來明亮感\n*   辣醬和香料帶來刺激感\n*   鹽邊增強風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Mexico\n\nThe exact origin of the Michelada is debated, but it is believed to have originated in Mexico in the mid-20th century.\n\nPossible origin stories include:\n*   Michel Esperza, who frequently ordered a beer with lime, salt, and ice.\n*   Club Deportivo Potosino in San Luis Potosí.",
+    "zh": "**起源**: 墨西哥\n\n米切拉達的確切起源尚有爭議，但據信起源於 20 世紀中葉的墨西哥。\n\n可能的起源故事包括：\n*   Michel Esperza，他經常點啤酒加檸檬、鹽和冰。\n*   位於聖路易斯波托西的 Club Deportivo Potosino。"
+  },
+  "technique": {
+    "en": "Rim the glass with salt. Add lime juice, hot sauce, Worcestershire sauce, salt, and pepper. Fill with Mexican lager. Garnish with a lime wedge.",
+    "zh": "杯口沾鹽。加入檸檬汁、辣醬、伍斯特醬、鹽和胡椒。倒入墨西哥拉格啤酒。用檸檬角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge, salted rim",
+    "zh": "檸檬角，鹽口"
+  },
+  "serve_in_glass": {
+    "en": "Salted rim pint glass or mug",
+    "zh": "鹽口品脫杯或馬克杯"
+  },
+  "appearance": {
+    "en": "Frothy, reddish-brown liquid with a salted rim and lime wedge.",
+    "zh": "起泡的紅棕色液體，帶有鹽邊和檸檬角。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 355,
+      "name": {
+        "en": "Mexican Lager",
+        "zh": "墨西哥拉格啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and bubbly texture to the cocktail.",
+        "zh": "提供雞尾酒的基底和氣泡質感。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes Hot Sauce",
+        "zh": "少許辣醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice and heat.",
+        "zh": "增加辣度和熱度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes Worcestershire Sauce",
+        "zh": "少許伍斯特醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and savory notes.",
+        "zh": "增加鮮味和鹹味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Salt",
+        "zh": "一撮鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the flavors.",
+        "zh": "增強風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Black Pepper",
+        "zh": "一撮黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a subtle spice and aroma.",
+        "zh": "增添微妙的辛辣味和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 6,
+    "booziness": 3,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

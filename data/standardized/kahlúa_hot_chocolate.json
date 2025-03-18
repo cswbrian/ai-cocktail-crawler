@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Kahlúa Hot Chocolate",
+    "zh": "Kahlúa 熱巧克力"
+  },
+  "description": {
+    "en": "**Warm and comforting classic**\n\nA simple yet indulgent beverage perfect for cooler evenings:\n\n*   Combines the rich flavor of Kahlúa with creamy hot chocolate.\n*   Easily customizable with different types of milk or toppings.",
+    "zh": "**温暖舒適的經典飲品**\n\n簡單而放縱的飲品，非常適合涼爽的夜晚：\n\n*   將Kahlúa的濃郁風味與奶油熱巧克力結合。\n*   可輕鬆使用不同類型的牛奶或配料進行客製化。"
+  },
+  "historical_reference": {
+    "en": "*Hot chocolate dates back to the Aztecs and Mayans, but the addition of alcohol is a more recent innovation.*\n\n*   Kahlúa, created in Mexico in 1936, is a natural pairing for hot chocolate.\n*   The exact origin of the Kahlúa Hot Chocolate is not precisely documented, but it likely emerged as a home recipe before becoming a popular menu item.",
+    "zh": "*熱巧克力的歷史可以追溯到阿茲特克人和瑪雅人，但添加酒精是較新的創新。*\n\n*   Kahlúa於1936年在墨西哥創建，是熱巧克力的天然搭配。\n*   Kahlúa熱巧克力的確切起源沒有明確記錄，但它可能最早是家庭食譜，然後才成為流行的菜單項。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a mug and heat until warm. Stir well.",
+    "zh": "將所有成分混合在馬克杯中，加熱至溫熱。 攪拌均勻。"
+  },
+  "garnish": {
+    "en": "Whipped cream, chocolate shavings, marshmallows",
+    "zh": "鮮奶油，巧克力碎片，棉花糖"
+  },
+  "serve_in_glass": {
+    "en": "Mug",
+    "zh": "馬克杯"
+  },
+  "appearance": {
+    "en": "Rich, dark brown, creamy",
+    "zh": "濃郁的深棕色，奶油色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Hot Chocolate Mix",
+        "zh": "熱巧克力粉"
+      },
+      "unit": {
+        "en": "packet",
+        "zh": "包"
+      },
+      "rationale": {
+        "en": "Provides the base chocolate flavor.",
+        "zh": "提供基礎巧克力風味。"
+      }
+    },
+    {
+      "amount": 8,
+      "name": {
+        "en": "Milk",
+        "zh": "牛奶"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds creaminess and body.",
+        "zh": "增加奶油感和酒體。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

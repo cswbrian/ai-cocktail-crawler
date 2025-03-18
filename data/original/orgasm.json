@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Orgasm",
+    "zh": "高潮"
+  },
+  "description": {
+    "en": "*A sweet and creamy cocktail.*\n\nOften considered an entry-level or dessert cocktail, it combines the richness of cream liqueurs with the kick of amaretto.",
+    "zh": "*一款香甜柔滑的雞尾酒.*\n\n通常被認為是入門級或甜點雞尾酒，它結合了奶油利口酒的濃郁與杏仁酒的風味。"
+  },
+  "historical_reference": {
+    "en": "The precise origins of the Orgasm cocktail are debated, but it gained popularity in the **1980s**. Its name and creamy texture suggest its intended effect.",
+    "zh": "高潮雞尾酒的確切起源尚有爭議，但它在**1980年代**廣受歡迎。它的名字和奶油質地暗示了其預期效果。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice.",
+    "zh": "與冰搖勻，然後濾入裝滿冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "None typically, optional grated nutmeg or chocolate shavings",
+    "zh": "通常沒有，可選擇磨碎的肉荳蔻或巧克力屑"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or small coupe",
+    "zh": "古典杯或小碟杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown to tan",
+    "zh": "奶油色，淺棕色至棕褐色"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee notes and sweetness.",
+        "zh": "增加咖啡風味和甜度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes creamy texture and flavor.",
+        "zh": "有助於奶油質地和風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto Liqueur",
+        "zh": "杏仁利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds almond flavor and aroma.",
+        "zh": "增添杏仁風味和香氣。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Prince of Wales",
+    "zh": "威爾斯親王"
+  },
+  "description": {
+    "en": "**Classic Scotch Cocktail**\n\nA rich and complex cocktail featuring:\n*   Scotch whisky for depth\n*   Dry and Sweet Vermouth for balance\n*   Bénédictine for herbal sweetness\n*   Angostura bitters for spice.",
+    "zh": "**經典蘇格蘭雞尾酒**\n\n一款豐富而複雜的雞尾酒，特色：\n*   蘇格蘭威士忌提供深度\n*   Dry和Sweet Vermouth帶來平衡\n*   Bénédictine提供草本甜味\n*   Angostura苦精增添香料味。"
+  },
+  "historical_reference": {
+    "en": "**Named after the Prince of Wales**\n\n*   Created in the late 19th century.\n*   Evolved from earlier whisky cocktails.\n*   A sophisticated and complex drink.",
+    "zh": "**以威爾斯親王命名**\n\n*   創建於19世紀末。\n*   由早期的威士忌雞尾酒演變而來。\n*   一款精緻而複雜的飲品。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Golden amber, clear",
+    "zh": "金黃琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and smoky notes.",
+        "zh": "提供基酒和煙熏味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜香艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增加Dry感和草本味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal sweetness and complexity.",
+        "zh": "增加草本甜味和複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice and complexity.",
+        "zh": "增加香料和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

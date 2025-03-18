@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Airmail",
+    "zh": "空中郵件"
+  },
+  "description": {
+    "en": "**A Classic Sparkling Cocktail**\n\nThe Airmail is a bright and refreshing cocktail, perfect for celebrations. It combines the richness of rum with the crispness of sparkling wine and the brightness of lime, resulting in a delightful and effervescent drink.\n\nKey characteristics:\n*   Effervescent and celebratory\n*   Balanced sweetness and tartness\n*   Aromatic and refreshing",
+    "zh": "**經典氣泡雞尾酒**\n\n空中郵件是一款明亮清爽的雞尾酒，非常適合慶祝活動。它融合了蘭姆酒的濃郁、氣泡酒的清脆和萊姆的明亮，帶來令人愉悅的氣泡飲品。\n\n主要特點：\n* 氣泡和慶祝感\n* 甜度和酸度的平衡\n* 芳香和清爽"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Cuba, circa 1920s or 1930s\n\n* The Airmail cocktail first appeared in magazines in the 1930s.\n*   The cocktail is believed to have originated in Cuba, possibly as a celebratory drink to mark the establishment of airmail service.\n*   The cocktail is documented in Esquire's *Handbook for Hosts* (1949).",
+    "zh": "**起源**: 古巴，約 1920 年代或 1930 年代\n\n* 空中郵件雞尾酒首次出現在 1930 年代的雜誌上。\n* 據信這款雞尾酒起源於古巴，可能是為了紀念航空郵件服務的建立而調製的慶祝飲品。\n* 此雞尾酒收錄在《Esquire's Handbook for Hosts》（1949 年）中。"
+  },
+  "technique": {
+    "en": "Shake rum, lime juice, and simple syrup with ice. Strain into a chilled glass. Top with sparkling wine.",
+    "zh": "將蘭姆酒、萊姆汁和糖漿與冰塊搖勻。 濾入冰鎮的玻璃杯中。 加入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Lime wedge or mint sprig",
+    "zh": "萊姆角或薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute or coupe",
+    "zh": "香檳長笛杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Pale gold, effervescent",
+    "zh": "淡金色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rum",
+        "zh": "冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and backbone of the cocktail.",
+        "zh": "提供雞尾酒的基底風味和骨幹。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "冧酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes, balancing the sweetness.",
+        "zh": "增加酸度和柑橘風味，平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜度以平衡酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

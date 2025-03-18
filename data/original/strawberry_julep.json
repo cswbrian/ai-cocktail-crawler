@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Strawberry Julep",
+    "zh": "草莓朱利酒"
+  },
+  "description": {
+    "en": "**Refreshing Strawberry Twist on a Classic**\n\nA vibrant and fruity variation of the traditional Mint Julep, featuring:\n*   Muddled fresh strawberries for sweetness and aroma.\n*   Bourbon whiskey for a smooth and oaky foundation.\n*   Mint for a cool and refreshing finish.",
+    "zh": "**經典的清爽草莓風味**\n\n傳統薄荷朱利酒的充滿活力和水果味的變體，特色：\n*   搗碎的新鮮草莓帶來甜味和香氣。\n*   波本威士忌帶來順滑和橡木味的基底。\n*   薄荷帶來清涼和清爽的尾韻。"
+  },
+  "historical_reference": {
+    "en": "**A Modern Julep Variation**\n\n*   The Mint Julep dates back to the 18th century.\n*   This Strawberry Julep is a contemporary adaptation.\n*   Fresh fruit additions are common in modern julep variations.",
+    "zh": "**現代朱利酒變體**\n\n*   薄荷朱利酒的歷史可以追溯到18世紀。\n*   這款草莓朱利酒是現代改編版。\n*   在現代朱利酒的變體中，添加新鮮水果很常見。"
+  },
+  "technique": {
+    "en": "Muddle strawberries, mint and simple syrup, add bourbon, pack with crushed ice, stir, and garnish.",
+    "zh": "搗碎草莓、薄荷和糖漿，加入波本威士忌，裝滿碎冰，攪拌，然後裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig and strawberry slice.",
+    "zh": "薄荷枝和草莓片。"
+  },
+  "serve_in_glass": {
+    "en": "Pewter or silver Julep cup.",
+    "zh": "錫或銀製朱利酒杯。"
+  },
+  "appearance": {
+    "en": "Light pink, opaque, with crushed ice and mint sprig.",
+    "zh": "淺粉色，不透明，帶有碎冰和薄荷枝。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky notes.",
+        "zh": "提供基酒和橡木味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 4,
+      "name": {
+        "en": "Fresh Strawberries",
+        "zh": "新鮮草莓"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and strawberry flavor.",
+        "zh": "增加甜味和草莓風味。"
+      }
+    },
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing aroma and cool taste.",
+        "zh": "增加清爽的香氣和清涼的味道。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the flavors.",
+        "zh": "增加甜度並平衡風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

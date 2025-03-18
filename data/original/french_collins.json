@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "French Collins",
+    "zh": "法式柯林斯"
+  },
+  "description": {
+    "en": "The French Collins is a refreshing variation on the classic Tom Collins, showcasing the bright and botanical notes of gin. It's a simple yet elegant cocktail perfect for warm weather.\n\n*   **Refreshing and Effervescent**\n*   **Easy to make**\n*   **Customizable to taste**",
+    "zh": "法式柯林斯是經典湯姆柯林斯的清爽變奏，展現了琴酒明亮而帶有植物氣息的風味。這是一款簡單而優雅的雞尾酒，非常適合在溫暖的天氣飲用。\n\n*   **清爽且氣泡豐富**\n*   **容易製作**\n*   **可根據口味調整**"
+  },
+  "historical_reference": {
+    "en": "The Collins family of cocktails dates back to the 19th century. The French Collins is a variation, likely created later, that specifically calls for gin as the base spirit.\n\n*   **Origin**: Likely a later adaptation of the Tom Collins.\n*   **Evolution**: Represents the adaptability of classic cocktail recipes.",
+    "zh": "柯林斯系列雞尾酒可追溯至19世紀。法式柯林斯是一種變體，可能稍晚出現，特別指定使用琴酒作為基酒。\n\n*   **起源**: 可能是湯姆柯林斯的後續改編。\n*   **演變**: 代表了經典雞尾酒配方的適應性。"
+  },
+  "technique": {
+    "en": "Combine gin, lemon juice, and simple syrup in a shaker with ice. Shake well until chilled. Strain into a Collins glass filled with ice. Top with carbonated water and garnish.",
+    "zh": "將琴酒、檸檬汁和簡糖漿放入裝有冰塊的搖酒器中。充分搖勻至冰鎮。濾入裝滿冰塊的柯林斯杯中。加入氣泡水並裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wheel or cherry",
+    "zh": "檸檬片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Collins glass",
+    "zh": "柯林斯杯"
+  },
+  "appearance": {
+    "en": "Clear, effervescent, straw-colored liquid",
+    "zh": "清澈、起泡的稻草色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Generic Gin",
+        "zh": "通用琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical flavors.",
+        "zh": "提供烈酒基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lemon juice.",
+        "zh": "增加甜度以平衡檸檬汁。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and citrus flavor.",
+        "zh": "提供酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Carbonated Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the cocktail.",
+        "zh": "增加氣泡並稀釋雞尾酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

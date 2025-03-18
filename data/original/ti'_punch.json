@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Ti' Punch",
+    "zh": "提潘趣"
+  },
+  "description": {
+    "en": "**The Essential Drink of the French Caribbean**\n\nTi' Punch is more than a cocktail; it is a ritual. Each person prepares their own drink to taste, based on the following:\n*   Rum Agricole: The spirit of the islands, made from fresh sugarcane juice.\n*   Cane Syrup: A simple sweetener adds a deeper molasses note than simple syrup.\n*   Lime: A single lime coin releases essential oils and bright acidity.",
+    "zh": "**法屬加勒比海的必備飲品**\n\nTi' Punch 不僅僅是一種雞尾酒，更是一種儀式。 每個人根據自己的口味準備自己的飲料，基於以下內容：\n*   農業蘭姆酒：島嶼的精神，由新鮮甘蔗汁製成。\n*   甘蔗糖漿：一種簡單的甜味劑，比普通糖漿添加了更深的糖蜜味。\n*   酸橙：一枚酸橙釋放精油和明亮的酸度。"
+  },
+  "historical_reference": {
+    "en": "**The People's Punch of the French Antilles**\n\n*   \"Ti\" is Creole for \"petit\" (small). So, *Ti' Punch* is small punch.\n*   It's a staple in Martinique and Guadeloupe.\n*   The drink reflects the agricultural heritage of the islands, using local ingredients.",
+    "zh": "**法屬安地列斯群島的國民調酒**\n\n*   \"Ti\" 在克里奧爾語中是 \"petit\"（小）的意思。 因此，*Ti' Punch* 就是小潘趣酒。\n*   它是馬丁尼克島和瓜德羅普島的主食。\n*   這種飲料反映了島嶼的農業遺產，使用當地食材。"
+  },
+  "technique": {
+    "en": "Muddle lime coin gently with cane syrup in glass. Add rum. No ice.",
+    "zh": "在玻璃杯中將酸橙片與甘蔗糖漿輕輕混合。 加入蘭姆酒。 無需冰塊。"
+  },
+  "garnish": {
+    "en": "Lime coin (a thick slice of lime, expressed and left in the glass)",
+    "zh": "酸橙幣（一片厚的酸橙，擠壓後留在杯中）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or small tumbler",
+    "zh": "古典杯或小玻璃杯"
+  },
+  "appearance": {
+    "en": "Clear, slightly viscous liquid. Color varies from light straw to amber depending on the rum.",
+    "zh": "清澈、略帶黏稠的液體。顏色從淡稻草色到琥珀色不等，取決於蘭姆酒。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Agricultural Rum",
+        "zh": "農業蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor, reflecting the terroir of the French Caribbean islands. It has a grassy, earthy profile.",
+        "zh": "提供基底風味，反映法屬加勒比海島嶼的風土。它具有青草和泥土的特性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cane Syrup",
+        "zh": "甘蔗糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a rich molasses flavor that complements the rum.",
+        "zh": "增加甜味和濃郁的糖蜜風味，與蘭姆酒相得益彰。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Lime",
+        "zh": "萊姆"
+      },
+      "unit": {
+        "en": "coin",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness. The peel expresses aromatic oils.",
+        "zh": "增加酸度並平衡甜度。 果皮釋放出芳香油。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Earth",
+      "zh": "泥土"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

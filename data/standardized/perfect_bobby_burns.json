@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Perfect Bobby Burns",
+    "zh": "完美博比·伯恩斯"
+  },
+  "description": {
+    "en": "A Perfect Bobby Burns is a Scotch-based cocktail similar to a Rob Roy but with equal parts sweet and dry vermouth. The drink is stirred and strained, and typically garnished with a lemon twist.\n\n*   Features a balanced profile of scotch, sweet vermouth, dry vermouth, and a hint of Benedictine.",
+    "zh": "完美的Bobby Burns是一款以蘇格蘭威士忌為基底的雞尾酒，類似於Rob Roy，但使用等量的甜苦艾酒和幹苦艾酒。 將酒攪拌並過濾，通常用檸檬皮扭轉裝飾。\n\n*   具有蘇格蘭威士忌，甜苦艾酒，乾苦艾酒和淡淡的本篤利口酒的平衡風味。"
+  },
+  "historical_reference": {
+    "en": "The Bobby Burns cocktail is named after the Scottish poet Robert Burns.  It is a variation of the Rob Roy cocktail which is in turn a variation of the Manhattan. The addition of Benedictine sets it apart.\n\n*   **Origin**: Likely created in the late 19th or early 20th century.\n*   **Inspiration**: Named in honor of Robert Burns.",
+    "zh": "Bobby Burns雞尾酒以蘇格蘭詩人Robert Burns的名字命名。 它是Rob Roy雞尾酒的變體，Rob Roy雞尾酒又是曼哈頓的變體。 添加本篤會使其與眾不同。\n\n*   **起源**：可能創建於19世紀末或20世紀初。\n*   **靈感**：以紀念Robert Burns的名字命名。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into chilled glass.",
+    "zh": "與冰塊攪拌後濾入冰鎮過的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist (expressed)",
+    "zh": "檸檬皮扭轉（擠壓）"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或碟型杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈的深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky, malty base.",
+        "zh": "提供煙燻麥芽基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds honeyed herbal notes.",
+        "zh": "增添蜂蜜草藥風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜度和草本複雜度。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加乾度和草本複雜度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

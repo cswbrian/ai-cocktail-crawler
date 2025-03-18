@@ -1,0 +1,101 @@
+{
+  "name": {
+    "en": "Kahlúa and Cream",
+    "zh": "咖啡甘露奶油"
+  },
+  "description": {
+    "en": "**Simple and Indulgent**\n\nA classic and straightforward cocktail, offering a delightful blend of coffee liqueur and rich cream:\n\n*   Two ingredients only, easily prepared\n*   Sweet and creamy texture",
+    "zh": "**簡單而放縱**\n\n一款經典而直接的雞尾酒，提供咖啡利口酒和濃郁奶油的美味混合：\n\n*   僅兩種成分，易於製備\n*   香甜且奶油般的質地"
+  },
+  "historical_reference": {
+    "en": "**Origins and Simplicity**\n\nThe Kahlúa and Cream cocktail is a very simple drink which is simply Kahlúa and cream. The origins of this specific combination are difficult to pinpoint precisely, as it is a natural and intuitive pairing.\n\n*   Popularized due to its ease of preparation.\n*   Simple variation of a White Russian.",
+    "zh": "**起源與簡約**\n\nKahlúa and Cream 雞尾酒是一款非常簡單的飲品，僅僅是 Kahlúa 和奶油的組合。這種特定組合的起源很難精確地確定，因為它是一種自然且直觀的搭配。\n\n*   因其易於準備而廣受歡迎。\n*   是白色俄羅斯雞尾酒的簡單變體。"
+  },
+  "technique": {
+    "en": "Pour Kahlúa into glass, then gently layer cream on top.",
+    "zh": "將咖啡甘露倒入玻璃杯中，然後輕輕地在上面分層倒入奶油。"
+  },
+  "garnish": {
+    "en": "None typically, optional coffee beans or cocoa powder",
+    "zh": "通常沒有，可選咖啡豆或可可粉"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy brown",
+    "zh": "不透明的奶油棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Kahlúa",
+        "zh": "咖啡酒"
+      },
+      "unit": {
+        "en": "part",
+        "zh": "份"
+      },
+      "rationale": {
+        "en": "Provides coffee flavor and sweetness.",
+        "zh": "提供咖啡風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Cream",
+        "zh": "奶油"
+      },
+      "unit": {
+        "en": "part",
+        "zh": "份"
+      },
+      "rationale": {
+        "en": "Adds a rich, creamy texture and smooth mouthfeel.",
+        "zh": "增添濃郁、奶油般的質地和柔滑的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 6,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

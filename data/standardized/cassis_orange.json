@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Cassis Orange",
+    "zh": "黑醋栗橙"
+  },
+  "description": {
+    "en": "**Simple and Refreshing**\n\nA delightful mix of gin, creme de cassis, and orange juice:\n*   Easy to prepare\n*   Fruity and slightly tart\n*   Ideal for warm weather",
+    "zh": "**簡單而清爽**\n\n琴酒、黑醋栗利口酒和柳橙汁的美味組合：\n*   容易製作\n*   果味濃郁，略帶酸味\n*   適合溫暖的天氣"
+  },
+  "historical_reference": {
+    "en": "The Cassis Orange is a relatively modern cocktail, building on the long history of using creme de cassis in mixed drinks. The combination of gin and orange has been popular for a while, and cassis adds a unique twist.\n\n*Not much documented about the exact origin.*",
+    "zh": "黑醋栗橙是一款相對現代的雞尾酒，建立在使用黑醋栗利口酒調製混合飲品的悠久歷史基礎上。琴酒和橙子的組合已經流行了一段時間，而黑醋栗增加了一種獨特的風味。\n\n*關於確切的起源沒有太多記載。*"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake well and strain into a chilled glass filled with ice.",
+    "zh": "將所有材料與冰塊混合在搖酒器中。充分搖晃並濾入裝滿冰塊的冰鎮杯中。"
+  },
+  "garnish": {
+    "en": "Orange slice or a few berries",
+    "zh": "橙片或一些莓果"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or coupe glass",
+    "zh": "高球杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Bright orange with a slight pink hue",
+    "zh": "明亮的橙色，略帶粉紅色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's base and botanical notes.",
+        "zh": "提供雞尾酒的基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Creme de Cassis",
+        "zh": "黑醋栗利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a rich dark berry flavor and sweetness.",
+        "zh": "增加濃郁的黑莓風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus flavor and sweetness.",
+        "zh": "增加柑橘風味和甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Bijou",
+    "zh": "珠寶"
+  },
+  "description": {
+    "en": "**Classic cocktail showcasing balance and complexity**\n\nThe Bijou Cocktail is a classic, spirit-forward drink known for its harmonious blend of flavors. It features equal parts gin, green Chartreuse, and sweet vermouth, with a dash of orange bitters. The name \"Bijou\" (French for jewel) refers to the colors of the ingredients: gin for diamond, Chartreuse for emerald, and vermouth for ruby.",
+    "zh": "**經典雞尾酒，展現平衡與複雜性**\n\nBijou雞尾酒是一款經典且以烈酒為主的飲品，以其和諧的風味融合而聞名。它以等量的琴酒、綠色 Chartreuse 和甜味苦艾酒為特色，並帶有少許橙味苦精。名稱“Bijou”（法語，意為珠寶）指的是成分的顏色：琴酒代表鑽石，Chartreuse 代表祖母綠，而苦艾酒代表紅寶石。"
+  },
+  "historical_reference": {
+    "en": "**Created by Harry Johnson in the 1890s**\n\n*   First appeared in Harry Johnson's *Bartenders' Manual* (1900 edition).\n*   Named 'Bijou' for the jewel tones of its ingredients. It has been cited that gin represents diamond, Chartreuse represents emerald, and sweet vermouth represents ruby.",
+    "zh": "**由哈里·約翰遜於 1890 年代創作**\n\n*   首次出現在哈里·約翰遜的《*調酒師手冊*》（1900 年版）中。\n*   以“Bijou”命名，源於其成分的珠寶色調。據說琴酒代表鑽石，Chartreuse 代表祖母綠，而甜味苦艾酒代表紅寶石。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起攪拌，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale amber liquid",
+    "zh": "清澈的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and backbone of the cocktail.",
+        "zh": "提供基酒和雞尾酒的骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal complexity and sweetness.",
+        "zh": "增加草本的複雜性和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, body, and herbal notes.",
+        "zh": "增加甜度、酒體和草本氣息。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a subtle bitter-orange note that enhances the other flavors.",
+        "zh": "添加微妙的苦橙味，增強其他風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "name": {
+    "en": "Ramos Gin Fizz",
+    "zh": "拉莫斯琴費士"
+  },
+  "description": {
+    "en": "**A Classic New Orleans Cocktail**\n\nA complex and creamy cocktail known for its distinctive texture and refreshing flavors:\n\n*   Gin base provides the spirituous backbone.\n*   Citrus juices (lemon and lime) add a vibrant tartness.\n*   Egg white contributes to a silky smooth texture and frothy head.\n*   Orange flower water imparts a delicate floral aroma.\n*   Cream enriches the body and enhances the overall smoothness.\n*   Carbonated water creates a light and effervescent finish. The long shake is essential to create the fizz.",
+    "zh": "**經典紐奧良雞尾酒**\n\n以其獨特的質地和清爽的風味而聞名的複雜而奶油般的雞尾酒：\n\n*   琴酒基底提供了烈酒的骨幹。\n*   柑橘類果汁（檸檬和萊姆）增添了鮮明的酸味。\n*   蛋白有助於形成絲般柔滑的質地和泡沫。\n*   橙花水散發出精緻的花香。\n*   鮮奶油豐富了酒體並增強了整體柔滑度。\n*   氣泡水營造出輕盈清爽的口感。長時間的搖晃對於產生氣泡至關重要。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Henry C. Ramos at the Imperial Cabinet Saloon in New Orleans, Louisiana, in 1888.\n\n*   Originally called the \"New Orleans Fizz.\"\n*   Gained immense popularity for its unique flavor and texture.\n*   Required a team of \"shaker boys\" to meet the high demand due to the extensive shaking needed (up to 12 minutes!).",
+    "zh": "**起源**: 由亨利·C·拉莫斯於1888年在路易斯安那州紐奧良的帝國內閣沙龍創造。\n\n*   最初被稱為“紐奧良菲士”。\n*   因其獨特的風味和質地而廣受歡迎。\n*   由於需要大量搖晃（長達12分鐘！），因此需要一個“搖酒男孩”團隊來滿足高需求。"
+  },
+  "technique": {
+    "en": "Dry shake (without ice) gin, lemon juice, lime juice, simple syrup, egg white, cream, and orange flower water vigorously for 30 seconds. Add ice and shake again until well-chilled. Strain into a highball glass, top with chilled carbonated water. Garnish with an orange twist or edible flower.",
+    "zh": "將琴酒、檸檬汁、萊姆汁、糖漿、蛋白、鮮奶油和橙花水劇烈地乾搖（不加冰）30秒。 加入冰塊並再次搖晃至完全冷卻。 濾入高球杯中，倒入冰鎮氣泡水。 用橙皮或食用花裝飾。"
+  },
+  "garnish": {
+    "en": "Orange twist or edible flower",
+    "zh": "橙皮或食用花"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, frothy, pale cream color",
+    "zh": "混濁、起泡、淡奶油色"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    },
+    {
+      "en": "dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary flavor and alcoholic base.",
+        "zh": "提供雞尾酒的主要風味和酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity.",
+        "zh": "增加酸味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity.",
+        "zh": "增加酸味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and creaminess to the cocktail.",
+        "zh": "為雞尾酒增添豐富度和奶油味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a silky smooth texture and frothy head.",
+        "zh": "提供絲般柔滑的質地和泡沫。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the citrus.",
+        "zh": "增加甜度以平衡柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Flower Water",
+        "zh": "橙花水"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Imparts a delicate floral aroma.",
+        "zh": "散發出精緻的花香。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Chilled Carbonated Water",
+        "zh": "冰鎮氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and effervescence to the cocktail.",
+        "zh": "為雞尾酒增添氣泡和活力。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": true
+  }
+}

@@ -57,7 +57,7 @@ class LLMClient:
 7. For historical_reference and description fields, format the content as markdown text with proper formatting (e.g., **bold**, *italic*, bullet points)
 8. For flavor_descriptors, only use from this exact list of accepted values:
    - Bitter (苦味)
-   - Salty (鹹味)
+   - Salty (有鹽)
    - Umami (鮮味)
    - Fruity (果香)
    - Citrus (柑橘)

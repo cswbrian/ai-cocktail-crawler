@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Bamboo",
+    "zh": "竹子"
+  },
+  "description": {
+    "en": "A classic low-ABV cocktail showcasing the complex flavors of dry sherry, complemented by vermouth and orange bitters.",
+    "zh": "一款經典的低酒精雞尾酒，展現不甜雪莉酒的複雜風味，並輔以苦艾酒和橙味苦精。"
+  },
+  "historical_reference": {
+    "en": "Created by Louis Eppinger at the Hoffman House in New York City in the late 19th century.\n\n*   Named after the USS Bamboo, a naval ship.\n*   A popular aperitif cocktail.",
+    "zh": "由路易斯·埃平格（Louis Eppinger）於19世紀末在紐約市的霍夫曼之家（Hoffman House）創作。\n\n*   以海軍艦艇USS Bamboo命名。\n*   一種流行的餐前雞尾酒。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale golden, clear",
+    "zh": "淡金色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "不甜雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and nutty flavor.",
+        "zh": "提供基底和堅果風味。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and floral notes.",
+        "zh": "增添草本和花香。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a citrusy and bitter edge.",
+        "zh": "增添柑橘和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

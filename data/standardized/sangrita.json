@@ -1,0 +1,136 @@
+{
+  "name": {
+    "en": "Sangrita",
+    "zh": "桑格麗塔"
+  },
+  "description": {
+    "en": "**Non-alcoholic accompaniment to tequila**\n\nSangrita is a traditional Mexican beverage served as a palate cleanser and complement to tequila, not mixed with it. It typically features:\n\n*   Tomato juice base\n*   Citrus elements, often lime and orange\n*   Spicy elements, such as chili powder or hot sauce",
+    "zh": "**非酒精的龍舌蘭酒佐餐飲料**\n\nSangrita 是一種傳統的墨西哥飲料，用作味蕾清潔劑和龍舌蘭酒的補充，而不是與之混合。 它通常具有：\n\n*   番茄汁底\n*   柑橘元素，通常是酸橙和橙子\n*   辛辣元素，例如辣椒粉或辣椒醬"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Mexico\n\n*   Sangrita's history is closely linked to tequila consumption in Mexico.\n*   The precise origins are somewhat obscure, but it's believed to have evolved as a way to soften the harshness of tequila and complement its flavors.\n*   The name translates to \"little blood\" in Spanish, referring to its color.",
+    "zh": "**起源**: 墨西哥\n\n*   Sangrita 的歷史與墨西哥的龍舌蘭酒消費密切相關。\n*   確切的起源有些模糊，但據信它是作為一種軟化龍舌蘭酒的刺激性並補充其風味的方式而發展起來的。\n*   這個名字在西班牙語中翻譯為“小血”，指的是它的顏色。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice; shake well. Strain into a shot glass or small tumbler. Serve alongside a shot of tequila.",
+    "zh": "將所有材料與冰塊一起放入搖酒器中； 充分搖勻。 濾入小酒杯或小玻璃杯中。 與一杯龍舌蘭酒一起食用。"
+  },
+  "garnish": {
+    "en": "None typically",
+    "zh": "通常沒有"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass or small tumbler",
+    "zh": "小酒杯或小玻璃杯"
+  },
+  "appearance": {
+    "en": "Deep red, opaque, pulpy consistency",
+    "zh": "深紅色，不透明，有果肉的濃稠度"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the drink, providing body and umami.",
+        "zh": "構成飲料的基礎，提供酒體和鮮味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus complexity.",
+        "zh": "增加甜度和柑橘的複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice and heat.",
+        "zh": "增加辣味和熱度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances flavors.",
+        "zh": "增強風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 0,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

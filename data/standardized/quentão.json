@@ -1,0 +1,173 @@
+{
+  "name": {
+    "en": "Quentão",
+    "zh": "Quentão (巴西熱紅酒)"
+  },
+  "description": {
+    "en": "**Traditional Brazilian Hot Drink**\n\nQuentão is a warming beverage perfect for cold weather, especially during the Festa Junina celebrations. Its preparation involves:\n\n*   Combining cachaça with spices and sugar.\n*   Simmering to infuse the flavors.\n*   Serving hot, making it a comforting and festive drink.",
+    "zh": "**傳統巴西熱飲**\n\nQuentão 是一種適合寒冷天氣的暖身飲品，尤其是在六月節慶祝活動期間。 它的準備工作包括：\n\n*   將卡沙夏酒與香料和糖混合。\n*   燉煮以融合風味。\n*   熱飲，使其成為一種舒適且喜慶的飲品。"
+  },
+  "historical_reference": {
+    "en": "**Originating in Brazil**\n\nQuentão has roots in the rural areas of Brazil, where it was traditionally prepared for winter festivities and celebrations. It is an integral part of:\n\n*   Festa Junina celebrations, a traditional Brazilian festival.\n*   Brazilian cultural heritage, representing warmth and community.",
+    "zh": "**起源於巴西**\n\nQuentão 起源於巴西農村地區，傳統上是為冬季慶典和慶祝活動準備的。 它是以下內容不可或缺的一部分：\n\n*   六月節慶祝活動，這是一個傳統的巴西節日。\n*   巴西文化遺產，代表著溫暖和社群。"
+  },
+  "technique": {
+    "en": "Simmer all ingredients together on low heat for about 30 minutes before serving hot.",
+    "zh": "將所有材料一起用小火燉煮約 30 分鐘，然後趁熱食用。"
+  },
+  "garnish": {
+    "en": "Orange slices, cinnamon sticks",
+    "zh": "橙片、肉桂棒"
+  },
+  "serve_in_glass": {
+    "en": "Heatproof glass or mug",
+    "zh": "耐熱玻璃杯或馬克杯"
+  },
+  "appearance": {
+    "en": "Warm, reddish-brown liquid with visible spices.",
+    "zh": "溫暖的紅棕色液體，帶有明顯的香料。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 750,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡夏莎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinct flavor profile characteristic of Brazilian beverages.",
+        "zh": "提供酒精基底和巴西飲料特有的獨特風味。"
+      },
+      "tags": [
+        {
+          "en": "Cachaça",
+          "zh": "卡夏莎"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Ginger",
+        "zh": "薑"
+      },
+      "unit": {
+        "en": "thumb",
+        "zh": "指"
+      },
+      "rationale": {
+        "en": "Adds warmth and spicy notes.",
+        "zh": "增添溫暖和辛辣味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Cinnamon Sticks",
+        "zh": "肉桂棒"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "根"
+      },
+      "rationale": {
+        "en": "Contributes a sweet and aromatic spice flavor.",
+        "zh": "貢獻甜美和芳香的香料風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange Peel",
+        "zh": "橙皮"
+      },
+      "unit": {
+        "en": "strip",
+        "zh": "條"
+      },
+      "rationale": {
+        "en": "Infuses a citrus aroma and flavor.",
+        "zh": "注入柑橘香氣和風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon Peel",
+        "zh": "檸檬皮"
+      },
+      "unit": {
+        "en": "strip",
+        "zh": "條"
+      },
+      "rationale": {
+        "en": "Adds a bright citrus note.",
+        "zh": "添加明亮的柑橘味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "cup",
+        "zh": "杯"
+      },
+      "rationale": {
+        "en": "Sweetens and balances the flavors.",
+        "zh": "使風味更甜美和平衡。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cloves",
+        "zh": "丁香"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds warm and aromatic notes.",
+        "zh": "添加溫暖和芳香的風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

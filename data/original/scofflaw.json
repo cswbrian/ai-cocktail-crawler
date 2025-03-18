@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Scofflaw",
+    "zh": "蔑視法律的人"
+  },
+  "description": {
+    "en": "**A Prohibition-Era Sour**\n\nThe Scofflaw is a classic sour cocktail with a slightly tart and fruity profile, perfectly balancing the spiciness of rye whiskey with the sweetness of grenadine and the dryness of dry vermouth. A dash of orange bitters adds aromatic complexity.\n\nKey characteristics:\n*   Rye whiskey base for spiciness\n*   Dry vermouth contributes dryness and herbal notes\n*   Grenadine for sweetness and color\n*   Orange bitters for aromatic complexity",
+    "zh": "**禁酒時期的酸味雞尾酒**\n\nScofflaw是一款經典的酸味雞尾酒，帶有略微酸澀和果香的味道，完美平衡了黑麥威士忌的辛辣、石榴糖漿的甜味和乾苦艾酒的乾澀。少量橙味苦精增添了香氣的複雜性。\n\n主要特徵：\n* 黑麥威士忌基底帶來辛辣味\n* 乾苦艾酒帶來乾澀和草本味\n* 石榴糖漿增添甜味和顏色\n* 橙味苦精增添香氣的複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Paris, 1924. Created at Harry's New York Bar in Paris.\n\n*   Named to mock American Prohibitionists, calling them \"scofflaws.\"\n*   Became popular during the Prohibition era as Americans traveling abroad sought alcoholic beverages.\n*   The term \"scofflaw\" was coined during a contest to find a name for those who disregarded Prohibition laws.",
+    "zh": "**起源**: 1924年於巴黎。在巴黎的哈利紐約酒吧創作。\n\n*   命名是為了嘲笑美國禁酒主義者，稱他們為“蔑視法律的人”。\n*   在禁酒時期，隨著出國旅行的美國人尋找酒精飲料而變得流行。\n*   “蔑視法律的人”一詞是在一場為那些無視禁酒法的人尋找名稱的競賽中創造的。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "柳橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Amber with a slight pink hue",
+    "zh": "琥珀色，略帶粉紅色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣而濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "增加甜度和顏色。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity.",
+        "zh": "增加香氣複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜香艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增添乾澀和草本風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance the sweetness.",
+        "zh": "增加酸度以平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

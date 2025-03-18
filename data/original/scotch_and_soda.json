@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Scotch and Soda",
+    "zh": "蘇格蘭威士忌蘇打"
+  },
+  "description": {
+    "en": "**Simple and Refreshing**\n\nA highball cocktail combining Scotch whisky and soda water.\n\n*   Easy to make\n*   Refreshing and light\n*   Perfect for showcasing the flavors of the Scotch",
+    "zh": "**簡單而清爽**\n\n將蘇格蘭威士忌和蘇打水混合的高杯雞尾酒。\n\n*   容易製作\n*   清爽輕盈\n*   非常適合展示蘇格蘭威士忌的風味"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Early 20th Century\n\n*   Emerged with the rise of blended Scotch whisky.\n*   Simple preparation made it popular in bars and homes.\n*   One of the earliest and simplest forms of highball cocktail",
+    "zh": "**起源**: 20世紀初\n\n*   隨著混合蘇格蘭威士忌的興起而出現。\n*   簡單的製作使其在酒吧和家庭中很受歡迎。\n*   最早和最簡單的高杯雞尾酒形式之一"
+  },
+  "technique": {
+    "en": "Pour Scotch into a highball glass filled with ice. Top with soda water. Stir gently.",
+    "zh": "將蘇格蘭威士忌倒入裝滿冰塊的高杯中。 倒入蘇打水。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon wedge or orange peel",
+    "zh": "可選：檸檬角或橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Pale gold, effervescent",
+    "zh": "淡金色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic content.",
+        "zh": "提供基底風味和酒精含量。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the Scotch.",
+        "zh": "增加氣泡並稀釋蘇格蘭威士忌。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

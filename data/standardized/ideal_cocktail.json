@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Ideal Cocktail",
+    "zh": "理想雞尾酒"
+  },
+  "description": {
+    "en": "**Classic Dry Martini Variation**\n\nA sophisticated and dry cocktail that emphasizes the botanical notes of gin, complemented by:\n*   A minimal amount of dry vermouth to add complexity without sweetness.\n*   Orange bitters to enhance the gin's citrus notes.\n*   Lemon twist for aromatic oils and visual appeal.",
+    "zh": "**經典 Dry Martini 變奏**\n\n一款精緻且不甜膩的雞尾酒，強調琴酒的植物風味，並輔以：\n*   少量的 Dry Vermouth，增加複雜度而不增加甜度。\n*   少量的橙味苦精，增強琴酒的柑橘風味。\n*   檸檬皮扭轉，提供香氣和視覺吸引力。"
+  },
+  "historical_reference": {
+    "en": "**Martini Evolution**\n\nThe Ideal Cocktail is a variation on the classic Dry Martini, reflecting a preference for drier and more spirit-forward cocktails:\n\n*   Evolved from earlier, sweeter Martini recipes in the late 19th and early 20th centuries.\n*   Emphasizes the gin's botanicals and dryness.\n*   Often associated with a sophisticated and minimalist approach to cocktail crafting.",
+    "zh": "**馬丁尼演變**\n\nIdeal Cocktail 是經典 Dry Martini 的變奏，反映了對更乾和更烈雞尾酒的偏好：\n\n*   從 19 世紀末和 20 世紀初早期、更甜的 Martini 配方演變而來。\n*   強調琴酒的植物成分和乾度。\n*   通常與精緻和簡約的雞尾酒調製方法相關聯。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale golden liquid",
+    "zh": "清澈的淡金色液體"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "沒有"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic base.",
+        "zh": "提供主要風味和酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Dry Vermouth",
+        "zh": "通用 Dry Vermouth"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle herbal and wine-like notes, balancing the gin.",
+        "zh": "添加微妙的草本和類似葡萄酒的風味，平衡琴酒。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Enhances the citrus notes and adds complexity.",
+        "zh": "增強柑橘風味，增加複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

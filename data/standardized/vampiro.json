@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Vampiro",
+    "zh": "吸血鬼"
+  },
+  "description": {
+    "en": "**Spicy Mexican Cocktail**\n\nA flavorful mix of tequila, tomato juice, citrus, and spices, creating a refreshing and complex drink.\n\n*   Features a spicy kick from chili.\n*   Tomato juice provides a savory element.\n*   Citrus adds brightness and balance.",
+    "zh": "**辛辣的墨西哥雞尾酒**\n\n龍舌蘭、番茄汁、柑橘和香料的美味混合，創造出清爽而複雜的飲品。\n\n*   辣椒帶來辛辣口感。\n*   番茄汁提供鹹鮮味。\n*   柑橘增添明亮感和平衡。"
+  },
+  "historical_reference": {
+    "en": "**Mexican Cocktail Origin**\n\nThe Vampiro is a Mexican cocktail that is believed to have originated in the state of Jalisco.\n\n*   A variation of the Bloody Mary, but uses tequila instead of vodka.\n*   Often associated with the Lucha Libre (Mexican wrestling) culture.\n*   The name Vampiro (Vampire) might be related to its color or the feeling after drinking it.",
+    "zh": "**墨西哥雞尾酒起源**\n\nVampiro 是一種墨西哥雞尾酒，據信起源於哈利斯科州。\n\n*   血腥瑪麗的變體，但使用龍舌蘭代替伏特加。\n*   通常與 Lucha Libre（墨西哥摔角）文化相關。\n*   Vampiro（吸血鬼）這個名字可能與它的顏色或飲用後的感覺有關。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass with chili salt rim.",
+    "zh": "與冰搖勻後倒入有辣椒鹽口的杯中"
+  },
+  "garnish": {
+    "en": "Orange slice and chili salt rim",
+    "zh": "橙片和辣椒鹽口"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Deep red, pulpy, vibrant",
+    "zh": "深紅色，果肉感，鮮豔"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base alcoholic flavor.",
+        "zh": "提供基本的酒精風味"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the savory base of the drink.",
+        "zh": "提供飲料的鹹味基底"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes Hot Sauce",
+        "zh": "少許辣醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds spiciness",
+        "zh": "增加辣味"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes Worcestershire Sauce",
+        "zh": "少許伍斯特醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds umami flavor",
+        "zh": "增加鮮味"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Salt",
+        "zh": "一撮鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the flavors",
+        "zh": "增強風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

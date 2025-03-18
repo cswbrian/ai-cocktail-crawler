@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Bobby Burns",
+    "zh": "博比·伯恩斯"
+  },
+  "description": {
+    "en": "**Classic Scotch Cocktail**\n\nA close relative to the Rob Roy, made with Scotch whisky, sweet vermouth, and Bénédictine:\n*   Scotch provides a smoky base.\n*   Sweet vermouth adds sweetness and herbal notes.\n*   Bénédictine brings complexity and spice.",
+    "zh": "**經典蘇格蘭雞尾酒**\n\n與羅伯·羅伊非常相似，由蘇格蘭威士忌、甜味美思和廊酒調製而成：\n*   蘇格蘭威士忌提供煙熏基底。\n*   甜味美思增添甜味和草本味。\n*   廊酒帶來複雜性和香料味。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Early 20th Century\n\n*   Named after the Scottish poet Robert Burns.\n*   First documented in the early 1900s, though precise origins are debated.\n*   A variation of the Rob Roy, distinguished by the addition of Bénédictine.",
+    "zh": "**起源：** 20世紀初\n\n*   以蘇格蘭詩人羅伯特·伯恩斯的名字命名。\n*   最早記錄於1900年代初期，但確切起源尚有爭議。\n*   羅伯·羅伊的一種變體，其特徵是添加了廊酒。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, ruby red",
+    "zh": "清澈的紅寶石色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and smoky notes.",
+        "zh": "提供基酒和煙熏味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "班尼迪克汀"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and honeyed notes.",
+        "zh": "增添草本和蜂蜜的味道。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜度和草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

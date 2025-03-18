@@ -1,0 +1,64 @@
+{
+  "name": {
+    "en": "Black and Tan",
+    "zh": "黑棕啤酒"
+  },
+  "description": {
+    "en": "**Simple Beer Cocktail**\n\nA layered beer cocktail consisting of a pale ale or lager floated on top of a stout or porter.\n\n*   The density difference between the beers is what allows the layering to occur.\n*   Patience and a gentle pour are key to achieving a good separation.",
+    "zh": "**簡單的啤酒雞尾酒**\n\n一種分層的啤酒雞尾酒，由淡啤酒或拉格啤酒漂浮在烈性黑啤酒或波特啤酒之上。\n\n*   啤酒之間的密度差異是分層發生的原因。\n*   耐心和輕柔的倒入是實現良好分離的關鍵。"
+  },
+  "historical_reference": {
+    "en": "**Origins**:\n\n*   The Black and Tan gained prominence in the late 19th century in England.\n*   The name has become controversial due to its association with the Royal Irish Constabulary Auxiliary Division, nicknamed the \"Black and Tans\", known for their actions during the Irish War of Independence.",
+    "zh": "**起源**:\n\n*   黑棕啤酒在19世紀後期在英國開始流行。\n*   由於這個名字與皇家愛爾蘭警察輔助部隊（綽號“黑棕部隊”）有關，這個名字變得備受爭議，該部隊以其在愛爾蘭獨立戰爭期間的行動而聞名。"
+  },
+  "technique": {
+    "en": "Gently pour the pale ale or lager over the back of a spoon onto the stout or porter to create a layered effect.",
+    "zh": "將淡啤酒或拉格啤酒輕輕倒在黑啤酒或波特啤酒的湯匙背面，以產生分層效果。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass",
+    "zh": "品脫杯"
+  },
+  "appearance": {
+    "en": "Layered dark and light beer, with a clear distinction between the two.",
+    "zh": "分層的深色和淺色啤酒，兩者之間有明顯的區別。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

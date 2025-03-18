@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Q.B. Cooler",
+    "zh": "Q.B.酷樂"
+  },
+  "description": {
+    "en": "**Refreshing Gin-Based Cooler**\n\nA light and bubbly cocktail, perfect for warm weather. It features:\n*   Gin for a botanical backbone\n*   Lemon juice for a citrusy tang\n*   Ginger ale for sweetness and effervescence",
+    "zh": "**清爽的琴酒冷飲**\n\n一款輕盈且充滿氣泡的雞尾酒，非常適合溫暖的天氣。它具有：\n*   琴酒提供植物骨幹\n*   檸檬汁帶來柑橘的酸味\n*   薑汁汽水帶來甜味和氣泡"
+  },
+  "historical_reference": {
+    "en": "The Q.B. Cooler's exact origin is somewhat obscure, but it likely emerged in the late 19th or early 20th century as a simple, refreshing gin-based drink.\n\n*   Similar to other 'cooler' cocktails of the era.\n*   Designed for easy preparation and enjoyment in warm weather.\n*   The 'Q.B.' likely refers to a specific type of gin or a bartender's initials, though the definitive meaning is lost to time.",
+    "zh": "Q.B. Cooler的確切起源有些模糊，但它很可能在19世紀末或20世紀初出現，作為一種簡單，清爽的琴酒飲料。\n\n*   類似於那個時代的其他“冷飲”雞尾酒。\n*   專為在溫暖的天氣中輕鬆準備和享用而設計。\n*   'Q.B.'可能指的是特定類型的琴酒或調酒師的姓名縮寫，儘管明確的含義已隨著時間的流逝而消失。"
+  },
+  "technique": {
+    "en": "Build over ice, top with ginger ale, stir gently.",
+    "zh": "在冰上調製，加入薑汁汽水，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon wheel or wedge",
+    "zh": "檸檬片或角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow with a slight green tint, effervescent.",
+    "zh": "淡黃色，帶有輕微的綠色色調，有氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "提供基酒和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

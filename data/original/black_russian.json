@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Black Russian",
+    "zh": "黑色俄羅斯"
+  },
+  "description": {
+    "en": "**Simple yet potent cocktail**\n\nA classic combination of vodka and coffee liqueur served over ice:\n\n*   Easy to make with only two ingredients\n*   Strong coffee flavor with a significant alcohol kick",
+    "zh": "**簡單而強勁的雞尾酒**\n\n伏特加和咖啡利口酒的經典組合，加冰塊飲用：\n\n*   僅用兩種成分，容易製作\n*   濃郁的咖啡味，帶有明顯的酒精衝擊"
+  },
+  "historical_reference": {
+    "en": "**Created in Brussels in 1949**\n\n*   Invented by Gustave Tops for U.S. Ambassador to Luxembourg Perle Mesta at the Hotel Metropole.\n*   The name refers to the use of vodka (associated with Russia) and the dark color of the drink.",
+    "zh": "**1949年在布魯塞爾創建**\n\n*   由Gustave Tops在Metropole酒店為美國駐盧森堡大使Perle Mesta發明。\n*   名稱指的是使用伏特加（與俄羅斯有關）和飲料的深色。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "在冰上調製"
+  },
+  "garnish": {
+    "en": "None typically, coffee beans optional",
+    "zh": "通常沒有，可選咖啡豆"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark brown to black, opaque",
+    "zh": "深棕色至黑色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

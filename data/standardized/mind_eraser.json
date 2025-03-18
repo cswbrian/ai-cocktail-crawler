@@ -1,0 +1,114 @@
+{
+  "name": {
+    "en": "Mind Eraser",
+    "zh": "失憶"
+  },
+  "description": {
+    "en": "**Layered Coffee Kick**\n\nA potent combination designed for quick consumption:\n*   Served in a rocks glass without ice.\n*   Layered to allow for a mixed effect as you drink.\n*   Known for its strong caffeine and alcohol content.",
+    "zh": "**分層的咖啡衝擊**\n\n一種專為快速飲用而設計的強效組合：\n*   在岩石杯中不加冰塊供應。\n*   分層以在您飲用時產生混合效果。\n*   以其濃烈的咖啡因和酒精含量而聞名。"
+  },
+  "historical_reference": {
+    "en": "**Origins Unclear**\n\n*   Likely emerged in the late 20th century.\n*   Popularized in bars and nightclubs for its strong effect.\n*   The name suggests its intended impact: to 'erase' the drinker's mind.",
+    "zh": "**起源不明**\n\n*   可能出現在20世紀末。\n*   因其強烈的效果而在酒吧和夜總會中普及。\n*   這個名字暗示了它的預期影響：'抹去'飲用者的思想。"
+  },
+  "technique": {
+    "en": "Layer ingredients in a rocks glass (no ice) in the order: Vodka, Coffee Liqueur, Soda Water.",
+    "zh": "將原料按以下順序分層放入岩石杯（不加冰塊）：伏特加、咖啡利口酒、蘇打水。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Layered black and white, effervescent",
+    "zh": "分層的黑色和白色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "提供中性的酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "添加咖啡味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

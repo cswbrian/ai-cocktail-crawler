@@ -1,0 +1,130 @@
+{
+  "name": {
+    "en": "Byculla",
+    "zh": "拜庫拉"
+  },
+  "description": {
+    "en": "**A stirred, boozy cocktail reminiscent of a Manhattan or Old Fashioned, but with rum.**\n\nIt features:\n*   Rich dark rum as the base.\n*   Sweet vermouth for sweetness and body.\n*   Angostura bitters for complexity.",
+    "zh": "**一款攪拌的，酒味濃烈的雞尾酒，讓人聯想到曼哈頓或古典雞尾酒，但以蘭姆酒為基礎。**\n\n它的特色：\n*   濃郁的深色蘭姆酒作為基底。\n*   甜味美思帶來甜味和酒體。\n*   安格仕苦精增添複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Created by Tristan Stephenson at the Worship Street Whistling Shop in London.**\n\n*   Named after the Byculla neighborhood in Mumbai, India.\n*   A modern classic rum cocktail.",
+    "zh": "**由特里斯坦·斯蒂芬森在倫敦的沃orship街口哨店創作。**\n\n*   以印度孟買的Byculla社區命名。\n*   一款現代經典蘭姆酒雞尾酒。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass. Garnish with an orange peel.",
+    "zh": "與冰塊攪拌，然後濾入冰鎮的玻璃杯中。用橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber and slightly hazy, with a thin white foam.",
+    "zh": "深琥珀色，略帶朦朧，帶有薄薄的白色泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base with caramel and spice notes.",
+        "zh": "提供豐富的，以糖蜜為主的基底，帶有焦糖和香料味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, herbal notes, and body.",
+        "zh": "增添甜味、草本味和酒體。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "少量安格仕苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity, spice, and bitterness.",
+        "zh": "增加複雜性、香料和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Dry Rob Roy",
+    "zh": "乾式羅伯羅伊"
+  },
+  "description": {
+    "en": "A drier version of the classic Rob Roy, emphasizing the Scotch whisky's character with minimal sweetness. It is an elegant and sophisticated variation, appealing to those who prefer a less sweet cocktail.",
+    "zh": "經典羅伯羅伊的一種較乾的版本，以最少的甜度突顯蘇格蘭威士忌的特性。 這是一種優雅而精緻的變體，適合喜歡不太甜的雞尾酒的人。"
+  },
+  "historical_reference": {
+    "en": "The Rob Roy cocktail is a variation of the Manhattan, created in 1894 at the Waldorf Astoria in New York City. It was named after Robert Roy MacGregor, a Scottish folk hero.\n\nThe *Dry Rob Roy* is a variation that uses dry vermouth instead of sweet vermouth, resulting in a drier and less sweet drink.",
+    "zh": "羅伯羅伊雞尾酒是曼哈頓的一種變體，於1894年在紐約市的華爾道夫酒店創作。 它以蘇格蘭民間英雄羅伯特·羅伊·麥格雷戈的名字命名。\n\n*Dry Rob Roy* 是一種使用乾味美思代替甜味美思的變體，從而產生更乾且不太甜的飲料。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice in a mixing glass. Strain into a chilled glass. Garnish with a lemon twist.",
+    "zh": "將所有材料與冰塊在攪拌杯中攪拌。 濾入冰鎮的玻璃杯中。 用檸檬皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale amber liquid",
+    "zh": "清澈的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky and malty base of the cocktail.",
+        "zh": "提供雞尾酒煙燻和麥芽的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes to complement the Scotch.",
+        "zh": "增加乾度及草本調性以襯托蘇格蘭威士忌。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice.",
+        "zh": "增加複雜度和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

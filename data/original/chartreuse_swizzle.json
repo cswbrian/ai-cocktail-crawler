@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Chartreuse Swizzle",
+    "zh": "查特酒思醉"
+  },
+  "description": {
+    "en": "**Complex Herbal Delight**\n\nA refreshing and complex cocktail showcasing Green Chartreuse.\n\n*   Features a unique blend of herbal and citrus notes.\n*   Has a frothy texture from the swizzling technique.\n*   Balanced with pineapple and lime.",
+    "zh": "**複雜的草本享受**\n\n一款清爽而複雜的雞尾酒，展示了綠色查特酒的風味。\n\n*   具有獨特的草本和柑橘風味。\n*   通過旋轉攪拌產生泡沫質地。\n*   以鳳梨和萊姆平衡風味。"
+  },
+  "historical_reference": {
+    "en": "The Chartreuse Swizzle was created by Eveleigh bartender Matt Concannon in 2009. It quickly became a modern classic, showcasing the unique and complex flavor of Green Chartreuse in a refreshing and approachable way. Its rapid spread is due to the drink's balance, refreshing character, and the mystique of its key ingredient.",
+    "zh": "Chartreuse Swizzle 由 Eveleigh 酒吧的 Matt Concannon 於 2009 年創作。它迅速成為現代經典，以清爽且平易近人的方式展示了綠色查特酒獨特而複雜的風味。其迅速傳播歸功於這款飲品的平衡、清爽的特性以及其關鍵成分的神秘感。"
+  },
+  "technique": {
+    "en": "Add all ingredients to a glass filled with crushed ice. Swizzle with a swizzle stick until a frost forms on the outside of the glass. Add more crushed ice to fill.",
+    "zh": "將所有材料加入裝滿碎冰的杯子中。用攪拌棒旋轉攪拌，直到杯子外面結霜。加入更多碎冰填滿。"
+  },
+  "garnish": {
+    "en": "Mint sprig and a pineapple wedge",
+    "zh": "薄荷枝和鳳梨角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or tiki mug",
+    "zh": "高球杯或提基杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green liquid with a frothy top",
+    "zh": "混濁的淺綠色液體，頂部有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the herbal and complex base flavor.",
+        "zh": "提供草本和複雜的基底風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical notes.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the drink.",
+        "zh": "增加甜度以平衡飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Rose's Gimlet",
+    "zh": "羅絲琴酒"
+  },
+  "description": {
+    "en": "**Classic and Refreshing**\n\nThe Rose's Gimlet is a simple yet elegant cocktail that highlights the interplay between gin and lime. It is known for its crispness and balance.\n\n*   Simple to prepare, emphasizing quality ingredients.\n*   A refreshing and balanced flavor profile.\n*   Perfect for warm weather or as an aperitif.",
+    "zh": "**經典且清爽**\n\n羅絲琴酒是一款簡單而優雅的雞尾酒，突出了琴酒和酸橙之間的相互作用。 它以其清脆和平衡而聞名。\n\n*   易於準備，強調優質原料。\n*   清爽且平衡的風味。\n*   非常適合溫暖的天氣或作為開胃酒。"
+  },
+  "historical_reference": {
+    "en": "**Origins in the British Navy**\n\nThe Gimlet is believed to have originated in the British Royal Navy as a way to combat scurvy. Lime juice was mixed with gin to make it more palatable.\n\n*   Often attributed to Surgeon Rear-Admiral Sir Thomas Desmond Gimlette.\n*   Rose's Lime Juice cordial became a popular ingredient due to its stability and availability.\n*   The exact proportions have evolved over time, with modern recipes often using fresh lime juice instead of Rose's.",
+    "zh": "**起源於英國海軍**\n\n人們認為琴酒起源於英國皇家海軍，作為對抗壞血病的一種方法。酸橙汁與琴酒混合，使其更易於飲用。\n\n*   通常歸功於外科醫生後方海軍上將托馬斯·德斯蒙德·金姆雷特爵士。\n*   羅絲的酸橙汁糖漿因其穩定性和可用性而成為一種流行的成分。\n*   確切的比例隨著時間的推移而不斷發展，現代食譜通常使用新鮮的酸橙汁代替羅絲的酸橙汁。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into a chilled glass",
+    "zh": "與冰搖勻，然後濾入冰鎮的玻璃杯中"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "酸橙角或輪片"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or rocks glass",
+    "zh": "雞尾酒杯或岩石杯"
+  },
+  "appearance": {
+    "en": "Clear, slightly green-tinted liquid",
+    "zh": "清澈，略帶綠色的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical notes.",
+        "zh": "提供酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rose's Lime Cordial",
+        "zh": "Rose's 酸橙糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and lime flavor.",
+        "zh": "增加甜味和酸橙風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

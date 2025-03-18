@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Canelazo (Variation)",
+    "zh": "卡內拉佐 (變奏)"
+  },
+  "description": {
+    "en": "**Colombian Anise Delight**\n\nA refreshing mix showcasing Colombia's signature spirit, Aguardiente, often enjoyed in festive occasions:\n\n*   Aguardiente provides a unique anise flavor.\n*   Lime/Orange juice adds a citrusy touch.\n*   Sugar balances the drink with sweetness.",
+    "zh": "**哥倫比亞茴芹之樂**\n\n清新爽口的混合，展示了哥倫比亞的標誌性烈酒阿瓜迪恩特，通常在節慶場合享用：\n\n*   阿瓜迪恩特提供獨特的茴芹風味。\n*   檸檬/橙汁增添柑橘風味。\n*   糖平衡了飲料的甜度。"
+  },
+  "historical_reference": {
+    "en": "**Aguardiente: A Colombian Staple**\n\n*   Aguardiente has deep roots in Colombian culture, dating back to colonial times.\n*   The name translates to \"fire water,\" indicating its potency.\n*   Regional variations exist, showcasing the diversity of Colombian spirits.",
+    "zh": "**阿瓜迪恩特酒：哥倫比亞的主食**\n\n*   阿瓜迪恩特酒在哥倫比亞文化中根深蒂固，可以追溯到殖民時代。\n*   這個名字翻譯成「火水」，表示它的效力。\n*   存在區域差異，展示了哥倫比亞烈酒的多樣性。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice. Optionally top with soda water.",
+    "zh": "與冰塊一起搖晃，然後濾入裝滿冰塊的玻璃杯中。可選擇加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Lime or orange wedge",
+    "zh": "檸檬或橙角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to green",
+    "zh": "混濁，淡黃色到綠色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aguardiente",
+        "zh": "阿瓜迪恩特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the anise-flavored base, characteristic of Colombian cocktails.",
+        "zh": "提供茴芹風味的基底，是哥倫比亞調酒的特色。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the Aguardiente and lime.",
+        "zh": "增加甜度以平衡阿瓜迪恩特酒和檸檬的酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

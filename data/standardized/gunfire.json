@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Gunfire",
+    "zh": "炮火"
+  },
+  "description": {
+    "en": "**Simple and Strong**\n\nA basic cocktail traditionally consumed for warmth and a quick boost. Consisting of:\n*   Dark Rum: Provides a rich base\n*   Hot Coffee: For warmth and caffeine",
+    "zh": "**簡單而濃烈**\n\n一種傳統上為了取暖和快速提神而飲用的基本調酒。組成：\n* 深色蘭姆酒：提供豐富的基底\n* 熱咖啡：為了溫暖和咖啡因"
+  },
+  "historical_reference": {
+    "en": "**Military Origins**\n\nThe Gunfire cocktail has long been associated with the British Armed Forces, particularly the Royal Navy and Army. \n\n*   Traditionally consumed on special occasions or as a morning pick-me-up.\n*   Exact origins are difficult to pinpoint but likely dates back to the 19th century or earlier.\n*   Variations exist, some including sweeteners or spices.",
+    "zh": "**軍事起源**\n\nGunfire調酒長期以來與英國武裝部隊，特別是皇家海軍和陸軍有關。\n\n* 傳統上在特殊場合飲用，或作為早晨的提神飲料。\n* 確切的起源難以確定，但可能可以追溯到19世紀或更早。\n* 存在多種變體，有些包括甜味劑或香料。"
+  },
+  "technique": {
+    "en": "Pour hot coffee into mug, add dark rum, stir gently",
+    "zh": "將熱咖啡倒入馬克杯中，加入深色蘭姆酒，輕輕攪拌"
+  },
+  "garnish": {
+    "en": "None typically, optional orange peel or coffee beans",
+    "zh": "通常沒有，可選橙皮或咖啡豆"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heat-resistant glass",
+    "zh": "馬克杯或耐熱玻璃杯"
+  },
+  "appearance": {
+    "en": "Dark amber, opaque",
+    "zh": "深琥珀色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and warmth.",
+        "zh": "提供基酒和酒體。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Coffee",
+        "zh": "熱咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds warmth, caffeine, and flavor.",
+        "zh": "增加溫暖、咖啡因和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

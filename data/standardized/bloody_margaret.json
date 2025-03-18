@@ -1,0 +1,206 @@
+{
+  "name": {
+    "en": "Bloody Margaret",
+    "zh": "血腥瑪格麗特"
+  },
+  "description": {
+    "en": "**Spicy Tomato Cocktail**\n\nA variation on the classic Bloody Mary, using sherry for added complexity and depth:\n*   Tomato juice for the base.\n*   Sherry provides nutty and savory notes.\n*   Spices and hot sauce add a kick.",
+    "zh": "**辛辣番茄雞尾酒**\n\n經典血腥瑪麗的變奏版，使用雪莉酒增加複雜度和深度：\n*   番茄汁為基底。\n*   雪莉酒提供堅果和鹹香風味。\n*   香料和辣椒醬增添風味。"
+  },
+  "historical_reference": {
+    "en": "**Modern Cocktail Variation**\n\n* A contemporary take on the classic Bloody Mary.\n* Likely named after the classic Bloody Mary, with 'Margaret' as a playful modification.\n* Sherry addition adds a sophisticated twist.",
+    "zh": "**現代雞尾酒變奏**\n\n* 經典血腥瑪麗的現代版本。\n* 可能以經典的血腥瑪麗命名，並以“瑪格麗特”作為有趣的修改。\n* 添加雪莉酒增添了精緻感。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into an ice-filled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Celery stalk, olive, lemon wedge",
+    "zh": "芹菜梗、橄欖、檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Deep red, pulpy, savory",
+    "zh": "深紅色，多果肉，鹹香"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean alcoholic base for the savory flavors.",
+        "zh": "提供一個乾淨的酒精基底，以襯托鹹香風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Sherry (e.g. Fino)",
+        "zh": "雪莉酒 (例如 Fino)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty and dry savory notes, differentiating it from a standard Bloody Mary.",
+        "zh": "增加堅果和乾爽的鹹香，使其與標準血腥瑪麗不同。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and body of the cocktail.",
+        "zh": "提供雞尾酒的基礎風味和酒體。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightens the flavors.",
+        "zh": "增加酸度並提亮風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and savory depth.",
+        "zh": "增加鮮味和鹹香深度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice and heat.",
+        "zh": "增加辛辣和熱度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Salt",
+        "zh": "一撮鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavors.",
+        "zh": "增強鹹香風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Black Pepper",
+        "zh": "一撮黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a subtle spice.",
+        "zh": "增加微妙的辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

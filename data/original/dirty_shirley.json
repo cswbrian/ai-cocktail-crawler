@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Dirty Shirley",
+    "zh": "弄髒的雪莉"
+  },
+  "description": {
+    "en": "**A Sweet and Simple Classic**\n\nThe Dirty Shirley is a playful variation on the Shirley Temple cocktail. It offers:\n*   A sweet and nostalgic flavor profile.\n*   An easy-to-make and approachable cocktail.\n*   A vibrant and visually appealing presentation.",
+    "zh": "**一款甜蜜而簡單的經典**\n\nDirty Shirley 是 Shirley Temple 雞尾酒的有趣變奏。它提供：\n* 一種甜蜜而懷舊的風味。\n* 一款易於製作且平易近人的雞尾酒。\n* 一種充滿活力且視覺上吸引人的呈現方式。"
+  },
+  "historical_reference": {
+    "en": "**A Boozy Upgrade to a Childhood Favorite**\n\nThe Dirty Shirley builds upon the non-alcoholic Shirley Temple, named after child actress Shirley Temple. Adding vodka transforms this kid-friendly drink into an adult cocktail, maintaining its signature sweetness and vibrant color.",
+    "zh": "**童年最愛的含酒精升級版**\n\nDirty Shirley 以非酒精的 Shirley Temple 為基礎，後者以童星 Shirley Temple 的名字命名。 加入伏特加將這款適合兒童的飲料轉變為成人雞尾酒，同時保持其標誌性的甜味和鮮豔的色彩。"
+  },
+  "technique": {
+    "en": "Build. Add vodka and grenadine to a highball glass filled with ice. Top with ginger ale. Garnish with a maraschino cherry.",
+    "zh": "直接調合法。在裝滿冰塊的高球杯中加入伏特加和紅石榴糖漿。 頂部加入薑汁汽水。 用馬拉斯奇諾櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Bright red, bubbly, with a cherry garnish.",
+    "zh": "鮮紅色、氣泡、櫻桃裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and allows other flavors to shine.",
+        "zh": "提供酒精基底，並讓其他風味展現。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and the signature red color.",
+        "zh": "增加甜味和標誌性的紅色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Ginger Ale",
+        "zh": "薑汁汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fizz.",
+        "zh": "增加甜味和氣泡。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bit of sourness",
+        "zh": "增加一點酸味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

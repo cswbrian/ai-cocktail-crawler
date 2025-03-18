@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Mai Tai",
+    "zh": "美泰"
+  },
+  "description": {
+    "en": "**A quintessential tiki cocktail**\n\nThe Mai Tai is a complex and flavorful cocktail featuring:\n*   A blend of rums for depth\n*   Orange curaçao for citrus notes\n*   Orgeat syrup for almond sweetness\n*   Fresh lime juice for balance",
+    "zh": "**經典的提基雞尾酒**\n\nMai Tai 是一款複雜且風味十足的雞尾酒，特色：\n*   混合蘭姆酒以增加深度\n*   橙味庫拉索帶來柑橘風味\n*   杏仁糖漿帶來杏仁的甜味\n*   新鮮的檸檬汁帶來平衡"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in 1944 by Victor J. Bergeron (Trader Vic) at his restaurant in Oakland, California.\n\n*   The name \"Mai Tai\" comes from the Tahitian word *maita'i*, meaning \"good\".\n*   Bergeron claimed he created the drink for some Tahitian friends who exclaimed \"maita'i roa!\" after tasting it.",
+    "zh": "**起源**: 1944 年由 Victor J. Bergeron (Trader Vic) 在其位於加州奧克蘭的餐廳創作。\n\n*   名稱“Mai Tai”來自塔希提語 *maita'i*，意思是“好”。\n*   Bergeron 聲稱他為一些塔希提朋友創造了這種飲料，他們在品嚐後驚呼“maita'i roa!”"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into glass filled with crushed ice. Garnish.",
+    "zh": "將所有材料與冰塊搖勻。 濾入裝滿碎冰的杯子中。 裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, lime wedge or shell, optional fruit skewer.",
+    "zh": "薄荷枝、檸檬角或檸檬殼，可選水果串。"
+  },
+  "serve_in_glass": {
+    "en": "Double Old Fashioned or Tiki Mug",
+    "zh": "雙份古典杯或提基杯"
+  },
+  "appearance": {
+    "en": "Amber to dark amber, depending on the rums used, often with a frothy head.",
+    "zh": "琥珀色至深琥珀色，取決於使用的蘭姆酒，通常帶有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, funky base with notes of molasses and spice.",
+        "zh": "提供豐富、獨特的基底，帶有糖蜜和香料的味道。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Rhum Agricole",
+        "zh": "農業蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds grassy, vegetal notes and complexity.",
+        "zh": "增添草本、植物風味和複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "皮耶費朗干邑橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "增加橙子風味和甜味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides almond flavor and sweetness.",
+        "zh": "提供杏仁風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential sourness and balance.",
+        "zh": "增加必要的酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

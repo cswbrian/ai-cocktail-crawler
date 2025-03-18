@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Strawberry Lemonade",
+    "zh": "草莓檸檬水"
+  },
+  "description": {
+    "en": "**Classic Summer Cooler**\n\nA refreshing and sweet-tart beverage, perfect for warm weather, featuring:\n*   Fresh strawberries for a fruity flavor\n*   Lemon juice for a citrusy tang\n*   Optional vodka or rum for an alcoholic version",
+    "zh": "**經典夏季冷飲**\n\n清爽酸甜的飲品，非常適合溫暖的天氣，特色：\n*   新鮮草莓帶來水果風味\n*   檸檬汁帶來柑橘風味\n*   可選的伏特加或蘭姆酒製成酒精版本"
+  },
+  "historical_reference": {
+    "en": "**Modern American Classic**\n\n*   Lemonade dates back centuries, with variations in the Middle East and Europe.\n*   Strawberry lemonade is a more recent innovation, gaining popularity in the 20th century.\n*   Commonly found at fairs, festivals, and restaurants during the summer months.",
+    "zh": "**現代美式經典**\n\n*   檸檬水可追溯至數個世紀前，在中東和歐洲都有不同變體。\n*   草莓檸檬水是最近的創新，在20世紀開始流行。\n*   常見於夏季的博覽會、節慶和餐廳。"
+  },
+  "technique": {
+    "en": "Muddle strawberries, combine all ingredients, shake or stir, strain over ice.",
+    "zh": "搗碎草莓，混合所有成分，搖勻或攪拌，過濾後倒入冰塊。"
+  },
+  "garnish": {
+    "en": "Strawberry slice and/or lemon wedge",
+    "zh": "草莓切片和/或檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Collins glass",
+    "zh": "高球杯或柯林斯杯"
+  },
+  "appearance": {
+    "en": "Pink to red, opaque, with strawberry slices and/or lemon wedge",
+    "zh": "粉紅色至紅色，不透明，帶有草莓片和/或檸檬角"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Fresh Strawberries",
+        "zh": "新鮮草莓"
+      },
+      "unit": {
+        "en": "pcs",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fruity flavor.",
+        "zh": "增加甜味和水果風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides tartness and balance.",
+        "zh": "提供酸味和平衡。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adjusts sweetness levels.",
+        "zh": "調整甜度。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the mixture.",
+        "zh": "稀釋混合物。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

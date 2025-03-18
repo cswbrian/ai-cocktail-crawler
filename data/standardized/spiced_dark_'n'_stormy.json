@@ -1,0 +1,114 @@
+{
+  "name": {
+    "en": "Spiced Dark 'n' Stormy",
+    "zh": "香料 Dark 'n' Stormy"
+  },
+  "description": {
+    "en": "**A Spicy Twist on a Classic**\n\nThis variation of the Dark 'n' Stormy adds warming spices for a more complex flavor profile, perfect for cooler weather:\n\n*   Uses a homemade spice syrup\n*   Maintains the signature balance of sweet and spicy\n*   Garnished with candied ginger",
+    "zh": "**經典的辛辣風味**\n\n這種Dark 'n' Stormy的變體添加了溫暖的香料，帶來更複雜的風味，非常適合在涼爽的天氣飲用：\n\n* 使用自製香料糖漿\n* 保持了標誌性的甜味和辛辣味平衡\n* 以蜜餞薑裝飾"
+  },
+  "historical_reference": {
+    "en": "**Dark 'n' Stormy Origins**\n\nThe Dark 'n' Stormy is a trademarked cocktail created in Bermuda.\n\n*   Created shortly after WWI\n*   Official cocktail of Bermuda\n*   Must be made with Gosling's Black Seal rum to be a true Dark 'n' Stormy",
+    "zh": "**Dark 'n' Stormy 起源**\n\nDark 'n' Stormy 是一種在百慕達創造的註冊商標雞尾酒。\n\n*   第一次世界大戰後不久創建\n*   百慕達的官方雞尾酒\n*   必須用 Gosling's Black Seal 蘭姆酒才能成為真正的 Dark 'n' Stormy"
+  },
+  "technique": {
+    "en": "Build over ice; top with ginger beer.",
+    "zh": "在冰上調製；最後加入薑汁啤酒。"
+  },
+  "garnish": {
+    "en": "Candied ginger skewer",
+    "zh": "蜜餞薑串"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Dark amber, effervescent",
+    "zh": "深琥珀色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with rich molasses notes and depth.",
+        "zh": "提供基酒，帶有豐富的糖蜜風味和深度。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Spiced Syrup",
+        "zh": "香料糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and spiced notes.",
+        "zh": "增加甜味和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": true
+  }
+}

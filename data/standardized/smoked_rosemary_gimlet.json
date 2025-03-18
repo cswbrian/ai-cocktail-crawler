@@ -1,0 +1,136 @@
+{
+  "name": {
+    "en": "Smoked Rosemary Gimlet",
+    "zh": "煙燻迷迭香 Gimlet"
+  },
+  "description": {
+    "en": "**Smoked Rosemary Gimlet**\n\nA modern twist on the classic Gimlet, featuring:\n*   Smoked rosemary for an aromatic and smoky note\n*   Fresh lime juice for tartness\n*   Simple syrup for sweetness",
+    "zh": "**煙燻迷迭香 Gimlet**\n\n經典 Gimlet 的現代轉變，特色：\n*   煙燻迷迭香帶來芳香和煙燻味\n*   新鮮萊姆汁帶來酸味\n*   簡糖漿帶來甜味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Modern adaptation of the classic Gimlet.\n\n*   The Gimlet is believed to have originated in the late 19th century.\n*   Variations with herbs and smoked elements are contemporary innovations.",
+    "zh": "**起源**: 經典 Gimlet 的現代改編。\n\n*   Gimlet 據信起源於 19 世紀末。\n*   使用草藥和煙燻元素的變體是當代的創新。"
+  },
+  "technique": {
+    "en": "Smoke rosemary sprig, shake all ingredients with ice, double strain into chilled glass, garnish with smoked rosemary sprig.",
+    "zh": "將迷迭香枝煙燻，將所有材料與冰塊搖勻，雙重過濾到冰鎮的杯子中，用煙燻迷迭香枝裝飾。"
+  },
+  "garnish": {
+    "en": "Smoked rosemary sprig",
+    "zh": "煙燻迷迭香枝"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale green, clear, with a sprig of rosemary",
+    "zh": "淡綠色，清澈，帶有一枝迷迭香"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity.",
+        "zh": "增加酸度和酸澀感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the acidity and adds sweetness.",
+        "zh": "平衡酸度並增加甜味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Rosemary",
+        "zh": "迷迭香"
+      },
+      "unit": {
+        "en": "sprig",
+        "zh": "枝"
+      },
+      "rationale": {
+        "en": "Smoked rosemary adds a distinct aroma and flavor.",
+        "zh": "煙燻迷迭香增添獨特的香氣和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Sloe Gin Fizz",
+    "zh": "黑刺李琴費士"
+  },
+  "description": {
+    "en": "**Classic Gin Fizz Variation**\n\nA refreshing and fruity gin-based cocktail with a vibrant pink hue. Its features are:\n\n*   Sloe gin base\n*   Citrus balance from lemon juice\n*   Sweetness from simple syrup\n*   Effervescence from soda water",
+    "zh": "**經典琴費士的變體**\n\n一款清新且帶有水果風味的琴酒基底雞尾酒，具有鮮豔的粉紅色調。它的特點是：\n\n*   黑刺李琴酒基底\n*   檸檬汁帶來的柑橘平衡感\n*   簡糖漿帶來的甜味\n*   蘇打水帶來的氣泡感"
+  },
+  "historical_reference": {
+    "en": "**Origin and Evolution**\n\n*   A variation of the classic Gin Fizz, using sloe gin for a distinct flavor.\n*   Popularized in the early 20th century.\n*   First documented in cocktail books during the same period as other fizzes.",
+    "zh": "**起源與演變**\n\n*   經典琴費士的一種變體，使用黑刺李琴酒以獲得獨特的風味。\n*   20世紀初開始流行。\n*   首次記錄在與其他費士雞尾酒同一時期的雞尾酒書籍中。"
+  },
+  "technique": {
+    "en": "Shake first three ingredients with ice, strain into a highball glass filled with ice, top with soda water.",
+    "zh": "將前三種原料與冰塊搖勻，倒入裝滿冰塊的高球杯中，再加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Lemon slice or cherry",
+    "zh": "檸檬片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pinkish-red, frothy, effervescent",
+    "zh": "粉紅色至紅色，起泡，有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sloe Gin",
+        "zh": "黑刺李琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor with its fruity and slightly tart character.",
+        "zh": "提供基底風味，帶有水果味和略帶酸味的特性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the cocktail and enhances the other flavors.",
+        "zh": "使雞尾酒變甜並增強其他風味。"
+      }
+    },
+    {
+      "amount": 75,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the cocktail.",
+        "zh": "增加氣泡並稀釋雞尾酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 4,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

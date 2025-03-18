@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Spritz",
+    "zh": "斯普里茲"
+  },
+  "description": {
+    "en": "**Classic Italian Aperitivo**\n\nA refreshing and light cocktail, perfect as an aperitif:\n*   Easy to prepare and customize\n*   Iconic orange color and bubbly texture\n*   Slightly bitter and fruity flavor",
+    "zh": "**經典義大利餐前酒**\n\n清爽輕盈的雞尾酒，非常適合作為開胃酒：\n*   易於準備和客製化\n*   標誌性的橙色和氣泡質地\n*   略帶苦味和水果風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Veneto, Italy\n\n*   Evolved from the practice of adding water to wine to dilute it.\n*   The modern Spritz emerged in the early 20th century with the addition of bitter liqueurs.\n*   Aperol Spritz became popular in the 1950s.",
+    "zh": "**起源**: 義大利威尼托\n\n*   由在葡萄酒中加水的做法演變而來，以稀釋酒精度。\n*   現代Spritz在20世紀初隨著苦味利口酒的加入而出現。\n*   Aperol Spritz在1950年代開始流行。"
+  },
+  "technique": {
+    "en": "Build over ice. Combine Prosecco and bitter liqueur. Top with soda water.",
+    "zh": "在冰上調製。混合普羅塞克和苦味利口酒。最後加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Orange slice or olive",
+    "zh": "橙片或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or large goblet",
+    "zh": "葡萄酒杯或大高腳杯"
+  },
+  "appearance": {
+    "en": "Bright orange-red with lively bubbles",
+    "zh": "明亮的橙紅色，帶有活潑的氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic Bitter Liqueur",
+        "zh": "通用苦味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the characteristic bitter-orange flavor and color.",
+        "zh": "增添了標誌性的苦橙風味和顏色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly base and dry wine notes.",
+        "zh": "提供氣泡基底和乾葡萄酒的風味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "top",
+        "zh": "適量"
+      },
+      "rationale": {
+        "en": "Adds a splash of effervescence and dilutes the drink.",
+        "zh": "增添氣泡感並稀釋飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "20th Century Cocktail",
+    "zh": "二十世紀雞尾酒"
+  },
+  "description": {
+    "en": "**A Pre-Prohibition Classic**\n\nA balanced gin cocktail featuring:\n*   Gin for a solid base.\n*   Lemon juice for sourness.\n*   Créme de cacao for chocolate and sweetness.\n*   Cream for texture and richness.",
+    "zh": "**禁酒令前經典**\n\n一款均衡的琴酒雞尾酒，特色：\n* 琴酒作為堅實的基底。\n* 檸檬汁帶來酸味。\n* 可可奶油帶來巧克力風味和甜味。\n* 鮮奶油增加質地和濃郁度。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in the early 20th century.\n\n*   First appeared in print in *Recipes for Mixed Drinks* by Hugo Ensslin (1917).\n*   Served at the Wallick and Hoffman's bar, also known as the Hoffman House in New York City.",
+    "zh": "**起源**: 20世紀初創作。\n\n*   首次出現在Hugo Ensslin的《*混合飲料配方*》（1917年）中。\n*   在紐約市的Wallick and Hoffman's酒吧（也稱為霍夫曼之家）供應。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Grated Nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Clear, vibrant pink",
+    "zh": "清澈、鮮豔的粉紅色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary spirit base and botanical complexity.",
+        "zh": "提供主要的烈酒基底和植物的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "White Crème de Cacao",
+        "zh": "白色可可奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and sweetness.",
+        "zh": "增加巧克力風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness.",
+        "zh": "增加酸度以平衡甜味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a rich and velvety texture.",
+        "zh": "增加豐富和柔滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

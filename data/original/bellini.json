@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Bellini",
+    "zh": "貝里尼"
+  },
+  "description": {
+    "en": "**Elegant Italian Cocktail**\n\nA simple yet refined cocktail, traditionally made with:\n*   Fresh white peach purée\n*   Prosecco\n*   Served chilled in a flute",
+    "zh": "**優雅的義大利雞尾酒**\n\n一款簡單而精緻的雞尾酒，傳統上由以下材料製成：\n* 新鮮白桃泥\n* 普羅塞克\n* 冷藏後在高腳杯中飲用"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Harry's Bar, Venice, Italy\n\n*   Created in 1948 by Giuseppe Cipriani\n*   Named after the painter Giovanni Bellini, as the drink's color reminded Cipriani of the saint's robe in a Bellini painting.",
+    "zh": "**起源**: 義大利威尼斯哈利酒吧\n\n*   1948年由Giuseppe Cipriani創作\n*   以畫家喬凡尼·貝里尼（Giovanni Bellini）命名，因為飲料的顏色讓Cipriani想起貝里尼畫作中聖徒的長袍。"
+  },
+  "technique": {
+    "en": "Pour peach purée into a chilled flute, top with Prosecco.",
+    "zh": "將桃子泥倒入冰鎮的長笛杯中，然後倒入普羅塞克。"
+  },
+  "garnish": {
+    "en": "None, or a peach slice",
+    "zh": "無，或一片桃子"
+  },
+  "serve_in_glass": {
+    "en": "Flute",
+    "zh": "長笛杯"
+  },
+  "appearance": {
+    "en": "Pale pink, effervescent",
+    "zh": "淡粉色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly base of the cocktail.",
+        "zh": "提供雞尾酒的氣泡基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "White Peach Puree",
+        "zh": "白桃泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the signature peach flavor and sweetness.",
+        "zh": "增添標誌性的桃子風味和甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

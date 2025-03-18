@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Reverend's Daughter",
+    "zh": "牧師的女兒"
+  },
+  "description": {
+    "en": "**Complex and Refreshing Sour**\n\nA modern classic cocktail that balances gin with citrus and herbal notes, featuring:\n*   Elderflower liqueur for floral sweetness\n*   Egg white for a smooth, velvety texture\n*   Fresh herbs for an aromatic finish",
+    "zh": "**複雜而清爽的酸味雞尾酒**\n\n一款現代經典雞尾酒，將琴酒與柑橘和草本香氣平衡，特色：\n*   接骨木花利口酒帶來花香甜味\n*   蛋白帶來柔滑如天鵝絨般的質感\n*   新鮮香草帶來芬芳的尾韻"
+  },
+  "historical_reference": {
+    "en": "**Modern Classic Creation**\n\nThe Reverend's Daughter is a contemporary cocktail created in the early 2000s.\n\n*   Its exact origin is debated but is generally attributed to the modern cocktail movement.\n*   It is known for its balanced flavor profile and elegant presentation.",
+    "zh": "**現代經典創作**\n\n牧師的女兒是一款於 2000 年代初期創作的現代雞尾酒。\n\n*   其確切起源尚有爭議，但通常歸功於現代雞尾酒運動。\n*   它以其均衡的風味和優雅的呈現方式而聞名。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Strain into chilled glass.",
+    "zh": "將所有材料乾搖，然後再次加冰搖晃。濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Fresh herb sprig (e.g., mint or basil)",
+    "zh": "新鮮香草枝（例如：薄荷或羅勒）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head",
+    "zh": "混濁的淡黃色，帶有泡沫狀的白色頂部"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the botanical base and structure of the cocktail.",
+        "zh": "提供雞尾酒的植物基底和結構。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness and aromatic complexity.",
+        "zh": "增添花香甜味和芳香複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness to the cocktail.",
+        "zh": "為雞尾酒增添酸度和明亮度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a smooth, velvety texture and creates a frothy head.",
+        "zh": "增加光滑、如天鵝絨般的質地，並產生泡沫狀的頂部。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Fresh Herb",
+        "zh": "新鮮香草"
+      },
+      "unit": {
+        "en": "sprigs",
+        "zh": "小枝"
+      },
+      "rationale": {
+        "en": "Adds an aromatic note. Mint or basil are common",
+        "zh": "添加香氣。薄荷或羅勒很常見"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

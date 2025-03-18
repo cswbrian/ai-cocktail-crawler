@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Perfect Martini",
+    "zh": "完美馬丁尼"
+  },
+  "description": {
+    "en": "**Classic and Dry Cocktail**\n\nThe Perfect Martini is a sophisticated and balanced cocktail. It features:\n\n*   Equal parts dry and sweet vermouth\n*   A gin base, preferrably London Dry\n*   Served ice cold",
+    "zh": "**經典且乾爽的雞尾酒**\n\n完美馬丁尼是一款精緻而平衡的雞尾酒。它的特色包括：\n\n*   等比例的乾苦艾酒和甜苦艾酒\n*   以琴酒為基底，最好是倫敦乾琴酒\n*   冰鎮飲用"
+  },
+  "historical_reference": {
+    "en": "**Evolution of the Martini**\n\n*   The Martini evolved from earlier cocktails like the Martinez.\n*   The \"Perfect\" designation refers to the equal parts of dry and sweet vermouth, a balance between the dry and sweet versions.",
+    "zh": "**馬丁尼的演變**\n\n*   馬丁尼是由更早的雞尾酒演變而來，如馬丁尼茲。\n*   「完美」一詞指的是等比例的乾苦艾酒和甜苦艾酒，是乾式和甜式之間的平衡。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass",
+    "zh": "與冰塊攪拌後倒入冰鎮的杯子"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Crystal clear, colorless liquid",
+    "zh": "晶瑩剔透，無色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the foundation of the cocktail, providing a botanical profile.",
+        "zh": "構成雞尾酒的基礎，提供植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes, balancing the gin.",
+        "zh": "增加乾度及草本味，平衡琴酒。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes, contributing to the 'perfect' balance.",
+        "zh": "增加甜度和草本味，有助於“完美”平衡。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

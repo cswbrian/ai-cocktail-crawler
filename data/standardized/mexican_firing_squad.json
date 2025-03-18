@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Mexican Firing Squad",
+    "zh": "墨西哥行刑隊"
+  },
+  "description": {
+    "en": "**Complex Tequila Cocktail**\n\nA vibrant mix of sweet, spicy, and smoky notes:\n*   Tequila for the base\n*   Lime juice for balance\n*   Grenadine for sweetness and color\n*   Angostura bitters for complexity\n*   A dash of chili tincture for spice",
+    "zh": "**複雜的龍舌蘭雞尾酒**\n\n甜、辣和煙燻味的充滿活力的混合：\n* 龍舌蘭酒為基酒\n* 檸檬汁帶來平衡\n* 石榴糖漿帶來甜味和顏色\n* 安格式圖拉苦精增加複雜性\n* 少許辣椒酊劑增添風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in Mexico, though its exact history is debated.\n\n*   Likely emerged in the mid-20th century.\n*   The name suggests a potent and revolutionary drink.",
+    "zh": "**起源**: 據信起源於墨西哥，但其確切歷史尚有爭議。\n\n* 可能出現在20世紀中葉。\n* 這個名字暗示了一種強大而具有革命性的飲品。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻後倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or chili pepper",
+    "zh": "檸檬角或辣椒"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Deep red, slightly opaque",
+    "zh": "深紅色，略不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with agave notes.",
+        "zh": "提供龍舌蘭酒的基酒風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balance.",
+        "zh": "增加酸味和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "增加甜味和顏色。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity.",
+        "zh": "增加複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Chili Tincture",
+        "zh": "辣椒酊劑"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice.",
+        "zh": "增加風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

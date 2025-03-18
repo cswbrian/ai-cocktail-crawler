@@ -1,0 +1,100 @@
+{
+  "name": {
+    "en": "Redheaded slut",
+    "zh": "紅髮蕩婦"
+  },
+  "description": {
+    "en": "**Sweet and Fruity Shot**\n\nA layered shot combining the sweetness of peach and cranberry with a creamy topping.\n\n*   Easy to drink\n*   Popular for its sweet flavor\n*   Visually appealing layered effect",
+    "zh": "**香甜水果風味的shot**\n\n結合水蜜桃和蔓越莓的甜味，並帶有奶油topping的分層shot。\n\n*   容易入口\n*   因其甜味而受歡迎\n*   視覺上吸引人的分層效果"
+  },
+  "historical_reference": {
+    "en": "The Redheaded slut cocktail is a modern creation, with no specific historical origin tied to classic bartending. Its popularity stems from its ease of preparation and sweet, approachable flavor profile.",
+    "zh": "紅髮蕩婦雞尾酒是一種現代創作，沒有與經典調酒相關的特定歷史淵源。 它的普及源於其易於準備和甜美易飲的風味。"
+  },
+  "technique": {
+    "en": "Layer ingredients in order: peach flavored spirit, cranberry juice, then carefully layer Irish cream on top.",
+    "zh": "按順序分層倒入：水蜜桃風味烈酒、蔓越莓汁，然後小心地將愛爾蘭奶油分層在頂部。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered red and creamy liquid with a light pink hue",
+    "zh": "分層的紅色和奶油色液體，帶有淡粉色色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Peach Flavored Spirit",
+        "zh": "水蜜桃風味烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a fruity base and distinct peach flavor",
+        "zh": "增加水果基底和獨特的水蜜桃風味"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates the creamy layer and adds sweetness",
+        "zh": "產生奶油層並增加甜味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and the red layer",
+        "zh": "增加酸味和紅色層"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

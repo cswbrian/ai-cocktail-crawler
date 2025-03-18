@@ -1,0 +1,148 @@
+{
+  "name": {
+    "en": "Quick Fuck",
+    "zh": "快速性愛"
+  },
+  "description": {
+    "en": "A layered shot that is sweet and creamy. Typically consumed quickly.",
+    "zh": "一種分層的子彈杯酒，口感香甜柔滑，通常快速飲用。"
+  },
+  "historical_reference": {
+    "en": "The origin and creator of this drink are relatively unknown. The layering technique makes the shot appealing and visually distinct.",
+    "zh": "這種飲料的起源和創造者相對不為人知。分層技術使這款子彈杯酒具有吸引力且在視覺上與眾不同。"
+  },
+  "technique": {
+    "en": "Carefully layer the ingredients in the shot glass, starting with coffee liqueur, then Irish cream, and finishing with Grand Marnier.",
+    "zh": "小心地將配料分層放入子彈杯中，首先是咖啡利口酒，然後是愛爾蘭奶油，最後是柑曼怡。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "子彈杯"
+  },
+  "appearance": {
+    "en": "Layered shot with distinct color bands, typically red, yellow, and clear or white.",
+    "zh": "分層的子彈杯，具有明顯的顏色條紋，通常為紅色、黃色以及透明或白色。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base layer and a rich coffee flavor.",
+        "zh": "提供底層和濃郁的咖啡風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates a creamy middle layer with a hint of whiskey flavor.",
+        "zh": "形成奶油狀的中間層，帶有淡淡的威士忌風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grand Marnier",
+        "zh": "柑曼怡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrus and cognac top layer for a smooth finish.",
+        "zh": "添加柑橘和干邑頂層，帶來順滑的口感。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base layer and a rich coffee flavor.",
+        "zh": "提供底層和濃郁的咖啡風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates a creamy middle layer with a hint of whiskey flavor.",
+        "zh": "形成奶油狀的中間層，帶有淡淡的威士忌風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grand Marnier",
+        "zh": "柑曼怡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrus and cognac top layer for a smooth finish.",
+        "zh": "添加柑橘和干邑頂層，帶來順滑的口感。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

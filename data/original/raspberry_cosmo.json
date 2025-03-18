@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Raspberry Cosmo",
+    "zh": "覆盆子柯夢波丹"
+  },
+  "description": {
+    "en": "A fruity twist on the classic Cosmopolitan, the Raspberry Cosmo offers a delightful blend of sweet and tart flavors. It's visually appealing and easy to drink, making it a popular choice for social gatherings. The drink features:\n\n*   A fruity and refreshing taste\n*   A beautiful pink hue\n*   Easy to customize",
+    "zh": "覆盆子柯夢波丹是經典柯夢波丹的果味變奏，融合了甜味和酸味，令人愉悅。它在視覺上很吸引人，而且容易入口，使其成為社交聚會的熱門選擇。 這款飲品的特色：\n\n*   口感清爽，果味十足\n*   美麗的粉紅色色調\n*   容易客製化"
+  },
+  "historical_reference": {
+    "en": "The Cosmopolitan gained popularity in the 1990s, and the Raspberry Cosmo is a modern variation, likely created to add a fruity twist to the original. \n\n* The Cosmopolitan's origins are debated, with several claims to its invention.\n* The Raspberry Cosmo highlights fresh raspberry flavour.",
+    "zh": "柯夢波丹在 1990 年代開始流行，而覆盆子柯夢波丹是一種現代變體，可能是為了在原創雞尾酒中添加果味而創作的。\n\n* 柯夢波丹的起源存在爭議，有多種關於其發明的說法。\n* 覆盆子柯夢波丹突出了新鮮覆盆子的風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Raspberries or a lime wedge",
+    "zh": "覆盆子或一片檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini or Coupe glass",
+    "zh": "冰鎮馬丁尼杯或 Coupe 杯"
+  },
+  "appearance": {
+    "en": "Vibrant pink, clear, and inviting.",
+    "zh": "鮮豔的粉紅色，清澈且誘人。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Citrus Vodka",
+        "zh": "柑橘伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base with citrus notes that complement the other ingredients.",
+        "zh": "提供酒精基底，柑橘味與其他成分相輔相成。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complements the other fruit flavors.",
+        "zh": "增加甜味並補充其他水果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Raspberry Juice",
+        "zh": "覆盆子汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the raspberry flavor and natural sweetness.",
+        "zh": "提供覆盆子風味和天然甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸味，平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

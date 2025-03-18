@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Atomic Cocktail",
+    "zh": "原子雞尾酒"
+  },
+  "description": {
+    "en": "**A rich and complex after-dinner cocktail**\n\nThe Atomic Cocktail is a decadent and layered drink that combines the boldness of bourbon with coffee and chocolate notes.\n\n*   Rich and full-bodied\n*   Coffee and chocolate notes",
+    "zh": "**一款濃郁而複雜的餐後雞尾酒**\n\n原子雞尾酒是一款頹廢且層次分明的飲品，將波本威士忌的濃烈與咖啡和巧克力風味相結合。\n\n*   濃郁醇厚\n*   咖啡和巧克力風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Likely created in the mid-20th century.\n\nThe cocktail's name and ingredients suggest a mid-20th century origin, possibly inspired by the atomic age and a desire for a powerful, impactful drink.\n\n*   Name reflects the Atomic Age\n*   Exact origin unknown",
+    "zh": "**起源**：可能創建於20世紀中葉。\n\n這款雞尾酒的名稱和成分表明它起源於20世紀中葉，可能受到原子時代的啟發，並渴望獲得一種強大而有影響力的飲料。\n\n*   名稱反映了原子時代\n*   確切起源未知"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated chocolate or coffee beans",
+    "zh": "磨碎的巧克力或咖啡豆"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Deep red, opaque, frothy head",
+    "zh": "深紅色、不透明、泡沫狀頂部"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and strength of the cocktail, with vanilla and caramel notes.",
+        "zh": "提供雞尾酒的基底和強度，帶有香草和焦糖味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Chocolate Liqueur",
+        "zh": "巧克力利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a rich chocolate flavor and sweetness.",
+        "zh": "增添濃郁的巧克力風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Strong Brewed Coffee",
+        "zh": "濃縮咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bold, roasted flavor and caffeine kick.",
+        "zh": "添加濃郁的烘焙風味和咖啡因。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness to balance the bitterness.",
+        "zh": "增加一絲甜味，以平衡苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

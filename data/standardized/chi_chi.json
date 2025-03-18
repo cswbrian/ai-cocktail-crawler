@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Chi Chi",
+    "zh": "奇奇"
+  },
+  "description": {
+    "en": "**Tropical Vodka Cocktail**\n\nA creamy and refreshing blend, similar to a Piña Colada but with vodka instead of rum:\n\n*   Blended with ice for a smooth texture.\n*   Often enjoyed as a poolside or beachside drink.",
+    "zh": "**熱帶伏特加雞尾酒**\n\n奶油般清爽的混合飲品，類似於鳳梨可樂達，但使用伏特加代替蘭姆酒：\n\n*   與冰混合，口感柔滑。\n*   經常作為池畔或海灘飲品享用。"
+  },
+  "historical_reference": {
+    "en": "**Variant of the Piña Colada**\n\nThe Chi Chi is essentially a Piña Colada made with vodka instead of rum. It lacks a definitive origin story, but likely emerged as a simple substitution to cater to vodka drinkers. The name suggests it's a playful take on the more well-known Piña Colada.\n\n*   Evolved from the Piña Colada\n*   Popularized due to the widespread availability and preference for vodka\n*   Likely originated in the United States",
+    "zh": "**鳳梨可樂達的變體**\n\nChi Chi 本質上是用伏特加代替蘭姆酒製成的鳳梨可樂達。它缺乏明確的起源故事，但很可能作為一個簡單的替代品出現，以迎合伏特加飲用者。這個名字暗示了它是一個對更廣為人知的鳳梨可樂達的有趣演繹。\n\n*   從鳳梨可樂達演變而來\n*   由於伏特加的廣泛供應和偏好而普及\n*   可能起源於美國"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "將所有材料與冰混合至光滑。倒入杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or maraschino cherry.",
+    "zh": "鳳梨角和/或醃製櫻桃。"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or a large goblet.",
+    "zh": "颶風杯或大型高腳杯。"
+  },
+  "appearance": {
+    "en": "Opaque, creamy white to light green depending on the use of food coloring.",
+    "zh": "不透明，乳白色至淡綠色，取決於是否使用食用色素。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary fruity sweetness and tropical flavor.",
+        "zh": "提供主要的果香甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess, sweetness, and a distinct coconut flavor.",
+        "zh": "增加乳脂感、甜味和獨特的椰子風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

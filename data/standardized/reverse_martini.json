@@ -1,0 +1,97 @@
+{
+  "name": {
+    "en": "Reverse Martini",
+    "zh": "反向馬丁尼"
+  },
+  "description": {
+    "en": "**A twist on the classic Martini**\n\nThe Reverse Martini inverts the traditional ratio, emphasizing the vermouth:\n\n*   Less spirit, more aromatized wine\n*   Milder flavor profile\n*   A lighter, aperitif-style drink",
+    "zh": "**經典馬丁尼的變奏**\n\n反向馬丁尼顛倒了傳統比例，強調了苦艾酒：\n\n*   減少烈酒，增加風味葡萄酒\n*   更溫和的風味\n*   更輕盈的餐前酒風格飲品"
+  },
+  "historical_reference": {
+    "en": "**Modern Variation**\n\nThe Reverse Martini is a more recent adaptation of the classic Martini, catering to preferences for lighter, less alcoholic cocktails:\n\n*   Emerged in the late 20th century\n*   Reflects changing tastes towards lower-ABV drinks\n*   Offers a more approachable Martini experience",
+    "zh": "**現代變體**\n\n反向馬丁尼是經典馬丁尼的現代改編，迎合了對更清淡、低酒精雞尾酒的偏好：\n\n*   出現於20世紀末\n*   反映了對低酒精飲料不斷變化的品味\n*   提供了一種更容易接受的馬丁尼體驗"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass, chilled",
+    "zh": "馬丁尼杯，冰鎮"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow",
+    "zh": "清澈，淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Neutral Spirit",
+        "zh": "中性烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and dryness.",
+        "zh": "提供酒精基底和乾度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Aromatized Wine",
+        "zh": "風味葡萄酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the dominant flavor profile, herbal and slightly sweet.",
+        "zh": "提供主要的風味，草本和略帶甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

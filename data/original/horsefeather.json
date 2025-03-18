@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Horsefeather",
+    "zh": "馬羽"
+  },
+  "description": {
+    "en": "**Spicy and Refreshing Highball**\n\nThe Horsefeather is a simple yet satisfying highball cocktail featuring rye whiskey, ginger beer, and a dash of bitters.\n\nKey elements include:\n*   Rye whiskey for a spicy base.\n*   Ginger beer for sweetness and fizz.\n*   Bitters for complexity.\n*   Lime wedge for brightness.",
+    "zh": "**辛辣清爽的高杯雞尾酒**\n\nHorsefeather 是一款簡單而令人滿意的高杯雞尾酒，以黑麥威士忌、薑汁啤酒和少許苦精為特色。\n\n主要元素包括：\n* 黑麥威士忌提供辛辣的基底。\n* 薑汁啤酒帶來甜味和氣泡。\n* 苦精增加複雜性。\n* 青檸角增添明亮度。"
+  },
+  "historical_reference": {
+    "en": "**Midwestern Origins**\n\nThe Horsefeather is believed to have originated in the Midwestern United States. Its exact origins are somewhat hazy, but it gained popularity in the latter half of the 20th century.\n\n*   Likely a variation on the Buck or Mule family of cocktails.\n*   Known for its simplicity and refreshing qualities.",
+    "zh": "**中西部起源**\n\nHorsefeather 被認為起源於美國中西部。 其確切起源有些模糊，但在 20 世紀後半葉開始流行。\n\n* 可能是 Buck 或 Mule 系列雞尾酒的變體。\n* 以其簡單性和清爽的品質而聞名。"
+  },
+  "technique": {
+    "en": "Build. Add rye whiskey and bitters to a highball glass filled with ice. Top with ginger beer. Garnish with a lime wedge.",
+    "zh": "直接調合法。 將黑麥威士忌和苦精加入裝滿冰塊的高杯杯中。 加入薑汁啤酒至滿杯。 用青檸角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "青檸角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯杯"
+  },
+  "appearance": {
+    "en": "Pale amber, effervescent",
+    "zh": "淡琥珀色，起泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and effervescence.",
+        "zh": "增加甜味和氣泡。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Bitters",
+        "zh": "數滴苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and depth.",
+        "zh": "增加複雜性和深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

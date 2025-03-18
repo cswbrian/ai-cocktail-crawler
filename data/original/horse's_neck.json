@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Horse's Neck",
+    "zh": "馬頸"
+  },
+  "description": {
+    "en": "**Classic and Refreshing**\n\nThe Horse's Neck is a simple and elegant cocktail with a distinctive presentation.\n\n*   Features a long spiral of lemon peel draped over the edge of the glass.\n*   Typically made with ginger ale and optionally a base spirit such as bourbon or cognac.\n*   Provides a refreshing and slightly spicy flavor profile.",
+    "zh": "**經典且清爽**\n\n馬頸是一種簡單而優雅的雞尾酒，具有獨特的呈現方式。\n\n*   以長長的檸檬皮螺旋覆蓋在玻璃杯的邊緣為特色。\n*   通常用薑汁汽水調製，並可選擇添加波本威士忌或干邑白蘭地等基酒。\n*   提供清爽且略帶辛辣的風味。"
+  },
+  "historical_reference": {
+    "en": "**Origins and Evolution**\n\nThe Horse's Neck dates back to the late 19th century.\n\n*   Originally a non-alcoholic drink made with ginger ale and lemon peel.\n*   Later, the addition of bourbon or cognac became common.\n*   The name likely refers to the long spiral of lemon peel resembling a horse's neck.",
+    "zh": "**起源與演變**\n\n馬頸可以追溯到19世紀後期。\n\n*   最初是一種用薑汁汽水和檸檬皮製成的非酒精飲料。\n*   後來，添加波本威士忌或干邑白蘭地變得常見。\n*   這個名字可能指的是長長的檸檬皮螺旋，類似於馬的脖子。"
+  },
+  "technique": {
+    "en": "Build over ice. Drape the long spiral of lemon peel over the edge of the glass, allowing it to hang inside. Add spirit (optional), then fill with ginger ale.",
+    "zh": "在冰上調製。將長長的檸檬皮螺旋覆蓋在玻璃杯的邊緣，使其懸掛在內部。添加烈酒（可選），然後用薑汁汽水填滿。"
+  },
+  "garnish": {
+    "en": "Long spiral of lemon peel draped over the edge of the glass",
+    "zh": "長長的檸檬皮螺旋覆蓋在玻璃杯的邊緣"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Collins glass",
+    "zh": "高杯玻璃杯或柯林斯杯"
+  },
+  "appearance": {
+    "en": "Clear, light golden color with a long spiral of lemon peel",
+    "zh": "清澈、淺金黃色，帶有長長的檸檬皮螺旋"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavor.",
+        "zh": "提供基酒和濃郁的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ginger Ale",
+        "zh": "薑汁汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, fizz, and ginger flavor.",
+        "zh": "增加甜味、氣泡和薑味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon Peel",
+        "zh": "檸檬皮"
+      },
+      "unit": {
+        "en": "long spiral",
+        "zh": "長螺旋"
+      },
+      "rationale": {
+        "en": "Adds citrus aroma and flavor.",
+        "zh": "增加柑橘香氣和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

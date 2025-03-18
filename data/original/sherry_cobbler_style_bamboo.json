@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Bamboo",
+    "zh": "竹子"
+  },
+  "description": {
+    "en": "**A refined and delicate aperitivo.**\n\nThe Bamboo cocktail is a simple yet elegant combination of sherry and vermouth, often with a dash of bitters, creating a light and refreshing drink.\n\n*   Low ABV\n*   Easy to prepare\n*   Perfect before dinner",
+    "zh": "**精緻細膩的餐前酒。**\n\nBamboo 雞尾酒是雪莉酒和苦艾酒的簡單而優雅的結合，通常帶有一點苦味，創造出一種清淡而清爽的飲料。\n\n*   低酒精濃度\n*   易於準備\n*   非常適合晚餐前飲用"
+  },
+  "historical_reference": {
+    "en": "**Created in the late 19th century.**\n\nThe Bamboo cocktail emerged in the late 19th century. It's associated with Louis Eppinger, a bartender at the Grand Hotel in Yokohama, Japan. The drink is named after the Bamboo Bar in the hotel, reflecting the exotic allure of Japan at the time.",
+    "zh": "**創建於 19 世紀後期。**\n\nBamboo 雞尾酒出現在 19 世紀後期。它與橫濱 Grand Hotel 的調酒師 Louis Eppinger 有關。這款飲料以酒店的 Bamboo Bar 命名，反映了當時日本的異國情調。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟形香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale golden and clear",
+    "zh": "淡金色且清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "Dry Sherry"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary flavor and body with its dry and nutty notes.",
+        "zh": "提供調酒的主要風味和酒體，帶有乾爽和堅果的味道。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle layer of bitterness and complexity.",
+        "zh": "增加微妙的苦味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a subtle layer of bitterness and complexity.",
+        "zh": "增加微妙的苦味和複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a subtle layer of bitterness and complexity.",
+        "zh": "增加微妙的苦味和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

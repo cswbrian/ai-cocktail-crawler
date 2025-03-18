@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Juan Collins",
+    "zh": "璜·柯林斯"
+  },
+  "description": {
+    "en": "**A Refreshing Gin Highball**\n\nA variation on the classic Tom Collins, the Juan Collins is a vibrant and effervescent cocktail perfect for warm weather. It features:\n\n*   Gin for a botanical base\n*   Lemon juice for tartness\n*   Simple syrup for sweetness\n*   Club soda for fizz",
+    "zh": "**清爽的琴酒 Highball**\n\nJuan Collins 是經典 Tom Collins 的變體，是一款充滿活力和氣泡的雞尾酒，非常適合溫暖的天氣。 它的特色是：\n\n*   琴酒，提供植物基礎\n*   檸檬汁，帶來酸味\n*   簡糖漿，增加甜度\n*   蘇打水，增加氣泡"
+  },
+  "historical_reference": {
+    "en": "**A Collins Variation**\n\nThe Juan Collins is a variation of the Tom Collins, a cocktail named after a hoax in 1874 New York.  This version offers a unique twist, perhaps through a specific gin or garnish.\n\n*   Classic Collins family\n*   Refreshing long drink\n*   Perfect for warm weather",
+    "zh": "**柯林斯變體**\n\nJuan Collins 是 Tom Collins 的變體，這款雞尾酒以 1874 年紐約的惡作劇命名。 這個版本提供了一個獨特的轉折，可能是通過特定的琴酒或裝飾。\n\n*   經典柯林斯家族\n*   清爽的長飲\n*   非常適合溫暖的天氣"
+  },
+  "technique": {
+    "en": "Build in glass. Add gin, lemon juice, and simple syrup to a highball glass filled with ice. Top with club soda and stir gently. Garnish with a lemon wheel or cherry.",
+    "zh": "在高球杯中調製。將琴酒、檸檬汁和簡糖漿加入裝滿冰塊的高球杯中。加入蘇打水並輕輕攪拌。用檸檬片或櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon wheel or cherry",
+    "zh": "檸檬片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, bubbly, and refreshing",
+    "zh": "淡黃色，有氣泡，令人耳目一新"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's botanical backbone and alcoholic kick.",
+        "zh": "提供雞尾酒的植物基礎和酒精強度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸味並平衡甜味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lemon juice.",
+        "zh": "增加甜味以平衡檸檬汁。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Club Soda",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the cocktail to make it a refreshing long drink.",
+        "zh": "增加氣泡並稀釋雞尾酒，使其成為清爽的長飲。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

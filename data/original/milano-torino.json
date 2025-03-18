@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Milano-Torino",
+    "zh": "米蘭-都靈"
+  },
+  "description": {
+    "en": "A simple yet elegant aperitivo, the Milano-Torino is a foundational cocktail showcasing the harmonious blend of bitter and sweet. It's a pre-dinner classic.",
+    "zh": "米蘭-都靈是一款簡單而優雅的餐前酒，是一款基礎雞尾酒，展示了苦味和甜味的協調融合。 是一款經典的餐前飲品。"
+  },
+  "historical_reference": {
+    "en": "**Origin and History**:\n\n*   Named after the cities where its two ingredients originated: Milan (for Campari) and Turin (for sweet vermouth).\n*   Precursor to the Negroni and Americano.\n*   Popularized in the early 20th century.",
+    "zh": "**起源與歷史**:\n\n*   以兩種成分的起源城市命名：米蘭（金巴利）和都靈（甜味美思）。\n*   尼格羅尼和美式咖啡的前身。\n*   20 世紀初開始流行。"
+  },
+  "technique": {
+    "en": "Build over ice",
+    "zh": "加冰製作"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or coupe",
+    "zh": "古典杯或 coupe 杯"
+  },
+  "appearance": {
+    "en": "Deep red, clear",
+    "zh": "深紅色，清澈"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides bitter notes",
+        "zh": "提供苦味"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body",
+        "zh": "增加甜味和酒體"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

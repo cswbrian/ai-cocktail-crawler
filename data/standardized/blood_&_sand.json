@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Blood & Sand",
+    "zh": "血與沙"
+  },
+  "description": {
+    "en": "**A Classic Cocktail with a Theatrical Name**\n\nThe Blood & Sand is a balanced cocktail that combines:\n*   Scotch whisky's smoky notes\n*   Sweetness from cherry heering\n*   Citrusy orange juice\n*   A touch of sweet vermouth for complexity",
+    "zh": "**一款名稱戲劇化的經典雞尾酒**\n\n血與沙是一款均衡的雞尾酒，結合了：\n* 蘇格蘭威士忌的煙熏味\n* 櫻桃白蘭地的甜味\n* 柑橘橙汁\n* 略帶甜味的美思增加複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after the 1922 bullfighting movie *Blood and Sand*, starring Rudolph Valentino.\n\n*   Created in the 1920s, likely as a tribute to the film's popularity.\n*   First appeared in print in Harry Craddock's *Savoy Cocktail Book* (1930).",
+    "zh": "**起源**：以 1922 年由魯道夫·瓦倫蒂諾主演的鬥牛電影《*血與沙*》命名。\n\n* 創作於 1920 年代，可能是為了向電影的流行致敬。\n* 首次出現在哈里·克拉多克的《*薩伏伊雞尾酒書*》（1930 年）。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，倒入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Orange twist or cherry",
+    "zh": "橙皮或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Reddish-orange, slightly cloudy",
+    "zh": "紅橙色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic strength.",
+        "zh": "提供基底風味和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds cherry flavor and sweetness.",
+        "zh": "增加櫻桃風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal notes and complexity.",
+        "zh": "增加草本風味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

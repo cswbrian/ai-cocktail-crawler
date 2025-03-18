@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Yorsh",
+    "zh": "约尔什"
+  },
+  "description": {
+    "en": "**Simple and Potent Combination**\n\nThe Yorsh is a rudimentary mix of beer and vodka, often consumed for its high alcoholic content and ease of preparation.\n\n*   Typically uses lager-style beer.\n*   Ratio can vary based on preference.\n*   Consumed quickly.",
+    "zh": "**簡單而強烈的組合**\n\nYorsh是啤酒和伏特加的混合物，通常因其高酒精含量和易於製備而被飲用。\n\n* 通常使用窖藏啤酒。\n* 比例可以根據喜好而變化。\n* 快速飲用。"
+  },
+  "historical_reference": {
+    "en": "**Origins in Slavic Cultures**\n\nThe Yorsh (Ёрш in Russian) is a simple mixed drink with roots in Slavic drinking traditions.\n\n*   Likely originated as a way to quickly achieve intoxication.\n*   Name sometimes used to refer to other strong mixed drinks.\n*   Consumed across Eastern Europe.",
+    "zh": "**起源於斯拉夫文化**\n\nYorsh (俄語為Ёрш) 是一種簡單的混合飲料，起源於斯拉夫飲酒傳統。\n\n* 可能起源於一種快速達到醉酒的方法。\n* 名稱有時用於指代其他烈性混合飲料。\n* 在整個東歐消費。"
+  },
+  "technique": {
+    "en": "Pour vodka into the glass, then top with beer.",
+    "zh": "將伏特加倒入玻璃杯中，然後倒入啤酒。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass or beer mug",
+    "zh": "品脫杯或啤酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to light brown liquid with minimal head.",
+    "zh": "混濁的，淡黃色至淺棕色液體，泡沫極少。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds alcoholic strength and a neutral spirit base.",
+        "zh": "增加酒精強度和中性烈酒的基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 250,
+      "name": {
+        "en": "Beer",
+        "zh": "啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary volume and malt-driven flavor.",
+        "zh": "提供主要的體積和麥芽風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

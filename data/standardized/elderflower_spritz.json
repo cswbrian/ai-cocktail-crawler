@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Elderflower Spritz",
+    "zh": "接骨木花氣泡酒"
+  },
+  "description": {
+    "en": "**Refreshing and floral aperitivo**\n\nA delightful and easy-to-make cocktail featuring:\n\n*   Elderflower liqueur for a distinct floral aroma.\n*   Prosecco for a bubbly and refreshing base.\n*   Soda water to lengthen the drink and add extra fizz.",
+    "zh": "**清爽花香開胃酒**\n\n一款令人愉悅且易於製作的雞尾酒，特色：\n\n*   接骨木花利口酒帶來獨特的花香。\n*   普羅塞克提供氣泡和清爽的基底。\n*   蘇打水延長飲用時間並增加氣泡。"
+  },
+  "historical_reference": {
+    "en": "**Modern Aperitivo**\n\n*   Originating in the early 2000s as a variation on the classic spritz.\n*   Popularized for its light and refreshing qualities.\n*   Elderflower liqueur adds a contemporary twist.",
+    "zh": "**現代開胃酒**\n\n*   起源於2000年代初期，是經典Spritz的變體。\n*   因其清淡和清爽的特質而廣受歡迎。\n*   接骨木花利口酒增添了現代風味。"
+  },
+  "technique": {
+    "en": "Build over ice. Add Prosecco and Elderflower Liqueur, top with soda water.",
+    "zh": "在冰塊上調製。加入普羅塞克和接骨木花利口酒，最後加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Lemon or lime slice, mint sprig",
+    "zh": "檸檬或萊姆片，薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or Highball glass",
+    "zh": "葡萄酒杯或高球杯"
+  },
+  "appearance": {
+    "en": "Pale gold, effervescent",
+    "zh": "淡金色，有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a floral and sweet flavor.",
+        "zh": "增添花香和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly base and fruity notes.",
+        "zh": "提供氣泡基底和水果風味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "top",
+        "zh": "補滿"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

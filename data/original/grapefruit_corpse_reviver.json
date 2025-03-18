@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Grapefruit Corpse Reviver",
+    "zh": "葡萄柚Corpse Reviver"
+  },
+  "description": {
+    "en": "A twist on the classic Corpse Reviver #2, this version replaces Lillet Blanc with grapefruit juice for a tart and refreshing variation. It retains the core elements of gin, Cointreau, and absinthe, resulting in a complex and invigorating cocktail perfect as an aperitif or a pick-me-up.",
+    "zh": "這款是經典的Corpse Reviver #2的變奏版，以葡萄柚汁取代了Lillet Blanc，帶來酸味和清爽的變化。 它保留了琴酒、君度橙酒和苦艾酒的核心元素，是一款複雜而令人振奮的雞尾酒，非常適合作為餐前酒或提神飲品。"
+  },
+  "historical_reference": {
+    "en": "The Corpse Reviver family of cocktails dates back to the late 19th century, designed to be potent hangover cures. While the exact origin of the grapefruit variation is unclear, it likely emerged as a contemporary adaptation of the classic Corpse Reviver #2, substituting ingredients for a modern palate.\n\n*   **Corpse Reviver #1**: Brandy, Calvados, Sweet Vermouth\n*   **Corpse Reviver #2**: Gin, Cointreau, Lillet Blanc, Lemon Juice, Absinthe",
+    "zh": "Corpse Reviver系列雞尾酒可以追溯到19世紀末，旨在成為有效的宿醉解藥。 雖然葡萄柚變體的確切起源尚不清楚，但它很可能作為經典Corpse Reviver #2的現代改編版而出現，替換了食材以適應現代口味。\n\n*   **Corpse Reviver #1**：白蘭地、卡爾瓦多斯、甜味美思\n*   **Corpse Reviver #2**：琴酒、君度橙酒、Lillet Blanc、檸檬汁、苦艾酒"
+  },
+  "technique": {
+    "en": "Rinse a chilled coupe glass with absinthe, discarding the excess. Shake all ingredients with ice and strain into the prepared glass. Garnish with a grapefruit peel.",
+    "zh": "用苦艾酒沖洗一個冰鎮的 Coupe杯，倒掉多餘的。 將所有材料與冰塊搖勻，然後倒入準備好的杯子中。 用葡萄柚皮裝飾。"
+  },
+  "garnish": {
+    "en": "Grapefruit peel",
+    "zh": "葡萄柚皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Coupe or Martini glass",
+    "zh": "冰鎮的 Coupe杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale pink to light orange, clear",
+    "zh": "淡粉色至淺橙色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and botanical notes.",
+        "zh": "提供主要的酒精骨幹和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange notes.",
+        "zh": "增加甜味和橙子味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Grapefruit Juice",
+        "zh": "新鮮葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and citrus notes.",
+        "zh": "增添酸味和柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Rinses the glass, providing anise aroma and flavor.",
+        "zh": "沖洗杯子，提供茴芹的香氣和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

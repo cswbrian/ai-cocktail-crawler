@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Maracuya Pisco Sour",
+    "zh": "百香果皮斯可酸酒"
+  },
+  "description": {
+    "en": "**A tropical twist on the classic Pisco Sour**\n\nThis variation of the Pisco Sour incorporates passion fruit (maracuya) for a vibrant and fruity flavor profile. It maintains the classic sour elements while introducing a tropical sweetness and aroma.\n\n*   Passion fruit adds a tangy and sweet dimension.\n*   Egg white creates a smooth and velvety texture.\n*   Bitters add aromatic complexity.",
+    "zh": "**經典皮斯可酸酒的熱帶風味**\n\n這款皮斯可酸酒的變奏版加入了百香果（maracuya），帶來充滿活力和果香的風味。它保留了經典酸酒的元素，同時引入了熱帶的甜味和香氣。\n\n*   百香果增添了濃郁和甜美的風味。\n*   蛋白創造了柔滑和天鵝絨般的質地。\n*   苦精增加了香氣的複雜性。"
+  },
+  "historical_reference": {
+    "en": "The Pisco Sour originated in Peru in the early 1920s, with variations emerging over time. While the exact origin of the Maracuya Pisco Sour is less documented, it's a modern adaptation that leverages the popular combination of passion fruit and South American spirits.\n\n* The Pisco Sour is a national drink of Peru.\n* Passion fruit (maracuya) is native to South America.",
+    "zh": "皮斯可酸酒起源於 1920 年代初的秘魯，隨著時間的推移出現了各種變體。雖然馬拉庫亞皮斯可酸酒的確切起源文獻較少，但它是一種現代改編，利用了百香果和南美烈酒的流行組合。\n\n* 皮斯可酸酒是秘魯的國酒。\n* 百香果 (maracuya) 原產於南美洲。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker without ice (dry shake) to emulsify the egg white. Add ice and shake again until well-chilled. Strain into a chilled glass and garnish.",
+    "zh": "將所有材料放入搖酒器中，不加冰（乾搖）以乳化蛋白。加入冰塊再次搖晃至完全冷卻。濾入冰鎮的玻璃杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "3 drops Angostura bitters or dehydrated passion fruit slice",
+    "zh": "3滴安哥斯圖娜苦精或脫水百香果片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Old-Fashioned glass",
+    "zh": "高腳杯或古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant orange-yellow with a frothy white head",
+    "zh": "混濁，鮮豔的橙黃色，帶有泡沫狀的白色頂層"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with its unique grape brandy character.",
+        "zh": "提供基酒及其獨特的葡萄白蘭地風味。"
+      },
+      "tags": [
+        {
+          "en": "Pisco",
+          "zh": "皮斯可"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Passion Fruit Puree",
+        "zh": "百香果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the signature tropical flavor and aroma.",
+        "zh": "增添標誌性的熱帶風味和香氣。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balances the sweetness.",
+        "zh": "提供酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the sourness.",
+        "zh": "增加甜度並平衡酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加柔滑的質地和泡沫狀的頂層。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

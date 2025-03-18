@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Income Tax Cocktail",
+    "zh": "所得稅雞尾酒"
+  },
+  "description": {
+    "en": "The Income Tax cocktail is a pre-Prohibition era drink that balances gin with sweet and dry vermouth, orange juice and a dash of bitters. A delightful blend of sweet, citrus and slightly bitter notes.",
+    "zh": "所得稅雞尾酒是禁酒令之前的飲品，平衡了琴酒、甜苦艾酒、乾苦艾酒、柳橙汁和少許苦精。 融合了甜味、柑橘味和略帶苦味的美妙風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** United States, early 20th century\n\n*   Created during the Prohibition era or just before.\n*   Appeared in several cocktail books from the 1930s, including *The Savoy Cocktail Book*.\n*   The name is possibly a humorous reference to the inevitable payment of income taxes.",
+    "zh": "**起源：** 美國，20 世紀初\n\n*   創建於禁酒時期或之前不久。\n*   出現在 1930 年代的幾本雞尾酒書籍中，包括《薩沃伊雞尾酒書》。\n*   這個名字可能幽默地指不可避免的所得稅支付。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Golden, clear",
+    "zh": "金黃色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a botanical foundation.",
+        "zh": "構成雞尾酒的基底，提供植物風味的基礎。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes dryness and herbal notes.",
+        "zh": "貢獻乾味和草本味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜味和酒體。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes, balancing the gin and vermouth.",
+        "zh": "增加甜味和柑橘味，平衡琴酒和苦艾酒。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of complexity and bitterness.",
+        "zh": "增添複雜性和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Perfect Liberal",
+    "zh": "完美自由主義者"
+  },
+  "description": {
+    "en": "**Classic Martini Variation**\n\nA sophisticated and balanced cocktail featuring:\n*   Equal parts gin and dry vermouth for a harmonious blend.\n*   Orange bitters add a layer of complexity.\n*   Lemon peel provides aromatic citrus notes.",
+    "zh": "**經典馬丁尼變奏**\n\n精緻而平衡的雞尾酒，特色：\n*   等量的琴酒和不甜苦艾酒，營造和諧的融合。\n*   橙味苦精增添風味層次。\n*   檸檬皮提供芳香的柑橘味。"
+  },
+  "historical_reference": {
+    "en": "A Perfect Liberal is a variation of the Perfect Martini, itself a variation of the classic Martini.  The term \"Perfect\" in cocktail nomenclature typically means that the drink contains equal parts sweet and dry vermouth.  In this case, the Liberal uses *only* dry vermouth.",
+    "zh": "完美自由主義者是完美馬丁尼的變體，而完美馬丁尼本身就是經典馬丁尼的變體。 在雞尾酒命名法中，“完美”一詞通常意味著該飲料包含等量的甜味和不甜苦艾酒。 在這種情況下，自由主義者*僅*使用不甜苦艾酒。"
+  },
+  "technique": {
+    "en": "Stir with ice, strain into a chilled glass.",
+    "zh": "與冰塊攪拌，過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass, chilled",
+    "zh": "馬丁尼杯，冰鎮"
+  },
+  "appearance": {
+    "en": "Clear, light amber liquid",
+    "zh": "清澈的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary spirituous base and botanical complexity.",
+        "zh": "提供主要的酒精基底和植物複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and wine-like notes and softens the gin's edge.",
+        "zh": "添加草本和葡萄酒般的香氣，並軟化琴酒的邊緣。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of bitterness and aromatic complexity.",
+        "zh": "增加苦味和芳香的複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

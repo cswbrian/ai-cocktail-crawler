@@ -1,0 +1,163 @@
+{
+  "name": {
+    "en": "Glögg",
+    "zh": "瑞典熱紅酒"
+  },
+  "description": {
+    "en": "**Warm and Spiced Wine**\n\nGlögg is a traditional Scandinavian mulled wine, typically enjoyed during the Christmas season. It combines red wine, spices, and often a spirit for a warming and festive drink.\n\n*   Served hot, it is a perfect beverage for cold weather.\n*   Variations exist with different spirits and spice combinations.",
+    "zh": "**溫暖的香料酒**\n\nGlögg 是一種傳統的斯堪地納維亞熱紅酒，通常在聖誕節期間享用。 它結合了紅酒、香料，通常還有一種烈酒，是一種溫暖而喜慶的飲料。\n\n* 熱飲，是寒冷天氣的完美飲品。\n* 存在不同烈酒和香料組合的變體。"
+  },
+  "historical_reference": {
+    "en": "**Scandinavian Tradition**\n\nGlögg's origins can be traced back to medieval times, with spiced wines being consumed for their perceived health benefits. The modern version evolved over centuries and is now a staple of Scandinavian Christmas celebrations.\n\n*   Began as a way to preserve and flavor wine.\n*   Associated with the Yule season and festive gatherings.",
+    "zh": "**斯堪地納維亞傳統**\n\nGlögg 的起源可以追溯到中世紀，當時人們飲用香料酒是為了獲得其公認的健康益處。 現代版本歷經數個世紀的發展，現在已成為斯堪地納維亞聖誕慶祝活動的主要內容。\n\n* 最初是保存葡萄酒和調味葡萄酒的一種方式。\n* 與耶誕季節和節日聚會相關。"
+  },
+  "technique": {
+    "en": "Combine all ingredients except almonds and raisins in a pot. Heat gently without boiling for at least 30 minutes to allow the flavors to meld. Strain before serving. Serve hot with almonds and raisins.",
+    "zh": "將除杏仁和葡萄乾外的所有材料放入鍋中。 輕輕加熱，不要煮沸，至少 30 分鐘，讓味道融合。 上菜前過濾。 加入杏仁和葡萄乾後趁熱飲用。"
+  },
+  "garnish": {
+    "en": "Almonds and Raisins (added to each serving)",
+    "zh": "杏仁和葡萄乾（添加到每份飲品中）"
+  },
+  "serve_in_glass": {
+    "en": "Heat-resistant glass or mug.",
+    "zh": "耐熱玻璃杯或馬克杯。"
+  },
+  "appearance": {
+    "en": "Dark red, opaque, with visible spices and fruit.",
+    "zh": "深紅色，不透明，帶有可見的香料和水果。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Aquavit",
+        "zh": "阿夸維特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinct caraway flavor and increases the alcoholic content.",
+        "zh": "增添獨特的葛縷子風味並提高酒精含量。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 750,
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the Glögg, providing tannins and body.",
+        "zh": "構成 Glögg 的基底，提供單寧和酒體。"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the spices and wine.",
+        "zh": "增加甜度以平衡香料和葡萄酒。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Cinnamon Sticks",
+        "zh": "肉桂棒"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "根"
+      },
+      "rationale": {
+        "en": "Adds a warm, spicy aroma and flavor.",
+        "zh": "增添溫暖、辛辣的香氣和風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange Peel",
+        "zh": "橙皮"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and aromatic complexity.",
+        "zh": "增添柑橘風味和香氣複雜性。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cloves",
+        "zh": "丁香"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "粒"
+      },
+      "rationale": {
+        "en": "Adds a strong, pungent spice note.",
+        "zh": "增添濃郁、刺激的香料味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Cardamom Pods",
+        "zh": "小荳蔻莢"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "粒"
+      },
+      "rationale": {
+        "en": "Adds a fragrant, slightly citrusy spice note.",
+        "zh": "增添芬芳、略帶柑橘味的香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": {
+    "en": "Agua de Valencia",
+    "zh": "瓦倫西亞之水"
+  },
+  "description": {
+    "en": "**A Refreshing Spanish Cocktail**\n\nAgua de Valencia is a citrusy and bubbly cocktail from Valencia, Spain. It's a potent mix perfect for sharing, featuring:\n\n*   Fresh orange juice as its primary flavor\n*   Sparkling wine for effervescence\n*   A combination of gin and vodka for a strong alcoholic base",
+    "zh": "**清爽的西班牙雞尾酒**\n\n瓦倫西亞之水是來自西班牙瓦倫西亞的柑橘氣泡雞尾酒。 它是適合分享的強力混合飲品，特色：\n\n*   新鮮橙汁為主要風味\n*   氣泡酒增添氣泡感\n*   琴酒和伏特加的組合提供了強烈的酒精基底"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Valencia, Spain, 1959\n\n*   Created by Constante Gil in the *Cervecería Madrid*\n*   Initially offered to surprise patrons who requested sparkling wine\n*   Gained popularity in the 1970s and became a staple of Valencian nightlife",
+    "zh": "**起源**: 西班牙瓦倫西亞，1959年\n\n*   由康斯坦丁·吉爾在*馬德里啤酒廠*創造\n*   最初是為了給要求氣泡酒的顧客一個驚喜\n*   在1970年代廣受歡迎，並成為瓦倫西亞夜生活的必需品"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a pitcher, stir gently, and chill before serving. Add sparkling wine just before serving to maintain effervescence.",
+    "zh": "將所有材料混合在水壺中，輕輕攪拌，並在飲用前冷藏。 在飲用前加入氣泡酒以保持氣泡感。"
+  },
+  "garnish": {
+    "en": "Orange slice or zest",
+    "zh": "橙片或橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Large wine glass or pitcher",
+    "zh": "大酒杯或水壺"
+  },
+  "appearance": {
+    "en": "Vibrant orange, bubbly, and effervescent",
+    "zh": "鮮豔的橙色，充滿氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's spirituous base and botanical notes.",
+        "zh": "提供雞尾酒的烈酒基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    },
+    {
+      "amount": 75,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a clean alcoholic punch without overpowering the other flavors.",
+        "zh": "增加純淨的酒精強度，而不會蓋過其他風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Not typically included.",
+        "zh": "通常不包含。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 150,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor profile and sweetness.",
+        "zh": "提供主要的風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Powdered sugar",
+        "zh": "糖粉"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle sweetness, adjust amount to taste.",
+        "zh": "增添微妙甜味，依口味調整用量。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

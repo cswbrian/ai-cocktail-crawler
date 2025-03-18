@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Rose Kennedy",
+    "zh": "蘿絲·甘迺迪"
+  },
+  "description": {
+    "en": "**Light and Refreshing Cocktail**\n\nA simple and classic cocktail:\n*   Ideal as an aperitif.\n*   Easy to prepare and enjoy.",
+    "zh": "**清淡爽口的雞尾酒**\n\n一款簡單而經典的雞尾酒：\n*   非常適合作為開胃酒。\n*   易於準備和享用。"
+  },
+  "historical_reference": {
+    "en": "**Named after Rose Kennedy**\n\n*   A popular cocktail in the mid-20th century.\n*   Simple ingredients made it accessible to many.\n*   Likely created as a tribute to Rose Kennedy's elegance.",
+    "zh": "**以羅斯·甘迺迪命名**\n\n*   20世紀中期流行的雞尾酒。\n*   簡單的配料使其易於接觸。\n*   可能是為了向羅斯·甘迺迪的優雅致敬而創作。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale pink",
+    "zh": "混濁的淡粉色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and botanical flavors.",
+        "zh": "提供基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice, freshly squeezed",
+        "zh": "新鮮現榨萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a rosy hue.",
+        "zh": "增加甜味和玫瑰色調。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

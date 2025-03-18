@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Aged Rum Between the Sheets",
+    "zh": "陳年蘭姆酒床笫之間"
+  },
+  "description": {
+    "en": "A derivative of the Sidecar, the Between the Sheets replaces brandy with aged rum, adding depth and complexity.\n\n*   **Classic cocktail with a tropical twist**\n*   Ideal balance of sweet, sour, and boozy elements\n*   Versatile for different occasions",
+    "zh": "「床笫之間」是側車雞尾酒的變體，以陳年蘭姆酒代替白蘭地，增加了深度和複雜性。\n\n*   **帶有熱帶風味的經典雞尾酒**\n*   甜、酸和酒精元素的完美平衡\n*   適合不同場合"
+  },
+  "historical_reference": {
+    "en": "Credited to Harry MacElhone of Harry's New York Bar in Paris, around 1930.\n\n*   **Variant of the Sidecar cocktail**\n*   Named for its perceived effect on the drinker\n*   Features equal parts rum, cognac and lemon juice",
+    "zh": "據信由巴黎哈里紐約酒吧的哈利·麥埃爾霍恩於 1930 年左右發明。\n\n*   **側車雞尾酒的變體**\n*   以其對飲用者的感知效果命名\n*   蘭姆酒、干邑和檸檬汁等量混合"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Amber and clear",
+    "zh": "琥珀色和清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a deep base with rich molasses and oak notes.",
+        "zh": "提供濃郁的基底，帶有豐富的糖蜜和橡木味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrusy sweetness and aromatic complexity.",
+        "zh": "增添柑橘的甜味和香氣的複雜性。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides necessary acidity to balance the sweetness.",
+        "zh": "提供必要的酸度以平衡甜度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

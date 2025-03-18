@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Purgatory",
+    "zh": "煉獄"
+  },
+  "description": {
+    "en": "A complex and boozy cocktail with a unique blend of sweet, bitter, and spicy notes. The Purgatory is a bold drink for adventurous palates.\n\nKey characteristics:\n*   Rye whiskey provides a spicy backbone\n*   Benedictine adds herbal sweetness and complexity\n*   Lemon juice balances the sweetness with tartness\n*   Dry vermouth contributes dryness and herbal notes\n*   Orange bitters enhance the citrus notes and add depth",
+    "zh": "一款複雜且濃烈的雞尾酒，融合了甜、苦和辛辣的味道。煉獄是一款大膽的飲品，適合喜歡冒險的味蕾。\n\n主要特徵：\n*   黑麥威士忌提供辛辣的骨幹\n*   法國廊酒增加了草本甜味和複雜性\n*   檸檬汁以酸味平衡甜味\n*   Dry vermouth 貢獻乾澀和草本味\n*   橙味苦精增強柑橘味並增加深度"
+  },
+  "historical_reference": {
+    "en": "The Purgatory cocktail is a variation of the Vieux Carré, created by Chad Solomon and Christy Pope at Cuff in New York City in 2006. It substitutes rye whiskey for cognac, and dry vermouth for sweet vermouth, and removes the bitters of the original. It's named, likely, due to being lighter and \"less sinful\" then the original.",
+    "zh": "煉獄雞尾酒是 Vieux Carré 的變體，由 Chad Solomon 和 Christy Pope 於 2006 年在紐約市的 Cuff 創作。它用黑麥威士忌代替干邑白蘭地，用 dry vermouth 代替甜 vermouth，並去除了原版的苦味。 它的名字可能是因為它比原版更清淡和“不那麼罪惡”。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "郁金香杯或馬提尼杯"
+  },
+  "appearance": {
+    "en": "Deep red, almost purple, clear",
+    "zh": "深紅色，近乎紫色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣而濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal sweetness and complexity.",
+        "zh": "增加草本甜味和複雜性。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes dryness and herbal notes.",
+        "zh": "貢獻乾澀和草本味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness to balance the sweetness.",
+        "zh": "增加酸味以平衡甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Enhances citrus notes and adds depth.",
+        "zh": "增強柑橘味並增加深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Lapsang Souchong Martini",
+    "zh": "正山小種馬丁尼"
+  },
+  "description": {
+    "en": "A sophisticated twist on the classic Martini, infusing smoky Lapsang Souchong tea for a unique savory experience. The tea complements the gin's botanicals, adding depth and complexity.\n\n*   **Smoky & Savory:** A departure from traditional sweetness.\n*   **Tea-Infused:** Lapsang Souchong adds a distinctive character.\n*   **Elegant & Refined:** A cocktail for the discerning palate.",
+    "zh": "經典馬丁尼的精緻轉變，注入煙燻的正山小種茶，帶來獨特的鹹香體驗。茶與琴酒的植物成分相得益彰，增添深度和複雜性。\n\n*   **煙燻與鹹香：** 偏離傳統的甜味。\n*   **茶香：** 正山小種增添了獨特的風味。\n*   **優雅精緻：** 適合有品味的味蕾的雞尾酒。"
+  },
+  "historical_reference": {
+    "en": "The Lapsang Souchong Martini is a modern variation, drawing inspiration from classic gin Martinis but with a contemporary twist. Its precise origins are difficult to pinpoint, but it likely emerged from the craft cocktail scene's experimentation with tea infusions.\n\n*   **Modern Cocktail:** A recent invention.\n*   **Inspired by Classics:** Built upon the Martini foundation.\n*   **Tea Infusion Trend:** Reflects the use of unique ingredients.",
+    "zh": "正山小種馬丁尼是一種現代變體，從經典琴酒馬丁尼中汲取靈感，但帶有現代風格。其確切起源難以確定，但它很可能源於精釀雞尾酒界對茶葉浸泡的實驗。\n\n*   **現代雞尾酒：** 最近的發明。\n*   **靈感來自經典：** 建立在馬丁尼的基礎上。\n*   **茶葉浸泡趨勢：** 反映了獨特成分的使用。"
+  },
+  "technique": {
+    "en": "Stir ingredients with ice, strain into a chilled glass.",
+    "zh": "將材料與冰塊攪拌均勻，濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist, or smoked tea leaves",
+    "zh": "檸檬皮扭花，或煙燻茶葉"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass, chilled",
+    "zh": "馬丁尼杯，冰鎮"
+  },
+  "appearance": {
+    "en": "Pale gold to amber, depending on tea infusion and gin.",
+    "zh": "淡金色至琥珀色，取決於茶的浸泡程度和琴酒。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous backbone and botanical complexity.",
+        "zh": "提供烈酒骨幹和植物複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增加乾度和草本味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 5,
+      "name": {
+        "en": "Lapsang Souchong Tea Syrup",
+        "zh": "正山小種茶糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a smoky sweetness.",
+        "zh": "增添煙燻甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

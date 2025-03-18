@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Mezcal Negroni",
+    "zh": "梅斯卡爾尼格羅尼"
+  },
+  "description": {
+    "en": "A smoky twist on the classic Negroni, substituting gin with mezcal. This cocktail offers a complex profile with bitter, herbal, and smoky notes.\n\n*   **Smoky Agave:** The mezcal brings a distinctive smoky character, setting it apart from the traditional gin-based Negroni.\n*   **Balanced Bitterness:** Equal parts mezcal, vermouth, and Campari create a harmonious balance of flavors.",
+    "zh": "經典 Negroni 的煙燻變奏版，用梅斯卡爾代替琴酒。這款雞尾酒提供複雜的風味，帶有苦味、草本味和煙燻味。\n\n*   **煙燻龍舌蘭：** 梅斯卡爾帶來獨特的煙燻味，使其有別於傳統的琴酒 Negroni。\n*   **平衡的苦味：** 等量的梅斯卡爾、苦艾酒和金巴利創造出和諧的風味平衡。"
+  },
+  "historical_reference": {
+    "en": "The Negroni itself has a well-documented history, originating in Florence, Italy, in the early 20th century. The Mezcal Negroni is a more recent adaptation, gaining popularity in the 21st century as bartenders experiment with different spirits to create variations on classic cocktails.\n\n*   **Classic Negroni**: Originated in Florence, Italy around 1919.",
+    "zh": "Negroni 本身有著詳細的歷史記載，起源於 20 世紀初的義大利佛羅倫斯。 Mezcal Negroni 是一種較新的改編，隨著調酒師嘗試使用不同的烈酒來創造經典雞尾酒的變體，在 21 世紀越來越受歡迎。\n\n*   **經典 Negroni**：約於 1919 年起源於義大利佛羅倫斯。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a rocks glass with a large ice cube.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入裝有大冰塊的岩石杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈、深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅茲卡爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky, agave-forward base.",
+        "zh": "提供煙燻、以龍舌蘭為主的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the signature bitter note.",
+        "zh": "增添標誌性的苦味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and herbal complexity.",
+        "zh": "提供甜味和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

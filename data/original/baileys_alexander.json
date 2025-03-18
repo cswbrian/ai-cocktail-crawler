@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Baileys Alexander",
+    "zh": "百利甜亞歷山大"
+  },
+  "description": {
+    "en": "**Creamy and Indulgent Cocktail**\n\nA variation on the classic Alexander cocktail featuring:\n*   Gin for a spirit base\n*   Baileys Irish Cream for sweetness and creaminess\n*   Chocolate Liqueur for added depth",
+    "zh": "**奶油濃郁的雞尾酒**\n\n經典亞歷山大雞尾酒的變體，特色：\n*   琴酒作為烈酒基底\n*   百利甜酒帶來甜味和奶油味\n*   巧克力利口酒增加風味深度"
+  },
+  "historical_reference": {
+    "en": "**A Modern Twist on a Classic**\n\n*   The Alexander cocktail dates back to the early 20th century.\n*   This version substitutes the traditional crème de cacao with Baileys Irish Cream.",
+    "zh": "**經典的現代轉折**\n\n*   亞歷山大雞尾酒可追溯到20世紀初。\n*   此版本使用百利甜酒代替傳統的可可奶油。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown",
+    "zh": "奶油色，淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral spirit base.",
+        "zh": "提供中性烈酒基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Baileys Irish Cream",
+        "zh": "百利甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, creaminess and Irish whiskey flavor.",
+        "zh": "增加甜味、奶油味和愛爾蘭威士忌風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Chocolate Liqueur",
+        "zh": "巧克力利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the chocolate notes.",
+        "zh": "增強巧克力風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

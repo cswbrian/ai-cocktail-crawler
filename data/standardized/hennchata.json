@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Hennchata",
+    "zh": "干邑歐洽塔"
+  },
+  "description": {
+    "en": "**Hennchata: A Cognac-Based Horchata Cocktail**\n\nA creamy, spiced cocktail combining the richness of cognac with the refreshing qualities of horchata:\n*   Perfect balance of sweet and spicy flavors.\n*   Unique twist on a classic Mexican beverage.\n*   Served chilled or over ice.",
+    "zh": "**Hennchata：以干邑為基底的西班牙米漿雞尾酒**\n\n結合干邑白蘭地的濃郁和西班牙米漿的清爽的奶油味香料雞尾酒：\n*   甜味和辛辣風味的完美平衡。\n*   經典墨西哥飲品的獨特風味。\n*   冰鎮或加冰塊飲用。"
+  },
+  "historical_reference": {
+    "en": "**Inspiration and Origin**\n\nThe Hennchata cocktail is a modern creation that draws inspiration from:\n\n*   Traditional Mexican Horchata: A rice-based milk beverage flavored with cinnamon and vanilla\n*   Cognac cocktails: Combining the flavors of horchata with a base spirit like cognac.",
+    "zh": "**靈感和起源**\n\nHennchata 雞尾酒是一種現代創作，其靈感來自：\n\n*   傳統墨西哥 Horchata：一種以米為基礎的牛奶飲料，帶有肉桂和香草的味道\n*   干邑雞尾酒：將西班牙米漿風味與干邑等基酒結合。"
+  },
+  "technique": {
+    "en": "Combine ingredients in a shaker with ice. Shake well until chilled and strain into glass filled with ice.",
+    "zh": "將所有材料和冰塊放入搖酒器中。充分搖晃至冰鎮，然後倒入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Cinnamon stick or sprinkle of cinnamon.",
+    "zh": "肉桂棒或撒上肉桂粉。"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or highball glass",
+    "zh": "矮杯或高杯"
+  },
+  "appearance": {
+    "en": "Milky, light-tan color with a frothy top.",
+    "zh": "乳白色，淺棕色，頂部有泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and adds complexity.",
+        "zh": "提供基酒並增加複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Horchata",
+        "zh": "西班牙米漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the creamy, spiced flavor base.",
+        "zh": "增添奶油味，香料風味基底。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the drink with added sweetness.",
+        "zh": "通過增加甜度來平衡飲品。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "unit": {
+        "en": "Angostura Bitters",
+        "zh": "安格仕苦精"
+      },
+      "rationale": {
+        "en": "Adds a warm and spicy note.",
+        "zh": "增加溫暖和辛辣的味道。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Strawberry Daiquiri",
+    "zh": "草莓黛綺莉"
+  },
+  "description": {
+    "en": "**Fruity and Refreshing Variation of the Classic Daiquiri**\n\nA simple and delicious cocktail featuring:\n\n*   Fresh strawberries for a vibrant fruity flavor\n*   Lime juice for essential sourness\n*   Simple syrup for balanced sweetness",
+    "zh": "**經典黛綺莉的清爽水果變奏版**\n\n簡單又美味的雞尾酒，特色：\n\n*   新鮮草莓帶來鮮豔的果香\n*   青檸汁提供必要的酸味\n*   簡糖漿帶來平衡的甜味"
+  },
+  "historical_reference": {
+    "en": "**Variation of the Classic Daiquiri**\n\nThe daiquiri is believed to have originated in Cuba around the turn of the 20th century. The strawberry daiquiri is a later adaptation, likely popularized in the mid-to-late 20th century.\n\n*   Classic daiquiri is rum, lime, and sugar.\n*   Strawberry daiquiri adds fresh or frozen strawberries.",
+    "zh": "**經典黛綺莉的變奏版**\n\n黛綺莉據信起源於20世紀初的古巴。草莓黛綺莉是後來的改編版本，可能在20世紀中後期開始流行。\n\n*   經典黛綺莉是蘭姆酒、檸檬和糖。\n*   草莓黛綺莉添加了新鮮或冷凍草莓。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth.",
+    "zh": "將所有材料與冰塊混合均勻。"
+  },
+  "garnish": {
+    "en": "Strawberry slice or lime wheel",
+    "zh": "草莓片或檸檬片"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or margarita glass",
+    "zh": "冰鎮的香檳杯或瑪格麗特杯"
+  },
+  "appearance": {
+    "en": "Vibrant red or pink, frothy",
+    "zh": "鮮豔的紅色或粉紅色，起泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and classic daiquiri flavor.",
+        "zh": "提供基酒和經典的黛綺莉風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 5,
+      "name": {
+        "en": "Fresh Strawberries",
+        "zh": "新鮮草莓"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds fruity flavor and color.",
+        "zh": "增加水果風味和顏色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

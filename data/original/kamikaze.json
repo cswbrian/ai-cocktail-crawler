@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Kamikaze",
+    "zh": "神風特攻隊"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail**\n\nA simple yet refreshing cocktail made with:\n*   Vodka for a clean base\n*   Lime juice for tartness\n*   Orange liqueur for sweetness and complexity",
+    "zh": "**經典酸味雞尾酒**\n\n一款簡單而清爽的雞尾酒，由以下材料製成：\n*   伏特加提供乾淨的基底\n*   萊姆汁提供酸味\n*   橙酒提供甜味和複雜性"
+  },
+  "historical_reference": {
+    "en": "While the exact origin is debated, the Kamikaze emerged in the late 20th century, possibly around the same time as other vodka-based cocktails like the Cosmopolitan. It gained popularity for its simple recipe and refreshing taste, becoming a staple in bars worldwide.",
+    "zh": "關於確切的起源尚有爭議，但神風特攻隊出現在 20 世紀後期，可能與大都會等其他伏特加雞尾酒同時出現。它以其簡單的配方和清爽的口感而廣受歡迎，成為世界各地酒吧的主打產品。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "萊姆角或片"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or Old-fashioned glass",
+    "zh": "雞尾酒杯或古典杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless liquid",
+    "zh": "清澈，無色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor.",
+        "zh": "增加甜味和橙子風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sourness",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

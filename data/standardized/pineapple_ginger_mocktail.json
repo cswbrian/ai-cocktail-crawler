@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Pineapple Ginger Mocktail",
+    "zh": "鳳梨薑味無酒精雞尾酒"
+  },
+  "description": {
+    "en": "**Refreshing Tropical Mocktail**\n\nA delightful non-alcoholic beverage featuring:\n*   Fresh pineapple juice for a tropical sweetness\n*   Spicy ginger syrup for a balanced kick\n*   Sparkling water for effervescence",
+    "zh": "**清爽熱帶無酒精雞尾酒**\n\n令人愉悅的無酒精飲料，特色：\n*   新鮮鳳梨汁帶來熱帶甜味\n*   辛辣薑汁糖漿帶來平衡的刺激\n*   氣泡水增添氣泡感"
+  },
+  "historical_reference": {
+    "en": "While not a *classic* cocktail in the traditional sense, the combination of pineapple and ginger has been enjoyed for centuries in various cultures.\n\n*   Pineapple originated in South America and spread globally during the age of exploration.\n*   Ginger has been used in traditional medicine and cuisine for thousands of years, particularly in Asia.\n*   This mocktail represents a modern interpretation of these timeless flavors.",
+    "zh": "雖然從傳統意義上講不是*經典*雞尾酒，但在各個文化中，鳳梨和薑的組合已經享受了數個世紀。\n\n*   鳳梨起源於南美洲，並在探索時代傳播到全球。\n*   薑在傳統醫學和美食中已經使用了數千年，尤其是在亞洲。\n*   這款無酒精雞尾酒代表了對這些永恆風味的現代詮釋。"
+  },
+  "technique": {
+    "en": "Combine pineapple juice and ginger syrup in a shaker with ice. Shake well and strain into a highball glass filled with ice. Top with sparkling water and garnish.",
+    "zh": "將鳳梨汁和薑汁糖漿放入裝有冰塊的搖酒器中。 充分搖晃後，倒入裝滿冰塊的長飲杯中。 加入氣泡水並裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and candied ginger",
+    "zh": "鳳梨角和蜜餞薑"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "長飲杯"
+  },
+  "appearance": {
+    "en": "Cloudy golden yellow with vibrant bubbles",
+    "zh": "混濁的金黃色，帶有活潑的氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary tropical fruit flavor and sweetness.",
+        "zh": "提供主要的熱帶水果風味和甜味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Ginger Syrup",
+        "zh": "薑汁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a spicy and warm counterpoint to the pineapple.",
+        "zh": "為鳳梨增添辛辣和溫暖的對比。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 0,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

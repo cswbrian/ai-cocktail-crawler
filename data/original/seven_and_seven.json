@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Seven and Seven",
+    "zh": "七七"
+  },
+  "description": {
+    "en": "A simple highball cocktail combining whiskey and lemon-lime soda, known for its ease of preparation and refreshing taste. Often served over ice.",
+    "zh": "一款簡單的高杯雞尾酒，結合了威士忌和檸檬萊姆汽水，以其易於準備和清爽的口感而聞名。通常加冰飲用。"
+  },
+  "historical_reference": {
+    "en": "*Popularized in the mid-20th century.\n*Simple and easy to make, contributing to its widespread appeal.\n*Likely originated from the trend of mixing spirits with readily available sodas.",
+    "zh": "*於20世紀中葉普及。\n*簡單易做，使其廣受歡迎。\n*可能源於將烈酒與隨手可得的汽水混合的趨勢。"
+  },
+  "technique": {
+    "en": "Pour whiskey into a highball glass filled with ice. Top with lemon-lime soda and stir gently.",
+    "zh": "將威士忌倒入裝滿冰塊的高杯杯中。加入檸檬萊姆汽水，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge (optional)",
+    "zh": "檸檬或萊姆角（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高杯杯"
+  },
+  "appearance": {
+    "en": "Clear, effervescent liquid with a slight amber or golden hue.",
+    "zh": "清澈、起泡的液體，略帶琥珀色或金色色調。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 44,
+      "name": {
+        "en": "Generic Whiskey",
+        "zh": "通用威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic flavor.",
+        "zh": "提供酒精基底和獨特的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 118,
+      "name": {
+        "en": "Generic lemon-lime soda",
+        "zh": "通用檸檬萊姆汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and citrus flavor.",
+        "zh": "增加甜味、氣泡和柑橘風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

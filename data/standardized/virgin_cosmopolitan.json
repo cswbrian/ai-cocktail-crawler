@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Virgin Cosmopolitan",
+    "zh": "無酒精大都會"
+  },
+  "description": {
+    "en": "**A Sophisticated Mocktail**\n\nThis non-alcoholic version of the classic Cosmopolitan offers a delightful blend of sweet, tart, and fruity flavors. It's a vibrant and refreshing choice for any occasion.\n\n*   A refreshing alternative to the classic Cosmopolitan.\n*   Combines the tartness of cranberry and lime with the sweetness of orange.",
+    "zh": "**精緻的無酒精雞尾酒**\n\n這款經典大都會的無酒精版本，融合了甜、酸和水果風味。 它是任何場合充滿活力和清爽的選擇。\n\n*   經典大都會的清爽替代品。\n*   蔓越莓和檸檬的酸味與橙子的甜味相結合。"
+  },
+  "historical_reference": {
+    "en": "The original Cosmopolitan was created in the 1980s. This Virgin Cosmopolitan is a non-alcoholic adaptation offering a similarly refreshing experience. It allows individuals to enjoy the flavors of the cocktail without alcohol.\n\n*   Mocktail adaptation of a modern classic.\n*   Provides the familiar taste without the alcohol content.",
+    "zh": "最初的大都會於 1980 年代創作。 這款無酒精大都會是一種無酒精的改編版本，可提供類似的清爽體驗。 它可以讓個人在不含酒精的情況下享受雞尾酒的味道。\n\n*   現代經典的無酒精改編。\n*   提供熟悉的味道而沒有酒精成分。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel or lime wedge",
+    "zh": "橙皮或檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass or coupe glass",
+    "zh": "馬丁尼杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Bright pink, translucent liquid",
+    "zh": "亮粉紅色，半透明液體"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides tartness and characteristic pink color.",
+        "zh": "提供酸味和標誌性的粉紅色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrusy tang.",
+        "zh": "增添柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a citrus note.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the tartness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 0,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

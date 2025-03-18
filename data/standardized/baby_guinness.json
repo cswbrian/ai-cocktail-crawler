@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Baby Guinness",
+    "zh": "迷你健力士"
+  },
+  "description": {
+    "en": "**A shot that mimics the appearance of a pint of Guinness**\n\nThe Baby Guinness is a shot that cleverly recreates the look of a miniature Guinness stout. It features:\n*   A base of coffee liqueur.\n*   Topped with Irish cream to create a frothy 'head'.",
+    "zh": "**模仿一杯健力士外觀的shot**\n\n迷你健力士是一種巧妙地重現迷你健力士黑啤酒外觀的shot。它的特色：\n*   以咖啡利口酒為基底。\n*   頂部添加愛爾蘭奶油，營造出泡沫狀的「頭」。"
+  },
+  "historical_reference": {
+    "en": "The exact origins of the Baby Guinness are unclear, but it likely emerged as a novelty shot in bars, designed for its visual appeal and dessert-like flavor profile.\n\n*   Popularized for its resemblance to a miniature pint of Guinness.\n*   Often served as a dessert shot.",
+    "zh": "迷你健力士的確切起源尚不清楚，但它很可能是在酒吧中作為一種新奇的shot出現的，其設計旨在產生視覺吸引力和甜點般的風味。\n\n*   因其類似於迷你品脫健力士而廣受歡迎。\n*   經常作為甜點shot供應。"
+  },
+  "technique": {
+    "en": "Pour coffee liqueur into a shot glass. Gently layer Irish cream on top using the back of a spoon to create a distinct 'head'.",
+    "zh": "將咖啡利口酒倒入shot杯中。使用湯匙背面輕輕地在頂部疊加愛爾蘭奶油，以營造出獨特的「頭」。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered dark brown coffee liqueur at the bottom with a creamy white head of Irish cream on top, resembling a miniature Guinness.",
+    "zh": "底層是深棕色的咖啡利口酒，頂部是乳白色的愛爾蘭奶油，分層堆疊，類似於迷你健力士。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the dark color and coffee flavor base.",
+        "zh": "提供深色和咖啡風味基底。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates the creamy 'head' and adds sweetness.",
+        "zh": "產生奶油狀的「頭」，並增加甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

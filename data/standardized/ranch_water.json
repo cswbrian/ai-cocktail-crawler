@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Ranch Water",
+    "zh": "牧場之水"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Tequila Cocktail**\n\nRanch Water is a minimalist highball cocktail originating from Texas. It typically includes:\n\n*   Tequila Blanco (or Tequila Reposado for oak and vanilla notes)\n*   Lime Juice for citrus and acidity\n*   Top with Topo Chico (or another mineral water)",
+    "zh": "**簡單而清爽的龍舌蘭雞尾酒**\n\nRanch Water 是一種極簡的高杯雞尾酒，起源於德克薩斯州。它通常包含：\n\n*   白色龍舌蘭 (或龍舌蘭 Reposado 帶來橡木和香草味)\n*   酸橙汁帶來柑橘味和酸度\n*   注入 Topo Chico (或其他礦泉水)"
+  },
+  "historical_reference": {
+    "en": "**Origin**: West Texas, USA\n\nThe true origin is debated, but it’s generally agreed Ranch Water was created by ranchers in West Texas as a way to cool down during the hot days. It has gained popularity in recent years, becoming a staple in Texas bars and beyond.",
+    "zh": "**起源**: 美國西德克薩斯州\n\n真正的起源尚有爭議，但普遍認為 Ranch Water 是由西德克薩斯州的牧場主創造的，作為在炎熱天氣中降溫的一種方式。近年來越來越受歡迎，成為德克薩斯州酒吧及其他地方的主流飲品。"
+  },
+  "technique": {
+    "en": "Combine tequila and lime juice in a glass filled with ice. Top with Topo Chico. Garnish with a lime wedge or wheel.",
+    "zh": "將龍舌蘭酒和酸橙汁混合在裝滿冰的玻璃杯中。加入 Topo Chico。用酸橙角或片裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "酸橙角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Collins glass",
+    "zh": "高杯玻璃杯或柯林杯"
+  },
+  "appearance": {
+    "en": "Clear, bubbly, and colorless",
+    "zh": "清澈、有氣泡且無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Blanco Tequila",
+        "zh": "白龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and agave flavor.",
+        "zh": "提供酒精基底和龍舌蘭風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Topo Chico",
+        "zh": "托波奇科"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides carbonation and mineral notes.",
+        "zh": "提供氣泡和礦物質風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

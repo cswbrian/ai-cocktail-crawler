@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Rusty Nail",
+    "zh": "鏽釘"
+  },
+  "description": {
+    "en": "**A simple yet sophisticated Scotch-based cocktail.**\n\nThe Rusty Nail combines the robust flavor of Scotch whisky with the sweet, herbal notes of Generic Liqueur:\n\n*   Typically served over ice in an old-fashioned glass.\n*   Easy to make and enjoy.",
+    "zh": "**一款簡單而精緻的蘇格蘭威士忌基底雞尾酒。**\n\n鏽釘將蘇格蘭威士忌的濃郁風味與通用利口酒的香甜草本味相結合：\n\n*   通常在古典杯中加冰飲用。\n*   容易製作和享用。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in the 1930s, popularized by the British bartender at the bar of the Drambuie company in the 1960s.\n\n*   The name \"Rusty Nail\" was officially adopted in 1963.\n*   It became a favorite of the Rat Pack.",
+    "zh": "**起源**: 據信起源於1930年代，在1960年代由Drambuie公司的酒吧中的英國調酒師推廣。\n\n*   “鏽釘”這個名稱於1963年正式採用。\n*   它成為Rat Pack的最愛。"
+  },
+  "technique": {
+    "en": "Build over ice. Stir gently to combine.",
+    "zh": "在冰上調製。輕輕攪拌均勻。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist (optional).",
+    "zh": "檸檬皮扭轉（可選）。"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Deep amber, clear, and smooth.",
+    "zh": "深琥珀色，清澈且滑順。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Generic Whisky",
+        "zh": "通用威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the strong, smoky base.",
+        "zh": "提供強烈、煙燻的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Generic Liqueur",
+        "zh": "通用利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜度和草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

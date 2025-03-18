@@ -1,0 +1,134 @@
+{
+  "name": {
+    "en": "Agua de Sevilla",
+    "zh": "塞維利亞之水"
+  },
+  "description": {
+    "en": "A refreshing and creamy Spanish cocktail, perfect for warm weather. It blends the robustness of whiskey with the sweetness of pineapple and the creaminess of cream.",
+    "zh": "一款清爽且濃郁的西班牙雞尾酒，非常適合溫暖的天氣。它融合了威士忌的濃烈、鳳梨的甜味和奶油的柔滑。"
+  },
+  "historical_reference": {
+    "en": "The Agua de Sevilla is a cocktail originating from Seville, Spain. Although its exact origin is not precisely documented, it is believed to have been created in the 1960s during the Seville Fair (**Feria de Abril**).\n\n*   Typically served in large pitchers to share.\n*   The recipe varies, but often includes whiskey, pineapple juice, cream, and simple syrup.",
+    "zh": "Agua de Sevilla 是一種起源於西班牙塞維利亞的雞尾酒。 雖然其確切起源沒有精確記錄，但據信它是在 1960 年代塞維利亞博覽會（**Feria de Abril**）期間創作的。\n\n*   通常用大水罐盛裝以供分享。\n*   配方各不相同，但通常包括威士忌、鳳梨汁、奶油和簡單糖漿。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge or slice",
+    "zh": "鳳梨角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pitcher",
+    "zh": "高球杯或水罐"
+  },
+  "appearance": {
+    "en": "Milky, pale yellow",
+    "zh": "乳白色，淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and some oaky notes.",
+        "zh": "提供酒精基底和一些橡木味。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Cream Sherry",
+        "zh": "奶油雪利酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty and caramel notes.",
+        "zh": "增加堅果和焦糖的味道"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical fruit flavor.",
+        "zh": "增加甜味和熱帶水果風味。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Sweetened Condensed Milk",
+        "zh": "煉乳"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creaminess.",
+        "zh": "增加甜味和乳脂感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "name": {
+    "en": "Hot Buttered Rum",
+    "zh": "熱奶油蘭姆酒"
+  },
+  "description": {
+    "en": "**A Warm and Comforting Classic**\n\nHot buttered rum is a classic winter warmer, featuring:\n*   Dark rum for a rich, molasses-like base.\n*   A spiced butter batter that melts into the rum and hot water.\n*   Served hot and often garnished with spices like cinnamon or nutmeg.",
+    "zh": "**溫暖舒適的經典飲品**\n\n熱奶油蘭姆酒是一款經典的冬季暖身飲品，特色：\n*   深色蘭姆酒，帶來濃郁的糖蜜基底。\n*   混合香料的奶油麵糊，融化在蘭姆酒和熱水中。\n*   趁熱飲用，通常以肉桂或肉荳蔻等香料裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Origins of Hot Buttered Rum**\n\n*   Likely originated in Colonial America as a way to use and preserve butter.\n*   Became popular in taverns and homes during the 17th and 18th centuries.\n*   Recipes vary widely, often including spices like cinnamon, nutmeg, cloves, and allspice.\n*   A testament to resourcefulness and a desire for warm, comforting drinks in colder climates.",
+    "zh": "**熱奶油蘭姆酒的起源**\n\n*   可能起源於殖民時期的美國，作為使用和保存奶油的一種方式。\n*   在17和18世紀的酒館和家庭中變得流行。\n*   配方差異很大，通常包括肉桂、肉荳蔻、丁香和多香果等香料。\n*   證明了人們的足智多謀，以及在寒冷氣候中對溫暖舒適飲品的渴望。"
+  },
+  "technique": {
+    "en": "Combine brown sugar, butter, cinnamon, and nutmeg in a mug. Add rum and hot water. Stir until butter is melted. Garnish.",
+    "zh": "將紅糖、奶油、肉桂和肉荳蔻放入馬克杯中。加入蘭姆酒和熱水。攪拌至奶油融化。裝飾。"
+  },
+  "garnish": {
+    "en": "Cinnamon stick or grated nutmeg",
+    "zh": "肉桂棒或磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heat-resistant glass",
+    "zh": "馬克杯或耐熱玻璃杯"
+  },
+  "appearance": {
+    "en": "Opaque, warm brown liquid with a frothy top",
+    "zh": "不透明的溫暖棕色液體，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Dairy (butter)",
+      "zh": "乳製品（奶油）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and rich molasses flavor.",
+        "zh": "提供酒精基底和濃郁的糖蜜風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "紅糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and molasses notes.",
+        "zh": "增加甜味和糖蜜風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Unsalted Butter",
+        "zh": "無鹽奶油"
+      },
+      "unit": {
+        "en": "tbsp",
+        "zh": "湯匙"
+      },
+      "rationale": {
+        "en": "Adds richness and creaminess.",
+        "zh": "增加豐富度和奶油味。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Hot Water",
+        "zh": "熱水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the mixture and provides warmth.",
+        "zh": "稀釋混合物並提供溫暖。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Ground Cinnamon",
+        "zh": "肉桂粉"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds warmth and spice.",
+        "zh": "增添溫暖和香料味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Ground Nutmeg",
+        "zh": "肉荳蔻粉"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds warmth and nutty flavor.",
+        "zh": "增添溫暖和堅果風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

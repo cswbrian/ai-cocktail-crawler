@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Ciro's Special",
+    "zh": "西羅特調"
+  },
+  "description": {
+    "en": "**Ciro's Special Cocktail**\n\nA classic cocktail featuring a blend of gin, fresh lemon juice, sugar, and egg white, creating a smooth and balanced drink.\n\n*   Gin provides the base spirit.\n*   Lemon juice adds acidity and brightness.\n*   Sugar balances the tartness.\n*   Egg white contributes to a silky texture and frothy head.",
+    "zh": "**西羅特調雞尾酒**\n\n一款經典雞尾酒，融合了琴酒、新鮮檸檬汁、糖和蛋白，創造出順滑而平衡的飲品。\n\n*   琴酒提供基酒。\n*   檸檬汁增加酸度和明亮度。\n*   糖平衡酸味。\n*   蛋白有助於形成絲滑的質地和泡沫。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Created at Ciro's Club in London during the early 20th century.\n\n*   Popularized during the pre-Prohibition era.\n*   A variation of the Gin Sour with a richer texture due to the egg white.",
+    "zh": "**起源：** 20世紀初在倫敦的西羅俱樂部創建。\n\n*   在禁酒令前時代廣受歡迎。\n*   琴酒酸酒的變體，由於蛋白的加入，質地更豐富。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice and strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖勻，倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head",
+    "zh": "混濁的淡黃色，帶有泡沫狀的白色泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity of the lemon.",
+        "zh": "增加甜度以平衡檸檬的酸度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a smooth texture and frothy head.",
+        "zh": "增加滑順口感和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

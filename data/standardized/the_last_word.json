@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "The Last Word",
+    "zh": "最後一句話"
+  },
+  "description": {
+    "en": "**A perfectly balanced equal-parts cocktail.**\n\nThe Last Word is a complex and refreshing drink with:\n*   A harmonious blend of gin, green Chartreuse, maraschino liqueur, and lime juice.\n*   An intensely flavored and sophisticated profile.\n*   Equal parts of each ingredient ensure balance and depth.",
+    "zh": "**一款完美平衡的等比例雞尾酒。**\n\n最後一句話是一款複雜而清爽的飲品，具有：\n*   琴酒、綠色 Chartreuse、黑櫻桃利口酒和萊姆汁的和諧融合。\n*   風味濃郁且精緻的特色。\n*   每種成分的等比例確保了平衡和深度。"
+  },
+  "historical_reference": {
+    "en": "**Prohibition-Era Classic**\n\n*   Credited to Frank Fogarty at the Detroit Athletic Club around 1915.\n*   Gained renewed popularity in the early 2000s, particularly in Seattle and Portland.\n*   Known for its unique combination of ingredients, resulting in a complex flavor profile.",
+    "zh": "**禁酒時代的經典**\n\n*   據說是 1915 年左右由底特律體育俱樂部的 Frank Fogarty 創作的。\n*   在 2000 年代初期重新流行起來，尤其是在西雅圖和波特蘭。\n*   以其獨特的成分組合而聞名，產生了複雜的風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry (optional)",
+    "zh": "馬拉斯奇諾櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or martini glass",
+    "zh": "冰鎮過的淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale green and slightly cloudy",
+    "zh": "淡綠色且略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base and provides a botanical backbone.",
+        "zh": "構成基底，提供植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal complexity and sweetness.",
+        "zh": "增加草本複雜性和甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty notes and sweetness.",
+        "zh": "增添堅果風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

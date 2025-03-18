@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Piscola",
+    "zh": "皮斯可樂"
+  },
+  "description": {
+    "en": "**Chilean Classic**\n\nA simple but iconic highball cocktail, extremely popular in Chile. Consists of:\n\n*   Pisco, a type of brandy produced in Chile and Peru.\n*   Cola, typically Coca-Cola, but other brands can be used.\n*   Served over ice in a tall glass.",
+    "zh": "**智利經典**\n\n一款簡單但具代表性的 Highball 調酒，在智利非常受歡迎。組成：\n\n*   皮斯可酒，一種在智利和秘魯生產的白蘭地。\n*   可樂，通常是可口可樂，但也可以使用其他品牌。\n*   在高杯中加冰飲用。"
+  },
+  "historical_reference": {
+    "en": "**Ubiquitous Chilean Cocktail**\n\nThe Piscola's exact origin is debated, but it gained immense popularity in Chile during the latter half of the 20th century. It is considered a national drink, surpassing wine and beer in some regions. Its rise coincided with the increased availability of cola and pisco within the country.",
+    "zh": "**普遍的智利雞尾酒**\n\nPiscola 的確切起源尚有爭議，但在 20 世紀後半葉在智利廣為流行。它被認為是一種國民飲品，在某些地區超過了葡萄酒和啤酒。它的興起與該國內可樂和皮斯可酒的供應增加同時發生。"
+  },
+  "technique": {
+    "en": "Pour pisco into a highball glass filled with ice. Top with cola. Stir gently.",
+    "zh": "將皮斯可酒倒入裝滿冰塊的高杯中。加入可樂。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or lime wedge.",
+    "zh": "可選：檸檬或萊姆角。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Clear liquid, color varies from pale to dark amber depending on the cola used, with visible bubbles.",
+    "zh": "清澈液體，顏色因使用的可樂而異，從淡琥珀色到深琥珀色，帶有可見的氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinctive flavor of the cocktail.",
+        "zh": "提供調酒的酒精基底和獨特風味。"
+      },
+      "tags": [
+        {
+          "en": "Pisco",
+          "zh": "皮斯可"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and characteristic flavor.",
+        "zh": "增加甜味、碳酸和特徵風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

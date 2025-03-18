@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Old Acquaintance",
+    "zh": "老相識"
+  },
+  "description": {
+    "en": "A complex and refreshing cocktail featuring rye whiskey, dry curaçao, lemon juice, simple syrup, egg white, and absinthe. The egg white provides a silky texture, while the absinthe adds a subtle anise note.\n\nKey characteristics:\n*   Balanced sweetness and tartness\n*   Silky smooth mouthfeel\n*   Aromatic complexity from absinthe and whiskey",
+    "zh": "一款複雜而清爽的雞尾酒，包含黑麥威士忌、乾邑橙皮酒、檸檬汁、簡糖漿、蛋白和苦艾酒。 蛋白提供柔滑的質地，而苦艾酒則增添了微妙的茴香味道。\n\n主要特徵：\n*   平衡的甜味和酸味\n*   絲滑的口感\n*   來自苦艾酒和威士忌的香氣複雜性"
+  },
+  "historical_reference": {
+    "en": "The Old Acquaintance cocktail is a variation on the classic Whiskey Sour family of drinks, incorporating absinthe for an added layer of complexity.\n\n*   Likely originated in the early 20th century\n*   Inspired by other sour cocktails like the New York Sour\n*   Name evokes a sense of nostalgia and familiarity",
+    "zh": "老相識雞尾酒是經典威士忌酸酒的變體，加入了苦艾酒，增加了複雜性。\n\n*   可能起源於 20 世紀初\n*   靈感來自其他酸味雞尾酒，如紐約酸酒\n*   名字喚起一種懷舊和熟悉的感覺"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後再加冰搖勻。 雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Sour Glass",
+    "zh": "高腳杯或酸酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head.",
+    "zh": "混濁的淡黃色，帶有泡沫狀的白色頭。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy base and backbone of the cocktail.",
+        "zh": "提供雞尾酒的辛辣基底和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Curaçao",
+        "zh": "柑香酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a layer of citrus and subtle sweetness.",
+        "zh": "增加柑橘味和微妙的甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a hint of anise and aromatic complexity.",
+        "zh": "增加一絲茴香和芳香複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds necessary sourness to balance the drink.",
+        "zh": "增加必要的酸度以平衡飲品。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness to balance the sourness and booziness.",
+        "zh": "提供甜味，以平衡酸味和酒味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

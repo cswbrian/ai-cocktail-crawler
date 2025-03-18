@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Curaçao Punch",
+    "zh": "庫拉索潘趣酒"
+  },
+  "description": {
+    "en": "A refreshing and visually appealing punch featuring Curaçao liqueur, rum, citrus juice, and sweetener. It can be served as a single cocktail or in larger format as a party punch.\n\n*   Typically vibrant in color (often blue)\n*   Balanced sweet and sour flavor",
+    "zh": "一款令人耳目一新且視覺上吸引人的潘趣酒，以庫拉索酒、蘭姆酒、柑橘汁和甜味劑為特色。 它既可以作為單杯雞尾酒供應，也可以作為派對潘趣酒大量供應。\n\n*   通常顏色鮮豔（通常為藍色）\n*   甜味和酸味平衡"
+  },
+  "historical_reference": {
+    "en": "The history of Curaçao punch, like many punches, isn't definitively documented. Punches were popular in the 17th and 18th centuries, evolving from large communal bowls to individual servings.\n\n*   Likely a variation of classic rum punches.\n*   Curaçao liqueur added for flavor and color.",
+    "zh": "庫拉索潘趣酒的歷史，與許多潘趣酒一樣，沒有明確的記載。 潘趣酒在 17 和 18 世紀非常流行，從大型公共碗演變為個人份量。\n\n*   可能是經典蘭姆潘趣酒的變體。\n*   加入庫拉索酒以增加風味和顏色。"
+  },
+  "technique": {
+    "en": "Combine rum, Curaçao, lime juice, and sugar syrup in a shaker with ice. Shake well and strain into a glass filled with ice. Top with soda water (if using) and garnish.",
+    "zh": "將蘭姆酒、庫拉索酒、萊姆汁和糖漿與冰塊一起放入搖酒器中。 充分搖晃並濾入裝滿冰塊的玻璃杯中。 加入蘇打水（如果使用）並裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice, cherry, or other seasonal fruit.",
+    "zh": "柳橙片、櫻桃或其他時令水果。"
+  },
+  "serve_in_glass": {
+    "en": "Punch glass, highball glass, or coupe glass.",
+    "zh": "潘趣酒杯、高球杯或淺碟香檳杯。"
+  },
+  "appearance": {
+    "en": "Vibrant blue or clear, depending on the Curaçao, often with a frothy top and a citrus garnish.",
+    "zh": "鮮豔的藍色或透明色，取決於使用的庫拉索，通常帶有泡沫頂部和柑橘裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rum (White or Gold)",
+        "zh": "蘭姆酒（白色或金色）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and contributes to the overall flavor profile.",
+        "zh": "提供主要的酒精基底，並有助於整體風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Curaçao Liqueur (Blue or Clear)",
+        "zh": "庫拉索酒（藍色或透明）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes a distinctive citrus flavor and vibrant color.",
+        "zh": "貢獻獨特的柑橘風味和鮮豔的色彩。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice (Freshly Squeezed)",
+        "zh": "鮮榨萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "teaspoons",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the citrus and rum.",
+        "zh": "增加甜度以平衡柑橘和蘭姆酒。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water or Club Soda (optional)",
+        "zh": "蘇打水或氣泡水（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the mixture slightly.",
+        "zh": "增加氣泡並略微稀釋混合物。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Caipirissima",
+    "zh": "蘭姆凱匹林納"
+  },
+  "description": {
+    "en": "**A Rum Twist on the Classic Caipirinha**\n\nThe Caipirissima substitutes Cachaça with white rum, offering a slightly sweeter and less funky profile while retaining the refreshing character. Key elements:\n\n*   White rum base for tropical notes\n*   Muddled lime for acidity and aroma\n*   Sugar for sweetness",
+    "zh": "**經典凱匹林納的蘭姆酒變奏版**\n\nCaipirissima 以白蘭姆酒取代卡莎夏，在保留清爽口感的同時，提供略帶甜味且較不強烈的風味。主要元素：\n\n*   白蘭姆酒基底帶來熱帶風味\n*   搗碎的萊姆提供酸度和香氣\n*   糖帶來甜味"
+  },
+  "historical_reference": {
+    "en": "**A Variation of the Caipirinha**\n\nThe Caipirissima is a direct variation of the Caipirinha, the national cocktail of Brazil.\n\n*   The main difference is the spirit used: white rum instead of cachaça.\n*   This substitution creates a slightly different flavor profile, making it more approachable to those unfamiliar with cachaça.",
+    "zh": "**凱匹林納的變奏版**\n\nCaipirissima 是巴西國家雞尾酒凱匹林納的直接變奏版。\n\n*   主要區別在於使用的烈酒：白蘭姆酒代替卡莎夏。\n*   這種替代創造了一種略有不同的風味，對於那些不熟悉卡莎夏的人來說，更容易接受。"
+  },
+  "technique": {
+    "en": "Muddle lime and sugar, then add rum and ice. Stir well.",
+    "zh": "將萊姆和糖混合搗碎，然後加入蘭姆酒和冰塊。充分攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Old fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale white to light green",
+    "zh": "混濁，呈現淡白色至淺綠色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and tropical notes.",
+        "zh": "提供酒精基底和熱帶風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Lime",
+        "zh": "萊姆"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜味以平衡酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

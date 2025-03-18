@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Smoked Pineapple Margarita",
+    "zh": "煙燻鳳梨瑪格麗特"
+  },
+  "description": {
+    "en": "**A Smoky Twist on a Classic**\n\nThis margarita variation features the addition of smoked pineapple, creating a delightful blend of:\n\n*   Sweet and smoky flavors\n*   The refreshing tartness of lime\n*   A hint of spice from the chili liqueur",
+    "zh": "**經典的煙燻風味**\n\n這款瑪格麗特變體以煙燻鳳梨為特色，創造出令人愉悅的融合：\n\n*   甜美和煙燻的風味\n*   清爽的酸橙味\n*   辣椒利口酒的一絲辛辣味"
+  },
+  "historical_reference": {
+    "en": "The Margarita's exact origin is debated, but it is generally believed to have originated in Mexico in the 1930s or 40s. This variation incorporates modern techniques, such as smoking fruit, to create a contemporary twist on the classic recipe.",
+    "zh": "瑪格麗特的確切起源尚有爭議，但普遍認為它起源於 1930 年代或 40 年代的墨西哥。 這種變體結合了現代技術，例如煙燻水果，在經典配方上創造出現代風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass. If desired, rim the glass with smoked sea salt before pouring.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入玻璃杯中。 如果需要，在倒入之前，在玻璃杯的邊緣塗上煙燻海鹽。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge or smoked sea salt rim",
+    "zh": "鳳梨角或煙燻海鹽杯緣"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or Margarita glass",
+    "zh": "古典杯或瑪格麗特杯"
+  },
+  "appearance": {
+    "en": "Hazy, golden-yellow with a frothy top",
+    "zh": "朦朧的，金黃色，頂部有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Blanco Tequila",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave base and signature kick.",
+        "zh": "提供龍舌蘭的基底和標誌性的衝擊力。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Chili Liqueur",
+        "zh": "辣椒利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle spicy note.",
+        "zh": "增添微妙的辛辣味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the cocktail.",
+        "zh": "使雞尾酒更甜。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Smoked Pineapple Juice",
+        "zh": "煙燻鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the unique smoked pineapple flavor",
+        "zh": "提供獨特的煙燻鳳梨風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

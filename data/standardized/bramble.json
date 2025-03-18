@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Bramble",
+    "zh": "黑莓果"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA delightful mix of gin and blackberry liqueur, the Bramble offers:\n*   A balance of sweet and sour flavors\n*   A refreshing and fruity experience\n*   Visually appealing with the cascading blackberry liqueur",
+    "zh": "**現代經典雞尾酒**\n\n琴酒和黑莓利口酒的美味混合，黑莓果：\n*   平衡的酸甜風味\n*   清新和水果體驗\n*   從視覺上吸引人，與層疊黑莓利口酒"
+  },
+  "historical_reference": {
+    "en": "**Created by Dick Bradsell in 1980s London**\n\n*   Invented at Fred's Club in Soho.\n*   Inspired by Bradsell's memories of picking blackberries on the Isle of Wight.\n*   Considered a modern classic due to its balance and simplicity.",
+    "zh": "**由迪克·布拉德賽爾於 1980 年代在倫敦創作**\n\n*   在蘇活區的弗雷德俱樂部發明。\n*   靈感來自布拉德賽爾在懷特島採摘黑莓的回憶。\n*   因其平衡和簡單性而被認為是現代經典。"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into glass filled with crushed ice. Drizzle blackberry liqueur over the top.",
+    "zh": "將琴酒、檸檬汁和糖漿與冰塊搖勻。 倒入裝滿碎冰的玻璃杯中。 在上面淋上黑莓利口酒。"
+  },
+  "garnish": {
+    "en": "Blackberry and lemon wedge",
+    "zh": "黑莓和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy pink to red hue, muddled berries visible",
+    "zh": "混濁的粉紅色至紅色色調，可見搗碎的莓果"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "提供酒體基底和植物複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Blackberry Liqueur",
+        "zh": "黑莓利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the distinct blackberry flavor and sweetness.",
+        "zh": "增加獨特的黑莓風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lemon.",
+        "zh": "增加甜度以平衡檸檬。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

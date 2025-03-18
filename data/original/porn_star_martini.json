@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Porn Star Martini",
+    "zh": "色情明星馬丁尼"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA popular and relatively modern cocktail known for its:\n*   Fruity and sweet flavors\n*   Vanilla vodka base\n*   Shot of sparkling wine on the side",
+    "zh": "**現代經典雞尾酒**\n\n以其而聞名的流行的相對現代的雞尾酒：\n*   果味和甜味\n*   香草伏特加基酒\n*   側放一杯氣泡酒"
+  },
+  "historical_reference": {
+    "en": "**Created by Douglas Ankrah at LAB bar in London in 2002.**\n\n*   One of the most popular contemporary cocktails.\n*   Served with a shot of sparkling wine (typically Prosecco) on the side, to be drunk separately or mixed in.",
+    "zh": "**由道格拉斯·安克拉於2002年在倫敦的LAB酒吧創作。**\n\n*   最受歡迎的現代雞尾酒之一。\n*   配一杯氣泡酒（通常是普羅塞克），可單獨飲用或混合飲用。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass. Serve with a shot of sparkling wine on the side.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。 旁邊附上一杯氣泡酒。"
+  },
+  "garnish": {
+    "en": "Half a passion fruit",
+    "zh": "半個百香果"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini Glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow-orange with a frothy top",
+    "zh": "混濁的淡黃橙色，頂部有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vanilla Vodka",
+        "zh": "香草伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with vanilla notes.",
+        "zh": "提供基酒和香草味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Passion Fruit Liqueur",
+        "zh": "百香果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the passion fruit flavor.",
+        "zh": "增強百香果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Passion Fruit Puree",
+        "zh": "百香果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main tropical flavor.",
+        "zh": "提供主要的熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

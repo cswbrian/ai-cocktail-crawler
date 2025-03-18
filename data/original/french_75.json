@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "French 75",
+    "zh": "法式75"
+  },
+  "description": {
+    "en": "**Classic and Bubbly Cocktail**\n\nA sophisticated and refreshing cocktail made with:\n*   Gin for a botanical base\n*   Lemon juice for a citrusy tang\n*   Simple syrup for sweetness\n*   Champagne for effervescence and elegance",
+    "zh": "**經典氣泡雞尾酒**\n\n一款精緻清爽的雞尾酒，包含：\n*   琴酒，提供植物基底\n*   檸檬汁，帶來柑橘風味\n*   簡糖漿，帶來甜味\n*   香檳，帶來氣泡和優雅感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to be created around World War I\n\n*   Named after a powerful French 75mm field gun\n*   Popularized at Harry's New York Bar in Paris",
+    "zh": "**起源**：據信創製於第一次世界大戰前後\n\n*   以法國75毫米野戰炮命名，象徵其強勁\n*   在巴黎的哈利紐約酒吧廣受歡迎"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and simple syrup with ice. Strain into a champagne flute. Top with champagne. Garnish with a lemon twist.",
+    "zh": "將琴酒、檸檬汁和簡糖漿與冰塊搖勻。 濾入香檳杯。 注入香檳。 以檸檬皮扭花裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭花"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent, with lemon twist garnish",
+    "zh": "淡黃色，起泡，檸檬皮扭花裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "提供基酒和植物性複雜度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

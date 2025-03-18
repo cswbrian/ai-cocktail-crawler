@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Grasshopper",
+    "zh": "蚱蜢"
+  },
+  "description": {
+    "en": "**The Grasshopper Cocktail**\n\nA sweet, minty, after-dinner drink. Its vibrant green color and creamy texture make it a visually appealing and palatable choice. \n\n*   Often served as a dessert cocktail.\n*   Easy to drink and enjoy.\n*   Mint and chocolate notes combine for a pleasing flavor profile.",
+    "zh": "**蚱蜢雞尾酒**\n\n一種香甜的薄荷味餐後飲品。 鮮豔的綠色和奶油般的質地使其成為一種視覺上吸引人且可口的選擇。\n\n*   通常作為甜點雞尾酒供應。\n*   容易飲用和享受。\n*   薄荷和巧克力味混合在一起，帶來令人愉悅的風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to Philibert Guichet, owner of *Tujaque's* restaurant in New Orleans, Louisiana, around 1918.\n\n*   Created for a cocktail competition.\n*   Became popular in the mid-20th century.\n*   Named for its green color, resembling a grasshopper.",
+    "zh": "**起源**：據說是路易斯安那州紐奧良*Tujaque's*餐廳的老闆Philibert Guichet於1918年左右發明的。\n\n*   為雞尾酒比賽而創作。\n*   在20世紀中葉開始流行。\n*   因其綠色而得名，像一隻蚱蜢。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Mint sprig or chocolate shavings (optional)",
+    "zh": "薄荷枝或巧克力屑（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy green",
+    "zh": "不透明，奶油綠色"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Crème de Menthe",
+        "zh": "薄荷酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides mint flavor and green color.",
+        "zh": "提供薄荷風味和綠色。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Crème de Cacao (White)",
+        "zh": "白色可可酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and sweetness.",
+        "zh": "增添巧克力風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and body.",
+        "zh": "增加奶油味和酒體。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

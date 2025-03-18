@@ -1,0 +1,76 @@
+{
+  "name": {
+    "en": "Peach Mimosa",
+    "zh": "桃子含羞草"
+  },
+  "description": {
+    "en": "**A Brunch Staple**\n\nA simple yet elegant cocktail perfect for celebrations, the Peach Mimosa combines the bright flavors of peach with the celebratory sparkle of sparkling wine. It’s light, refreshing, and easy to make.\n\n*   Typically served in a champagne flute.\n*   Ideal for brunch, showers, or any festive occasion.",
+    "zh": "**早午餐必備**\n\n這是一款簡單而優雅的雞尾酒，非常適合慶祝活動。桃子含羞草將桃子的明亮風味與氣泡酒的慶祝光芒結合在一起。它清淡、清爽且易於製作。\n\n*   通常在高腳香檳杯中供應。\n*   非常適合早午餐、派對或任何節日場合。"
+  },
+  "historical_reference": {
+    "en": "While the exact origin of the Mimosa is debated, it's believed to have originated around 1925 at the Hotel Ritz Paris. The Peach Mimosa is a variation on the classic Mimosa, adding peach puree or nectar for a fruity twist.\n\n*   The classic Mimosa is a mix of equal parts champagne and orange juice.\n*   The Bellini, another similar cocktail, uses peach puree and Prosecco.",
+    "zh": "雖然含羞草的確切起源尚有爭議，但據信它起源於 1925 年左右的巴黎麗茲酒店。 桃子含羞草是經典含羞草的變體，添加了桃子泥或花蜜，帶來水果風味。\n\n*   經典的含羞草是由等量的香檳和橙汁混合而成。\n*   貝里尼是另一種類似的雞尾酒，使用桃子泥和普羅塞克葡萄酒。"
+  },
+  "technique": {
+    "en": "Pour peach puree into the flute, then top with sparkling wine.",
+    "zh": "將桃子泥倒入高腳杯中，然後倒入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Peach slice or raspberry (optional)",
+    "zh": "桃子切片或覆盆子（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Pale orange, bubbly, and bright",
+    "zh": "淡橙色，充滿氣泡，明亮"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Peach Puree or Nectar",
+        "zh": "桃子泥或花蜜"
+      },
+      "unit": {
+        "en": "oz",
+        "zh": "盎司"
+      },
+      "rationale": {
+        "en": "Adds peach flavor and sweetness.",
+        "zh": "增添桃子風味和甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

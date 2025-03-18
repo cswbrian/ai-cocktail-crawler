@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Jasmine",
+    "zh": "茉莉花"
+  },
+  "description": {
+    "en": "**The Jasmine Cocktail**\n\nA modern classic created by Sam Ross at Milk & Honey in New York City. It's a delightful variation on the classic Daiquiri, using:\n\n*   Gin as the base spirit\n*   Lemon juice for tartness\n*   Cointreau for orange notes\n*   Campari for bitter complexity and a beautiful pink hue",
+    "zh": "**茉莉花雞尾酒**\n\n由薩姆·羅斯在紐約市牛奶與蜂蜜酒吧創造的現代經典。 它是經典的黛綺莉的美味變奏，使用：\n\n*   琴酒作為基酒\n*   檸檬汁帶來酸味\n*   君度橙酒帶來橙香\n*   金巴利帶來苦味複雜性和美麗的粉紅色色調"
+  },
+  "historical_reference": {
+    "en": "**Created by Sam Ross at Milk & Honey (NYC)**\n\n*   A modern classic cocktail\n*   First appeared in the early 2000s\n*   Named for its floral and slightly bitter flavor profile, reminiscent of jasmine flowers",
+    "zh": "**由薩姆·羅斯在牛奶與蜂蜜酒吧（紐約市）創造**\n\n*   現代經典雞尾酒\n*   2000年代初首次出現\n*   因其花香和略帶苦味的味道而得名，讓人聯想到茉莉花"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist or Grapefruit twist",
+    "zh": "檸檬皮或葡萄柚皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Coupe or Martini Glass",
+    "zh": "冰鎮的碟形香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale pink, slightly cloudy",
+    "zh": "淡粉紅色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base for the cocktail.",
+        "zh": "提供調酒的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cointreau",
+        "zh": "君度橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "增加橙子的風味和甜度。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and a pink hue.",
+        "zh": "增加苦味和粉紅色色調。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

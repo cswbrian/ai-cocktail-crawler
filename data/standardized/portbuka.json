@@ -1,0 +1,101 @@
+{
+  "name": {
+    "en": "Portbuka",
+    "zh": "波特加"
+  },
+  "description": {
+    "en": "**A Simple but Potent Combination**\n\nA combination of Port wine and Vodka, creating:\n* A sweet and strong drink, easy to prepare\n* Best served chilled or over ice",
+    "zh": "**簡單但強烈的組合**\n\n波特酒和伏特加的結合，創造：\n* 一種甜而烈的飲品，易於準備\n* 最好冷藏或加冰飲用"
+  },
+  "historical_reference": {
+    "en": "The origin of Portbuka is not well-documented, it's likely a modern creation with a simple combination.\n\n*   The cocktail likely originated in the late 20th or early 21st century.\n*   The name is a portmanteau of Port wine and Vodka.",
+    "zh": "Portbuka 的起源沒有詳細記錄，它很可能是一個現代作品，具有簡單的組合。\n\n* 這種雞尾酒可能起源於 20 世紀末或 21 世紀初。\n* 該名稱是波特酒和伏特加的組合詞。"
+  },
+  "technique": {
+    "en": "Stir ingredients with ice and strain into glass filled with ice.",
+    "zh": "將材料與冰塊攪拌，然後濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with a reddish hue, no garnish",
+    "zh": "深琥珀色液體，帶有紅色色調，無裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Port Wine",
+        "zh": "波特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the sweet and fortified wine base.",
+        "zh": "提供甜味和加強葡萄酒基底。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds alcoholic strength and a neutral spirit base.",
+        "zh": "增加酒精強度和中性烈酒基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

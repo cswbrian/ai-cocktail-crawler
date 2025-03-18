@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Shandy",
+    "zh": "香迪"
+  },
+  "description": {
+    "en": "**Refreshing Low-Alcohol Beverage**\n\nA simple and thirst-quenching mix of beer and:\n*   Lemonade or ginger ale for sweetness and citrus notes\n*   Easy to customize to taste\n*   Excellent for hot weather",
+    "zh": "**清爽的低酒精飲料**\n\n啤酒和以下成分的簡單而解渴的混合：\n*   檸檬水或薑汁汽水，帶來甜味和柑橘味\n*   易於根據口味客製化\n*   非常適合炎熱天氣"
+  },
+  "historical_reference": {
+    "en": "**Origins in Britain**\n\nThe exact origins are debated but it is thought to have been created in the mid-19th century.\n\n*   Originally a mix of beer and ginger beer\n*   Variations exist using lemonade or other soft drinks\n*   A lower-alcohol alternative to straight beer",
+    "zh": "**起源於英國**\n\n確切的起源尚有爭議，但據信它是在19世紀中葉創建的。\n\n*   最初是啤酒和薑汁啤酒的混合物\n*   存在使用檸檬水或其他軟性飲料的變體\n*   直接飲用啤酒的低酒精替代品"
+  },
+  "technique": {
+    "en": "Pour beer and lemonade/ginger ale into glass, gently stir.",
+    "zh": "將啤酒和檸檬水/薑汁汽水倒入杯中，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon slice or wedge",
+    "zh": "檸檬片或角"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass or highball glass",
+    "zh": "品脫杯或高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow to golden, effervescent",
+    "zh": "淡黃色至金黃色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Beer",
+        "zh": "啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and body.",
+        "zh": "提供主要風味和酒體。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Lemonade or Ginger Ale",
+        "zh": "檸檬水或薑汁汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and enhances the refreshing character.",
+        "zh": "增加甜味並增強清爽感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 2,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

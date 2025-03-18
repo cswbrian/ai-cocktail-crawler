@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Sloegroni",
+    "zh": "斯洛尼格羅尼"
+  },
+  "description": {
+    "en": "**A fruity twist on a classic Negroni**\n\nThis cocktail replaces the traditional sweet vermouth with sloe gin, creating a more fruit-forward and slightly less bitter Negroni variation. It retains the balance and complexity of the original while offering a unique flavor profile.",
+    "zh": "**經典尼格羅尼的果味變奏**\n\n這款雞尾酒用斯洛琴酒取代了傳統的甜味苦艾酒，創造出更具果香且苦味稍淡的尼格羅尼變體。 它保留了原始的平衡和複雜性，同時提供了獨特的風味。"
+  },
+  "historical_reference": {
+    "en": "The Negroni is a classic cocktail believed to have originated in Florence, Italy, in the early 20th century. The Sloegroni is a modern variation, substituting sweet vermouth for sloe gin, first appearing in the early 2000s.",
+    "zh": "尼格羅尼是一種經典雞尾酒，據信起源於 20 世紀初的義大利佛羅倫斯。 Sloegroni 是一種現代變體，用斯洛琴酒代替了甜味苦艾酒，首次出現在 2000 年代初。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a glass over large ice cube.",
+    "zh": "將所有材料與冰塊一起攪拌至完全冷卻。 濾入裝有大冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Deep red, clear, and vibrant",
+    "zh": "深紅色，清澈且鮮豔"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical backbone.",
+        "zh": "提供烈酒基底和植物風味骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Sloe Gin",
+        "zh": "斯洛琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Replaces sweet vermouth, adding a fruity and slightly tart flavor.",
+        "zh": "取代甜味苦艾酒，增添果香和略帶酸澀的風味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes a bitter and complex flavor.",
+        "zh": "貢獻苦澀和複雜的風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

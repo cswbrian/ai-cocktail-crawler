@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Corpse Reviver #2",
+    "zh": "亡者復生2號"
+  },
+  "description": {
+    "en": "A potent and complex cocktail designed as a 'hair of the dog' remedy.\n\n*   Features a blend of gin, lemon juice, Lillet Blanc, Cointreau, and a dash of absinthe.\n*   Perfectly balanced between sweet, sour, and herbaceous notes.",
+    "zh": "一種強效而複雜的雞尾酒，旨在作為“以毒攻毒”的解酒劑。\n\n*   融合了琴酒、檸檬汁、里葉白葡萄酒、君度橙酒和少許苦艾酒。\n*   在甜、酸和草本風味之間取得完美平衡。"
+  },
+  "historical_reference": {
+    "en": "Created to revive those suffering from the effects of overindulgence.\n\n*   First appeared in print in the 1930s in *The Savoy Cocktail Book* by Harry Craddock.\n*   The 'Corpse Reviver' family includes several variations, with No. 2 being the most popular.",
+    "zh": "旨在恢復那些因過度放縱而受苦的人。\n\n*   首次出現在印刷品上是在 1930 年代哈里·克拉多克的《*薩伏伊雞尾酒書*》中。\n*   “Corpse Reviver”家族包括多種變體，其中 2 號最受歡迎。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. Garnish with a lemon twist.",
+    "zh": "將所有材料與冰塊搖勻。 濾入冰鎮的玻璃杯中。 用檸檬皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Chilled coupe or cocktail glass",
+    "zh": "冰鎮過的碟型杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, translucent, and slightly cloudy",
+    "zh": "淡黃色，半透明，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a strong, botanical foundation.",
+        "zh": "構成雞尾酒的基礎，提供強烈的植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes floral and honeyed notes, adding to the cocktail's complexity.",
+        "zh": "貢獻花香和蜂蜜味，增加雞尾酒的複雜性。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Liqueur (Cointreau)",
+        "zh": "橙味利口酒（君度）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sweet orange flavor and contributes to the cocktail's body.",
+        "zh": "增加甜橙味，並有助於雞尾酒的酒體。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a subtle anise note that enhances the other flavors. It's used sparingly.",
+        "zh": "添加微妙的茴香味，增強其他風味。 少量使用。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sour element, balancing the sweetness of the liqueurs and providing brightness.",
+        "zh": "增加酸味，平衡利口酒的甜味並提供亮度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

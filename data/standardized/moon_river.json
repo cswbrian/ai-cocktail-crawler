@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Moon River",
+    "zh": "月亮河"
+  },
+  "description": {
+    "en": "**A delicate and refreshing cocktail.**\n\nThe Moon River cocktail evokes a sense of calmness and sophistication with its:\n*   Subtle floral notes\n*   Balanced sweetness\n*   A hint of citrus\n*   Overall light and airy character",
+    "zh": "**一款精緻清爽的雞尾酒。**\n\n月亮河雞尾酒以其以下特點喚起平靜和精緻的感覺：\n*   微妙的花香\n*   均衡的甜味\n*   一絲柑橘味\n*   整體輕盈通透的特質"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The precise origin is debated, but often linked to the famous song.\n\n*   Potentially created as a tribute to the song 'Moon River' from the movie *Breakfast at Tiffany's*.\n*   Popular variations exist, but the core components remain similar.",
+    "zh": "**起源**: 確切的起源存在爭議，但通常與這首著名的歌曲有關。\n\n*   可能是為了致敬電影《*蒂凡尼的早餐*》中的歌曲「月亮河」而創作。\n*   存在流行的變體，但核心成分保持相似。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale blue, clear, and elegant",
+    "zh": "淡藍色，清澈優雅"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical backbone.",
+        "zh": "提供基酒和植物風味骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Crème de Violette",
+        "zh": "紫羅蘭利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a floral aroma and subtle sweetness, also color.",
+        "zh": "提供花香和微妙的甜味，也提供顏色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Triple Sec",
+        "zh": "橙皮酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增加柑橘風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

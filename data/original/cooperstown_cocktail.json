@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Cooperstown",
+    "zh": "庫珀斯敦"
+  },
+  "description": {
+    "en": "A refreshing and subtly sweet cocktail, perfect as an aperitif. The Cooperstown is a simple yet elegant drink that highlights the floral notes of gin.",
+    "zh": "一款清新且帶有微妙甜味的雞尾酒，非常適合作為開胃酒。 庫珀斯敦是一種簡單而優雅的飲品，突出了琴酒的花香。"
+  },
+  "historical_reference": {
+    "en": "The origin of the Cooperstown cocktail is somewhat obscure, with no definitive historical record. It likely emerged in the mid-20th century, possibly named after the town of Cooperstown, New York. It is a simple combination of gin, dry vermouth, and orange bitters.",
+    "zh": "庫珀斯敦雞尾酒的起源有些模糊，沒有明確的歷史記錄。 它可能出現在 20 世紀中葉，可能以紐約州庫珀斯敦鎮命名。 它是琴酒、乾苦艾酒和橙味苦精的簡單組合。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled cocktail glass.",
+    "zh": "將所有材料與冰塊一起攪拌，然後過濾到冰鎮的雞尾酒杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow",
+    "zh": "清澈，淡黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical flavor and backbone of the cocktail.",
+        "zh": "提供主要的植物風味，並構成雞尾酒的主體。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增添乾澀感和草本複雜性。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "皮耶費朗干邑橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness and enhances the citrus aroma.",
+        "zh": "增加苦味並增強柑橘香氣。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

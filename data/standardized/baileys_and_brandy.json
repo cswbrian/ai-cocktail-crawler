@@ -1,0 +1,101 @@
+{
+  "name": {
+    "en": "Baileys Irish Cream",
+    "zh": "百利甜酒"
+  },
+  "description": {
+    "en": "**Baileys Irish Cream: A Cream Liqueur**\n\nBaileys Irish Cream is a liqueur based on Irish whiskey, cream and cocoa. It is enjoyed:\n*  Neat\n*  In coffee\n*  In mixed drinks.",
+    "zh": "**百利甜酒：一種奶油利口酒**\n\n百利甜酒是一種以愛爾蘭威士忌、鮮奶油和可可為基礎的利口酒。享用方式：\n*  純飲\n*  加入咖啡\n*  加入混合飲料。"
+  },
+  "historical_reference": {
+    "en": "**Baileys Irish Cream History**\n\n*   Created in 1974 by Gilbeys of Ireland, a division of International Distillers & Vintners\n*   The goal was to create a uniquely Irish drink.\n*   It was one of the first Irish cream liqueurs on the market.",
+    "zh": "**百利甜酒的歷史**\n\n*   由愛爾蘭吉爾貝公司（International Distillers & Vintners 的一個部門）於 1974 年創造。\n*   目標是創造一種獨特的愛爾蘭飲品。\n*   它是市場上最早的愛爾蘭奶油利口酒之一。"
+  },
+  "technique": {
+    "en": "Pour and serve. Can be shaken with ice for a chilled drink.",
+    "zh": "倒入並享用。 可以與冰塊搖勻，以獲得冰鎮飲品。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Neat in a small glass, over ice, or in coffee.",
+    "zh": "純飲於小玻璃杯中、加冰塊或加入咖啡。"
+  },
+  "appearance": {
+    "en": "Opaque, creamy beige-brown liquid",
+    "zh": "不透明，奶油米棕色液體"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a subtle whiskey base and warmth.",
+        "zh": "提供微妙的威士忌基底和溫暖感。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy, sweet, and flavorful base.",
+        "zh": "提供奶油味、甜味和風味的基底。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

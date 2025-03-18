@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Dry Bamboo",
+    "zh": "竹子（不甜）"
+  },
+  "description": {
+    "en": "**Elegant and Simple Cocktail**\n\nA classic aperitif known for its dryness and subtle complexity.\n\n*   Equal parts gin and dry sherry create a balanced profile.\n*   Optional bitters enhance the flavor depth.",
+    "zh": "**優雅而簡約的雞尾酒**\n\n一款經典的開胃酒，以其乾爽和微妙的複雜性而聞名。\n\n*   等量的琴酒和不甜雪莉酒創造出平衡的風味。\n*   可選的苦精增強了風味的深度。"
+  },
+  "historical_reference": {
+    "en": "**Classic Aperitif Cocktail**\n\n*   First appeared in the late 19th century.\n*   A lighter alternative to spirit-forward cocktails.\n*   Often served before a meal to stimulate the appetite.",
+    "zh": "**經典開胃雞尾酒**\n\n*   首次出現在19世紀末。\n*   一種比烈酒更清淡的替代品。\n*   通常在餐前飲用以刺激食慾。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Clear, pale straw color",
+    "zh": "清澈、淡稻草色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds botanical complexity and dryness.",
+        "zh": "增加植物的複雜性和乾度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "不甜雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base, contributing nutty and dry flavors.",
+        "zh": "提供基底，貢獻堅果和乾爽的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a hint of citrus and complexity.",
+        "zh": "增加一絲柑橘味和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

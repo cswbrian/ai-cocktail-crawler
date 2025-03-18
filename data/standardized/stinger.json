@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Stinger",
+    "zh": "스팅거"
+  },
+  "description": {
+    "en": "A simple yet elegant after-dinner cocktail made with spirit and mint liqueur. It's known for its refreshing minty flavor and relatively high alcohol content. Often served straight up in a stemmed glass.",
+    "zh": "一種簡單而優雅的餐後雞尾酒，由烈酒和薄荷利口酒製成。 它以其清爽的薄荷味和相對較高的酒精含量而聞名。 通常在高腳杯中直接飲用。"
+  },
+  "historical_reference": {
+    "en": "The Stinger's origins are debated, with some tracing it back to the late 19th century. It gained popularity in the early 20th century and was a favorite among high society. It is featured in numerous classic cocktail books.\n\n*   Often associated with the *'upper class'* due to its use of brandy.\n*   Became less popular with the rise of more complex cocktails.",
+    "zh": "Stinger的起源存在爭議，有些人可以追溯到19世紀後期。 它在20世紀初開始流行，並且是上流社會的最愛。 它出現在許多經典雞尾酒書籍中。\n\n*   由於使用白蘭地，通常與*“上層階級”*相關。\n*   隨著更複雜的雞尾酒的興起，它變得不太受歡迎。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into a chilled glass. Alternatively, stir with ice and strain.",
+    "zh": "與冰塊搖勻並濾入冰鎮的杯子中。 或者，與冰塊攪拌並過濾。"
+  },
+  "garnish": {
+    "en": "None, or a mint sprig (optional).",
+    "zh": "無，或薄荷枝（可選）。"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or Old Fashioned glass.",
+    "zh": "雞尾酒杯或古典杯。"
+  },
+  "appearance": {
+    "en": "Clear, colorless to slightly off-white.",
+    "zh": "清澈、無色至略帶灰白色。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "通用烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and structure of the drink. Classically uses brandy, but vodka, gin, or white rum may substitute.",
+        "zh": "提供飲品的酒精基礎和結構。 經典上使用白蘭地，但伏特加、琴酒或白色蘭姆酒也可以替代。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Mint Liqueur",
+        "zh": "薄荷利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a strong mint flavor and sweetness to the cocktail.",
+        "zh": "為雞尾酒增添濃郁的薄荷味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

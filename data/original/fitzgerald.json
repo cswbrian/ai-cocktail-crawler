@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Fitzgerald",
+    "zh": "費茲傑羅"
+  },
+  "description": {
+    "en": "**A sophisticated sour cocktail**\n\nThe Fitzgerald is a delightful twist on the classic Gin Sour. It's:\n*   **Refreshing**: A well-balanced combination of gin, lemon, and sugar.\n*   **Complex**: Angostura bitters adds an extra layer of depth.",
+    "zh": "**精緻的酸味雞尾酒**\n\n費茲傑羅是對經典琴酒酸酒的精妙轉變。它：\n*   **清爽**：琴酒、檸檬和糖的完美結合。\n*   **複雜**：安格式苦精增添了額外的深度。"
+  },
+  "historical_reference": {
+    "en": "**Created by Dale DeGroff**\n\nThe Fitzgerald cocktail was created by renowned mixologist Dale DeGroff, also known as King Cocktail. It's a variation of the Gin Sour, with the addition of Angostura bitters. First appearing in the early 2000s, it has since become a modern classic.",
+    "zh": "**由戴爾·德格羅夫創作**\n\n費茲傑羅雞尾酒由著名調酒師戴爾·德格羅夫（又名雞尾酒之王）創作。 它是琴酒酸酒的一種變體，添加了安格仕苦精。 首次出現在 2000 年代初期，此後已成為現代經典。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and double strain into a chilled glass.",
+    "zh": "將所有成分與冰塊搖勻，然後雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow and cloudy, with a frothy white head",
+    "zh": "淡黃色和混濁，帶有泡沫狀的白色頂部"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the botanical base and backbone of the cocktail.",
+        "zh": "提供雞尾酒的植物基礎和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness and enhance the gin.",
+        "zh": "增加酸度，平衡甜度並增強琴酒風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness to balance the sourness of the lemon juice.",
+        "zh": "提供甜味以平衡檸檬汁的酸味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic spice notes.",
+        "zh": "添加複雜性和芳香香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

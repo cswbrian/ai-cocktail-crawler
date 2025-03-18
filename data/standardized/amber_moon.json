@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Amber Moon",
+    "zh": "琥珀之月"
+  },
+  "description": {
+    "en": "A simple yet classic cocktail, the Amber Moon is essentially whisky lightened and lengthened with beer. It's typically served as a light, refreshing drink, often enjoyed in the morning or early afternoon.\n\n*   Easy to prepare\n*   A refreshing alternative to a straight whisky\n*   Best with lighter-bodied beers",
+    "zh": "琥珀之月是一款簡單而經典的雞尾酒，本質上是用啤酒淡化和延長的威士忌。它通常作為一種清淡、清爽的飲料供應，通常在早上或下午早些時候享用。\n\n*   容易準備\n*   純威士忌的清爽替代品\n*   最好搭配酒體較輕的啤酒"
+  },
+  "historical_reference": {
+    "en": "The precise origin of the Amber Moon is unclear, but it's believed to be a relatively modern creation, likely emerging as a simple, easy-to-make drink in the mid-20th century. It's a variation on the 'beer cocktail' theme, where spirits are combined with beer for added flavor and potency.\n\n*   Likely emerged in the mid-20th century.\n*   A simple variation on beer cocktails.\n*   Popularized by its ease of preparation.",
+    "zh": "琥珀之月的確切起源尚不清楚，但它被認為是一種相對現代的創作，可能在20世紀中期作為一種簡單、易於製作的飲料出現。它是「啤酒雞尾酒」主題的變體，將烈酒與啤酒混合以增加風味和效力。\n\n*   可能出現在20世紀中期。\n*   啤酒雞尾酒的簡單變體。\n*   因其易於準備而普及。"
+  },
+  "technique": {
+    "en": "Pour whisky into the glass, top with beer. No stirring required.",
+    "zh": "將威士忌倒入玻璃杯中，倒入啤酒。無需攪拌。"
+  },
+  "garnish": {
+    "en": "None typically, but a lemon wedge or orange slice can be added.",
+    "zh": "通常沒有，但可以添加檸檬角或橙片。"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass or Highball glass",
+    "zh": "品脫杯或高球杯"
+  },
+  "appearance": {
+    "en": "Clear, pale amber liquid",
+    "zh": "清澈的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing the spirituous character.",
+        "zh": "構成雞尾酒的基底，提供酒精特性。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Beer (Pilsner or Lager)",
+        "zh": "啤酒（皮爾森或拉格）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds volume, carbonation, and a light, refreshing flavor.",
+        "zh": "增加體積、碳酸化和清淡、清爽的風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "name": {
+    "en": "Baileys and Vodka Shot",
+    "zh": "百利甜酒伏特加Shot"
+  },
+  "description": {
+    "en": "**Simple and Sweet Shot**\n\nA quick and easy shot combining the creamy sweetness of Baileys with the kick of vodka:\n*   Easy to prepare\n*   Sweet and palatable",
+    "zh": "**簡單而甜蜜的Shot**\n\n快速簡便的Shot，結合了百利甜酒的奶油甜味和伏特加的刺激感：\n* 容易準備\n* 甜美可口"
+  },
+  "historical_reference": {
+    "en": "The combination of Baileys Irish Cream and Vodka is a relatively modern creation, likely emerging in the late 20th century as a simple and accessible shot.",
+    "zh": "百利甜酒和伏特加的組合是一種相對現代的創作，可能出現在20世紀後期，作為一種簡單易飲的短飲。"
+  },
+  "technique": {
+    "en": "Pour both ingredients into a shot glass.",
+    "zh": "將兩種成分倒入烈酒杯中。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy tan liquid",
+    "zh": "不透明的奶油棕褐色液體"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral spirit.",
+        "zh": "提供酒精基底和中性烈酒。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Baileys Irish Cream",
+        "zh": "百利甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creamy sweetness and Irish whiskey flavor.",
+        "zh": "增加奶油的甜味和愛爾蘭威士忌的味道。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

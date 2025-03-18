@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Red Russian",
+    "zh": "紅色俄羅斯"
+  },
+  "description": {
+    "en": "**Simple and Potent**\n\nA straightforward cocktail combining vodka and coffee liqueur.\n\n*   Easy to make\n*   Strong coffee flavor\n*   Can be adjusted to taste",
+    "zh": "**簡單而強烈**\n\n將伏特加和咖啡利口酒結合的簡單雞尾酒。\n\n*   易於製作\n*   濃郁的咖啡味\n*   可以根據口味進行調整"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Likely emerged during the Cold War era.\n\n*   Name implies a connection to Russia (vodka) and its then-antagonistic relationship with the West (the 'black' or 'red' color association).\n*   Its exact origin is murky, but the combination of vodka and coffee liqueur became popular in the mid-20th century.",
+    "zh": "**起源**：可能出現在冷戰時期。\n\n*   名稱暗示了與俄羅斯（伏特加）的聯繫，以及當時與西方的敵對關係（“黑色”或“紅色”的顏色聯想）。\n*   其確切起源尚不清楚，但伏特加和咖啡利口酒的組合在20世紀中葉開始流行。"
+  },
+  "technique": {
+    "en": "Build; Pour vodka and coffee liqueur into an Old Fashioned glass filled with ice. Stir gently.",
+    "zh": "兌和法; 將伏特加和咖啡利口酒倒入裝滿冰塊的古典杯中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None typically",
+    "zh": "通常沒有"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark brown, opaque",
+    "zh": "深棕色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Generic Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and coffee flavor.",
+        "zh": "增加甜味和咖啡味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

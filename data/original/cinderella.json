@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Cinderella",
+    "zh": "灰姑娘"
+  },
+  "description": {
+    "en": "**Non-Alcoholic Delight**\n\nA fruity and refreshing non-alcoholic cocktail perfect for any occasion, featuring:\n*   A blend of orange, pineapple, and lemon juices\n*   A splash of ginger ale for added fizz\n*   A vibrant, tropical flavor profile",
+    "zh": "**無酒精的喜悅**\n\n一款適合任何場合的清爽水果無酒精雞尾酒，特色：\n*   混合了柳橙、鳳梨和檸檬汁\n*   加入少許薑汁汽水以增加氣泡\n*   充滿活力的熱帶風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The exact origin of the Cinderella cocktail is uncertain, but it gained popularity as a refreshing and flavorful non-alcoholic option. Its name suggests a transformation into something delightful, much like the fairy tale.\n\n*   Likely emerged in the mid-20th century\n*   Popularized during the rise of non-alcoholic cocktail culture\n*   Variations exist, but the core ingredients remain consistent",
+    "zh": "**起源**: 灰姑娘雞尾酒的確切起源尚不確定，但它作為一種清爽可口的無酒精選擇而廣受歡迎。 它的名字暗示著轉變為令人愉快的事物，很像童話故事。\n\n*   可能出現在 20 世紀中葉\n*   在非酒精雞尾酒文化興起期間廣受歡迎\n*   存在變體，但核心成分保持一致"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except ginger ale) with ice and strain into a highball glass filled with ice. Top with ginger ale. Garnish with an orange slice and cherry.",
+    "zh": "將所有材料（薑汁汽水除外）與冰塊搖勻，然後濾入裝滿冰塊的高杯中。 最後倒入薑汁汽水。 用橙片和櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice and cherry",
+    "zh": "橙片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant orange color with a frothy top",
+    "zh": "混濁，鮮豔的橙色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the main fruity base and sweetness.",
+        "zh": "增加主要的水果基底和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes to the tropical profile and adds acidity.",
+        "zh": "有助於熱帶風味並增加酸度。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and acidity to balance the sweetness.",
+        "zh": "添加柑橘味和酸度以平衡甜味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Ginger Ale",
+        "zh": "薑汁汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and a slight spicy ginger flavor.",
+        "zh": "增加氣泡和淡淡的辛辣薑味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 0,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Lynchburg Lemonade",
+    "zh": "林奇堡檸檬水"
+  },
+  "description": {
+    "en": "**A Refreshing Whiskey Cocktail**\n\nThe Lynchburg Lemonade is a modern classic, known for its:\n\n*   Easy-drinking nature\n*   Balanced sweet and sour flavors\n*   Refreshing, bubbly character",
+    "zh": "**清爽的威士忌雞尾酒**\n\n林奇堡檸檬水是一種現代經典，以其：\n\n*   易於飲用\n*   平衡的酸甜風味\n*   清爽的氣泡特性而聞名"
+  },
+  "historical_reference": {
+    "en": "**Created in Lynchburg, Tennessee**\n\n*   Reportedly created in the 1980s at the Jack Daniel's distillery.\n*   Quickly gained popularity for its refreshing taste and simple recipe.",
+    "zh": "**在田納西州林奇堡創建**\n\n*   據報導於1980年代在傑克丹尼釀酒廠創建。\n*   因其清爽的口感和簡單的配方而迅速普及。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a highball glass filled with ice. Top with club soda.",
+    "zh": "將所有材料與冰塊搖勻，濾入裝滿冰塊的高球杯中。 加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Lemon slice and cherry",
+    "zh": "檸檬片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, bubbly, and refreshing",
+    "zh": "淡黃色，有氣泡，清爽"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tennessee Whiskey",
+        "zh": "田納西威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and characteristic flavor.",
+        "zh": "提供基底和特色風味。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle orange flavor and sweetness.",
+        "zh": "增加微妙的橙子味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sourness and citrus notes.",
+        "zh": "提供酸味和柑橘風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

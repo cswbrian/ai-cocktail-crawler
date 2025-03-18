@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Smoked Fig and Bourbon Sour",
+    "zh": "煙燻無花果波本酸酒"
+  },
+  "description": {
+    "en": "**A sophisticated twist on the classic Whiskey Sour**\n\nThis cocktail features the rich flavors of bourbon complemented by the sweetness of smoked fig syrup and the tartness of lemon juice.\n\n*   Smoked fig syrup adds a unique depth of flavor.\n*   Fresh lemon juice provides the necessary sourness.\n*   Optional egg white adds a silky texture.",
+    "zh": "**經典威士忌酸酒的精緻變奏**\n\n這款雞尾酒以波本威士忌的濃郁風味為主，搭配煙燻無花果糖漿的甜味和檸檬汁的酸味。\n\n*   煙燻無花果糖漿增添了獨特的風味深度。\n*   新鮮檸檬汁提供必要的酸味。\n*   可選的蛋白增添了絲滑的口感。"
+  },
+  "historical_reference": {
+    "en": "**Contemporary Creation**\n\nThe Smoked Fig and Bourbon Sour is a modern variation on the classic Whiskey Sour, emphasizing smoky and fruity flavors.\n\n*   Builds upon the foundation of the traditional sour.\n*   Incorporates the trendy smoked flavour profiles\n*   Offers a complex and balanced drinking experience.",
+    "zh": "**現代創作**\n\n煙燻無花果波本酸酒是經典威士忌酸酒的現代變奏，強調煙燻和水果風味。\n\n*   建立在傳統酸酒的基礎上。\n*   融合了流行的煙熏風味。\n*   提供複雜而均衡的飲用體驗。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice, strain into glass, garnish.",
+    "zh": "將所有材料與冰塊搖勻，濾入杯中，裝飾。"
+  },
+  "garnish": {
+    "en": "Smoked fig slice",
+    "zh": "煙燻無花果片"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy amber liquid with a light tan foam head",
+    "zh": "混濁的琥珀色液體，帶有淺棕色泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich base and warmth to the cocktail.",
+        "zh": "為雞尾酒提供豐富的基底和溫暖感。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Smoked Fig Liqueur",
+        "zh": "煙燻無花果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Introduces fig and smoky notes.",
+        "zh": "引入無花果和煙熏味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the necessary acidity to balance the sweetness.",
+        "zh": "增加必要的酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky smooth texture to the cocktail.",
+        "zh": "為雞尾酒增添絲滑柔順的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

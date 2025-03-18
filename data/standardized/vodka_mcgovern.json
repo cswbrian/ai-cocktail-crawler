@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Vodka McGovern",
+    "zh": "伏特加麥戈文"
+  },
+  "description": {
+    "en": "**Vodka McGovern: A Modern Classic**\n\nA simple yet sophisticated cocktail featuring:\n*   High-quality vodka for a clean taste\n*   A splash of dry vermouth for added complexity\n*   Orange bitters for aromatic depth\n*   Orange zest for vibrant citrus aroma.",
+    "zh": "**伏特加麥戈文：現代經典**\n\n一款簡單而精緻的雞尾酒，特色：\n*   高品質伏特加帶來純淨口感\n*   少量Dry Vermouth增添風味層次\n*   橙味苦精帶來香氣深度\n*   橙皮提供鮮明柑橘香氣。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A modern adaptation of the classic Martini\n\n*   Inspired by the desire for a lighter, more citrus-forward Martini.\n*   Named after a fictional character known for their sophisticated taste.\n*   Evolved from various vodka martini recipes.",
+    "zh": "**起源**: 經典馬丁尼的現代改編\n\n*   靈感來自於對更清淡、更具柑橘風味的馬丁尼的追求。\n*   以一個以其精緻品味而聞名的虛構人物命名。\n*   從各種伏特加馬丁尼配方演變而來。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後倒入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Orange zest twist (expressed)",
+    "zh": "橙皮扭轉（擠壓）"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear and colorless",
+    "zh": "清澈無色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle herbal and floral complexity.",
+        "zh": "增添微妙的草本和花香層次。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity and a hint of bitterness.",
+        "zh": "增添香氣複雜性和一絲苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

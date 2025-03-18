@@ -1,0 +1,129 @@
+{
+  "name": {
+    "en": "Brandy Sour",
+    "zh": "白蘭地酸酒"
+  },
+  "description": {
+    "en": "**Classic Sour Cocktail**\n\nA simple yet refreshing cocktail featuring:\n*   Brandy base for depth of flavor\n*   Lemon juice for tartness\n*   Sugar for balanced sweetness\n*   Optional egg white for a silky texture",
+    "zh": "**經典酸味雞尾酒**\n\n一款簡單而清爽的雞尾酒，特色：\n*   白蘭地基底帶來深層風味\n*   檸檬汁帶來酸味\n*   糖帶來平衡的甜味\n*   可選的蛋白帶來絲滑的口感"
+  },
+  "historical_reference": {
+    "en": "**Traditional Sour Cocktail**\n\n*   Sours originated in the 1800s.\n*   The Brandy Sour is a classic variation.\n*   Recipes vary, but the core remains the same.",
+    "zh": "**傳統酸味雞尾酒**\n\n*   酸味雞尾酒起源於 1800 年代。\n*   白蘭地酸酒是經典的變體。\n*   配方各異，但核心不變。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass. Dry shake without ice, then shake with ice for the best foam if using egg white.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入玻璃杯中。 如果使用蛋白，先不加冰塊乾搖，然後加冰搖勻，以獲得最佳泡沫。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or cherry",
+    "zh": "檸檬角或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or sour glass",
+    "zh": "古典杯或酸酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy amber, frothy head",
+    "zh": "混濁的琥珀色，帶有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and warmth of the cocktail.",
+        "zh": "提供雞尾酒的基酒和溫暖感。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity.",
+        "zh": "增加酸味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加絲滑的質感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

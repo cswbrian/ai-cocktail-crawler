@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Frozen Margarita",
+    "zh": "冰沙瑪格麗特"
+  },
+  "description": {
+    "en": "**Frozen Margarita: A Refreshing Classic**\n\nThe Frozen Margarita takes the classic margarita and transforms it into a slushy, icy treat. Key characteristics:\n\n*   Blended with ice for a frosty texture\n*   Ideal for hot weather\n*   Can be easily customized with fruit flavors",
+    "zh": "**冰沙瑪格麗特：清爽經典**\n\n冰沙瑪格麗特將經典的瑪格麗特轉變為泥濘、冰冷的享受。主要特徵：\n\n*   與冰混合，形成霜狀質地\n*   非常適合炎熱天氣\n*   可以很容易地用果味客製化"
+  },
+  "historical_reference": {
+    "en": "**Origins of the Margarita and its Frozen Variant**\n\nThe history of the Margarita is debated, but it gained popularity in the mid-20th century. The Frozen Margarita was likely a later adaptation, possibly invented with the advent of blenders in bars.\n\n*   Several claims exist regarding the invention of the Margarita\n*   The frozen version enhanced its appeal during warm climates\n*   Becoming a staple blended drink in the US and beyond",
+    "zh": "**瑪格麗特及其冰沙變體的起源**\n\n瑪格麗特的歷史備受爭議，但在 20 世紀中葉開始流行。冰沙瑪格麗特可能是一個後來的改編版本，可能隨著酒吧攪拌機的出現而發明。\n\n*   關於瑪格麗特發明的說法有很多\n*   冰凍版本增強了它在溫暖氣候中的吸引力\n*   成為美國及其他地區的主要混合飲料"
+  },
+  "technique": {
+    "en": "Blend all ingredients until smooth. Salt the rim of the glass (optional). Pour into glass.",
+    "zh": "將所有材料混合均勻。 在杯子邊緣撒鹽（可選）。 倒入杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel, salt rim (optional)",
+    "zh": "青檸角或片，鹽口（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Margarita glass or goblet",
+    "zh": "瑪格麗特杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Icy, pale green to white slushy mixture",
+    "zh": "冰沙狀，淡綠色至白色的泥濘混合物"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and agave flavor.",
+        "zh": "提供酒精基底和龍舌蘭風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor.",
+        "zh": "增加甜味和橙子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Lime Juice",
+        "zh": "通用青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus flavor.",
+        "zh": "增加酸味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Ice",
+        "zh": "冰"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Provides the frozen texture and dilutes the drink.",
+        "zh": "提供冰凍質地並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

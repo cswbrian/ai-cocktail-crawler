@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Kahlúa Mudslide",
+    "zh": "卡魯哇泥石流"
+  },
+  "description": {
+    "en": "**Decadent and Indulgent Cocktail**\n\nA sweet, creamy cocktail perfect for dessert, featuring:\n*   A blend of vodka, coffee liqueur, and Irish cream.\n*   Often served blended with ice for a frozen, milkshake-like consistency.\n*   Garnished with chocolate syrup or shavings for added richness.",
+    "zh": "**頹廢和放縱的雞尾酒**\n\n一款香甜、奶油味的雞尾酒，非常適合當作甜點，特色：\n*   伏特加、咖啡利口酒和愛爾蘭奶油的混合。\n*   通常與冰混合，形成冷凍的、類似奶昔的稠度。\n*   用巧克力糖漿或碎屑裝飾，增加豐富度。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Kahlúa Mudslide is a relatively modern cocktail, its precise origins are not definitively documented, but it's believed to have emerged in the latter half of the 20th century.\n\n*   Popularized in bars and resorts as a sweet and creamy dessert cocktail.\n*   Variations exist using different types of cream liqueurs or ice cream for a richer texture.",
+    "zh": "**現代創作**\n\nKahlúa Mudslide 是一種相對現代的雞尾酒，其確切的起源沒有明確的記載，但據信它出現在 20 世紀後半葉。\n\n*   在酒吧和度假村中流行，作為一種香甜可口的甜點雞尾酒。\n*   存在使用不同種類的奶油利口酒或冰淇淋來獲得更豐富質地的變體。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "將所有材料與冰塊混合至光滑。倒入玻璃杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Chocolate syrup drizzle, whipped cream, chocolate shavings",
+    "zh": "巧克力糖漿淋醬、鮮奶油、巧克力碎屑"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or large cocktail glass",
+    "zh": "颶風杯或大型雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, rich brown color, often served with a chocolate drizzle",
+    "zh": "奶油般濃郁的棕色，通常搭配巧克力淋醬"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness",
+        "zh": "增添咖啡風味和甜味"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and sweet flavor",
+        "zh": "增加奶油味和甜味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "cubes",
+        "zh": "塊"
+      },
+      "rationale": {
+        "en": "To chill and blend the drink",
+        "zh": "冷卻和混合飲料"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 8,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Jungle Bird",
+    "zh": "叢林鳥"
+  },
+  "description": {
+    "en": "**Tropical Delight**\n\nA vibrant Tiki cocktail with a balanced profile:\n*   Dark rum provides a robust base.\n*   Campari adds a bitter edge.\n*   Pineapple and lime offer sweetness and acidity.",
+    "zh": "**熱帶喜悅**\n\n一款充滿活力的提基雞尾酒，具有平衡的風味：\n*   深色蘭姆酒提供醇厚的基底。\n*   金巴利增添苦味。\n*   鳳梨和萊姆帶來甜味和酸度。"
+  },
+  "historical_reference": {
+    "en": "**Created in Kuala Lumpur**\n\n*   Invented in 1970s at the Kuala Lumpur Hilton.\n*   Named after the hotel's aviary, *Jungle Bird*.\n*   Became a modern classic.",
+    "zh": "**於吉隆坡發明**\n\n*   1970年代在吉隆坡希爾頓酒店發明。\n*   以酒店的鳥舍*叢林鳥*命名。\n*   成為現代經典。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到裝滿冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and cherry.",
+    "zh": "鳳梨角和櫻桃。"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Deep red, frothy, vibrant.",
+    "zh": "深紅色，起泡，充滿活力。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and booziness.",
+        "zh": "提供基底風味和酒體。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Bitter Apertivo",
+        "zh": "苦味餐前酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bitter, herbal complexity.",
+        "zh": "增加苦味和草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity and bitterness.",
+        "zh": "添加甜味以平衡酸度和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

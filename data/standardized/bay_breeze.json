@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Bay Breeze",
+    "zh": "海灣微風"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA blend of vodka, cranberry juice, and grapefruit juice, offering:\n\n*   A tart and slightly sweet flavor profile\n*   Easy to make and widely popular\n*   Perfect for warm weather or casual settings",
+    "zh": "**簡單清爽的雞尾酒**\n\n伏特加、蔓越莓汁和葡萄柚汁的混合，提供：\n\n*   酸味和略帶甜味的風味\n*   容易製作且廣受歡迎\n*   非常適合溫暖的天氣或休閒場合"
+  },
+  "historical_reference": {
+    "en": "**Popular Beach Cocktail**\n\n*   Originated in the 1980s, part of the Cape Codder family (vodka and cranberry).\n*   The addition of grapefruit juice differentiates it.\n*   Name evokes a breezy, coastal atmosphere.",
+    "zh": "**受歡迎的海灘雞尾酒**\n\n*   起源於1980年代，是科德角家族（伏特加和蔓越莓）的一部分。\n*   添加葡萄柚汁使其與眾不同。\n*   名稱讓人聯想到微風吹拂的沿海氛圍。"
+  },
+  "technique": {
+    "en": "Build. Add vodka and juices to a highball glass filled with ice. Stir gently.",
+    "zh": "直接調合法。 將伏特加和果汁倒入裝滿冰塊的高球杯中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge or slice",
+    "zh": "檸檬角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Clear, vibrant red to pink, depending on the ratio of cranberry juice.",
+    "zh": "清澈，鮮豔的紅色至粉紅色，取決於蔓越莓汁的比例。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base without overpowering the other flavors.",
+        "zh": "提供酒精基底，而不會壓過其他風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and color.",
+        "zh": "提供主要的風味和顏色。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a tart and slightly bitter citrus note.",
+        "zh": "增添酸味和略帶苦味的柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Charred Orange Paloma",
+    "zh": "焦香橙Paloma"
+  },
+  "description": {
+    "en": "**Smoky and Refreshing Paloma Variation**\n\nA twist on the classic Paloma cocktail, featuring:\n*   Charred orange for a smoky depth\n*   Lime juice for tartness\n*   Agave nectar for sweetness\n*   Topped with grapefruit soda for fizz and slight bitterness",
+    "zh": "**煙燻清爽的Paloma變奏**\n\n經典Paloma雞尾酒的變奏，特色：\n*   焦香橙子帶來煙燻深度\n*   萊姆汁增添酸味\n*   龍舌蘭花蜜帶來甜味\n*   加入葡萄柚蘇打水，增加氣泡和淡淡苦味"
+  },
+  "historical_reference": {
+    "en": "**Paloma Cocktail History**\n\nThe Paloma is a tequila-based cocktail. While the exact origin is debated:\n*   It is believed to have originated in Mexico\n*   Don Javier Delgado Corona, owner and bartender of La Capilla in Tequila, Mexico, is often credited with its creation.\n*   The drink's name may be inspired by *La Paloma* (",
+    "zh": "The Dove), a popular folk song from the 1860s.\n\nThis variation introduces a smoky twist by charring the orange, adding depth and complexity to the drink."
+  },
+  "technique": {
+    "en": "Build. Add tequila, lime juice, and agave to a highball glass with ice. Top with grapefruit soda. Garnish with a charred orange slice.",
+    "zh": "直接調製。將龍舌蘭酒、萊姆汁和龍舌蘭花蜜加入裝有冰塊的高球杯中。加入葡萄柚蘇打水。用焦香橙片裝飾。"
+  },
+  "garnish": {
+    "en": "Charred Orange Slice",
+    "zh": "焦香橙片"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Light pink, bubbly, with a charred orange slice",
+    "zh": "淡粉色，有氣泡，帶有焦香的橙片"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave base and characteristic tequila flavor.",
+        "zh": "提供龍舌蘭的基底和特有的龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸味並平衡甜度。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complements the tequila.",
+        "zh": "增加甜味並與龍舌蘭酒相輔相成。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

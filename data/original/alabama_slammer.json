@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Alabama Slammer",
+    "zh": "阿拉巴馬大滿貫"
+  },
+  "description": {
+    "en": "A sweet and fruity cocktail with a nutty undertone. The Alabama Slammer is known for its easy-drinking nature and blend of several liqueurs and spirits. It's a popular choice for parties and casual gatherings.",
+    "zh": "一款香甜且帶有水果風味的雞尾酒，並帶有堅果味。 阿拉巴馬大滿貫以其易飲性和多種利口酒和烈酒的混合而聞名。 它是派對和休閒聚會的熱門選擇。"
+  },
+  "historical_reference": {
+    "en": "The Alabama Slammer is believed to have originated in the Southern United States, although its exact origin is uncertain. \n\n*   Popularized in the 1970s and 1980s.\n*   Often associated with college campuses and parties due to its sweet and potent nature.",
+    "zh": "阿拉巴馬大滿貫據信起源於美國南部，但其確切起源尚不確定。\n\n*   在 1970 年代和 1980 年代普及。\n*   由於其香甜和烈性的特點，通常與大學校園和派對有關。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice.",
+    "zh": "將所有材料與冰塊一起搖勻，然後過濾到裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry",
+    "zh": "橙片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball or rocks glass",
+    "zh": "高球杯或岩石杯"
+  },
+  "appearance": {
+    "en": "Pinkish-orange, slightly cloudy",
+    "zh": "粉橙色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto",
+        "zh": "阿瑪雷托"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a nutty sweetness and almond flavor.",
+        "zh": "增添堅果的甜味和杏仁味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Southern Comfort",
+        "zh": "南方安逸"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes stone fruit flavors and sweetness.",
+        "zh": "帶來核果風味和甜味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sloe Gin",
+        "zh": "黑刺李琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruity and slightly tart flavor.",
+        "zh": "增加水果味和輕微的酸味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

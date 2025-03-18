@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Moscow Mule",
+    "zh": "莫斯科騾子"
+  },
+  "description": {
+    "en": "**Simple and Refreshing**\n\nThe Moscow Mule is known for its simplicity and refreshing qualities:\n\n*   Vodka provides a clean alcoholic base.\n*   Ginger beer adds a spicy and sweet element.\n*   Lime juice offers a citrusy tang to balance the sweetness.",
+    "zh": "**簡單又清爽**\n\n莫斯科騾子以其簡單和清爽的特點而聞名：\n\n*   伏特加提供乾淨的酒精基底。\n*   薑汁啤酒增加了一種辛辣和甜美的元素。\n*   青檸汁提供柑橘的酸味來平衡甜味。"
+  },
+  "historical_reference": {
+    "en": "**Origins in the 1940s**\n\nThe Moscow Mule was invented in 1941 in Los Angeles, California:\n\n*   Created by John G. Martin of Heublein (vodka distributor) and Jack Morgan (owner of Cock 'n' Bull restaurant).\n*   The copper mug was part of the marketing strategy.\n*   Aimed to popularize vodka in the United States.",
+    "zh": "**起源於1940年代**\n\n莫斯科騾子於1941年在加利福尼亞州洛杉磯發明：\n\n*   由Heublein（伏特加經銷商）的John G. Martin和Cock 'n' Bull餐廳的老闆Jack Morgan共同創造。\n*   銅杯是行銷策略的一部分。\n*   旨在推廣伏特加在美國的普及。"
+  },
+  "technique": {
+    "en": "Combine vodka and lime juice in a copper mug filled with ice. Top with ginger beer. Garnish with a lime wedge or wheel.",
+    "zh": "將伏特加和青檸汁倒入裝滿冰的銅杯中。 加入薑汁啤酒。 用青檸角或片裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "青檸角或片"
+  },
+  "serve_in_glass": {
+    "en": "Copper mug",
+    "zh": "銅杯"
+  },
+  "appearance": {
+    "en": "Clear, bubbly, pale gold",
+    "zh": "清澈、有氣泡、淡金色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base, a clean spirit that allows other flavors to shine.",
+        "zh": "提供酒精基底，一種乾淨的烈酒，可以讓其他風味發光。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the signature spicy-sweet flavor.",
+        "zh": "提供標誌性的辛辣甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity to balance the sweetness.",
+        "zh": "增加酸度和酸度，以平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

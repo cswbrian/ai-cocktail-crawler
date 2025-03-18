@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Grapefruit Spritzer",
+    "zh": "葡萄柚氣泡飲"
+  },
+  "description": {
+    "en": "**Refreshing and Light Cocktail**\n\nA simple yet satisfying drink that features:\n*   A balance of sweet and tart grapefruit flavors\n*   The effervescence of club soda",
+    "zh": "**清爽輕盈的雞尾酒**\n\n簡單而令人滿意的飲料，特色：\n*   甜與酸的葡萄柚風味平衡\n*   俱樂部梳打水的氣泡感"
+  },
+  "historical_reference": {
+    "en": "**Modern Cocktail with Classic Roots**\n\n*   Spritzers have been around for centuries, traditionally a mix of wine and sparkling water.\n*   The grapefruit spritzer is a modern variation using vodka and grapefruit juice for a refreshing twist.",
+    "zh": "**具有經典淵源的現代雞尾酒**\n\n*   Spritzer 已經存在了幾個世紀，傳統上是葡萄酒和氣泡水的混合物。\n*   葡萄柚 spritzer 是一種現代變體，使用伏特加和葡萄柚汁，帶來清爽的風味。"
+  },
+  "technique": {
+    "en": "Build over ice in a highball glass. Garnish with a grapefruit wedge.",
+    "zh": "在高球杯中加冰調製。用葡萄柚角裝飾。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or slice",
+    "zh": "葡萄柚角或切片"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Light pink and bubbly, clear with a citrus wedge garnish",
+    "zh": "淡粉色和起泡，清澈並以柑橘角裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, neutral base allowing the grapefruit and soda flavors to shine.",
+        "zh": "提供乾淨、中性的基底，使葡萄柚和蘇打風味得以彰顯。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and the signature grapefruit flavor.",
+        "zh": "增加酸味和標誌性的葡萄柚風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Club Soda",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the drink to a refreshing consistency.",
+        "zh": "增加氣泡感並稀釋飲料至清爽的稠度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

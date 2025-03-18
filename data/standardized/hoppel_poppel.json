@@ -1,0 +1,198 @@
+{
+  "name": {
+    "en": "Hoppel Poppel",
+    "zh": "霍佩爾·波佩爾"
+  },
+  "description": {
+    "en": "**Hoppel Poppel: A German-Inspired Egg Nog**\n\nA rich and creamy egg-based drink, similar to eggnog but with a distinctive flavor profile. It's a comforting and indulgent beverage, typically served warm.\n\n*   Features rum for a warming kick\n*   Milk and cream for richness\n*   Eggs for texture and flavor",
+    "zh": "**Hoppel Poppel：德式風味蛋酒**\n\n一種濃郁且奶香的蛋類飲品，類似於蛋酒，但具有獨特的風味。這是一種令人感到舒適和放縱的飲料，通常是溫熱供應。\n\n*   以蘭姆酒為特色，帶來溫暖的口感\n*   牛奶和奶油增添豐富感\n*   雞蛋提供質地和風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: German-inspired, likely a variation of traditional egg nog recipes.\n\n*   Evolved from European egg-based drinks\n*   Name may be derived from regional dialect.",
+    "zh": "**起源**：靈感來自德國，可能是傳統蛋酒食譜的變體。\n\n*   由歐洲的雞蛋類飲料演變而來\n*   名稱可能源自當地方言。"
+  },
+  "technique": {
+    "en": "Whisk egg yolks and sugar, then gradually add milk, cream, rum, and vanilla extract. Heat gently without boiling. Garnish.",
+    "zh": "將蛋黃和糖攪拌均勻，然後逐漸加入牛奶、鮮奶油、蘭姆酒和香草精。輕輕加熱，不要煮沸。裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or cinnamon stick",
+    "zh": "磨碎的肉荳蔻或肉桂棒"
+  },
+  "serve_in_glass": {
+    "en": "Warm mug or heatproof glass",
+    "zh": "溫暖的馬克杯或耐熱玻璃杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow to light brown",
+    "zh": "奶油色，淡黃色至淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Eggs",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy (milk, cream)",
+      "zh": "乳製品（牛奶、奶油）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rum",
+        "zh": "冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and adds warmth.",
+        "zh": "提供基酒並增加溫暖感。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "冧酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "香草精"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the sweetness and adds a vanilla note.",
+        "zh": "增強甜度並增添香草味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Egg yolks",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and body to the drink.",
+        "zh": "增加飲品的濃郁度和口感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the other flavors.",
+        "zh": "使飲品變甜並平衡其他風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Milk",
+        "zh": "牛奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds liquid volume and creaminess.",
+        "zh": "增加液體體積和奶油味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and smooth texture.",
+        "zh": "增加豐富度和柔滑質地。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Almonds",
+        "zh": "杏仁"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds nutty flavours and complements the drink",
+        "zh": "添加堅果風味並補充飲料"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

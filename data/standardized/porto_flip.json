@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Porto Flip",
+    "zh": "波特菲力"
+  },
+  "description": {
+    "en": "**A Classic, Rich After-Dinner Drink**\n\nThe Porto Flip is a velvety and decadent cocktail, perfect for a sophisticated after-dinner treat.\n\n*   Features a blend of rich Tawny Port.\n*   Enriched with egg yolk for creaminess.\n*   A touch of sugar or syrup balances the flavors.\n*   Grated nutmeg provides aromatic spice.",
+    "zh": "**經典、濃郁的餐後飲品**\n\n波特菲力是一款如天鵝絨般醇厚且美味的雞尾酒，非常適合在精緻的晚餐後享用。\n\n*   以濃郁的茶色波特酒為特色。\n*   加入蛋黃以增加奶油般的口感。\n*   少許糖或糖漿平衡風味。\n*   磨碎的肉荳蔻提供芳香的辛辣味。"
+  },
+  "historical_reference": {
+    "en": "**A Classic from the 1800s**\n\nThe Flip is a family of drinks popular since the 1600s, evolving over time.\n\n*   Originally made with beer, rum, and sugar, heated with a hot iron.\n*   The Porto Flip emerged in the 1800s, featuring port wine.\n*   Became a refined cocktail with the addition of egg yolk for richness.",
+    "zh": "**1800年代的經典之作**\n\n菲力是一系列自1600年代以來流行的飲品，隨著時間的推移而不斷演變。\n\n*   最初由啤酒、蘭姆酒和糖製成，並用熱鐵加熱。\n*   波特菲力在1800年代出現，以波特酒為特色。\n*   隨著加入蛋黃以增加濃郁度，成為一種精緻的雞尾酒。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass. Grate nutmeg on top.",
+    "zh": "將所有材料與冰塊一起搖晃，然後濾入玻璃杯中。在頂部磨碎肉荳蔻。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small wine glass or coupe",
+    "zh": "小號葡萄酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, rich brown color with a frothy head.",
+    "zh": "奶油般濃郁的棕色，帶有泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tawny Port",
+        "zh": "茶色波特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base, body, and sweetness.",
+        "zh": "提供基底、酒體和甜味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加濃郁度和質地。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

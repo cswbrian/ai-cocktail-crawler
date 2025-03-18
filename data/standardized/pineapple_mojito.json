@@ -1,0 +1,170 @@
+{
+  "name": {
+    "en": "Pineapple Mojito",
+    "zh": "鳳梨莫希托"
+  },
+  "description": {
+    "en": "**Tropical twist on a classic**\n\nThe Pineapple Mojito is a refreshing variation on the traditional Mojito, adding a tropical fruit dimension. It features:\n*   Muddled mint and pineapple for aromatic complexity\n*   Lime juice and sugar for balanced sweetness and tartness\n*   Topped with soda water for effervescence.",
+    "zh": "**經典的熱帶風味**\n\n鳳梨莫希托是傳統莫希托的清爽變奏版，增添了熱帶水果風味。特色：\n*   搗碎的薄荷和鳳梨帶來香氣層次\n*   萊姆汁和糖帶來均衡的甜味和酸味\n*   加入蘇打水，產生氣泡。"
+  },
+  "historical_reference": {
+    "en": "**Mojito Origins**\n\nThe Mojito is believed to have originated in Havana, Cuba. While the exact origin is debated, it's often linked to a 16th-century drink known as 'El Draque,' named after Sir Francis Drake. The modern Mojito evolved over time, with the addition of mint, lime, sugar, and soda water to the aguardiente base.\n\nPineapple Mojito is a modern twist of this classic cocktail, adding pineapple for a sweet-tart profile.",
+    "zh": "**莫希托的起源**\n\n莫希托據信起源於古巴哈瓦那。雖然確切的起源尚有爭議，但它通常與一種名為“El Draque”的16世紀飲料有關，該飲料以弗朗西斯·德雷克爵士的名字命名。現代莫希托隨著時間的推移而不斷發展，在aguardiente基酒中添加了薄荷、萊姆、糖和蘇打水。\n\n鳳梨莫希托是這款經典雞尾酒的現代變奏，添加了鳳梨以獲得酸甜風味。"
+  },
+  "technique": {
+    "en": "Muddle mint and pineapple with syrup. Add rum and lime juice, shake with ice. Strain into a glass filled with ice. Top with soda water. Garnish.",
+    "zh": "將薄荷和鳳梨與糖漿混合搗碎。 加入蘭姆酒和萊姆汁，加冰搖勻。 濾入裝滿冰塊的玻璃杯中。 加入蘇打水。 裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig and pineapple wedge",
+    "zh": "薄荷枝和鳳梨角"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with mint sprigs and pineapple chunks",
+    "zh": "混濁的淡黃色，帶有薄荷枝和鳳梨塊"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and traditional mojito flavor.",
+        "zh": "提供酒精基底和傳統莫希托風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing, herbal aroma and flavor.",
+        "zh": "增添清爽的草本香氣和風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Chunks",
+        "zh": "鳳梨塊"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical fruit flavor.",
+        "zh": "增加甜味和熱帶水果風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness.",
+        "zh": "增加酸度以平衡甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

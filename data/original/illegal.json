@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Illegal",
+    "zh": "非法"
+  },
+  "description": {
+    "en": "**A Bold and Spicy Rum Cocktail**\n\nThis cocktail is a potent blend of aged rum and falernum liqueur, balanced with lime juice and a dash of bitters. It offers a complex flavor profile with a kick of spice. \n\n*   Rum forward\n*   Spicy from falernum and ginger\n*   Balanced by lime.",
+    "zh": "**一款大膽辛辣的蘭姆酒雞尾酒**\n\n這款雞尾酒是陳年蘭姆酒和法勒南姆甜酒的強烈混合，以酸橙汁和少許苦味酒平衡。它提供了一種複雜的風味，並帶有一絲辛辣味。\n\n*   以蘭姆酒為主\n*   法勒南姆和生薑的辛辣味\n*   酸橙平衡。"
+  },
+  "historical_reference": {
+    "en": "The *Illegal* cocktail is believed to have originated in the early 2000s, possibly in New York City. It is a modern classic that showcases the versatility of rum in complex cocktails.\n\n*   No clear origin documentation\n*   Modern creation",
+    "zh": "據信，*非法* 雞尾酒起源於 2000 年代初期，可能在紐約市。它是一款現代經典之作，展示了蘭姆酒在複雜雞尾酒中的多功能性。\n\n*   沒有明確的起源文件\n*   現代創作"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Deep red, slightly opaque",
+    "zh": "深紅色，略微不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, complex base with notes of molasses and spice.",
+        "zh": "提供豐富、複雜的基底，帶有糖蜜和香料的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Falernum Liqueur",
+        "zh": "法勒南姆甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, spice, and tropical notes.",
+        "zh": "增加甜味、香料和熱帶風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balance.",
+        "zh": "增加酸味和平衡。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and spice.",
+        "zh": "增加複雜性和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

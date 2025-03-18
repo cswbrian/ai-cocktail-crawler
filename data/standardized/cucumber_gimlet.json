@@ -1,0 +1,136 @@
+{
+  "name": {
+    "en": "Cucumber Gimlet",
+    "zh": "小黃瓜吉姆雷特"
+  },
+  "description": {
+    "en": "**A refreshing twist on the classic Gimlet.**\n\nThis cocktail combines the traditional gin and lime with the coolness of cucumber, resulting in a vibrant and crisp drink that's perfect for warm weather.\n\n*   Easy to make\n*   Customizable sweetness\n*   Fresh and invigorating",
+    "zh": "**經典吉姆雷特的一種清爽變化。**\n\n這款雞尾酒結合了傳統的琴酒和萊姆，以及小黃瓜的清涼感，帶來充滿活力和清脆的飲品，非常適合溫暖的天氣。\n\n*   容易製作\n*   可自定義甜度\n*   清新且令人振奮"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Gimlet dates back to the 19th century British Royal Navy.\n\nThe addition of cucumber is a modern variation, adding a refreshing twist to the classic recipe.\n\n*   Originally created to combat scurvy.\n*   Rose's Lime Juice was a key ingredient.\n*   Cucumber adds a fresh, summery note.",
+    "zh": "**起源**: 吉姆雷特可以追溯到19世紀的英國皇家海軍。\n\n添加小黃瓜是一種現代的變體，為經典配方增添了清爽感。\n\n*   最初是為了對抗壞血病而創建。\n*   Rose's Lime Juice是關鍵成分。\n*   小黃瓜增添了新鮮的夏日風味。"
+  },
+  "technique": {
+    "en": "Muddle cucumber slices in a shaker. Add other ingredients, shake with ice, and double strain into a chilled glass.",
+    "zh": "在搖酒器中搗碎小黃瓜片。加入其他成分，加冰搖勻，然後雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Cucumber slice or ribbon",
+    "zh": "小黃瓜片或絲帶"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale green and clear, with a fresh cucumber garnish.",
+    "zh": "淡綠色且清澈，並帶有新鮮的小黃瓜裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical complexity.",
+        "zh": "提供酒精基底和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential sourness and citrus notes.",
+        "zh": "增加必要的酸味和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the sourness and adds sweetness.",
+        "zh": "平衡酸度並增加甜度。"
+      }
+    },
+    {
+      "amount": 4,
+      "name": {
+        "en": "Cucumber slices",
+        "zh": "小黃瓜片"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Muddled to extract fresh cucumber flavor.",
+        "zh": "搗碎以提取新鮮的小黃瓜風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

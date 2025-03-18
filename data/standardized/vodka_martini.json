@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Vodka Martini",
+    "zh": "伏特加馬丁尼"
+  },
+  "description": {
+    "en": "**Classic Cocktail Variation**\n\nA simple yet sophisticated cocktail consisting of:\n*   Vodka as the base spirit.\n*   Dry Vermouth for dryness and complexity.\n*   Garnished with an olive or a lemon twist.",
+    "zh": "**經典雞尾酒變體**\n\n一款簡單而精緻的雞尾酒，包含：\n*   伏特加作為基酒。\n*   乾味美思增添乾度和複雜性。\n*   以橄欖或檸檬皮扭轉裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Evolving Cocktail**\n\nThe Vodka Martini is a variation of the classic Dry Martini:\n\n*   Emerged in the mid-20th century as vodka gained popularity.\n*   Offers a cleaner, less botanical profile compared to the gin-based Martini.\n*   James Bond's preference for \"shaken, not stirred\" is a cultural icon.",
+    "zh": "**不斷演變的雞尾酒**\n\n伏特加馬丁尼是經典乾馬丁尼的一種變體：\n\n*   20世紀中葉，隨著伏特加的普及而出現。\n*   與以琴酒為基礎的馬丁尼相比，提供更乾淨、更少植物風味。\n*   詹姆斯·邦德偏愛「搖勻，不要攪拌」是一種文化象徵。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊一起攪拌，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Green olive or lemon twist",
+    "zh": "綠橄欖或檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless liquid",
+    "zh": "清澈，無色的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and clean flavor.",
+        "zh": "提供酒精基底和純淨的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加乾度和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

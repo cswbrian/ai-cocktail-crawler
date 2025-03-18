@@ -1,0 +1,76 @@
+{
+  "name": {
+    "en": "Sbagliato",
+    "zh": "斯巴利亞托"
+  },
+  "description": {
+    "en": "*Sbagliato* means 'mistaken' or 'wrong' in Italian, referring to the accidental use of sparkling wine instead of gin in a Negroni. It's a lighter, more approachable version of the classic Negroni, perfect as an aperitivo.",
+    "zh": "*Sbagliato*在義大利語中意為「錯誤」或「不正確」，指的是在製作 Negroni 時意外使用了氣泡酒代替琴酒。 它是經典 Negroni 的一種更輕盈、更容易接受的版本，非常適合作為餐前酒。"
+  },
+  "historical_reference": {
+    "en": "The *Sbagliato* was created by mistake at Bar Basso in Milan, Italy, in 1972, when a bartender accidentally reached for a bottle of Prosecco instead of gin while making a Negroni for a patron.",
+    "zh": "*Sbagliato* 於 1972 年在義大利米蘭的 Bar Basso 意外創製，當時一位調酒師在為顧客製作 Negroni 時不小心拿了一瓶 Prosecco 代替琴酒。"
+  },
+  "technique": {
+    "en": "Pour Campari and sweet vermouth over ice, top with Prosecco or other sparkling wine, and gently stir.",
+    "zh": "將金巴利和甜苦艾酒倒入冰塊上，加入 Prosecco 或其他氣泡酒，然後輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Orange slice or twist",
+    "zh": "橙片或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Bright red, bubbly, and effervescent",
+    "zh": "鮮紅色、氣泡豐富、充滿活力"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter and complex foundation of the drink.",
+        "zh": "提供飲料的苦味和複雜的基礎。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Old Gal",
+    "zh": "老女孩"
+  },
+  "description": {
+    "en": "**A robust rum sour**\n\nThis cocktail features a rich and complex flavor profile, balancing sweetness, bitterness, and a hint of spice. The combination of aged rum, aperitivo, and chocolate bitters creates a unique and satisfying drink.",
+    "zh": "**濃郁的蘭姆酒酸酒**\n\n這款雞尾酒具有豐富而複雜的風味，平衡了甜味、苦味和一絲辛辣味。陳年蘭姆酒、開胃酒和巧克力苦精的結合創造了一種獨特而令人滿意的飲品。"
+  },
+  "historical_reference": {
+    "en": "This recipe is a modern creation by Jeffrey Morgenthaler from Clyde Common in Portland, OR.",
+    "zh": "這個配方是由來自俄勒岡州波特蘭市克萊德公地的傑弗裡·摩根塔勒創作的現代作品。"
+  },
+  "technique": {
+    "en": "Shake and strain over ice.",
+    "zh": "搖勻後過濾到冰塊上。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Cloudy, deep red-amber",
+    "zh": "混濁，深紅色琥珀色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and adds depth.",
+        "zh": "提供基底並增加深度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Aperitivo",
+        "zh": "開胃酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and complexity.",
+        "zh": "增加苦味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the drink.",
+        "zh": "使飲料變甜。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Chocolate Bitters",
+        "zh": "巧克力苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth of flavor.",
+        "zh": "增加風味深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

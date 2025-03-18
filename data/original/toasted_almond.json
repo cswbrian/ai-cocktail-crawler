@@ -1,0 +1,117 @@
+{
+  "name": {
+    "en": "Toasted Almond",
+    "zh": "烤杏仁"
+  },
+  "description": {
+    "en": "**Dessert Cocktail**\n\nA sweet and nutty cocktail, perfect for after-dinner enjoyment.\n\n*   Combines the rich flavors of amaretto and coffee liqueur.\n*   Cream adds smoothness and body.\n*   Often served with grated nutmeg on top.",
+    "zh": "**餐後甜點雞尾酒**\n\n一款香甜且帶有堅果風味的雞尾酒，非常適合餐後享用。\n\n*   結合了阿瑪雷托和咖啡利口酒的濃郁風味。\n*   鮮奶油增加了柔滑感和酒體。\n*   通常在頂部撒上磨碎的肉荳蔻。"
+  },
+  "historical_reference": {
+    "en": "The Toasted Almond is a relatively modern cocktail, with no definitive origin. It gained popularity as a simple and tasty dessert drink, combining amaretto, coffee liqueur, and cream. The name suggests the 'toasted' flavor profile derived from the almond and coffee notes.",
+    "zh": "烤杏仁是一款相對現代的雞尾酒，沒有明確的起源。它作為一種簡單而美味的甜點飲料而廣受歡迎，結合了阿瑪雷托、咖啡利口酒和鮮奶油。這個名字暗示了來自杏仁和咖啡風味的“烤”風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass. Garnish with grated nutmeg.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入杯中。用磨碎的肉荳蔻裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or coupe",
+    "zh": "古典杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown, frothy head",
+    "zh": "奶油色、淺棕色、泡沫狀"
+  },
+  "allergens": [
+    {
+      "en": "nuts",
+      "zh": "堅果"
+    },
+    {
+      "en": "dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto",
+        "zh": "阿瑪雷托"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the almond flavor base.",
+        "zh": "提供杏仁風味基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡風味和甜度。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and texture.",
+        "zh": "增加奶油感和質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

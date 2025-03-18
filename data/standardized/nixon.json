@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Nixon",
+    "zh": "尼克森"
+  },
+  "description": {
+    "en": "**Creamy and Tropical Cocktail**\n\nA blend of tropical fruit juices and cream:\n\n*   Features Midori for a sweet melon flavor and vibrant green color.\n*   Uses white rum as a base spirit.\n*   A rich and refreshing drink that is both sweet and tangy.",
+    "zh": "**濃郁熱帶雞尾酒**\n\n混合熱帶水果汁和奶油：\n\n*   使用蜜多麗 (Midori) 以獲得甜瓜風味和鮮豔的綠色。\n*   以白蘭姆酒為基酒。\n*   口感豐富、清新，兼具甜味和酸味的飲品。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Nixon cocktail is a more recent creation, capitalizing on the popularity of Midori liqueur.\n\n*   Likely emerged in the late 20th or early 21st century.\n*   The cocktail's exact origin and creator remain largely undocumented.\n*   Its name might allude to the infamous former United States president.",
+    "zh": "**現代創作**\n\n尼克森雞尾酒是較新的創作，利用了蜜多麗 (Midori) 甜酒的受歡迎程度。\n\n*   可能出現在20世紀末或21世紀初。\n*   這種雞尾酒的確切起源和創作者仍然沒有詳細記載。\n*   它的名字可能暗示了聲名狼藉的美國前總統。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻後，濾入裝滿冰塊的杯中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and cherry",
+    "zh": "鳳梨角和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass",
+    "zh": "颶風杯"
+  },
+  "appearance": {
+    "en": "Opaque, vibrant green, frothy",
+    "zh": "不透明，鮮豔的綠色，有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and tropical notes.",
+        "zh": "提供基酒和熱帶風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Midori",
+        "zh": "蜜多麗"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds melon flavor and green color.",
+        "zh": "增加哈密瓜風味和綠色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and richness.",
+        "zh": "增加乳脂感和濃郁度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

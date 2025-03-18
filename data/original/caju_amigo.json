@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Caju Amigo",
+    "zh": "腰果之友"
+  },
+  "description": {
+    "en": "**A Brazilian-inspired sour**\n\nA refreshing and complex cocktail featuring:\n*   Cachaça as the base spirit\n*   Lime juice for sourness\n*   Cashew fruit for sweetness and tropical notes\n*   A dash of bitters for added complexity",
+    "zh": "**巴西風味的酸味雞尾酒**\n\n一款清新且複雜的雞尾酒，特色：\n*   以卡沙夏酒作為基酒\n*   青檸汁帶來酸味\n*   腰果果實帶來甜味和熱帶風味\n*   少許苦精增添複雜度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A modern cocktail inspired by Brazilian flavors\n\n*   A contemporary creation, not a classic recipe.\n*   Inspired by the flavors of Brazil, particularly cachaça and cashew fruit (caju).\n*   Variations exist, but the core concept remains the same: a cachaça-based sour with cashew notes.",
+    "zh": "**起源**: 一款受巴西風味啟發的現代雞尾酒\n\n*   現代創意，非經典配方。\n*   靈感來自巴西的風味，特別是卡沙夏酒和腰果果實（caju）。\n*   存在多種變體，但核心概念保持不變：以卡沙夏酒為基礎，帶有腰果風味的酸味雞尾酒。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lime wedge or Cashew fruit slice",
+    "zh": "青檸角或腰果果實切片"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Coupe glass",
+    "zh": "古典杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light brown with a foamy top",
+    "zh": "混濁、淺棕色，帶有泡沫頂層"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡夏莎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with grassy and fruity notes.",
+        "zh": "提供基酒，帶有青草和水果風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance the sweetness.",
+        "zh": "增加酸味，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Cashew Fruit Syrup",
+        "zh": "腰果糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and unique tropical flavor.",
+        "zh": "增加甜味和獨特熱帶風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic depth.",
+        "zh": "增加複雜性和芳香深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

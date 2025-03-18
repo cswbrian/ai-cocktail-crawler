@@ -1,0 +1,155 @@
+{
+  "name": {
+    "en": "Queen's Park Swizzle",
+    "zh": "女王公園斯威佐"
+  },
+  "description": {
+    "en": "**A Classic Rum Swizzle from Trinidad**\n\nThis cocktail is a delightful blend of aged rum, lime, mint, and bitters. The swizzle stick creates a frosty and refreshing experience.\n\n*   Complex rum base\n*   Fresh, vibrant mint and lime\n*   Bitters add depth",
+    "zh": "**來自千里達的經典蘭姆酒斯威佐**\n\n這款雞尾酒是陳年蘭姆酒、檸檬、薄荷和苦精的美味混合。 攪拌棒創造出冰霜般的清爽體驗。\n\n*   複雜的蘭姆酒基底\n*   新鮮、充滿活力的薄荷和檸檬\n*   苦精增加深度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Trinidad\n\nThe Queen's Park Swizzle is believed to have originated at the Queen's Park Hotel in Port of Spain, Trinidad. The exact date of origin is unclear, but it gained popularity throughout the 20th century.\n\n*   Classic Caribbean cocktail\n*   Named after a famous hotel\n*   Signature swizzle technique",
+    "zh": "**起源**: 千里達\n\n據信，女王公園斯威佐起源於千里達西班牙港的女王公園酒店。 確切的起源日期尚不清楚，但在 20 世紀它越來越受歡迎。\n\n*   經典的加勒比雞尾酒\n*   以著名的酒店命名\n*   標誌性的攪拌技巧"
+  },
+  "technique": {
+    "en": "Muddle mint. Add other ingredients and fill glass with crushed ice. Swizzle with a swizzle stick or bar spoon to create a frosty effect. Add more crushed ice to form a cone above the rim. Garnish.",
+    "zh": "搗碎薄荷。 加入其他成分並用碎冰填滿玻璃杯。 用攪拌棒或吧匙攪拌，產生霜狀效果。 加入更多碎冰，在邊緣上方形成一個錐體。 裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, optional dusting of grated nutmeg",
+    "zh": "薄荷枝，可選灑上磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Collins glass",
+    "zh": "高球杯或柯林斯杯"
+  },
+  "appearance": {
+    "en": "Layered green and white, frosty",
+    "zh": "分層的綠色和白色，有霜狀外觀"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Aged Rum",
+        "zh": "陳年冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's rich base and complexity.",
+        "zh": "提供雞尾酒濃郁的基底和複雜度。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜味。"
+      }
+    },
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds fresh, herbal aroma and flavor.",
+        "zh": "增加新鮮的草本香氣和味道。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth.",
+        "zh": "增加深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": {
+    "en": "B-52",
+    "zh": "B-52轟炸機"
+  },
+  "description": {
+    "en": "**Classic Layered Shot**\n\nA visually appealing and potent layered shot, consisting of:\n*   Coffee liqueur for the base\n*   Irish cream liqueur for the middle layer\n*   Orange liqueur for the top layer",
+    "zh": "**經典分層烈酒**\n\n外觀吸引人且濃烈的分層烈酒，由以下組成：\n*   咖啡利口酒為基底\n*   愛爾蘭奶油利口酒為中間層\n*   橙味利口酒為頂層"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Exact origin is debated, but popularized in the 1970s.\n\n*   Named after the B-52 Stratofortress bomber\n*   Gained popularity in bars and nightclubs due to its layered appearance and sweet taste",
+    "zh": "**起源**：確切起源尚有爭議，但在1970年代普及。\n\n*   以B-52同溫層堡壘轟炸機命名\n*   由於其分層外觀和甜味而在酒吧和夜總會中廣受歡迎"
+  },
+  "technique": {
+    "en": "Carefully layer the liqueurs in the order of density, using the back of a spoon",
+    "zh": "使用湯匙背面，按照密度順序仔細分層利口酒"
+  },
+  "garnish": {
+    "en": "None typically, but can be flamed or garnished with coffee beans",
+    "zh": "通常沒有裝飾，但可以點燃火焰或用咖啡豆裝飾"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered liqueur shot with distinct brown, cream, and orange bands",
+    "zh": "分層利口酒，具有明顯的棕色、奶油色和橙色帶"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base layer and coffee flavor",
+        "zh": "提供基底層和咖啡風味"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a creamy, sweet middle layer",
+        "zh": "增加奶油般的甜味中間層"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the top layer and contributes citrus notes",
+        "zh": "形成頂層並貢獻柑橘味"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

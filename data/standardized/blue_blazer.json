@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Blue Blazer",
+    "zh": "藍色火焰"
+  },
+  "description": {
+    "en": "**Theatrical and Warming Cocktail**\n\nA dramatic cocktail known for its flaming preparation, offering:\n* A visual spectacle of cascading flames.\n* A warm, smoky flavor profile.\n* A historical nod to Jerry Thomas' bartending prowess.",
+    "zh": "**戲劇性和暖身雞尾酒**\n\n以其火焰製備而聞名的戲劇性雞尾酒，提供：\n* 層疊火焰的視覺奇觀。\n* 溫暖的煙燻風味。\n* 向傑瑞·托馬斯卓越的調酒技藝致敬。"
+  },
+  "historical_reference": {
+    "en": "**Pioneered by Jerry Thomas**\n\n*   Popularized in the 19th century by legendary bartender Jerry Thomas.\n*   Known for its theatrical preparation involving setting alcohol aflame and pouring it between two mugs.\n*   A symbol of classic bartending flair and innovation.",
+    "zh": "**由傑瑞·托馬斯開創**\n\n*   19世紀由傳奇調酒師傑瑞·托馬斯推廣。\n*   以其戲劇性的製備而聞名，包括點燃酒精並在兩個馬克杯之間傾倒。\n*   經典調酒天賦和創新的象徵。"
+  },
+  "technique": {
+    "en": "Heat metal mugs. Dissolve sugar in hot water. Add whisky and liqueur. Ignite and pour flaming mixture between mugs. Serve immediately.",
+    "zh": "加熱金屬馬克杯。將糖溶解在熱水中。加入威士忌和利口酒。點燃並在馬克杯之間倒入燃燒的混合物。立即上桌。"
+  },
+  "garnish": {
+    "en": "Lemon peel (optional)",
+    "zh": "檸檬皮（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Silver or pewter mug (preheated)",
+    "zh": "銀或錫製馬克杯（預熱）"
+  },
+  "appearance": {
+    "en": "Fiery, cascading blue flames when pouring; settles to a warm, amber liquid.",
+    "zh": "傾倒時呈現火焰般、層疊的藍色火焰；靜置後變為溫暖的琥珀色液體。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and smoky flavor.",
+        "zh": "提供主要的酒精骨幹和煙燻味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrusy sweetness and complexity.",
+        "zh": "增加柑橘的甜味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Boiling Water",
+        "zh": "滾水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds warmth and dilutes the drink.",
+        "zh": "增加溫暖並稀釋飲料。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the whisky's strength.",
+        "zh": "增加甜度，以平衡威士忌的強度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

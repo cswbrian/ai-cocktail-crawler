@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Old Pal",
+    "zh": "老友"
+  },
+  "description": {
+    "en": "**A Bold and Bitter Classic**\n\nThe Old Pal is a sophisticated cocktail that showcases the interplay of rye whiskey, dry vermouth, and Campari. Its balanced bitterness and subtle sweetness make it an excellent choice for those who appreciate a complex and dry drink.\n\nKey characteristics:\n*   Equal parts of rye whiskey, dry vermouth and Campari\n*   Served straight up or on the rocks\n*   Garnished with a lemon or orange twist",
+    "zh": "**大膽而苦澀的經典**\n\n老友是一種精緻的雞尾酒，展示了黑麥威士忌、乾苦艾酒和金巴利之間的相互作用。其均衡的苦味和微妙的甜味使其成為欣賞複雜和乾爽飲品的人的絕佳選擇。\n\n主要特點：\n* 黑麥威士忌、乾苦艾酒和金巴利等份\n* 直接飲用或加冰飲用\n* 以檸檬或橙皮扭轉裝飾"
+  },
+  "historical_reference": {
+    "en": "**A variation on the Negroni and Manhattan**\n\nThe Old Pal is a classic cocktail with disputed origins, first appearing in print in the early 20th century. It is a variation on the Negroni and Manhattan, replacing gin with rye whiskey and sweet vermouth with dry vermouth.\n\n*   Likely originated in the United States during the Prohibition era.\n*   Credited to Harry MacElhone of Harry's New York Bar in Paris or a bartender named Sparrow Robertson.",
+    "zh": "**尼格羅尼和曼哈頓的變體**\n\n老友是一種起源有爭議的經典雞尾酒，首次出現在 20 世紀初的印刷品中。 它是尼格羅尼和曼哈頓的變體，用黑麥威士忌代替了琴酒，用乾苦艾酒代替了甜苦艾酒。\n\n* 可能起源於美國禁酒令時期。\n* 歸功於巴黎哈利紐約酒吧的哈利·麥克埃爾霍內或一位名叫斯派羅·羅伯遜的酒保。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰攪拌，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon or orange twist",
+    "zh": "檸檬或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "郁金香杯或尼克與諾拉杯"
+  },
+  "appearance": {
+    "en": "Clear, pale amber liquid",
+    "zh": "清澈的淡琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness and complexity.",
+        "zh": "增加苦味和複雜性。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and wine-like notes, balancing the rye.",
+        "zh": "增加草本和葡萄酒般的味道，平衡黑麥。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

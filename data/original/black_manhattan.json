@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Black Manhattan",
+    "zh": "黑色曼哈頓"
+  },
+  "description": {
+    "en": "**Modern Classic Manhattan Variation**\n\nA bolder, more bitter twist on the classic Manhattan:\n\n*   Rye whiskey provides a spicy foundation\n*   Amaro Averna replaces sweet vermouth for a deep, complex bitterness\n*   Orange bitters add a touch of citrus complexity",
+    "zh": "**現代經典曼哈頓變奏**\n\n比經典曼哈頓更濃烈、更苦澀的變奏：\n\n*   黑麥威士忌提供辛辣的基底\n*   阿維納苦酒取代甜味苦艾酒，帶來深沉、複雜的苦味\n*   橙味苦精增添一絲柑橘的複雜性"
+  },
+  "historical_reference": {
+    "en": "**Created by Todd Smith at Bourbon & Branch, San Francisco in the mid-2000s**\n\nA modern variation on the classic Manhattan, substituting the sweet vermouth with Amaro Averna for a drier and more complex flavor profile.\n\nThe drink showcases the versatility of Amaro as a cocktail ingredient.",
+    "zh": "**2000年代中期由 Todd Smith 在舊金山 Bourbon & Branch 創造**\n\n經典曼哈頓的現代變奏，用阿維納苦酒代替甜味苦艾酒，以獲得更乾、更複雜的風味。\n\n這款飲品展示了苦酒作為雞尾酒配料的多功能性。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌至完全冷卻。濾入冰鎮的杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel, expressed and placed in the glass",
+    "zh": "橙皮，擠壓後放入杯中"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass or Old-fashioned glass",
+    "zh": "古典杯，或郁金香杯，或尼克與諾拉杯"
+  },
+  "appearance": {
+    "en": "Dark amber, clear, and viscous",
+    "zh": "深琥珀色，清澈，且黏稠"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy and robust base for the cocktail.",
+        "zh": "為這款雞尾酒提供了辛辣且濃烈的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaro Averna",
+        "zh": "阿維納苦酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Replaces sweet vermouth, adding a rich, bittersweet, herbal flavor.",
+        "zh": "取代甜味苦艾酒，增添濃郁、苦甜、草本風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a citrus element and aromatic complexity.",
+        "zh": "增加柑橘元素和芳香複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

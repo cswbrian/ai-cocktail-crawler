@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Ward Eight",
+    "zh": "第八選區"
+  },
+  "description": {
+    "en": "A pre-Prohibition era cocktail from Boston, the Ward Eight is a refreshing and complex drink that balances the spiciness of rye with the sweetness of grenadine and the tartness of lemon and orange juice. It is a variation of the Whiskey Sour with added grenadine and orange juice.",
+    "zh": "Ward Eight 是一款來自波士頓的禁酒令前時代的雞尾酒，它是一種清爽而複雜的飲料，將黑麥的辛辣味與石榴糖漿的甜味以及檸檬和橙汁的酸味相平衡。它是威士忌酸酒的一種變體，添加了石榴糖漿和橙汁。"
+  },
+  "historical_reference": {
+    "en": "*The Ward Eight cocktail originated in 1898 at Boston's Locke-Ober restaurant.\n* It was created to celebrate Martin Lomasney's election as a representative for Boston's Ward 8.\n* It's essentially a dressed-up Whiskey Sour, with both lemon and orange juice used, and grenadine added for sweetness and color.",
+    "zh": "*Ward Eight 雞尾酒於 1898 年起源於波士頓的 Locke-Ober 餐廳。\n* 它是為了慶祝 Martin Lomasney 當選為波士頓第 8 區的代表而創作的。\n* 它本質上是一種裝飾過的威士忌酸酒，使用了檸檬汁和橙汁，並添加了石榴糖漿以增加甜味和顏色。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange slice and a cherry",
+    "zh": "橙片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pinkish-red, clear, and vibrant",
+    "zh": "粉紅色偏紅，清澈且充滿活力"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base and provides a spicy backbone.",
+        "zh": "構成基底並提供辛辣的骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a pink hue.",
+        "zh": "增加甜味和粉紅色色調。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and sweetness.",
+        "zh": "增加柑橘風味和甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

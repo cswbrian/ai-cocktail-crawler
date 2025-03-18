@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Boston Sour",
+    "zh": "波士頓酸酒"
+  },
+  "description": {
+    "en": "**Balanced Sweet and Sour Cocktail**\n\nA classic whiskey sour variant featuring:\n*   Egg white for a smooth, creamy texture.\n*   Citrus notes from lemon juice.\n*   Balanced sweetness from simple syrup.",
+    "zh": "**平衡的酸甜雞尾酒**\n\n經典威士忌酸酒的變體，特色：\n*   蛋白帶來柔滑、奶油般的口感。\n*   檸檬汁帶來柑橘味。\n*   簡糖漿帶來平衡的甜味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A variation of the Whiskey Sour.\n\n*   The addition of egg white creates a smoother texture and frothy top.\n*   Likely originated in the late 19th or early 20th century.\n*   Exact origin is debated, but its popularity grew alongside the Whiskey Sour.",
+    "zh": "**起源**：威士忌酸酒的變體。\n\n*   添加蛋白可產生更柔滑的質地和泡沫頂部。\n*   可能起源於19世紀末或20世紀初。\n*   確切的起源尚有爭議，但其受歡迎程度與威士忌酸酒一同增長。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice, then shake with ice and strain into glass.",
+    "zh": "將所有成分不加冰乾搖，然後加冰搖晃並過濾到杯中。"
+  },
+  "garnish": {
+    "en": "Optional: Cherry or lemon wedge",
+    "zh": "可選：櫻桃或檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned or coupe glass",
+    "zh": "古典杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow, frothy head",
+    "zh": "混濁，淡黃色，泡沫豐富"
+  },
+  "allergens": [
+    {
+      "en": "Egg White",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic strength.",
+        "zh": "提供基底風味和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance the sweetness.",
+        "zh": "增加酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a smooth, creamy texture and frothy head.",
+        "zh": "增加柔滑、奶油般的質地和泡沫頂部。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

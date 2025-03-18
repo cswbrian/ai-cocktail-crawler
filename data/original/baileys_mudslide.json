@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Baileys Mudslide",
+    "zh": "百利冰鎮泥石流"
+  },
+  "description": {
+    "en": "**Decadent Dessert Cocktail**\n\nA rich and creamy cocktail, the Baileys Mudslide is a delightful treat, perfect as a dessert or after-dinner drink. It typically includes:\n*   Baileys Irish Cream for a smooth, creamy base\n*   Coffee liqueur adds depth\n*   Vodka or other neutral spirit for a kick\n*   Often blended with ice cream for extra indulgence",
+    "zh": "**頹廢的甜點雞尾酒**\n\nBaileys Mudslide 是一款濃郁且奶油味的雞尾酒，是一種令人愉悅的享受，非常適合作為甜點或餐後飲品。 它通常包括：\n*   Baileys 愛爾蘭奶油，打造柔滑的奶油基底\n*   咖啡利口酒增加了深度\n*   伏特加或其他烈酒增添風味\n*   通常與冰淇淋混合以增加享受"
+  },
+  "historical_reference": {
+    "en": "*   While the exact origin is debated, the Mudslide gained popularity as a resort drink, particularly in the Caribbean.\n*   It's essentially a variation of a White Russian, substituting Irish cream liqueur for cream.",
+    "zh": "* 儘管確切的起源存在爭議，但 Mudslide 作為一種度假飲品廣受歡迎，尤其是在加勒比海地區。\n* 它本質上是白色俄羅斯的變體，用愛爾蘭奶油利口酒代替奶油。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "將所有材料與冰塊混合均勻。 倒入杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Chocolate shavings, whipped cream, or chocolate syrup drizzle",
+    "zh": "巧克力屑、鮮奶油或巧克力糖漿"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or Mason jar",
+    "zh": "颶風杯或梅森罐"
+  },
+  "appearance": {
+    "en": "Creamy, chocolate-colored, often served with chocolate drizzle",
+    "zh": "奶油狀，巧克力色，通常搭配巧克力醬"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Baileys Irish Cream",
+        "zh": "百利甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a creamy, Irish whiskey flavor.",
+        "zh": "增加奶油般的愛爾蘭威士忌風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur (e.g., Kahlua)",
+        "zh": "咖啡利口酒（例如：卡魯哇）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a coffee flavor.",
+        "zh": "增加咖啡風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Ice Cream",
+        "zh": "冰淇淋"
+      },
+      "unit": {
+        "en": "scoop",
+        "zh": "勺"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creaminess to the Mudslide.",
+        "zh": "為 Mudslide 增加甜味和奶油味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 8,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

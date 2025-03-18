@@ -1,0 +1,85 @@
+{
+  "name": {
+    "en": "Baileys Irish Cream",
+    "zh": "百利甜酒"
+  },
+  "description": {
+    "en": "*Baileys Irish Cream Liqueur*: A blend of Irish whiskey, cream, and cocoa extract.\n\nIt is known for its smooth, creamy texture and sweet flavor, and:\n\n * Is used in coffee, cocktails, and desserts.",
+    "zh": "*百利甜酒*: 愛爾蘭威士忌，鮮奶油和可可提取物的混合物。\n\n它以其柔滑，奶油般的質地和甜味而聞名，並且：\n\n* 用於咖啡，雞尾酒和甜點。"
+  },
+  "historical_reference": {
+    "en": "*Baileys Irish Cream* was invented in Dublin, Ireland in 1974.\n\nIt was created by a team led by Tom Jago at Gilbeys of Ireland. They sought to create a uniquely Irish drink using the country's rich dairy heritage and whiskey production.\n\nThey succeeded in blending cream and whiskey in a shelf-stable product, which revolutionized the liqueur market.",
+    "zh": "*百利甜酒*於1974年在愛爾蘭都柏林發明。\n\n它由Tom Jago領導的Gilbeys of Ireland團隊創建。 他們力求利用該國豐富的乳製品傳統和威士忌生產來創造一種獨特的愛爾蘭飲品。\n\n他們成功地將奶油和威士忌混合在一個具有保存期限的產品中，從而徹底改變了利口酒市場。"
+  },
+  "technique": {
+    "en": "Pour directly into glass. No shaking or stirring required when serving neat or on the rocks.",
+    "zh": "直接倒入杯中。 純飲或加冰時，無需搖晃或攪拌。"
+  },
+  "garnish": {
+    "en": "None typically, but chocolate shavings or cocoa powder are sometimes added",
+    "zh": "通常沒有，但有時會添加巧克力碎片或可可粉"
+  },
+  "serve_in_glass": {
+    "en": "Neat, on the rocks, or in a cocktail glass",
+    "zh": "純飲、加冰或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy light brown",
+    "zh": "不透明，奶油淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy (milk cream)",
+      "zh": "乳製品（牛奶奶油）"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy, chocolatey, and slightly boozy base.",
+        "zh": "提供奶油味、巧克力味和略帶酒精味的基底。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

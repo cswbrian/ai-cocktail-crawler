@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Ford Cocktail",
+    "zh": "福特雞尾酒"
+  },
+  "description": {
+    "en": "**Classic Gin Martini Variation**\n\nA dry and elegant cocktail featuring:\n*   Gin as the base spirit\n*   Dry Vermouth for dryness and herbal notes\n*   Orange bitters for complexity and aroma",
+    "zh": "**經典琴酒馬丁尼的變體**\n\n一款幹爽而優雅的雞尾酒，特色：\n*   琴酒作為基酒\n*   幹味美思帶來幹澀和草本氣息\n*   橙味苦精增添複雜性和香氣"
+  },
+  "historical_reference": {
+    "en": "**Origin:**\n\n*   Created in the early 20th century.\n*   A variation of the classic Martini.\n*   Named after a person but its exact details are not fully clear.",
+    "zh": "**起源：**\n\n*   創建於20世紀初。\n*   經典馬丁尼的變體。\n*   以人名命名，但具體細節尚不完全清楚。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or olive",
+    "zh": "檸檬皮或橄欖"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow",
+    "zh": "清澈的淡黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "London Dry Gin",
+        "zh": "倫敦 сухо 琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and structure.",
+        "zh": "提供主要的風味和結構。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增加幹度和草本複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity.",
+        "zh": "增加香氣的複雜度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "My Fair Lady",
+    "zh": "窈窕淑女"
+  },
+  "description": {
+    "en": "**Elegant and Refreshing Cocktail**\n\nA delightful mix of gin, lemon, grenadine, and egg white, resulting in:\n*   A smooth, velvety texture from the egg white\n*   A balance of sweet and sour flavors\n*   An aesthetically pleasing pale pink color",
+    "zh": "**優雅清爽的雞尾酒**\n\n琴酒、檸檬、石榴糖漿和蛋白的美味組合，帶來：\n*   蛋白帶來的柔滑天鵝絨般質感\n*   酸甜風味的平衡\n*   令人愉悅的淡粉色"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Harry Craddock's *Savoy Cocktail Book* (1930).\n\n*   Named after the musical *My Fair Lady*.\n*   A variation of the Clover Club cocktail.",
+    "zh": "**起源**: 哈利·克拉多克的《*薩伏伊雞尾酒書*》（1930年）。\n\n*   以音樂劇《窈窕淑女》命名。\n*   三葉草俱樂部雞尾酒的變體。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Cherry",
+    "zh": "櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale pink, frothy",
+    "zh": "淡粉色，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a pink hue.",
+        "zh": "增加甜味和粉紅色色調。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy top.",
+        "zh": "增加絲滑的口感和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

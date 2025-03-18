@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Grapefruit Rosemary Paloma",
+    "zh": "葡萄柚迷迭香帕洛瑪"
+  },
+  "description": {
+    "en": "**Refreshing and Aromatic Tequila Cocktail**\n\nA vibrant twist on the classic Paloma, featuring:\n*   Fresh grapefruit juice for a tangy citrus base\n*   Rosemary syrup for an herbaceous sweetness\n*   Sparkling water for a bubbly finish",
+    "zh": "**清新芳香的龍舌蘭雞尾酒**\n\n經典Paloma的充滿活力的變奏，特色：\n* 新鮮葡萄柚汁帶來濃郁的柑橘基底\n* 迷迭香糖漿帶來草本甜味\n* 氣泡水帶來清爽的氣泡感"
+  },
+  "historical_reference": {
+    "en": "The Paloma is a popular tequila-based cocktail believed to have originated in Mexico. The Grapefruit Rosemary Paloma is a modern variation, adding an herbaceous twist to the traditional recipe.\n\n*   The classic Paloma typically consists of tequila, grapefruit soda (such as Jarritos), and lime juice.\n*   The rosemary syrup adds a unique aromatic dimension.",
+    "zh": "Paloma是一種流行的龍舌蘭酒為基礎的雞尾酒，據信起源於墨西哥。 葡萄柚迷迭香Paloma是一種現代變體，為傳統配方增添了草本風味。\n\n* 經典的Paloma通常包含龍舌蘭酒，葡萄柚蘇打水（例如Jarritos）和檸檬汁。\n* 迷迭香糖漿增加了獨特的香氣。"
+  },
+  "technique": {
+    "en": "Combine tequila, grapefruit juice, lime juice, and rosemary syrup in a shaker with ice. Shake well and strain into a highball glass filled with ice. Top with sparkling water and garnish.",
+    "zh": "將龍舌蘭酒、葡萄柚汁、萊姆汁和迷迭香糖漿與冰塊放入搖酒器中。 充分搖勻，然後倒入裝滿冰塊的高球杯中。 加入氣泡水並裝飾。"
+  },
+  "garnish": {
+    "en": "Grapefruit slice and rosemary sprig",
+    "zh": "葡萄柚切片和迷迭香枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Light pink, bubbly, and garnished with grapefruit and rosemary.",
+    "zh": "淡粉紅色，有氣泡，並以葡萄柚和迷迭香裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave base and characteristic kick to the cocktail.",
+        "zh": "提供龍舌蘭的基底和雞尾酒的特色風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the tart and refreshing citrus flavor.",
+        "zh": "提供酸和清爽的柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds an extra layer of acidity to balance the sweetness.",
+        "zh": "增加額外的酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Rosemary Syrup",
+        "zh": "迷迭香糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Introduces a sweet and herbaceous note.",
+        "zh": "引入甜美和草本的味道。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

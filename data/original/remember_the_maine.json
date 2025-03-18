@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Remember the Maine",
+    "zh": "銘記緬因號"
+  },
+  "description": {
+    "en": "**Complex and Boozy Classic**\n\nA pre-prohibition cocktail similar to a Manhattan but with a distinct Spanish influence. It features:\n*   Rye whiskey for spice\n*   Sweet vermouth for sweetness and body\n*   Cherry Heering for cherry notes and additional sweetness\n*   Absinthe for a subtle anise aroma and flavor",
+    "zh": "**複雜且濃烈的經典雞尾酒**\n\n禁酒令之前的一款雞尾酒，類似於曼哈頓，但具有明顯的西班牙風味。特色：\n*   黑麥威士忌帶來辛辣味\n*   甜味美思帶來甜味和酒體\n*   櫻桃希林酒帶來櫻桃味和額外的甜味\n*   苦艾酒帶來微妙的茴芹香氣和風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First documented in *Jack's Manual* by Jacob Grohusko (1910)\n\n*   Named in honor of the USS Maine, an American battleship that exploded in Havana Harbor in 1898, precipitating the Spanish-American War.\n*   A variation of the Manhattan, reflecting a taste for more complex and potent drinks at the time.",
+    "zh": "**起源**: 首次記載於雅各布·格羅胡斯科的《*傑克手冊*》（1910年）\n\n*   以美國緬因號戰艦命名，該戰艦於 1898 年在哈瓦那港爆炸，引發美西戰爭。\n*   曼哈頓的一種變體，反映了當時對更複雜和更烈飲品的需求。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Brandied cherry",
+    "zh": "白蘭地醃漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Deep red, clear",
+    "zh": "深紅色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy backbone of the drink.",
+        "zh": "提供飲料的辛辣骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body to the cocktail.",
+        "zh": "為雞尾酒增添甜味和酒體。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds cherry notes and sweetness.",
+        "zh": "增添櫻桃風味和甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds subtle anise flavor and aroma.",
+        "zh": "增添微妙的茴芹風味和香氣。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

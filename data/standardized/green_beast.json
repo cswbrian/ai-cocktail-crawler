@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Green Beast",
+    "zh": "綠色野獸"
+  },
+  "description": {
+    "en": "**Refreshing Absinthe Cocktail**\n\nA vibrant and potent cocktail, characterized by:\n\n*   Strong absinthe flavor\n*   A sweet and sour balance\n*   A distinctive green hue\n\nPerfect for those who enjoy the bold taste of absinthe.",
+    "zh": "**清爽的苦艾酒雞尾酒**\n\n一款充滿活力且強勁的雞尾酒，其特點是：\n\n*   濃郁的苦艾酒味\n*   甜與酸的平衡\n*   獨特的綠色色調\n\n非常適合喜歡大膽苦艾酒口味的人。"
+  },
+  "historical_reference": {
+    "en": "The Green Beast is a modern absinthe cocktail. While its exact origin is not definitively documented, it has become a popular and well-known drink for absinthe enthusiasts in the 21st century.\n\nThe cocktail is known for:\n\n*   Its vibrant green color, derived from the absinthe.\n*   Its refreshing combination of sweet, sour, and herbal flavors.\n*   Its relatively high alcohol content.",
+    "zh": "Green Beast 是一款現代苦艾酒雞尾酒。 雖然其確切起源沒有明確記載，但它已成為 21 世紀苦艾酒愛好者中流行且廣為人知的飲品。\n\n這款雞尾酒以：\n\n*   其鮮豔的綠色，源自苦艾酒。\n*   其清爽的甜、酸和草本風味組合。\n*   其相對較高的酒精含量而聞名。"
+  },
+  "technique": {
+    "en": "Add absinthe, lime juice, and simple syrup to a shaker with ice. Shake well until chilled. Strain into a highball glass filled with ice. Top with soda water. Garnish with a mint sprig (optional).",
+    "zh": "將苦艾酒、萊姆汁和糖漿加入裝有冰塊的搖酒器中。 充分搖勻直至冷卻。 濾入裝滿冰塊的高球杯中。 加入蘇打水。 用薄荷枝裝飾（可選）。"
+  },
+  "garnish": {
+    "en": "Mint sprig (optional)",
+    "zh": "薄荷枝 (可選)"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Opaque, pale green with a frothy head",
+    "zh": "不透明，淡綠色，帶有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the dominant anise and herbal flavor, as well as the green color.",
+        "zh": "提供主要茴香和草本風味，以及綠色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the absinthe and lime.",
+        "zh": "增加甜度，以平衡苦艾酒和萊姆。"
+      }
+    },
+    {
+      "amount": 80,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink slightly.",
+        "zh": "增加氣泡並稍微稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

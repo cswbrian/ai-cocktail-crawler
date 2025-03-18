@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Pickleback",
+    "zh": "酸黃瓜背"
+  },
+  "description": {
+    "en": "**Simple and Bold Combination**\n\nA shot of whiskey immediately followed by a shot of pickle brine.\n\n*   The whiskey provides a familiar warmth and base.\n*   The pickle brine offers a surprising salty, sour, and savory contrast.",
+    "zh": "**簡單而大胆的組合**\n\n一杯威士忌 shot 後立即喝一杯酸黃瓜鹽水 shot。\n\n*   威士忌提供熟悉的溫暖基底。\n*   酸黃瓜鹽水提供令人驚訝的鹹、酸和鹹香對比。"
+  },
+  "historical_reference": {
+    "en": "**Modern Invention**\n\n*   Believed to have originated in Brooklyn, New York, in the mid-2000s.\n*   Popularized by bars seeking unique and affordable shot combinations.\n*   Has gained widespread popularity as a bar staple.",
+    "zh": "**現代發明**\n\n*   據信起源於 2000 年代中期紐約布魯克林。\n*   因酒吧尋求獨特且價格實惠的 shot 組合而普及。\n*   已廣泛流行，成為酒吧的必備飲品。"
+  },
+  "technique": {
+    "en": "Serve a shot of whiskey, followed immediately by a shot of pickle brine.",
+    "zh": "先上威士忌 shot，然後立即上酸黃瓜鹽水 shot。"
+  },
+  "garnish": {
+    "en": "None typically",
+    "zh": "通常沒有"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Two-part drink; shot of whiskey followed by a shot of pickle brine, each typically clear.",
+    "zh": "由兩部分組成的飲品；一杯威士忌 shot 後，緊接著一杯酸黃瓜鹽水 shot，通常都是清澈的。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 44,
+      "name": {
+        "en": "Whiskey (typically Bourbon)",
+        "zh": "威士忌（通常是波本威士忌）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic flavor.",
+        "zh": "提供酒精基底和特色風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 44,
+      "name": {
+        "en": "Pickle Brine",
+        "zh": "酸黃瓜鹽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a salty, sour, and savory contrast to the whiskey.",
+        "zh": "為威士忌提供鹹、酸和鹹香的對比。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

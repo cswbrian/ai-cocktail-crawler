@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Manhattan",
+    "zh": "曼哈頓"
+  },
+  "description": {
+    "en": "**Classic Whiskey Cocktail**\n\nA timeless cocktail that perfectly balances whiskey with sweet vermouth and bitters:\n\n*   Typically made with rye or bourbon whiskey.\n*   Sweet vermouth adds sweetness and complexity.\n*   Angostura bitters provide a spicy, aromatic touch.",
+    "zh": "**經典威士忌雞尾酒**\n\n一款永恆的雞尾酒，完美平衡了威士忌、甜味苦艾酒和苦精：\n\n*   通常用黑麥或波本威士忌調製。\n*   甜味苦艾酒增添甜度和複雜性。\n*   安哥斯圖拉苦精帶來辛辣、芳香的氣息。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Believed to have originated in New York City in the 1870s.\n\n*   Likely created at the Manhattan Club.\n*   One of the earliest and most famous whiskey cocktails.",
+    "zh": "**起源**: 據信於 1870 年代起源於紐約市。\n\n*   可能是在曼哈頓俱樂部創建的。\n*   最早和最著名的威士忌雞尾酒之一。"
+  },
+  "technique": {
+    "en": "Stir with ice, strain into a chilled glass",
+    "zh": "與冰攪拌，濾入冰鎮的杯子"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass, or rocks glass if served on the rocks",
+    "zh": "高腳杯或馬丁尼杯，如果加冰則使用古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber to reddish-brown",
+    "zh": "清澈、深琥珀色至紅棕色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and the primary flavor profile.",
+        "zh": "提供基底和主要風味。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, herbal notes, and complexity.",
+        "zh": "增加甜味、草本味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness and balances the sweetness.",
+        "zh": "增加苦味並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

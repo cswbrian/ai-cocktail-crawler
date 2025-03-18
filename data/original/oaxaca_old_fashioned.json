@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Oaxaca Old Fashioned",
+    "zh": "瓦哈卡古典雞尾酒"
+  },
+  "description": {
+    "en": "**A Smoky Twist on a Classic**\n\nThe Oaxaca Old Fashioned is a modern riff on the classic Old Fashioned cocktail, substituting whiskey for mezcal. This substitution introduces a delightful smokiness and vegetal complexity, creating a richer and more layered flavor profile.\n\nKey Features:\n*   Smoky mezcal base\n*   Agave nectar for a unique sweetness\n*   Aromatic bitters enhance the depth",
+    "zh": "**經典的煙熏風味**\n\n瓦哈卡古典雞尾酒是對經典古典雞尾酒的現代演繹，以梅斯卡爾取代威士忌。這種替代引入了令人愉悅的煙熏味和植物複雜性，創造了更豐富和更具層次的風味。\n\n主要特點：\n*   煙熏梅斯卡爾基底\n*   龍舌蘭花蜜帶來獨特的甜味\n*   芳香苦精增強風味深度"
+  },
+  "historical_reference": {
+    "en": "**A Modern Adaptation**\n\nThe Oaxaca Old Fashioned is a contemporary cocktail. The origin is not tied to a specific historical event or person but is part of the modern cocktail movement experimenting with mezcal.\n\n*   Evolved from the classic Old Fashioned\n*   Popularized by modern bartenders\n*   Highlights the unique characteristics of mezcal",
+    "zh": "**現代改編**\n\n瓦哈卡古典雞尾酒是一種現代雞尾酒。其起源與特定的歷史事件或人物無關，而是現代雞尾酒運動中實驗梅斯卡爾的一部分。\n\n*   由經典古典雞尾酒演變而來\n*   由現代調酒師推廣\n*   突顯梅斯卡爾的獨特個性"
+  },
+  "technique": {
+    "en": "Combine all ingredients in an old-fashioned glass. Add ice, stir until chilled and diluted. Garnish with a flamed orange peel.",
+    "zh": "將所有材料加入古典杯中。加入冰塊，攪拌至冰鎮和稀釋。用噴灑精油的橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel, flamed",
+    "zh": "橙皮，噴灑精油"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, light amber liquid with a slight smoky hue",
+    "zh": "清澈的淺琥珀色液體，帶有輕微的煙熏色澤"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅茲卡爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky base and agave notes essential to the cocktail.",
+        "zh": "提供煙熏基底和龍舌蘭風味，對此雞尾酒至關重要。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭蜜"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complements the agave notes of the mezcal.",
+        "zh": "增加甜味，並補充梅斯卡爾的龍舌蘭風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic depth.",
+        "zh": "增加複雜性和芳香深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

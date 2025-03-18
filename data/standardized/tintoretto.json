@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Tintoretto",
+    "zh": "丁托列托"
+  },
+  "description": {
+    "en": "**A Venetian Classic**\n\nA variation of the Bellini, featuring:\n*   Orange juice for a bittersweet flavor\n*   Prosecco for effervescence and dryness\n*   Pomegranate seeds for garnish",
+    "zh": "**威尼斯經典**\n\n貝里尼的變體，特色：\n* 橙汁帶來苦甜風味\n* 普羅塞克帶來氣泡和乾爽感\n* 石榴籽作為裝飾"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Venice, Italy\n\n*   A variation of the Bellini, likely created at Harry's Bar in Venice.\n*   Named after the Renaissance painter Tintoretto, known for his use of vibrant color.",
+    "zh": "**起源**: 義大利威尼斯\n\n*   貝里尼的變體，可能在威尼斯哈里酒吧創造。\n*   以文藝復興時期畫家丁托列托命名，他以使用鮮豔的色彩而聞名。"
+  },
+  "technique": {
+    "en": "Gently pour all ingredients into a chilled flute glass. Stir gently.",
+    "zh": "將所有材料輕輕倒入冰鎮的長笛香檳杯中。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Pomegranate seeds",
+    "zh": "石榴籽"
+  },
+  "serve_in_glass": {
+    "en": "Flute glass",
+    "zh": "長笛香檳杯"
+  },
+  "appearance": {
+    "en": "Reddish-orange, with a slight cloudiness.",
+    "zh": "紅橙色，略帶混濁。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavour and boosts the alcoholic content",
+        "zh": "增加甜味、橙子風味，並提高酒精含量。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness, bubbles, and a crisp backbone.",
+        "zh": "增加乾度、氣泡和清脆的骨幹。"
+      }
+    },
+    {
+      "amount": 50,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bittersweet citrus flavor.",
+        "zh": "增添苦甜的柑橘風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

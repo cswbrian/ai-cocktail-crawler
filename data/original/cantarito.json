@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Cantarito",
+    "zh": "坎塔里托"
+  },
+  "description": {
+    "en": "**Refreshing Mexican Cocktail**\n\nThe Cantarito is a vibrant and refreshing Mexican cocktail traditionally served in a clay mug called a *cantarito*. It's a simple yet delicious mix of:\n*   Tequila for the base spirit\n*   Citrus juices for tartness and sweetness\n*   Grapefruit soda for fizz and added sweetness\n*   Salt rim for enhancing flavors",
+    "zh": "**清爽的墨西哥雞尾酒**\n\nCantarito 是一種充滿活力且清爽的墨西哥雞尾酒，傳統上用稱為 *cantarito* 的陶土杯盛裝。這是一種簡單而美味的混合物：\n* 龍舌蘭作為基酒\n* 柑橘汁帶來酸味和甜味\n* 葡萄柚汽水帶來氣泡和額外的甜味\n* 鹽口增強風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Jalisco, Mexico.\n\nThe Cantarito originates from Jalisco, Mexico, the heartland of tequila production. It is believed to have been invented as a refreshing drink for field workers. The clay mug helps keep the drink cool in the hot climate.",
+    "zh": "**起源**: 墨西哥哈利斯科州。\n\nCantarito 起源於墨西哥哈利斯科州，這是龍舌蘭酒生產的中心地帶。據信它是作為一種為田間工人解渴的清涼飲料而發明的。陶土杯有助於在高溫氣候下保持飲料涼爽。"
+  },
+  "technique": {
+    "en": "Salt the rim of the glass. Add all ingredients to the glass with ice. Top with grapefruit soda. Stir gently.",
+    "zh": "將杯子邊緣沾上鹽。將所有材料和冰塊加入杯中。加入葡萄柚汽水至滿。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Salt rim; Citrus wedge (orange, grapefruit, or lime)",
+    "zh": "鹽口；柑橘角（橙、葡萄柚或檸檬）"
+  },
+  "serve_in_glass": {
+    "en": "Cantarito (clay mug) or Highball Glass",
+    "zh": "Cantarito（陶土杯）或高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow-orange, served in a clay mug. Often effervescent.",
+    "zh": "混濁的淡黃橙色，裝在陶土杯中。通常有氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave base and main alcoholic component of the cocktail.",
+        "zh": "提供龍舌蘭基底和調酒的主要酒精成分。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增添甜味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

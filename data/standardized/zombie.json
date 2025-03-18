@@ -1,0 +1,223 @@
+{
+  "name": {
+    "en": "Zombie",
+    "zh": "殭屍"
+  },
+  "description": {
+    "en": "**Potent and Complex Tiki Cocktail**\n\nA strong and complex rum-based cocktail known for its high alcohol content and blend of exotic flavors. The Zombie is a true test of a mixologist's skill, balancing sweetness, sourness, and spice with a blend of different rums and liqueurs. It is garnished elaborately to enhance its tropical appeal.\n\nKey Characteristics:\n*   High alcohol content, be cautious when consuming.\n*   Complex blend of rums and liqueurs.\n*   Tropical flavors with spice and fruit notes.",
+    "zh": "**強勁而複雜的提基雞尾酒**\n\n這是一款以蘭姆酒為基底的烈性且複雜的雞尾酒，以其高酒精含量和異國風味的混合而聞名。 殭屍是對調酒師技能的真正考驗，它通過混合不同的蘭姆酒和利口酒來平衡甜味、酸味和香料味。 它的裝飾很精緻，以增強其熱帶吸引力。\n\n主要特徵：\n* 酒精含量高，飲用時請小心。\n* 蘭姆酒和利口酒的複雜混合。\n* 帶有香料和水果味的熱帶風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created by Don the Beachcomber (Donn Beach) in 1934.\n\n*   First served at his Hollywood restaurant.\n*   The recipe was a closely guarded secret for many years.\n*   Known for its potent effects and blend of rums.",
+    "zh": "**起源**：由唐·比奇康伯（唐·海灘）於 1934 年創作。\n\n* 首次在他的好萊塢餐廳供應。\n* 多年來，該食譜一直被嚴密保守。\n* 以其強大的功效和蘭姆酒混合而聞名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice. Garnish elaborately.",
+    "zh": "將所有材料與冰塊搖勻，濾入裝滿冰塊的玻璃杯中。 精心裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig, cherry, orange slice",
+    "zh": "薄荷枝、櫻桃、柳橙片"
+  },
+  "serve_in_glass": {
+    "en": "Highball or Tiki Mug",
+    "zh": "高球杯或提基馬克杯"
+  },
+  "appearance": {
+    "en": "Cloudy, dark amber to brown color with a frothy head",
+    "zh": "混濁的深琥珀色至棕色，帶有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gold Rum",
+        "zh": "金蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a rich, caramel base and contributes to the overall rum profile.",
+        "zh": "增添豐富的焦糖基底，並有助於整體蘭姆酒的風味。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides depth and complexity with molasses and spice notes.",
+        "zh": "提供深度和複雜性，帶有糖蜜和香料的味道。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Overproof Rum",
+        "zh": "高濃度冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a potent kick and contributes to the drink's 'zombie' effect.",
+        "zh": "增加強勁的衝擊力，並有助於飲料的“殭屍”效果。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes a fruity and slightly nutty flavor.",
+        "zh": "貢獻水果和略帶堅果的味道。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a complex blend of spice, citrus, and almond notes.",
+        "zh": "增添香料、柑橘和杏仁的複雜混合風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds necessary acidity to balance the sweetness.",
+        "zh": "增加必要的酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a hint of fruit flavor and red color.",
+        "zh": "增加甜味、淡淡的水果風味和紅色。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "少量安格仕苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic notes.",
+        "zh": "增加複雜性和芳香。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 10,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

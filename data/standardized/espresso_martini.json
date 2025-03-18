@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Espresso Martini",
+    "zh": "濃縮咖啡馬丁尼"
+  },
+  "description": {
+    "en": "**A modern classic cocktail** \n\nA coffee-flavored cocktail that's both stimulating and delicious, featuring:\n*   Vodka base for a clean taste.\n*   Fresh espresso for a rich coffee flavor.\n*   Coffee liqueur for added sweetness and depth.\n*   Shaken vigorously for a frothy top.",
+    "zh": "**現代經典雞尾酒**\n\n一款咖啡風味的雞尾酒，既能提神又美味，特色：\n*   伏特加基底，口感純淨。\n*   新鮮濃縮咖啡，帶來濃郁的咖啡味。\n*   咖啡利口酒，增加甜度和深度。\n*   大力搖晃，產生泡沫頂層。"
+  },
+  "historical_reference": {
+    "en": "**Created in London in the 1980s**\n\n*   Invented by Dick Bradsell at the Soho Brasserie.\n*   Reportedly created for a supermodel who wanted a drink to 'wake me up, and then fuck me up'.\n*   Originally called the 'Vodka Espresso'.",
+    "zh": "**1980年代在倫敦發明**\n\n*   由迪克·布拉德塞爾在蘇活區小餐館發明。\n*   據說是一位超模想要一種「喚醒我，然後讓我嗨翻天」的飲品而創造的。\n*   最初稱為「伏特加濃縮咖啡」。"
+  },
+  "technique": {
+    "en": "Shake all ingredients vigorously with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料與冰塊用力搖勻。 雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "3 coffee beans",
+    "zh": "三顆咖啡豆"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Dark brown with a creamy foam head",
+    "zh": "深棕色，帶有乳白色泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile",
+        "zh": "提供酒精基底和中性的風味"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances coffee flavor and adds sweetness",
+        "zh": "增強咖啡風味並增加甜度"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Fresh Espresso",
+        "zh": "新鮮濃縮咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the prominent coffee flavor",
+        "zh": "提供突出的咖啡風味"
+      }
+    },
+    {
+      "amount": 5,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds balanced sweetness",
+        "zh": "增加平衡的甜度"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Matador",
+    "zh": "鬥牛士"
+  },
+  "description": {
+    "en": "**A tequila-based cocktail**\n\nA refreshing mix, reminiscent of a *Margarita* but with a savory twist.\n\n*   Tequila provides the base spirit.\n*   Pineapple juice adds sweetness and tropical notes.\n*   Lime juice brings the necessary acidity.\n*   A dash of bitters may enhance the complexity.",
+    "zh": "**以龍舌蘭為基底的雞尾酒**\n\n令人耳目一新的混合，讓人聯想到*瑪格麗特*，但帶有鹹味。\n\n* 龍舌蘭提供基酒。\n* 鳳梨汁增加甜味和熱帶風味。\n* 萊姆汁帶來必要的酸度。\n* 少許苦精可以增強複雜性。"
+  },
+  "historical_reference": {
+    "en": "The Matador cocktail is believed to have originated around the 1930s. It is similar to a Margarita but uses pineapple juice instead of orange liqueur.\n\n*   Likely originated in the United States or Mexico.\n*   Name possibly references the Spanish bullfighter.",
+    "zh": "鬥牛士雞尾酒據信起源於1930年代左右。它與瑪格麗特相似，但使用鳳梨汁代替橙酒。\n\n* 可能起源於美國或墨西哥。\n* 名稱可能參考了西班牙鬥牛士。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge or leaf",
+    "zh": "鳳梨角或葉子"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Deep red, clear, and bright",
+    "zh": "深紅色、清澈明亮"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila (Blanco/Silver)",
+        "zh": "龍舌蘭酒（白色/銀色）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and agave notes.",
+        "zh": "提供基酒和龍舌蘭的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice (Freshly Squeezed)",
+        "zh": "鮮榨萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Irish Mule",
+    "zh": "愛爾蘭騾子"
+  },
+  "description": {
+    "en": "**A refreshing twist on the classic Moscow Mule**\n\nThe Irish Mule substitutes vodka for Irish whiskey, creating a flavorful and lively cocktail, that includes:\n*   The spiciness of ginger beer complements the smooth Irish whiskey.\n*   Lime juice to add a touch of tartness.\n*   Served in a copper mug for that classic Mule experience.",
+    "zh": "**經典莫斯科騾子的清爽變奏**\n\n愛爾蘭騾子以愛爾蘭威士忌代替伏特加，創造出一款風味十足且活潑的雞尾酒，其中包括：\n*   薑汁啤酒的辛辣味與柔順的愛爾蘭威士忌相得益彰。\n*   加入檸檬汁以增添一絲酸味。\n*   盛裝在銅杯中，帶來經典的騾子體驗。"
+  },
+  "historical_reference": {
+    "en": "The Mule family of cocktails originated in the US in the 1940s, although this specific variation isn't heavily documented it follows the same basic construction of spirit, ginger beer and lime. The Moscow mule is credited to John G. Martin and Jack Morgan, who sought to popularize Smirnoff vodka in America.",
+    "zh": "騾子系列雞尾酒起源於 1940 年代的美國，儘管這種特定變體沒有被大量記錄，但它遵循烈酒、薑汁啤酒和萊姆的基本結構。莫斯科騾子歸功於 John G. Martin 和 Jack Morgan，他們試圖在美國推廣 Smirnoff 伏特加。"
+  },
+  "technique": {
+    "en": "Combine Irish whiskey and lime juice in a copper mug filled with ice. Top with ginger beer and garnish with a lime wedge or wheel.",
+    "zh": "將愛爾蘭威士忌和萊姆汁放入裝滿冰塊的銅杯中。倒入薑汁啤酒，並用檸檬角或檸檬片裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "檸檬角或檸檬片"
+  },
+  "serve_in_glass": {
+    "en": "Copper mug",
+    "zh": "銅杯"
+  },
+  "appearance": {
+    "en": "Pale gold, effervescent, garnished with lime.",
+    "zh": "淡金色，有氣泡，並用檸檬裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and distinct Irish character.",
+        "zh": "提供烈酒基底和獨特的愛爾蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

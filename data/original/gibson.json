@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Gibson",
+    "zh": "吉布森"
+  },
+  "description": {
+    "en": "**Classic Martini Variation**\n\nA dry and sophisticated cocktail.\n\n*   Uses a pickled onion as a garnish instead of an olive.\n*   Offers a savory alternative to the classic Martini.",
+    "zh": "**經典馬丁尼變奏**\n\n一款乾爽而精緻的雞尾酒。\n\n*   使用醃洋蔥作為裝飾，而不是橄欖。\n*   提供經典馬丁尼的鹹味替代品。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The exact origin is debated, but it's believed to have emerged around the early 20th century.\n\n*   Popularized as a variation of the Martini.\n*   The pickled onion is the key defining ingredient.",
+    "zh": "**起源**: 確切的起源尚有爭議，但據信出現在20世紀初。\n\n*   作為馬丁尼的變奏而普及。\n*   醃洋蔥是主要的定義成分。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Pickled onion",
+    "zh": "醃洋蔥"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless",
+    "zh": "清澈、無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic base.",
+        "zh": "提供主要風味和酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle herbal and bitter complexity.",
+        "zh": "增添微妙的草本和苦味複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

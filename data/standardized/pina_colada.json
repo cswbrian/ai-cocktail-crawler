@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Pina Colada",
+    "zh": "鳳梨可樂達"
+  },
+  "description": {
+    "en": "**Tropical Creamy Delight**\n\nA classic blend of:\n*   Rum, pineapple juice and coconut cream\n*   Blended with ice for a smooth, refreshing texture.\n*   Perfect for a tropical getaway (or feeling like one!).",
+    "zh": "**熱帶奶油美味**\n\n經典混合了：\n* 蘭姆酒，鳳梨汁和椰奶\n* 與冰混合，帶來柔滑，清爽的口感。\n* 非常適合熱帶度假（或感覺像度假一樣！）"
+  },
+  "historical_reference": {
+    "en": "**Origin**: San Juan, Puerto Rico\n\n*   Several bartenders in Puerto Rico claim to have invented the Piña Colada.\n*   The most widely accepted story is that Ramón \"Monchito\" Marrero, a bartender at the Caribe Hilton Hotel in San Juan, first created the drink in 1954.\n*   The drink quickly gained popularity, becoming the official drink of Puerto Rico in 1978.",
+    "zh": "**起源**: 波多黎各聖胡安\n\n* 波多黎各的幾位調酒師聲稱發明了Piña Colada。\n* 最廣為接受的故事是，位於聖胡安的加勒比希爾頓酒店的調酒師拉蒙“Monchito”馬雷羅於1954年首次創造了這種飲料。\n* 這種飲料迅速普及，並於1978年成為波多黎各的官方飲料。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass. Garnish.",
+    "zh": "將所有成分與冰混合至光滑。倒入杯中。裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or cherry",
+    "zh": "鳳梨角和/或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or goblet",
+    "zh": "颶風杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Creamy, off-white to light yellow, frothy",
+    "zh": "奶油狀，灰白色至淺黃色，有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a light, sweet flavor.",
+        "zh": "提供酒精基底和淡淡的甜味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds rich, creamy texture and coconut flavor.",
+        "zh": "增加豐富，奶油般的質地和椰子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

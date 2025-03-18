@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Smoked Maple Old Fashioned",
+    "zh": "煙燻楓糖古典雞尾酒"
+  },
+  "description": {
+    "en": "A rich and smoky twist on the classic Old Fashioned, featuring bourbon infused with smoke and the sweet depth of maple syrup. This cocktail offers a balanced profile of sweet, smoky, and boozy flavors, making it a sophisticated choice for whiskey enthusiasts.\n\nKey Features:\n*   Smoked Bourbon for depth\n*   Maple Syrup adds rich sweetness\n*   Orange peel brings zest",
+    "zh": "經典古典雞尾酒的濃郁煙燻變奏，以煙燻波本威士忌和楓糖漿的甜味深度為特色。這款雞尾酒提供甜味、煙燻味和濃烈酒精味的平衡，使其成為威士忌愛好者的精緻之選。\n\n主要特色：\n* 煙燻波本增添深度\n* 楓糖漿增加豐富的甜味\n* 橙皮帶來活力"
+  },
+  "historical_reference": {
+    "en": "The Old Fashioned is one of the oldest and most fundamental cocktails, dating back to the 19th century. This variation incorporates modern techniques and flavors. \n\n*   The classic is often credited to a bartender at a gentlemen's club in Louisville, Kentucky.\n*   The addition of maple syrup and smoke is a recent innovation, catering to contemporary palates.",
+    "zh": "古典雞尾酒是最古老、最基本的雞尾酒之一，可追溯至19世紀。這種變奏融合了現代技術和風味。\n\n*   經典之作通常歸功於肯塔基州路易斯維爾一家紳士俱樂部的酒保。\n*   添加楓糖漿和煙燻味是最近的創新，旨在迎合當代人的口味。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice in a mixing glass. Strain into an Old Fashioned glass over a large ice cube. Garnish with an orange peel and brandied cherry.",
+    "zh": "將所有原料與冰塊在攪拌杯中攪拌。濾入裝有大冰塊的古典杯中。用橙皮和白蘭地酒漬櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel and brandied cherry",
+    "zh": "橙皮和白蘭地酒漬櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber with a slight haze, garnished with an orange peel and a brandied cherry.",
+    "zh": "深琥珀色，略帶朦朧感，用橙皮和白蘭地酒漬櫻桃裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main body and flavor with notes of vanilla and caramel.",
+        "zh": "提供酒體和風味，帶有香草和焦糖的味道。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Maple Syrup",
+        "zh": "楓糖漿"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinctive maple flavor.",
+        "zh": "增加甜味和獨特的楓木風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "增加複雜度並平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

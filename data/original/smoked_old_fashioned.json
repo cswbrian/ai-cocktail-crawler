@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Smoked Old Fashioned",
+    "zh": "煙燻古典雞尾酒"
+  },
+  "description": {
+    "en": "**A Smoky Twist on a Classic**\n\nThis cocktail takes the traditional Old Fashioned and elevates it with a smoky element:\n\n*   Bourbon base for a sweet and oaky flavor\n*   Smoked simple syrup for a deep smoky note\n*   Aromatic bitters enhance the complexity",
+    "zh": "**經典的煙燻變奏**\n\n這款雞尾酒在傳統古典雞尾酒的基礎上，加入了煙燻元素：\n\n*   波本威士忌基底帶來香甜和橡木風味\n*   煙燻糖漿帶來深沉的煙燻味\n*   芳香苦精增強了複雜性"
+  },
+  "historical_reference": {
+    "en": "**A Modern Variation**\n\nWhile the Old Fashioned dates back to the 1800s, the Smoked Old Fashioned is a modern take:\n\n*   Evolves the classic by incorporating smoke, appealing to contemporary palates\n*   The smoking element can be achieved through various methods like smoking the syrup or using a smoking gun",
+    "zh": "**現代變奏**\n\n雖然古典雞尾酒可以追溯到 1800 年代，但煙燻古典雞尾酒是一種現代演繹：\n\n*   通過融入煙燻味來發展經典，吸引現代人的口味\n*   煙燻元素可以通過多種方法實現，例如煙燻糖漿或使用煙燻槍"
+  },
+  "technique": {
+    "en": "Muddle, stir, strain over large ice cube",
+    "zh": "攪拌，用大冰塊過濾"
+  },
+  "garnish": {
+    "en": "Orange peel, brandied cherry (optional)",
+    "zh": "橙皮，白蘭地櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber, clear, with a slight smoky haze",
+    "zh": "深琥珀色，清澈，略帶煙燻朦朧感"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich, sweet, and oaky base of the cocktail.",
+        "zh": "為雞尾酒提供濃郁、香甜和橡木味的基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Smoked Simple Syrup",
+        "zh": "煙燻糖漿"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinct smoky flavor.",
+        "zh": "增加甜味和獨特的煙燻風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness with a bitter note.",
+        "zh": "增加複雜性，並以苦味平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

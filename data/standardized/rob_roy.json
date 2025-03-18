@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Rob Roy",
+    "zh": "羅伯·羅伊"
+  },
+  "description": {
+    "en": "**Rob Roy: A Scotch Manhattan**\n\nThe Rob Roy is a classic cocktail that's essentially a Manhattan made with Scotch whisky instead of rye or bourbon. It offers a smooth and complex flavor profile, with notes of:\n*   Malty Scotch\n*   Sweet vermouth\n*   Aromatic bitters",
+    "zh": "**羅伯·羅伊：蘇格蘭曼哈頓**\n\n羅伯·羅伊是一款經典雞尾酒，本質上是用蘇格蘭威士忌代替黑麥或波本威士忌製成的曼哈頓。 它提供順滑而複雜的風味，帶有以下味道：\n*   麥芽蘇格蘭威士忌\n*   甜味美思\n*   芳香苦味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: New York City, 1894\n\n*   Created at the Waldorf Astoria Hotel in New York City.\n*   Named after the Scottish folk hero Rob Roy MacGregor, on the opening of an operetta based on his life.",
+    "zh": "**起源**: 紐約市，1894年\n\n*   在紐約市華爾道夫酒店創建。\n*   以蘇格蘭民族英雄羅伯·羅伊·麥格雷戈的名字命名，當時一部根據他的生活改編的輕歌劇開幕。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰攪拌後濾入冰鎮過的杯子。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid",
+    "zh": "清澈的琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic backbone of the cocktail.",
+        "zh": "提供雞尾酒的基礎風味和酒精骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spice and balances the sweetness.",
+        "zh": "增加風味並平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

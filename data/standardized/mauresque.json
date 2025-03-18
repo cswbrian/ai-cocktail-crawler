@@ -1,0 +1,104 @@
+{
+  "name": {
+    "en": "Mauresque",
+    "zh": "摩爾人"
+  },
+  "description": {
+    "en": "*Refreshing Anise-flavored Drink*\n\nA simple yet refreshing drink, popular in the south of France:\n\n*   Pastis-based, diluted with water.\n*   Often enjoyed as an aperitif on warm days.",
+    "zh": "*清爽的茴芹風味飲品*\n\n簡單而清爽的飲品，在法國南部很受歡迎：\n\n*   以Pastis為基底，用水稀釋。\n*   通常在溫暖的日子裡作為開胃酒享用。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Southern France, early 20th century\n\n*   Created as a legal alternative to absinthe after its ban.\n*   Name derives from the Moorish (Mauresque) influence in the region, referring to the addition of orgeat syrup (almond syrup).",
+    "zh": "**起源**: 法國南部，20世紀初\n\n*   在苦艾酒被禁後，作為其合法的替代品而創造。\n*   名稱源自該地區的摩爾人（Mauresque）的影響，指的是添加了杏仁糖漿（orgeat syrup）。"
+  },
+  "technique": {
+    "en": "Pour pastis into glass, add orgeat syrup, then top with cold water. Stir gently.",
+    "zh": "將茴香酒倒入杯中，加入杏仁糖漿，然後倒入冷水。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None typically, sometimes mint sprig",
+    "zh": "通常沒有，有時是薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or tumbler",
+    "zh": "高球杯或平底玻璃杯"
+  },
+  "appearance": {
+    "en": "Milky white, opaque",
+    "zh": "乳白色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pastis",
+        "zh": "茴香酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the anise flavor base.",
+        "zh": "提供茴芹風味的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and nutty almond flavor.",
+        "zh": "增加甜味和堅果杏仁味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Cold Water",
+        "zh": "冷水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the pastis, creating the characteristic cloudy appearance.",
+        "zh": "稀釋茴香酒，產生特有的混濁外觀。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

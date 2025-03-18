@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Apple Cider Shrub",
+    "zh": "蘋果西打醋"
+  },
+  "description": {
+    "en": "*Fruity and Tart*\n\nAn Apple Cider Shrub cocktail is a refreshing mix using a homemade apple cider shrub, typically combined with:\n\n*   Vodka for a smooth alcoholic kick.\n*   Sparkling water to add fizz.\n*   Garnished with apple slices for visual appeal and enhanced aroma.",
+    "zh": "*果香與酸味*\n\n蘋果西打醋雞尾酒是一種清爽的混合飲品，使用自製蘋果西打醋，通常與：\n\n*   伏特加混合，帶來順滑的酒精衝擊。\n*   添加氣泡水，增加氣泡。\n*   用蘋果片裝飾，以增強視覺吸引力和香氣。"
+  },
+  "historical_reference": {
+    "en": "**Shrubs** are vinegar-based syrups used to preserve fruit and create tart, refreshing drinks.\n\n*   Originated as a preservation method before refrigeration.\n*   Popular in colonial America and revived in modern mixology.\n*   Apple cider shrubs use apple cider vinegar and apples for a distinct flavor profile.",
+    "zh": "**果醋**是用於保存水果並創造酸味、清爽飲料的醋基糖漿。\n\n*   起源於冷藏之前的保存方法。\n*   在美國殖民地時期很流行，並在現代調酒中復興。\n*   蘋果西打醋使用蘋果醋和蘋果，以獲得獨特的風味。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake well and strain into a highball glass filled with ice. Top with sparkling water.",
+    "zh": "將所有成分放入裝有冰塊的搖酒器中。 充分搖晃並濾入裝滿冰塊的高球杯中。 加入氣泡水。"
+  },
+  "garnish": {
+    "en": "Apple slice or cinnamon stick",
+    "zh": "蘋果片或肉桂棒"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy, amber-colored liquid",
+    "zh": "混濁的琥珀色液體"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, neutral alcoholic base.",
+        "zh": "提供乾淨、中性的酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Apple Cider Shrub",
+        "zh": "蘋果西打醋"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the sweet, tart apple flavor.",
+        "zh": "提供香甜、酸澀的蘋果味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

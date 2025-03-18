@@ -1,0 +1,140 @@
+{
+  "name": {
+    "en": "Mary Pickford",
+    "zh": "瑪麗·碧克馥"
+  },
+  "description": {
+    "en": "**A Classic Prohibition-Era Cocktail**\n\nA sweet and slightly tart cocktail featuring:\n*   White rum as the base spirit\n*   Pineapple juice for tropical sweetness\n*   Grenadine for color and added sweetness\n*   Lime juice for tartness",
+    "zh": "**經典禁酒時期雞尾酒**\n\n一款香甜微酸的雞尾酒，特色：\n*   以白蘭姆酒為基酒\n*   鳳梨汁帶來熱帶甜味\n*   石榴糖漿增添色澤和甜味\n*   萊姆汁帶來酸味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created in the 1920s at the Hotel Nacional de Cuba in Havana, Cuba\n\n*   Named after the silent film star Mary Pickford\n*   Created during the Prohibition era to cater to American tourists seeking a taste of home with a tropical twist",
+    "zh": "**起源**: 1920年代於古巴哈瓦那的古巴國家飯店創造\n\n*   以無聲電影明星瑪麗·碧克馥命名\n*   在禁酒令時期創造，旨在滿足尋求帶有熱帶風味的家鄉味道的美國遊客"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy",
+    "zh": "淡黃色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and main alcoholic component.",
+        "zh": "提供基酒和主要的酒精成分。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a rosy color.",
+        "zh": "增加甜度和玫瑰色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness to balance the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

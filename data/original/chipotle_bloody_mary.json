@@ -1,0 +1,203 @@
+{
+  "name": {
+    "en": "Chipotle Bloody Mary",
+    "zh": "墨西哥辣椒血腥瑪麗"
+  },
+  "description": {
+    "en": "**A Spicy Twist on a Classic**\n\nThe Chipotle Bloody Mary elevates the traditional recipe with a smoky heat. Key elements include:\n*   Chipotle peppers for depth and spice.\n*   A blend of savory ingredients for complexity.\n*   Customizable garnishes for added flavor and visual appeal.",
+    "zh": "**經典的辛辣轉變**\n\nChipotle Bloody Mary通過煙熏的熱度提升了傳統配方。 關鍵要素包括：\n*   Chipotle辣椒帶來深度和香料味。\n*   混合了多種鹹味成分，增加了複雜性。\n*   可定制的裝飾物，以增加風味和視覺吸引力。"
+  },
+  "historical_reference": {
+    "en": "**Bloody Mary Origins**\n\nThe exact origin is debated, but the Bloody Mary is generally attributed to:\n*   Fernand Petiot at Harry's New York Bar in Paris in the 1920s.\n*   Evolved from simpler tomato juice and vodka combinations.\n*   The chipotle version is a modern variation focusing on added heat and smokiness.",
+    "zh": "**血腥瑪麗的起源**\n\n確切的起源存在爭議，但血腥瑪麗通常歸因於：\n*   1920年代巴黎哈里紐約酒吧的Fernand Petiot。\n*   由更簡單的番茄汁和伏特加組合演變而來。\n*   Chipotle版本是一種現代變體，側重於增加熱度和煙熏味。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Roll back and forth between the shaker tins to mix. Strain into an ice-filled glass. Garnish as desired.",
+    "zh": "將所有成分與冰塊混合在搖酒器中。 在搖酒罐之間來回滾動以混合。 濾入裝滿冰塊的玻璃杯中。 根據需要裝飾。"
+  },
+  "garnish": {
+    "en": "Celery stalk, lime wedge, olives, pickled vegetables, bacon strip, grilled shrimp, or other savory options.",
+    "zh": "芹菜梗、檸檬角、橄欖、醃製蔬菜、培根條、烤蝦或其他鹹味選擇。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "高杯玻璃杯或品脫杯"
+  },
+  "appearance": {
+    "en": "Deep red, thick, and spicy with visible particulates from spices and garnishes.",
+    "zh": "深紅色、濃稠且辛辣，帶有明顯的香料和裝飾物顆粒。"
+  },
+  "allergens": [
+    {
+      "en": "Nightshades (tomatoes, peppers)",
+      "zh": "茄科植物（番茄、辣椒）"
+    },
+    {
+      "en": "Gluten (if using Worcestershire sauce)",
+      "zh": "麩質（如果使用伍斯特醬）"
+    },
+    {
+      "en": "Soy (if using Worcestershire sauce)",
+      "zh": "大豆（如果使用伍斯特醬）"
+    },
+    {
+      "en": "Shellfish (if using certain Worcestershire sauce brands)",
+      "zh": "甲殼類海鮮（如果使用某些品牌的伍斯特醬）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean alcoholic base that allows the other flavors to shine.",
+        "zh": "提供乾淨的酒精基底，讓其他風味得以展現。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing the characteristic red color and savory flavor.",
+        "zh": "構成雞尾酒的基礎，提供特有的紅色和鹹味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightens the flavors.",
+        "zh": "增加酸度並提亮風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Chipotle Peppers in Adobo Sauce",
+        "zh": "墨西哥辣椒在阿斗波醬中"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a smoky, spicy flavor. Mince finely or use adobo sauce only for less heat.",
+        "zh": "增加煙熏和辛辣的味道。 切碎或僅使用阿斗波醬以減少熱量。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "短劃線"
+      },
+      "rationale": {
+        "en": "Adds umami and complex savory notes.",
+        "zh": "增加鮮味和複雜的鹹味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "短劃線"
+      },
+      "rationale": {
+        "en": "Adds additional heat.",
+        "zh": "增加額外的熱量。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavors.",
+        "zh": "增強鹹味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a subtle spice note.",
+        "zh": "添加微妙的辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Rye & Cognac Sazerac",
+    "zh": "黑麥與干邑薩澤拉克"
+  },
+  "description": {
+    "en": "**A refined twist on the classic Sazerac**\n\nThis cocktail blends the boldness of rye whiskey with the elegance of cognac:\n\n*   Aromatic absinthe rinse\n*   Subtle sweetness from sugar\n*   Peychaud's bitters for a unique flavor profile",
+    "zh": "**經典薩澤拉克的精緻變奏**\n\n這款雞尾酒融合了黑麥威士忌的濃烈與干邑的優雅：\n\n*   芳香的苦艾酒杯潤\n*   來自糖的微妙甜味\n*   Peychaud's苦精帶來獨特的風味"
+  },
+  "historical_reference": {
+    "en": "**A Dual Heritage Sazerac**\n\n*   Combines rye whiskey and cognac, reflecting the cocktail's historical evolution\n*   Maintains the traditional preparation methods\n*   Balances the strengths of both spirits",
+    "zh": "**雙重傳承薩澤拉克**\n\n*   結合黑麥威士忌和干邑，反映了雞尾酒的歷史演變\n*   保持傳統的製作方法\n*   平衡兩種烈酒的優勢"
+  },
+  "technique": {
+    "en": "Rinse chilled glass with absinthe, muddle sugar with bitters, add rye and cognac, stir, and strain into the glass. Express lemon peel over the drink and discard.",
+    "zh": "用苦艾酒沖洗冰鎮過的杯子，將糖與苦精混合，加入黑麥威士忌和干邑，攪拌，然後濾入杯中。在飲料上方擠壓檸檬皮並丟棄。"
+  },
+  "garnish": {
+    "en": "Lemon peel twist (expressed and discarded)",
+    "zh": "檸檬皮扭花（擠壓精油後丟棄）"
+  },
+  "serve_in_glass": {
+    "en": "Chilled old-fashioned glass",
+    "zh": "冰鎮古典杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid with a golden hue, no garnish",
+    "zh": "清澈的琥珀色液體，帶有金黃色調，無裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base with notes of oak and pepper.",
+        "zh": "提供辛辣和濃郁的基底，帶有橡木和胡椒的味道。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complexity and fruity notes to complement the rye.",
+        "zh": "增加複雜性和水果風味，以補充黑麥威士忌。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "For rinsing the glass, adding anise aroma and flavor.",
+        "zh": "用於沖洗杯子，增加茴香的香氣和風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness to balance the drink.",
+        "zh": "增加一絲甜味，以平衡飲品。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a complex, floral, and slightly bitter flavor.",
+        "zh": "增加複雜、花香和略帶苦澀的味道。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

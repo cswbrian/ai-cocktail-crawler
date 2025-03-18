@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Atholl Brose Bobby Burns",
+    "zh": "阿索爾布羅斯博比·伯恩斯"
+  },
+  "description": {
+    "en": "**A decadent Scottish classic**\n\nThis cocktail combines the richness of Scotch with the nutty sweetness of almond and honey, finished with aromatic bitters.\n\n*   A warming and comforting serve.\n*   Perfect for cooler evenings.",
+    "zh": "**一款頹廢的蘇格蘭經典**\n\n這款雞尾酒融合了蘇格蘭威士忌的濃郁，杏仁和蜂蜜的堅果甜味，最後以芳香苦味酒收尾。\n\n*   暖身和舒適的飲品。\n*   非常適合涼爽的夜晚。"
+  },
+  "historical_reference": {
+    "en": "**Origins in Scottish Tradition**\n\nAtholl Brose is a traditional Scottish drink, historically made with:\n\n*   Oatmeal\n*   Honey\n*   Whisky\n*   Sometimes cream or milk\n\nThe Bobby Burns cocktail adapts these flavours into a spirit-forward drink.",
+    "zh": "**起源於蘇格蘭傳統**\n\nAtholl Brose 是一種傳統的蘇格蘭飲品，歷史上由以下成分製成：\n\n*   燕麥片\n*   蜂蜜\n*   威士忌\n*   有時是奶油或牛奶\n\nBobby Burns 雞尾酒將這些風味轉化為濃烈的酒精飲品。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "None traditionally, though a honey drizzle or oat garnish is acceptable.",
+    "zh": "傳統上沒有，但可以接受淋上蜂蜜或燕麥裝飾。"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "高腳杯 或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Light amber and slightly viscous",
+    "zh": "淺琥珀色且略帶黏稠"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and booziness, adding smoky and malty notes.",
+        "zh": "提供基底風味和酒精度，增添煙燻和麥芽香。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Almond Liqueur",
+        "zh": "杏仁利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a nutty sweetness.",
+        "zh": "增添堅果的甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complements the Scotch's character.",
+        "zh": "增加甜度，並襯托蘇格蘭威士忌的特性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

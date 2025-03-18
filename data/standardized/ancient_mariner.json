@@ -1,0 +1,160 @@
+{
+  "name": {
+    "en": "Ancient Mariner",
+    "zh": "古代水手"
+  },
+  "description": {
+    "en": "*A complex rum sour, blending sweetness, acidity and spice.*\n\nThis cocktail is a sophisticated variation on the classic Daiquiri, showcasing the depth and complexity of aged rum.\n\nKey elements include:\n*   Fresh lime juice for tartness\n*   Simple syrup for balance\n*   Angostura bitters for aromatic spice\n*   Allspice dram for an added layer of flavor and complexity",
+    "zh": "*一款複雜的蘭姆酒酸酒，融合了甜味、酸味和辛辣味.*\n\n這款雞尾酒是經典 Daiquiri 的精緻變奏，展現了陳年蘭姆酒的深度和複雜性。\n\n主要元素包括：\n* 新鮮的萊姆汁帶來酸味\n* 簡糖漿保持平衡\n* 安格式苦精帶來芳香的辛辣味\n* 多香果利口酒增加了風味和複雜性"
+  },
+  "historical_reference": {
+    "en": "**Attribution:** The Ancient Mariner is attributed to Jeff \"Beachbum\" Berry. \n\n*   Popularized in the modern tiki revival. \n*   Reflects a complex layering of flavors characteristic of tiki cocktails. \n*   Builds on the basic Daiquiri template with added bitters and spice.",
+    "zh": "**歸屬：** 古代水手歸功於傑夫“海灘浪子”貝瑞。\n\n* 在現代提基復興中普及。\n* 反映了提基雞尾酒特有的複雜風味層次。\n* 以基本的 Daiquiri 模板為基礎，添加了苦精和香料。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and double strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wheel or expressed lime peel",
+    "zh": "萊姆輪或擠壓萊姆皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy",
+    "zh": "淡黃色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base.",
+        "zh": "提供豐富的、以糖蜜為基礎的風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Allspice Dram",
+        "zh": "多香果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a unique spice element, complementing the rum.",
+        "zh": "增加獨特的香料元素，與蘭姆酒相得益彰。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential acidity and citrus notes.",
+        "zh": "增加必要的酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the tartness of the lime juice.",
+        "zh": "平衡萊姆汁的酸味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity and spice.",
+        "zh": "增加芳香的複雜性和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

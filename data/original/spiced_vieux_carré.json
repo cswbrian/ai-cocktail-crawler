@@ -1,0 +1,168 @@
+{
+  "name": {
+    "en": "Spiced Vieux Carré",
+    "zh": "香料老廣場"
+  },
+  "description": {
+    "en": "**A Spicy Twist on a Classic**\n\nThe Spiced Vieux Carré is a variation of the classic New Orleans cocktail, the Vieux Carré, with an added layer of spice. This version maintains the core elements of the original while introducing a subtle warmth and complexity through the infusion of aromatic bitters and a touch of spice liqueur, enhancing the overall experience.",
+    "zh": "**經典的辛辣風味**\n\nSpiced Vieux Carré是經典紐奧良雞尾酒Vieux Carré的變體，添加了一層香料。 此版本保留了原始的核心元素，同時通過注入芳香苦味酒和少許香料利口酒，引入了微妙的溫暖和複雜性，從而增強了整體體驗。"
+  },
+  "historical_reference": {
+    "en": "**Inspired by the Vieux Carré Cocktail**\n\nThe Spiced Vieux Carré is a riff on the original Vieux Carré, created in New Orleans at the Hotel Monteleone's Carousel Bar. This version builds upon the classic recipe by incorporating additional spices to create a more complex and warming flavor profile, making it ideal for cooler weather or those seeking a richer cocktail experience.\n\n*   Original created around 1938",
+    "zh": "**靈感來自Vieux Carré雞尾酒**\n\nSpiced Vieux Carré是原始Vieux Carré的變體，該雞尾酒於紐奧良蒙特萊昂酒店的旋轉木馬酒吧創建。 此版本在經典配方的基礎上進行了改進，融入了其他香料，從而創造出更複雜和溫暖的風味，使其成為涼爽天氣或尋求更豐富雞尾酒體驗的理想選擇。\n\n*   原創於1938年左右"
+  },
+  "technique": {
+    "en": "Add sugar and bitters to glass, muddle. Add spirits and liqueur, add ice, stir to chill. Garnish with orange peel.",
+    "zh": "將糖和苦精加入杯中，攪拌均勻。 加入烈酒和利口酒，加入冰塊，攪拌至冷卻。 用橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, dark amber liquid",
+    "zh": "清澈的深琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds body and fruit notes.",
+        "zh": "增加酒體和水果味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "增加甜味和草藥味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "班尼迪克汀"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbaceous and honeyed notes.",
+        "zh": "增添草本和蜂蜜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜度和酒體。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and bitterness.",
+        "zh": "增加深度和苦味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds floral and spice notes.",
+        "zh": "增加花香和香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Negroni",
+    "zh": "尼格羅尼"
+  },
+  "description": {
+    "en": "**The Negroni: A Timeless Classic**\n\nThe Negroni is a classic Italian cocktail known for its simple yet sophisticated combination of:\n*   Gin\n*   Sweet Vermouth\n*   Campari\n\nIt is typically served on the rocks and garnished with an orange peel.",
+    "zh": "**尼格羅尼：永恆的經典**\n\n尼格羅尼是一款經典的義大利雞尾酒，以其簡單而精緻的組合而聞名：\n* 琴酒\n* 甜味苦艾酒\n* 金巴利\n\n通常加冰塊飲用，並以橙皮裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Origins of the Negroni**\n\nThe Negroni is believed to have originated in Florence, Italy, in the early 20th century.\n\n*   **Count Camillo Negroni**: The cocktail is said to have been invented when Count Camillo Negroni asked a bartender to strengthen his Americano by replacing the soda water with gin.\n*   **Casoni Distillery**: Some accounts suggest that the Negroni was invented by the Casoni distillery in 1919.",
+    "zh": "**尼格羅尼的起源**\n\n據說尼格羅尼起源於 20 世紀初義大利佛羅倫斯。\n\n* **卡米洛·尼格羅尼伯爵**：據說，當卡米洛·尼格羅尼伯爵要求調酒師用琴酒代替蘇打水來加強他的美式咖啡時，便發明了這種雞尾酒。\n* **卡索尼釀酒廠**：一些說法表明，尼格羅尼是由卡索尼釀酒廠於 1919 年發明的。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into glass over ice. Garnish with orange peel.",
+    "zh": "將所有材料與冰塊攪拌均勻，濾入裝有冰塊的杯子中。 用橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "柳橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep red",
+    "zh": "清澈，深紅色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and botanical notes.",
+        "zh": "提供基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitter complexity.",
+        "zh": "增加苦味複雜性。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body.",
+        "zh": "增加甜味和酒體。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

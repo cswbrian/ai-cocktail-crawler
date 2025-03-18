@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Casino",
+    "zh": "賭場"
+  },
+  "description": {
+    "en": "**Classic Gin Cocktail**\n\nA simple but elegant cocktail featuring:\n*   Gin base providing the primary flavor\n*   Lemon juice for tartness\n*   Maraschino liqueur adds sweetness and complexity\n*   Orange bitters for additional aromatic notes",
+    "zh": "**經典琴酒雞尾酒**\n\n一款簡單而優雅的雞尾酒，特色：\n*   琴酒基底提供主要風味\n*   檸檬汁帶來酸味\n*   黑櫻桃利口酒增加甜度和複雜性\n*   橙味苦精增添香氣"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First appeared around the early 20th century.\n\n*   Featured in early cocktail books like *The Savoy Cocktail Book*.\n*   Name possibly derived from the Casino bar or establishment of the time.",
+    "zh": "**起源**: 首次出現在20世紀初左右。\n\n*   出現在早期的雞尾酒書籍中，例如《*薩伏伊雞尾酒書*》。\n*   名稱可能源自當時的賭場酒吧或場所。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "黑櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow",
+    "zh": "混濁的淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical flavors.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and cherry flavor.",
+        "zh": "增加甜味和櫻桃風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity.",
+        "zh": "增加香氣複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

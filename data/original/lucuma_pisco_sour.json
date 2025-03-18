@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Lucuma Pisco Sour",
+    "zh": "盧庫瑪皮斯科酸酒"
+  },
+  "description": {
+    "en": "**A Peruvian Classic with a Luscious Twist**\n\nThe Lucuma Pisco Sour elevates the traditional Pisco Sour by incorporating the unique flavor of lucuma fruit. This cocktail offers:\n*   A creamy texture thanks to the lucuma puree\n*   A complex flavor profile that balances the pisco's warmth with the lucuma's sweetness and the sourness of the lime.",
+    "zh": "**秘魯經典，帶有甜美風味**\n\nLucuma Pisco Sour通過融入lucuma水果的獨特風味，提升了傳統的Pisco Sour。 這款雞尾酒提供：\n*   由於lucuma果泥而產生的奶油般質地\n*   一種複雜的風味，將皮斯可的溫暖與盧庫馬的甜味和石灰的酸味相平衡。"
+  },
+  "historical_reference": {
+    "en": "**A Modern Twist on a Peruvian Staple**\n\nThe Pisco Sour originates from Peru in the early 20th century. The addition of lucuma is a more recent innovation, showcasing the versatility of this indigenous fruit:\n*   The Pisco Sour is considered the national drink of Peru.\n*   Lucuma is a subtropical fruit native to the Andes, known for its unique flavor profile, often described as a combination of maple, caramel, and sweet potato.\n*   The Lucuma Pisco Sour highlights Peru's culinary heritage.",
+    "zh": "**秘魯主食的現代風味**\n\nPisco Sour起源於20世紀初的秘魯。 添加lucuma是最近的創新，展示了這種本土水果的多功能性：\n*   Pisco Sour被認為是秘魯的國飲。\n*   Lucuma是一種原產於安第斯山脈的亞熱帶水果，以其獨特的風味而聞名，通常被描述為楓樹，焦糖和紅薯的組合。\n*   Lucuma Pisco Sour突出了秘魯的烹飪傳統。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Strain into a chilled glass.",
+    "zh": "將所有成分乾搖，然後再次加冰搖晃。 濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "3 drops of Angostura bitters, optional lucuma powder dusting",
+    "zh": "3滴安格斯圖娜苦精，可選撒上盧庫馬粉"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or coupe",
+    "zh": "古典杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, light tan color with a frothy white head",
+    "zh": "奶油色，淺棕色，帶有泡沫狀白色泡沫"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundational spirit and traditional flavor profile of the Sour.",
+        "zh": "提供酸酒的基礎烈酒和傳統風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lucuma Puree",
+        "zh": "盧庫瑪果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, creaminess, and the characteristic lucuma flavor.",
+        "zh": "增加甜度，奶油味和盧庫瑪的特徵風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity to balance the sweetness and add a refreshing tartness.",
+        "zh": "提供酸度以平衡甜度並增加清爽的酸味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness of the lime juice.",
+        "zh": "增加甜度以平衡檸檬汁的酸度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head to the cocktail.",
+        "zh": "為雞尾酒增添絲滑的質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

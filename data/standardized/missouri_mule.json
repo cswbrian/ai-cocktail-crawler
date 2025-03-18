@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Missouri Mule",
+    "zh": "密蘇里騾子"
+  },
+  "description": {
+    "en": "**Refreshing Whiskey Cocktail**\n\nA regional variation of the classic mule, using bourbon whiskey and featuring:\n*   Ginger beer for spice and fizz\n*   Lime juice for tartness\n*   Served in a copper mug",
+    "zh": "**清爽的威士忌雞尾酒**\n\n經典騾子雞尾酒的地區變體，使用波本威士忌，特色：\n*   薑汁啤酒帶來辛辣和氣泡感\n*   萊姆汁帶來酸味\n*   盛裝在銅製馬克杯中"
+  },
+  "historical_reference": {
+    "en": "While the Moscow Mule's origins are well-documented, the Missouri Mule's history is less clear.\n\nIt is believed to be a regional adaptation, swapping vodka for bourbon, reflecting Missouri's strong bourbon heritage.",
+    "zh": "雖然莫斯科騾子的起源有據可查，但密蘇里騾子的歷史卻不太清楚。\n\n它被認為是一種地區性的改編，用波本威士忌代替伏特加，反映了密蘇里州強大的波本傳統。"
+  },
+  "technique": {
+    "en": "Combine bourbon and lime juice in a copper mug filled with ice. Top with ginger beer. Garnish with a lime wedge.",
+    "zh": "將波本威士忌和萊姆汁倒入裝滿冰塊的銅製馬克杯中。加入薑汁啤酒。用萊姆角裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Copper mug",
+    "zh": "銅製馬克杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow, served in a copper mug",
+    "zh": "混濁的淡黃色，盛裝在銅製馬克杯中"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and adds oak and vanilla notes.",
+        "zh": "提供基酒，並增添橡木和香草的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and acidity to balance the sweetness.",
+        "zh": "增加酸味和酸度，以平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

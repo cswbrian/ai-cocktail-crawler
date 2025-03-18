@@ -1,0 +1,810 @@
+base_spirits:
+  Gin:
+    standard_en: "Gin"
+    standard_zh: "琴酒"
+    tags:
+      - en: "clear spirit"
+        zh: "清澈烈酒"
+      - en: "juniper"
+        zh: "杜松子"
+      - en: "botanical"
+        zh: "植物香料"
+    variants:
+      - en: "London Dry Gin"
+        zh: "倫敦干琴酒"
+      - en: "Plymouth Gin"
+        zh: "普利茅斯琴酒"
+      - en: "Old Tom Gin"
+        zh: "老湯姆琴酒"
+      - en: "Genever"
+        zh: "荷蘭琴酒"
+      - en: "London Dry Gin"
+        zh: "倫敦 сухо 琴酒"
+      - en: "Generic Gin"
+        zh: "通用琴酒"
+      - en: "Dry Gin"
+        zh: "琴酒"
+  Vodka:
+    standard_en: "Vodka"
+    standard_zh: "伏特加"
+    tags:
+      - en: "clear spirit"
+        zh: "清澈烈酒"
+      - en: "neutral"
+        zh: "中性"
+      - en: "filtration"
+        zh: "過濾"
+    variants:
+      - en: "Russian Vodka"
+        zh: "俄羅斯伏特加"
+      - en: "Polish Vodka"
+        zh: "波蘭伏特加"
+      - en: "Generic Vodka"
+        zh: "伏特加"
+  Whisky:
+    standard_en: "Whisky"
+    standard_zh: "威士忌"
+    tags:
+      - en: "Whisky"
+        zh: "威士忌"
+    variants:
+      - en: "Whisky"
+        zh: "威士忌"
+      - en: "Whiskey"
+        zh: "威士忌"
+      - en: "Whiskey (typically Bourbon)"
+        zh: "威士忌（通常是波本威士忌）"
+      - en: "Generic Whiskey"
+        zh: "通用威士忌"
+      - en: "Generic Whisky"
+        zh: "通用威士忌"
+  Rye Whisky:
+    standard_en: "Rye Whisky"
+    standard_zh: "黑麥威士忌"
+    tags:
+      - en: "Whisky"
+        zh: "威士忌"
+      - en: "grain"
+        zh: "穀物"
+      - en: "rye"
+        zh: "黑麥"
+      - en: "aged"
+        zh: "陳年"
+    variants:
+      - en: "Canadian Rye"
+        zh: "加拿大黑麥威士忌"
+      - en: "Canadian Rye Whisky"
+        zh: "加拿大黑麥威士忌"
+  Bourbon:
+    standard_en: "Bourbon"
+    standard_zh: "波本威士忌"
+    tags:
+      - en: "Whiskey"
+        zh: "威士忌"
+      - en: "corn"
+        zh: "玉米"
+      - en: "aged"
+        zh: "陳年"
+      - en: "american"
+        zh: "美式"
+    variants:
+      - en: "Kentucky Bourbon"
+        zh: "肯塔基波本威士忌"
+      - en: "Jim Beam"
+        zh: "金賓威士忌"
+  Tennessee Whiskey:
+    standard_en: "Tennessee Whiskey"
+    standard_zh: "田納西威士忌"
+    tags:
+      - en: "Whiskey"
+        zh: "威士忌"
+      - en: "corn"
+        zh: "玉米"
+      - en: "aged"
+        zh: "陳年"
+      - en: "american"
+        zh: "美式"
+    variants:
+      - en: "Tennessee Whiskey"
+        zh: "田納西威士忌"
+      - en: "Jack Daniel's"
+        zh: "傑克丹尼"
+  Scotch:
+    standard_en: "Scotch"
+    standard_zh: "蘇格蘭威士忌"
+    tags:
+      - en: "Whisky"
+        zh: "威士忌"
+      - en: "malted barley"
+        zh: "麥芽"
+      - en: "aged"
+        zh: "陳年"
+      - en: "scottish"
+        zh: "蘇格蘭"
+    variants:
+      - en: "Single Malt Scotch"
+        zh: "單一麥芽蘇格蘭威士忌"
+      - en: "Blended Scotch"
+        zh: "調和蘇格蘭威士忌"
+      - en: "Blended Scotch Whisky"
+        zh: "混合蘇格蘭威士忌"
+      - en: "Johnnie Walker"
+        zh: "尊尼獲加"
+      - en: "Johnnie Walker Black Label"
+        zh: "尊尼獲加黑牌"
+      - en: "Johnnie Walker Red Label"
+        zh: "尊尼獲加紅牌"
+      - en: "Johnnie Walker Blue Label"
+        zh: "尊尼獲加藍牌"
+        
+  Tequila:
+    standard_en: "Tequila"
+    standard_zh: "龍舌蘭"
+    tags:
+      - en: "Tequila"
+        zh: "龍舌蘭"
+      - en: "mexican"
+        zh: "墨西哥"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Tequila"
+        zh: "龍舌蘭"
+      - en: "Generic Tequila"
+        zh: "通用龍舌蘭"
+  Blanco Tequila:
+    standard_en: "Blanco Tequila"
+    standard_zh: "白龍舌蘭"
+    tags:
+      - en: "Tequila"
+        zh: "龍舌蘭"
+      - en: "mexican"
+        zh: "墨西哥"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Blanco Tequila"
+        zh: "白龍舌蘭"
+  Reposado Tequila:
+    standard_en: "Reposado Tequila"
+    standard_zh: "陳年龍舌蘭"
+    tags:
+      - en: "Tequila"
+        zh: "龍舌蘭"
+      - en: "mexican"
+        zh: "墨西哥"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Reposado Tequila"
+        zh: "陳年龍舌蘭"
+  Rum:
+    standard_en: "Rum"
+    standard_zh: "冧酒"
+    tags:
+      - en: "Rum"
+        zh: "冧酒"
+      - en: "sugarcane"
+        zh: "甘蔗"
+      - en: "tropical"
+        zh: "熱帶"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Agricultural Rum"
+        zh: "農業蘭姆酒"
+  White Rum:
+    standard_en: "White Rum"
+    standard_zh: "白冧酒"
+    tags:
+      - en: "Rum"
+        zh: "蘭姆酒"
+      - en: "sugarcane"
+        zh: "甘蔗"
+      - en: "tropical"
+        zh: "熱帶"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "White Rum"
+        zh: "白蘭姆酒"
+      - en: "Bacardi White Rum"
+        zh: "百加得白蘭姆酒"
+      - en: "Generic White Rum"
+        zh: "通用白蘭姆酒"
+  Dark Rum:
+    standard_en: "Dark Rum"
+    standard_zh: "黑冧酒"
+    tags:
+      - en: "Rum"
+        zh: "蘭姆酒"
+      - en: "sugarcane"
+        zh: "甘蔗"
+      - en: "tropical"
+        zh: "熱帶"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Dark Rum"
+        zh: "黑蘭姆酒"
+      - en: "Generic Dark Rum"
+        zh: "通用深色蘭姆酒"
+  Aged Rum:
+    standard_en: "Aged Rum"
+    standard_zh: "陳年冧酒"
+    tags:
+      - en: "Rum"
+        zh: "蘭姆酒"
+      - en: "sugarcane"
+        zh: "甘蔗"
+      - en: "tropical"
+        zh: "熱帶"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Aged Jamaican Rum"
+        zh: "陳年牙買加蘭姆酒"
+      - en: "Aged Component"
+        zh: "陳年蘭姆酒"
+  Overproof Rum:
+    standard_en: "Overproof Rum"
+    standard_zh: "高濃度冧酒"
+    tags:
+      - en: "Rum"
+        zh: "蘭姆酒"
+      - en: "sugarcane"
+        zh: "甘蔗"
+      - en: "tropical"
+        zh: "熱帶"
+      - en: "distilled"
+        zh: "蒸餾"
+    variants:
+      - en: "Overproof Rum"
+        zh: "高濃度蘭姆酒"
+      - en: "151 Proof Rum"
+        zh: "151 proof 蘭姆酒"
+  Brandy:
+    standard_en: "Brandy"
+    standard_zh: "白蘭地"
+    tags:
+      - en: "Brandy"
+        zh: "白蘭地"
+    variants:
+      - en: "Brandy"
+        zh: "白蘭地"
+  Apple Brandy (Calvados):
+    standard_en: "Apple Brandy (Calvados)"
+    standard_zh: "蘋果白蘭地"
+    tags:
+      - en: "Brandy"
+        zh: "白蘭地"
+      - en: "apple brandy"
+        zh: "蘋果白蘭地"
+      - en: "calvados"
+        zh: "卡爾瓦多斯"
+    variants:
+      - en: "Apple Brandy"
+        zh: "蘋果白蘭地"
+      - en: "Apple Brandy (Calvados)"
+        zh: "蘋果白蘭地"
+      - en: "Calvados"
+        zh: "卡爾瓦多斯"
+  Cachaça:
+    standard_en: "Cachaça"
+    standard_zh: "卡夏莎"
+    tags:
+      - en: "Cachaça"
+        zh: "卡夏莎"
+    variants:
+      - en: "Cachaça"
+        zh: "卡夏莎"
+      - en: "Cachaça"
+        zh: "卡莎夏"
+  Pisco:
+    standard_en: "Pisco"
+    standard_zh: "皮斯可"
+    tags:
+      - en: "Pisco"
+        zh: "皮斯可"
+liqueurs:
+  Absinthe:
+    standard_en: "Absinthe"
+    standard_zh: "苦艾酒"
+    variants: []
+  Bénédictine:
+    standard_en: "Bénédictine"
+    standard_zh: "廊酒"
+    variants:
+      - en: "Benedictine"
+        zh: "本篤丁"
+      - en: "Benedictine"
+        zh: "班尼迪克丁"
+      - en: "Benedictine"
+        zh: "廊酒"
+  Campari:
+    standard_en: "Campari"
+    standard_zh: "金巴利"
+    variants: []
+  Sweet Vermouth:
+    standard_en: "Sweet Vermouth"
+    standard_zh: "甜苦艾酒"
+    variants:
+      - en: "Sweet Vermouth"
+        zh: "甜苦艾酒"
+      - en: "Italian Sweet Vermouth"
+        zh: "義大利甜苦艾酒"
+      - en: "French Sweet Vermouth"
+        zh: "法國甜苦艾酒"
+  Dry Vermouth:
+    standard_en: "Dry Vermouth"
+    standard_zh: "不甜苦艾酒"
+    variants:
+      - en: "Dry Vermouth"
+        zh: "干苦艾酒"
+      - en: "Dry Vermouth"
+        zh: "不甜苦艾酒"
+      - en: "Dry Vermouth"
+        zh: "不甜香艾酒"
+  Cointreau:
+    standard_en: "Cointreau"
+    standard_zh: "君度橙酒"
+    variants: []
+  Triple Sec:
+    standard_en: "Triple Sec"
+    standard_zh: "橙皮酒"
+    variants: []
+  Grand Marnier:
+    standard_en: "Grand Marnier"
+    standard_zh: "柑曼怡"
+    variants: []
+  Amaretto:
+    standard_en: "Amaretto"
+    standard_zh: "杏仁酒"
+    variants: []
+  Frangelico:
+    standard_en: "Frangelico"
+    standard_zh: "榛果酒"
+    variants: []
+  Kahlúa:
+    standard_en: "Kahlúa"
+    standard_zh: "咖啡酒"
+    variants: []
+  Green Chartreuse:
+    standard_en: "Green Chartreuse"
+    standard_zh: "綠色夏翠絲"
+    variants:
+      - en: "Green Chartreuse"
+        zh: "綠查特酒"
+      - en: "Chartreuse (Green)"
+        zh: "夏特勒茲（綠色）"
+  Yellow Chartreuse:
+    standard_en: "Yellow Chartreuse"
+    standard_zh: "黃色夏翠絲"
+    variants:
+      - en: "Yellow Chartreuse"
+        zh: "黃查特酒"
+  Irish Cream Liqueur:
+    standard_en: "Irish Cream Liqueur"
+    standard_zh: "愛爾蘭奶油利口酒"
+    variants:
+      - en: "Irish Cream Liqueur"
+        zh: "愛爾蘭奶油利口酒"
+      - en: "Baileys"
+        zh: "貝禮詩奶酒"
+      - en: "Baileys Irish Cream"
+        zh: "百利甜酒"
+  Maraschino:
+    standard_en: "Maraschino"
+    standard_zh: "馬拉斯奇諾櫻桃酒"
+    variants: []
+  Crème de Cacao:
+    standard_en: "Crème de Cacao"
+    standard_zh: "可可酒"
+    variants:
+      - en: "White Crème de Cacao"
+        zh: "白可可酒"
+      - en: "Dark Crème de Cacao"
+        zh: "黑可可酒"
+  Crème de Menthe:
+    standard_en: "Crème de Menthe"
+    standard_zh: "薄荷酒"
+    variants:
+      - en: "Crème de Menthe (Green)"
+        zh: "綠薄荷酒"
+      - en: "Crème de Menthe"
+        zh: "薄荷酒"
+  Crème de Cassis:
+    standard_en: "Crème de Cassis"
+    standard_zh: "黑醋栗酒"
+    variants: []
+  St-Germain:
+    standard_en: "St-Germain"
+    standard_zh: "聖傑曼接骨木花酒"
+    variants: []
+  Aperol:
+    standard_en: "Aperol"
+    standard_zh: "阿佩羅"
+    variants: []
+  Cynar:
+    standard_en: "Cynar"
+    standard_zh: "西娜爾"
+    variants: []
+  Fernet Branca:
+    standard_en: "Fernet Branca"
+    standard_zh: "費內特布蘭卡"
+    variants: []
+  Coffee Liqueur:
+    standard_en: "Coffee Liqueur"
+    standard_zh: "咖啡利口酒"
+    variants: []
+  Dry Sherry:
+    standard_en: "Dry Sherry"
+    standard_zh: "不甜雪莉酒"
+    variants:
+      - en: "Dry Sherry"
+        zh: "不甜雪莉酒"
+      - en: "Dry Sherry"
+        zh: "Dry 雪莉酒"
+  Almond Liqueur:
+    standard_en: "Almond Liqueur"
+    standard_zh: "杏仁利口酒"
+    variants:
+      - en: "Almond Liqueur"
+        zh: "杏仁利口酒"
+  Fernet-Branca:
+    standard_en: "Fernet-Branca"
+    standard_zh: "芙內布蘭卡香甜利口酒"
+    variants:
+      - en: "Fernet-Branca"
+        zh: "芬特-布蘭卡"
+      - en: "Fernet Branca"
+        zh: "費內特布蘭卡"
+  Fortified Wine:
+    standard_en: "Fortified Wine"
+    standard_zh: "加強葡萄酒"
+    variants:
+      - en: "Fortified Wine"
+        zh: "加烈葡萄酒"
+        
+
+ingredients:
+  Fresh Cream:
+    standard_en: "Fresh Cream"
+    standard_zh: "鮮奶油"
+    variants:
+      - en: "Fresh Cream"
+        zh: "鮮奶油"
+  Red Wine:
+    standard_en: "Red Wine"
+    standard_zh: "紅酒"
+    variants:
+      - en: "Red Wine"
+        zh: "紅酒"
+  Sparkling Wine:
+    standard_en: "Sparkling Wine"
+    standard_zh: "氣泡酒"
+    variants:
+      - en: "Sparkling Wine"
+        zh: "氣泡酒"
+  Beer:
+    standard_en: "Beer"
+    standard_zh: "啤酒"
+    variants:
+      - en: "Beer"
+        zh: "啤酒"
+  Lager:
+    standard_en: "Lager"
+    standard_zh: "拉格啤酒"
+    variants:
+      - en: "Lager Beer"
+        zh: "拉格啤酒"
+      - en: "Lager"
+        zh: "拉格啤酒"
+  Champagne:
+    standard_en: "Champagne"
+    standard_zh: "香檳"
+    variants:
+      - en: "Champagne"
+        zh: "香檳"
+  Dry White Wine:
+    standard_en: "Dry White Wine"
+    standard_zh: "不甜白葡萄酒"
+    variants:
+      - en: "Dry White Wine"
+        zh: "不甜白葡萄酒"
+      - en: "Dry White Wine"
+        zh: "不甜白酒"
+  Dry Red Wine:
+    standard_en: "Dry Red Wine"
+    standard_zh: "不甜紅葡萄酒"
+    variants:
+      - en: "Dry Red Wine"
+        zh: "乾紅葡萄酒"
+  Sake:
+    standard_en: "Sake"
+    standard_zh: "清酒"
+    variants:
+      - en: "Sake"
+        zh: "清酒"
+  Prosecco:
+    standard_en: "Prosecco"
+    standard_zh: "普羅塞克"
+    variants:
+      - en: "Prosecco"
+        zh: "普羅塞克"
+      - en: "Prosecco"
+        zh: "普羅賽克"
+  Soda Water:
+    standard_en: "Soda Water"
+    standard_zh: "梳打水"
+    variants:
+      - en: "Soda Water"
+        zh: "蘇打水"
+      - en: "Soda Water"
+        zh: "梳打水"
+  Lime Juice:
+    standard_en: "Lime Juice"
+    standard_zh: "青檸汁"
+    variants:
+      - en: "Fresh Lime Juice"
+        zh: "新鮮青檸汁"
+  Lemon Juice:
+    standard_en: "Lemon Juice"
+    standard_zh: "檸檬汁"
+    variants:
+      - en: "Fresh Lemon Juice"
+        zh: "新鮮檸檬汁"
+  Orange Juice:
+    standard_en: "Orange Juice"
+    standard_zh: "橙汁"
+    variants:
+      - en: "Fresh Orange Juice"
+        zh: "新鮮柳橙汁"
+      - en: "Orange Juice"
+        zh: "柳橙汁"
+  Grapefruit Juice:
+    standard_en: "Grapefruit Juice"
+    standard_zh: "葡萄柚汁"
+    variants:
+      - en: "Fresh Grapefruit Juice"
+        zh: "新鮮葡萄柚汁"
+  Pineapple Juice:
+    standard_en: "Pineapple Juice"
+    standard_zh: "菠蘿汁"
+    variants:
+      - en: "Fresh Pineapple Juice"
+        zh: "新鮮鳳梨汁"
+      - en: "Pineapple Juice"
+        zh: "鳳梨汁"
+  Cranberry Juice:
+    standard_en: "Cranberry Juice"
+    standard_zh: "蔓越莓汁"
+    variants: []
+  Simple Syrup:
+    standard_en: "Simple Syrup"
+    standard_zh: "糖漿"
+    variants:
+      - en: "Rich Simple Syrup"
+        zh: "濃糖漿"
+      - en: "Demerara Simple Syrup"
+        zh: "德梅拉拉糖漿"
+      - en: "Sugar Syrup"
+        zh: "糖漿"
+      - en: "Simple syrup"
+        zh: "糖漿"
+      - en: "Simple Syrup"
+        zh: "簡單糖漿"
+      - en: "Syrup component"
+        zh: "糖漿"
+  Honey Syrup:
+    standard_en: "Honey Syrup"
+    standard_zh: "蜂蜜糖漿"
+    variants: []
+  Agave Syrup:
+    standard_en: "Agave Syrup"
+    standard_zh: "龍舌蘭糖漿"
+    variants: []
+  Egg White:
+    standard_en: "Egg White"
+    standard_zh: "蛋白"
+    variants: []
+  Egg Yolk:
+    standard_en: "Egg Yolk"
+    standard_zh: "蛋黃"
+    variants: []
+  Whole Egg:
+    standard_en: "Whole Egg"
+    standard_zh: "全蛋"
+    variants: []
+  Mint:
+    standard_en: "Mint"
+    standard_zh: "薄荷"
+    variants:
+      - en: "Fresh Mint"
+        zh: "新鮮薄荷"
+      - en: "Mint Leaves"
+        zh: "薄荷葉"
+  Basil:
+    standard_en: "Basil"
+    standard_zh: "羅勒"
+    variants:
+      - en: "Fresh Basil"
+        zh: "新鮮羅勒"
+      - en: "Basil Leaves"
+        zh: "羅勒葉"
+  Rosemary:
+    standard_en: "Rosemary"
+    standard_zh: "迷迭香"
+    variants:
+      - en: "Fresh Rosemary"
+        zh: "新鮮迷迭香"
+      - en: "Rosemary Sprig"
+        zh: "迷迭香枝"
+  Thyme:
+    standard_en: "Thyme"
+    standard_zh: "百里香"
+    variants:
+      - en: "Fresh Thyme"
+        zh: "新鮮百里香"
+      - en: "Thyme Sprig"
+        zh: "百里香枝"
+  Ginger:
+    standard_en: "Ginger"
+    standard_zh: "薑"
+    variants:
+      - en: "Fresh Ginger"
+        zh: "新鮮薑"
+      - en: "Ginger Root"
+        zh: "薑根"
+  Cinnamon:
+    standard_en: "Cinnamon"
+    standard_zh: "肉桂"
+    variants:
+      - en: "Cinnamon Stick"
+        zh: "肉桂棒"
+      - en: "Ground Cinnamon"
+        zh: "肉桂粉"
+  Nutmeg:
+    standard_en: "Nutmeg"
+    standard_zh: "肉豆蔻"
+    variants:
+      - en: "Fresh Nutmeg"
+        zh: "新鮮肉豆蔻"
+      - en: "Ground Nutmeg"
+        zh: "肉豆蔻粉"
+  Salt:
+    standard_en: "Salt"
+    standard_zh: "鹽"
+    variants:
+      - en: "Sea Salt"
+        zh: "海鹽"
+      - en: "Kosher Salt"
+        zh: "猶太鹽"
+  Black Pepper:
+    standard_en: "Black Pepper"
+    standard_zh: "黑胡椒"
+    variants:
+      - en: "Freshly Ground Black Pepper"
+        zh: "現磨黑胡椒"
+  Coffee:
+    standard_en: "Coffee"
+    standard_zh: "咖啡"
+    variants:
+      - en: "Fresh Coffee"
+        zh: "新鮮咖啡"
+      - en: "Espresso"
+        zh: "濃縮咖啡"
+  Cocoa Powder:
+    standard_en: "Cocoa Powder"
+    standard_zh: "可可粉"
+    variants: []
+  Vanilla Extract:
+    standard_en: "Vanilla Extract"
+    standard_zh: "香草精"
+    variants: []
+  Bitters:
+    standard_en: "Bitters"
+    standard_zh: "苦精"
+    variants: []
+  Angostura Bitters:
+    standard_en: "Angostura Bitters"
+    standard_zh: "安格斯特拉苦精"
+    variants: []
+  Orange Bitters:
+    standard_en: "Orange Bitters"
+    standard_zh: "橙味苦精"
+    variants: []
+  Peychaud's Bitters:
+    standard_en: "Peychaud's Bitters"
+    standard_zh: "佩喬苦精"
+    variants: []
+
+flavor_descriptors:
+  Bitter:
+    standard_en: "Bitter"
+    standard_zh: "苦味"
+    variants: []
+  Sweet:
+    standard_en: "Sweet"
+    standard_zh: "甜味"
+    variants: []
+  Sour:
+    standard_en: "Sour"
+    standard_zh: "酸味"
+    variants: []
+  Salty:
+    standard_en: "Salty"
+    standard_zh: "鹹味"
+    variants: []
+  Umami:
+    standard_en: "Umami"
+    standard_zh: "鮮味"
+    variants: []
+  Fruity:
+    standard_en: "Fruity"
+    standard_zh: "果香"
+    variants: []
+  Citrus:
+    standard_en: "Citrus"
+    standard_zh: "柑橘"
+    variants: []
+  Herbal:
+    standard_en: "Herbal"
+    standard_zh: "草本"
+    variants: []
+  Spicy:
+    standard_en: "Spicy"
+    standard_zh: "辛辣"
+    variants: []
+  Floral:
+    standard_en: "Floral"
+    standard_zh: "花香"
+    variants: []
+  Tropical:
+    standard_en: "Tropical"
+    standard_zh: "熱帶"
+    variants: []
+  Nutty:
+    standard_en: "Nutty"
+    standard_zh: "堅果"
+    variants: []
+  Chocolate:
+    standard_en: "Chocolate"
+    standard_zh: "朱古力"
+    variants: []
+  Coffee:
+    standard_en: "Coffee"
+    standard_zh: "咖啡"
+    variants: []
+  Vanilla:
+    standard_en: "Vanilla"
+    standard_zh: "香草"
+    variants: []
+  Smoky:
+    standard_en: "Smoky"
+    standard_zh: "煙燻"
+    variants: []
+  Earth:
+    standard_en: "Earth"
+    standard_zh: "泥土"
+    variants: []
+  Savory:
+    standard_en: "Savory"
+    standard_zh: "鮮味"
+    variants: []
+  Creamy:
+    standard_en: "Creamy"
+    standard_zh: "乳脂"
+    variants: []
+  Woody:
+    standard_en: "Woody"
+    standard_zh: "木質"
+    variants: []
+  Grassy:
+    standard_en: "Grassy"
+    standard_zh: "草青"
+    variants: []
+  Yeasty:
+    standard_en: "Yeasty"
+    standard_zh: "酵母"
+    variants: [] 

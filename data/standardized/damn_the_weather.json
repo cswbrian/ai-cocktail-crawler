@@ -1,0 +1,151 @@
+{
+  "name": {
+    "en": "Damn the Weather",
+    "zh": "去他的天氣"
+  },
+  "description": {
+    "en": "**Refreshing Gin Sour Variation**\n\nA delightful cocktail featuring:\n*   Gin base for a classic flavor.\n*   Lemon juice for sourness.\n*   Simple syrup for sweetness.\n*   Egg white for a creamy texture and foamy head.\n*   Dash of bitters for complexity.",
+    "zh": "**清爽的琴酒酸酒變奏**\n\n一款令人愉悅的雞尾酒，特色：\n*   琴酒基底帶來經典風味。\n*   檸檬汁帶來酸味。\n*   簡糖漿帶來甜味。\n*   蛋白帶來奶油般的質地和泡沫。\n*   少量苦精增添複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Modern cocktail, exact origins unknown.\n\nA variation on the classic Gin Sour, employing egg white for texture.\n\n*   Likely created in the late 20th or early 21st century.",
+    "zh": "**起源**：現代雞尾酒，確切起源未知。\n\n經典琴酒酸酒的變奏，使用蛋白來增加口感。\n\n*   可能在20世紀末或21世紀初創作。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Double strain into chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖晃。雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Angostura bitters droplets on foam, lemon twist (optional)",
+    "zh": "安格式atura苦精滴在泡沫上，檸檬皮扭轉（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow with a frothy white head",
+    "zh": "清澈的淡黃色，帶有蓬鬆的白色泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic backbone.",
+        "zh": "提供主要的風味和酒精骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸味並平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the sourness.",
+        "zh": "使飲料變甜並平衡酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a creamy texture and frothy head.",
+        "zh": "增加奶油般的質地和泡沫。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity.",
+        "zh": "添加複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

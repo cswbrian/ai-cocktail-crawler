@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Tequila Slammer",
+    "zh": "龍舌蘭猛擊者"
+  },
+  "description": {
+    "en": "The Tequila Slammer is a simple and popular shot, typically consumed quickly in a single gulp after slamming the glass on the table. It combines tequila and carbonated soda, often lemon-lime soda, with a pinch of salt and a slamming action to create a fizzy, intense experience.  It is often a celebratory or party drink.\n\n*   Served as a shot.\n*   Quick to prepare and consume.\n*   Known for its effervescence and intense flavor rush.",
+    "zh": "Tequila Slammer 是一種簡單而受歡迎的 Shot，通常在將杯子猛擊在桌上後一口氣快速飲用。 它結合了龍舌蘭酒和碳酸飲料（通常是檸檬萊姆汽水），並加入一撮鹽，然後猛擊以創造一種起泡的強烈體驗。 它通常是一種慶祝或派對飲料。\n\n*   作為 Shot 供應。\n*   快速準備和食用。\n*   以其氣泡和強烈的味道衝擊而聞名。"
+  },
+  "historical_reference": {
+    "en": "The origin of the Tequila Slammer is somewhat obscure, but it is believed to have originated in Mexico as a quick and informal way to consume tequila. The addition of soda and the slamming ritual likely evolved as a festive and social drinking custom. It gained popularity as a party drink, especially among younger demographics.\n\n*   Likely originated in Mexico.\n*   Evolved as a social drinking ritual.\n*   Popular party drink.",
+    "zh": "Tequila Slammer 的起源有些模糊，但據信它起源於墨西哥，是一種快速且非正式的龍舌蘭酒飲用方式。 蘇打水的添加和猛擊儀式可能是作為一種節日和社交飲酒習俗演變而來的。 它作為一種派對飲料廣受歡迎，尤其是在年輕人群中。\n\n*   可能起源於墨西哥。\n*   演變成一種社交飲酒儀式。\n*   受歡迎的派對飲料。"
+  },
+  "technique": {
+    "en": "Pour tequila into a shot glass. Add a pinch of salt. Top with carbonated soda. Cover the glass with your hand or a coaster and slam it on the table to create fizz, then drink quickly.",
+    "zh": "將龍舌蘭酒倒入烈酒杯中。 加入一撮鹽。 頂部加入碳酸飲料。 用手或杯墊蓋住玻璃杯，然後將其猛擊在桌子上以產生氣泡，然後快速飲用。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Clear, effervescent liquid",
+    "zh": "清澈、有氣泡的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Tequila (Blanco)",
+        "zh": "龍舌蘭酒（白色）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic agave flavor.",
+        "zh": "提供酒精基底和標誌性的龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "一撮"
+      },
+      "rationale": {
+        "en": "Enhances the tequila's flavor and provides a contrast to the sweetness.",
+        "zh": "增強龍舌蘭酒的風味，並與甜味形成對比。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 7,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

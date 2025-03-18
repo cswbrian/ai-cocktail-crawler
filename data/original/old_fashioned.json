@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Old Fashioned",
+    "zh": "古典雞尾酒"
+  },
+  "description": {
+    "en": "**A Timeless Classic**\n\nThe Old Fashioned is a foundational cocktail celebrated for its simplicity and depth of flavor. Key elements include:\n\n*   Whiskey: Typically bourbon, but rye is also common.\n*   Sweetener: Traditionally a sugar cube muddled with bitters.\n*   Bitters: Aromatic bitters, like Angostura, are essential.\n*   Garnish: An orange peel adds aromatic oils and visual appeal.",
+    "zh": "**經典不朽之作**\n\n古典雞尾酒以其簡約和深層次的風味而聞名。 關鍵要素包括：\n\n*   威士忌：通常是波本威士忌，但黑麥也很常見。\n*   甜味劑：傳統上是用苦精搗碎的方糖。\n*   苦精：芳香苦精，如安哥斯圖拉，至關重要。\n*   裝飾：橙皮增添芳香油脂和視覺吸引力。"
+  },
+  "historical_reference": {
+    "en": "**Origins and Evolution**\n\nThe Old Fashioned is one of the oldest cocktails, with roots in the 19th century.\n\n*   Emerged in the late 1800s as a response to more elaborate cocktails.\n*   Represents a return to the basics: spirit, sugar, water, and bitters.\n*   Believed to have originated at the Pendennis Club in Louisville, Kentucky.",
+    "zh": "**起源與演變**\n\n古典雞尾酒是最古老的雞尾酒之一，其根源可追溯到 19 世紀。\n\n*   1800 年代後期出現，是對更精緻雞尾酒的回應。\n*   代表回歸本源：烈酒、糖、水和苦味劑。\n*   據信起源於肯塔基州路易斯維爾的 Pendennis 俱樂部。"
+  },
+  "technique": {
+    "en": "Muddle sugar and bitters with a small amount of water. Add whiskey and ice. Stir. Garnish with orange peel.",
+    "zh": "將糖和苦精與少量水混合。 加入威士忌和冰塊。 攪拌。 用橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid, often with a large ice cube",
+    "zh": "清澈的琥珀色液體，通常帶有一大塊冰塊"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundation and rich flavor.",
+        "zh": "提供基礎和濃郁的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar Cube",
+        "zh": "方糖"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body to the drink.",
+        "zh": "為飲品增添甜味和酒體。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic depth.",
+        "zh": "增添複雜性和芳香深度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Water or Ice",
+        "zh": "水或冰塊"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "To dilute the drink, or to melt a bit of the ice to dilute the drink",
+        "zh": "稀釋飲料，或融化一點冰塊來稀釋飲料"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

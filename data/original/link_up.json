@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Link Up",
+    "zh": "連線"
+  },
+  "description": {
+    "en": "**Refreshing Herbal Cocktail**\n\nA vibrant and herbaceous cocktail that combines gin, elderflower liqueur, lime juice, and cucumber. Ideal for warm weather and aperitivo hour.\n\n*   Balanced sweetness and tartness\n*   Aromatic and refreshing\n*   Easy to prepare",
+    "zh": "**清爽的草本雞尾酒**\n\n一款充滿活力和草本氣息的雞尾酒，結合了琴酒、接骨木花利口酒、萊姆汁和小黃瓜。適合溫暖的天氣和開胃酒時光。\n\n*   平衡的甜味和酸味\n*   香氣濃郁，令人耳目一新\n*   容易準備"
+  },
+  "historical_reference": {
+    "en": "The 'Link Up' is a modern cocktail, details about its precise origin and creator are scarce, fitting into the broader category of contemporary gin-based cocktails that emerged in the early 21st century. Its characteristics draw inspiration from the popularity of cocktails such as the Gimlet and those highlighting fresh, botanical ingredients.\n\n* Likely a modern creation from the early 2000s.\n* Inspired by gin-based cocktails with botanical elements.\n* Emphasizes fresh, herbal flavors.",
+    "zh": "「連線」是一款現代雞尾酒，關於其精確起源和創作者的詳細資訊很少，屬於 21 世紀初出現的更廣泛的現代琴酒雞尾酒類別。它的特點是受到 Gimlet 等雞尾酒以及強調新鮮植物成分的雞尾酒的啟發。\n\n* 可能是 2000 年代初期的現代創作。\n* 靈感來自帶有植物元素的琴酒雞尾酒。\n* 強調新鮮的草本風味。"
+  },
+  "technique": {
+    "en": "Muddle cucumber, add other ingredients, shake with ice, double strain into chilled glass.",
+    "zh": "將小黃瓜搗碎，加入其他成分，與冰塊搖勻，雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Cucumber ribbon or wheel",
+    "zh": "小黃瓜絲或薄片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow-green",
+    "zh": "混濁，淡黃綠色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical backbone.",
+        "zh": "提供主要的酒精基底和植物風味骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness and aromatic complexity.",
+        "zh": "增加花香甜味和香氣複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Cucumber",
+        "zh": "青瓜"
+      },
+      "unit": {
+        "en": "slices",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a fresh, vegetal note.",
+        "zh": "增添新鮮的蔬菜風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

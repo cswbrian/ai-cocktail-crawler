@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Bees Knees",
+    "zh": "蜜蜂的膝蓋"
+  },
+  "description": {
+    "en": "*Classic Prohibition-era Cocktail*\n\nA simple yet elegant cocktail featuring:\n*   Gin as the base spirit.\n*   Lemon juice for tartness.\n*   Honey syrup for sweetness and floral aroma.",
+    "zh": "*禁酒時代的經典雞尾酒*\n\n簡單而優雅的雞尾酒，特色：\n*   琴酒為基酒。\n*   檸檬汁帶來酸味。\n*   蜂蜜糖漿帶來甜味和花香。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Emerged during the Prohibition era in the United States (1920-1933).\n\n* The name \"Bees Knees\" was slang for \"the best.\"\n*   Honey was used to mask the harsh flavors of poorly made gin during Prohibition.\n*   First appeared in print in 1930, in *Recipes for Mixed Drinks* by Harry MacElhone.",
+    "zh": "**起源**: 出現於美國禁酒時期（1920-1933）。\n\n*   名稱“Bees Knees”是“最好的”的俚語。\n*   在禁酒時期，蜂蜜被用來掩蓋劣質琴酒的刺鼻味道。\n*   首次出現在印刷品中是1930年哈里·麥克埃爾霍尼的《混合飲料食譜》。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻。 濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or edible flower (optional)",
+    "zh": "檸檬皮或食用花（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy",
+    "zh": "淡黃色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and botanical notes.",
+        "zh": "提供主要的酒精骨幹和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Honey Syrup",
+        "zh": "蜂蜜糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and provides a floral note.",
+        "zh": "為飲料增添甜味，並提供花香。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度，平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

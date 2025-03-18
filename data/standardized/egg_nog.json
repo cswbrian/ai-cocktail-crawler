@@ -1,0 +1,216 @@
+{
+  "name": {
+    "en": "Egg Nog",
+    "zh": "蛋酒"
+  },
+  "description": {
+    "en": "**Rich and Festive Holiday Drink**\n\nA classic creamy beverage, traditionally served during the winter holidays. It features:\n*   A blend of dairy, eggs, and spirits\n*   Often spiced with nutmeg and cinnamon\n*   Can be served chilled or at room temperature",
+    "zh": "**豐富而節慶的節日飲品**\n\n一種經典的奶油飲料，傳統上在冬季節日期間供應。它的特點是：\n*   乳製品、雞蛋和烈酒的混合物\n*   通常用肉荳蔻和肉桂調味\n*   可以冷藏或在室溫下飲用"
+  },
+  "historical_reference": {
+    "en": "**Origins in Medieval Britain**\n\n*   Evolved from a drink called 'posset,' made with hot milk, ale, and spices.\n*   Became associated with the aristocracy due to the cost of ingredients like milk and spices.\n*   Spread to America in the 1700s, where rum became a popular addition.",
+    "zh": "**起源於中世紀英國**\n\n*   由一種名為“posset”的飲料演變而來，該飲料由熱牛奶、麥芽酒和香料製成。\n*   由於牛奶和香料等成分的成本，它開始與貴族聯繫在一起。\n*   在 1700 年代傳到美國，在那裡蘭姆酒成為一種流行的添加物。"
+  },
+  "technique": {
+    "en": "Separate egg yolks and whites. Beat yolks with sugar until light and fluffy. Gradually add milk, cream, bourbon, and rum. In a separate bowl, beat egg whites until soft peaks form. Gently fold egg whites into the yolk mixture. Chill for at least 2 hours before serving.",
+    "zh": "分離蛋黃和蛋白。將蛋黃和糖一起攪打至變淺和蓬鬆。逐漸加入牛奶、奶油、波本威士忌和蘭姆酒。在另一個碗中，將蛋白攪打至形成軟峰。輕輕地將蛋白混合物摺疊到蛋黃混合物中。食用前冷藏至少 2 小時。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg and cinnamon stick",
+    "zh": "磨碎的肉荳蔻和肉桂棒"
+  },
+  "serve_in_glass": {
+    "en": "Chilled mug or glass",
+    "zh": "冰鎮馬克杯或玻璃杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow to light tan color, often with a foamy top.",
+    "zh": "奶油色，淡黃色至淺棕色，通常帶有泡沫頂部。"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    },
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Nut (if using)",
+      "zh": "堅果（如果使用）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and rich, caramel notes.",
+        "zh": "提供主要的酒精骨幹和豐富的焦糖味。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complexity with molasses and spice notes.",
+        "zh": "增加複雜性，帶有糖蜜和香料味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Large Eggs",
+        "zh": "大雞蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provide richness and body to the drink; separate yolks and whites.",
+        "zh": "為飲料提供豐富性和口感；分離蛋黃和蛋白。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Granulated Sugar",
+        "zh": "砂糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the mixture and balances the alcohol.",
+        "zh": "使混合物變甜並平衡酒精。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Whole Milk",
+        "zh": "全脂牛奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and dilutes the mixture.",
+        "zh": "增加乳脂感並稀釋混合物。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the richness and texture.",
+        "zh": "增強豐富性和質地。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch of Nutmeg",
+        "zh": "少許肉荳蔻"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a warm, spicy aroma.",
+        "zh": "增添溫暖、辛辣的香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

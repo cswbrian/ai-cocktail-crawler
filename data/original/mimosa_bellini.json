@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Mimosa Bellini",
+    "zh": "貝里尼含羞草"
+  },
+  "description": {
+    "en": "**Simple and Elegant Cocktail**\n\nA delightful variation of the classic Mimosa, substituting orange juice with peach purée or nectar for a sweeter, fruitier profile:\n*   Ideal for brunch or celebrations\n*   Easy to prepare and visually appealing\n*   Variations exist using other fruit purees",
+    "zh": "**簡單而優雅的雞尾酒**\n\n經典含羞草雞尾酒的美味變奏，用桃子泥或果汁代替橙汁，帶來更甜美、更豐富的水果風味：\n*   適合早午餐或慶祝活動\n*   易於準備且外觀精美\n*   存在使用其他水果泥的變體"
+  },
+  "historical_reference": {
+    "en": "**Origin: Harry's Bar, Venice, Italy**\n\n* Created sometime between 1934 and 1948 by Giuseppe Cipriani.\n* Named after the Venetian artist Giovanni Bellini.\n* A popular brunch and celebratory cocktail worldwide.",
+    "zh": "**起源：義大利威尼斯哈利酒吧**\n\n* 由Giuseppe Cipriani在1934年至1948年間的某個時間創造。\n* 以威尼斯藝術家喬瓦尼·貝里尼 (Giovanni Bellini) 的名字命名。\n* 全世界流行的早午餐和慶祝雞尾酒。"
+  },
+  "technique": {
+    "en": "Pour peach puree into a chilled flute glass. Top with sparkling wine. Gently stir to combine.",
+    "zh": "將桃子泥倒入冰鎮的長笛杯中。倒入氣泡酒。輕輕攪拌均勻。"
+  },
+  "garnish": {
+    "en": "Optional: Peach slice or raspberry",
+    "zh": "可選：桃子片或覆盆子"
+  },
+  "serve_in_glass": {
+    "en": "Flute Glass",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Pale orange, sparkling, effervescent",
+    "zh": "淡橙色，閃閃發光，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bubbly base of the cocktail.",
+        "zh": "提供雞尾酒的氣泡基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Peach Puree or Nectar",
+        "zh": "桃子泥或果汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the distinctive peach flavor and sweetness.",
+        "zh": "增添獨特的桃子風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

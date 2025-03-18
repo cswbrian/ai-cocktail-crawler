@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Margarita",
+    "zh": "瑪格麗特"
+  },
+  "description": {
+    "en": "**Classic Refreshing Cocktail**\n\nA simple yet iconic cocktail, known for its:\n\n*   Balanced sweet and sour profile\n*   Salty rim that enhances the flavors\n*   Versatile base that pairs well with many flavors",
+    "zh": "**經典清爽雞尾酒**\n\n簡單而具標誌性的雞尾酒，以其：\n\n*   平衡的酸甜風味聞名\n*   鹽口能提昇味道\n*   萬用的基底，可與多種風味搭配"
+  },
+  "historical_reference": {
+    "en": "**Disputed Origins**\n\n*   Several stories exist about the creation of the Margarita, with no definitive origin.\n*   One popular theory suggests it was created in 1948 by Margarita Sames in Acapulco for her guests.\n*   Another claims it was invented in 1938 by Carlos \"Danny\" Herrera at Rancho La Gloria, near Tijuana, for Marjorie King.",
+    "zh": "**起源眾說紛紜**\n\n*   關於瑪格麗特的由來有多個說法，但沒有明確的起源。\n*   一個廣為流傳的理論認為，它是由瑪格麗塔·薩姆斯於 1948 年在阿卡普爾科為她的客人創作的。\n*   另一種說法是，它是由卡洛斯·「丹尼」·埃雷拉於 1938 年在蒂華納附近的蘭喬拉格洛里亞為馬喬里·金發明的。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass. Optionally rim the glass with salt.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯中。 可選在杯口抹上鹽。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel, salt rim (optional)",
+    "zh": "青檸角或圓片，鹽口（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Margarita glass or coupe glass",
+    "zh": "瑪格麗特杯或碟型杯"
+  },
+  "appearance": {
+    "en": "Pale yellow to green, translucent",
+    "zh": "淡黃色至綠色，半透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Generic Tequila",
+        "zh": "通用龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic kick.",
+        "zh": "提供基底風味和酒精衝擊。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Generic Orange Liqueur",
+        "zh": "通用橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange notes.",
+        "zh": "增加甜度和橙香。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and citrus flavor.",
+        "zh": "增加酸味和柑橘風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

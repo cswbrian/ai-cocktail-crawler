@@ -1,0 +1,171 @@
+{
+  "name": {
+    "en": "Cobra's Fang",
+    "zh": "眼鏡蛇之牙"
+  },
+  "description": {
+    "en": "**Potent and Tropical Tiki Cocktail**\n\nA layered rum punch with a focus on tropical fruit flavors and a strong alcoholic kick, featuring:\n*   Multiple types of rum for depth\n*   Tropical juices for sweetness and tartness\n*   A blend of spices for added complexity",
+    "zh": "**濃烈熱帶Tiki雞尾酒**\n\n一種層次豐富的蘭姆潘趣酒，重點在於熱帶水果風味和強勁的酒精衝擊，特色：\n* 多種類型的蘭姆酒，帶來深度\n* 熱帶果汁，增添甜味和酸味\n* 混合香料，增加複雜性"
+  },
+  "historical_reference": {
+    "en": "**Tiki Era Classic**\n\n*   Popularized during the mid-20th century Tiki craze\n*   Variations exist, but the core concept is a strong rum-based tropical cocktail\n*   Often associated with Don the Beachcomber",
+    "zh": "**提基時代的經典**\n\n* 在20世紀中期的提基熱潮中流行起來\n* 存在多種變體，但核心概念是濃烈的蘭姆酒為基底的熱帶雞尾酒\n* 通常與Don the Beachcomber有關"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into glass filled with fresh ice.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到裝滿新鮮冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge, cherry, mint sprig",
+    "zh": "鳳梨角，櫻桃，薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Tiki mug or large rocks glass",
+    "zh": "提基馬克杯或大冰鎮杯"
+  },
+  "appearance": {
+    "en": "Cloudy, vibrant orange, frothy head",
+    "zh": "混濁，鮮豔的橙色，泡沫豐富"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-driven base and strong alcoholic backbone.",
+        "zh": "提供豐富、以糖蜜為主的基底和強烈的酒精骨幹。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gold Rum",
+        "zh": "金蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complexity with oak and spice notes.",
+        "zh": "增添橡木和香料風味的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle fruity and almond-like note.",
+        "zh": "增加微妙的果香和類似杏仁的味道。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity and citrus notes.",
+        "zh": "增加甜味、酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Passion Fruit Juice",
+        "zh": "百香果汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a unique tropical tang.",
+        "zh": "增加獨特的熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential acidity to balance the sweetness.",
+        "zh": "增加必要的酸度以平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

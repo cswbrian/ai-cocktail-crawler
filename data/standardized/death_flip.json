@@ -1,0 +1,150 @@
+{
+  "name": {
+    "en": "Death Flip",
+    "zh": "死亡翻轉"
+  },
+  "description": {
+    "en": "**Potent and Complex Cocktail**\n\nA strong and flavorful cocktail with a creamy texture.\n*   Features a blend of dark rum, herbal liqueur, and simple syrup.\n*   Egg white adds a silky mouthfeel and frothy top.\n*   Nutmeg garnish complements the rich flavors.",
+    "zh": "**強勁而複雜的雞尾酒**\n\n一款口感濃郁且風味十足的雞尾酒，帶有奶油般的質地。\n*   以深色蘭姆酒、草本利口酒和簡糖漿混合而成。\n*   蛋白增添了絲滑的口感和泡沫狀的頂部。\n*   肉荳蔻裝飾與濃郁的風味相得益彰。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to Chris McMillian at the Hotel Monteleone in New Orleans.\n\n*   First appeared in print around 2010.\n*   A variation on the Flip cocktail family, known for incorporating a whole egg.",
+    "zh": "**起源**: 歸功於新奧爾良蒙特萊昂酒店的克里斯·麥克米蘭。\n\n*   首次出現在印刷品上約在2010年。\n*   Flip 雞尾酒系列的變體，以加入全蛋而聞名。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice, then shake vigorously with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料不加冰乾搖，然後加入冰塊用力搖晃。 雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail Glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy, light brown color with a frothy egg white head",
+    "zh": "不透明，乳脂狀，淺棕色，帶有泡沫狀蛋白"
+  },
+  "allergens": [
+    {
+      "en": "Egg White",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and a robust flavor profile.",
+        "zh": "提供基底和濃郁的風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal complexity and a unique flavor.",
+        "zh": "增加草本的複雜性和獨特的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness, texture, and body to the cocktail.",
+        "zh": "為雞尾酒增添濃郁度、質地和酒體。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the flavors and adds sweetness.",
+        "zh": "平衡風味並增加甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

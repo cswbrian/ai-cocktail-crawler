@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Mango Lassi",
+    "zh": "芒果拉西"
+  },
+  "description": {
+    "en": "**A Refreshing Indian Yogurt Drink**\n\nMango Lassi is a popular and creamy yogurt-based drink from the Indian subcontinent. It's made with:\n\n*   Ripe mangoes for sweetness and flavor\n*   Yogurt for creaminess and tang\n*   A touch of cardamom for warmth (optional)",
+    "zh": "**一杯清爽的印度優格飲品**\n\n芒果拉西是來自印度次大陸的一種受歡迎且奶油般的優格飲品。它由以下成分製成：\n\n*   成熟的芒果，帶來甜味和風味\n*   優格，帶來乳脂感和酸味\n*   少許小荳蔻，帶來溫暖感（可選）"
+  },
+  "historical_reference": {
+    "en": "**Origin in the Punjab Region**\n\n*   Lassi is a traditional yogurt-based drink originating from the Punjab region of the Indian subcontinent.\n*   Mango Lassi is a relatively modern variation, gaining popularity worldwide in recent decades.",
+    "zh": "**起源於旁遮普地區**\n\n*   拉西是一種傳統的優格飲品，起源於印度次大陸的旁遮普地區。\n*   芒果拉西是一種相對現代的變體，近幾十年來在世界各地越來越受歡迎。"
+  },
+  "technique": {
+    "en": "Blend all ingredients until smooth. Add ice for a colder Lassi.",
+    "zh": "將所有材料混合攪拌至光滑。加入冰塊可獲得更冷的拉西。"
+  },
+  "garnish": {
+    "en": "Mango slice or a sprinkle of cardamom",
+    "zh": "芒果片或撒上少許小荳蔻粉"
+  },
+  "serve_in_glass": {
+    "en": "Chilled glass or tumbler",
+    "zh": "冰鎮過的玻璃杯或平底杯"
+  },
+  "appearance": {
+    "en": "Thick, creamy, and pale yellow-orange",
+    "zh": "濃稠、乳脂狀，淡黃橙色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy (milk, yogurt)",
+      "zh": "乳製品（牛奶、優格）"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Ripe Mango",
+        "zh": "成熟芒果"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides sweetness and tropical flavor.",
+        "zh": "提供甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Yogurt",
+        "zh": "優格"
+      },
+      "unit": {
+        "en": "cup",
+        "zh": "杯"
+      },
+      "rationale": {
+        "en": "Adds creaminess and a tangy flavor.",
+        "zh": "增加乳脂感和濃郁的風味。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Cardamom",
+        "zh": "小荳蔻"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a warm, aromatic note (optional).",
+        "zh": "增加溫暖的香氣（可選）。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "teaspoon",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adjust sweetness to taste (optional).",
+        "zh": "根據口味調整甜度（可選）。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 3,
+    "booziness": 0,
+    "body": 7,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

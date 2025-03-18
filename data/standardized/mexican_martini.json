@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Mexican Martini",
+    "zh": "墨西哥馬丁尼"
+  },
+  "description": {
+    "en": "A Tex-Mex twist on the classic martini, the Mexican Martini combines tequila with citrus and olive brine for a savory and tart cocktail. Often served in a shaker with an olive garnish.",
+    "zh": "墨西哥馬丁尼是經典馬丁尼的德墨風味變奏，將龍舌蘭酒與柑橘和橄欖鹽水混合，製成鹹香酸爽的雞尾酒。通常在搖酒器中上桌，並用橄欖裝飾。"
+  },
+  "historical_reference": {
+    "en": "The Mexican Martini is believed to have originated in Austin, Texas in the 1980s or 1990s. Several bars and restaurants in Austin lay claim to its creation. It's a popular cocktail in the Tex-Mex culinary scene.",
+    "zh": "墨西哥馬丁尼據信起源於 1980 年代或 1990 年代的德克薩斯州奧斯汀。奧斯汀的多家酒吧和餐廳都聲稱是它的創始者。這是在德墨美食界很受歡迎的雞尾酒。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass with a salted rim. Alternatively, serve in the shaker over ice.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入帶有鹽口的冰鎮玻璃杯中。或者，將其放在冰上的搖酒器中。"
+  },
+  "garnish": {
+    "en": "Green olives (often skewered)",
+    "zh": "綠橄欖（通常串起來）"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini Glass or Shaker",
+    "zh": "冰鎮馬丁尼杯或搖酒器"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green or yellow liquid with a salted rim and olive garnish",
+    "zh": "混濁的淡綠色或黃色液體，帶有鹽口和橄欖裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base alcoholic flavor and characteristic agave notes.",
+        "zh": "提供基本的酒精風味和標誌性的龍舌蘭風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complements the citrus notes.",
+        "zh": "增加甜度並補充柑橘味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Olive Brine",
+        "zh": "橄欖鹽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a salty and savory element that distinguishes it from a standard margarita.",
+        "zh": "添加鹹味和鹹香元素，使其與標準瑪格麗特區別開來。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange slice",
+        "zh": "橙子片"
+      },
+      "unit": {
+        "en": "slice",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness and citrus aroma.",
+        "zh": "增添一絲甜味和柑橘香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Paris Between the Wars",
+    "zh": "戰間巴黎"
+  },
+  "description": {
+    "en": "**A classic cocktail reminiscent of the roaring twenties in Paris.**\n\nThis cocktail is a testament to the elegant and sophisticated tastes of the time. It blends the crispness of gin with the subtle sweetness of apricot liqueur and a hint of lemon to balance the flavors, creating a drink that is both refreshing and refined.",
+    "zh": "**一款讓人聯想到巴黎咆哮二十年代的經典雞尾酒。**\n\n這款雞尾酒證明了當時優雅而精緻的品味。 它融合了琴酒的清脆、杏桃利口酒的微妙甜味和少許檸檬來平衡風味，創造出一款既清爽又精緻的飲品。"
+  },
+  "historical_reference": {
+    "en": "**Inspired by the era of artistic and cultural blossoming in Paris between World Wars.**\n\n*   Reflects the optimism and creativity of the time.\n*   Captures the spirit of innovation in cocktail making.\n*   An era of groundbreaking literature, art, and music.",
+    "zh": "**靈感來自兩次世界大戰之間巴黎的藝術和文化蓬勃發展的時代。**\n\n*   反映了時代的樂觀和創造力。\n*   捕捉雞尾酒製作中的創新精神。\n*   一個具有開創性的文學、藝術和音樂時代。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮捲"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, pale gold liquid",
+    "zh": "清澈的淡金色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a juniper-forward base.",
+        "zh": "提供以杜松子為主的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Apricot Liqueur",
+        "zh": "杏桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle sweetness and apricot notes.",
+        "zh": "增添微妙的甜味和杏桃香氣。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a balance of tartness.",
+        "zh": "增加了酸味的平衡。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

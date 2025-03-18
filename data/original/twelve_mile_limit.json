@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Twelve Mile Limit",
+    "zh": "十二英里限制"
+  },
+  "description": {
+    "en": "**Prohibition-Era Punch**\n\nA potent and flavorful cocktail that combines:\n*   Rum and Rye for a complex base\n*   Red Wine for body and depth\n*   Lemon and Grenadine for sweet and sour balance",
+    "zh": "**禁酒時代的潘趣酒**\n\n一種強勁而美味的雞尾酒，結合了：\n*   蘭姆酒和黑麥創造出複雜的基底\n*   紅酒增加酒體和深度\n*   檸檬和石榴糖漿達到酸甜平衡"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Created during Prohibition, likely named after the 12-mile limit offshore where the U.S. government couldn't enforce laws.\n\n*   Popularized in the 1930s.\n*   Intended to be a strong, flavorful drink to mask the taste of lower-quality spirits often available during Prohibition.",
+    "zh": "**起源**: 創造於禁酒時期，可能以美國政府無法執法的離岸12英里限制命名。\n\n*   在1930年代普及。\n*   旨在成為一種強勁而美味的飲料，以掩蓋禁酒時期經常提供的劣質烈酒的味道。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge",
+    "zh": "檸檬或萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, deep red/pink hue",
+    "zh": "混濁，深紅/粉紅色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and tropical notes.",
+        "zh": "提供基酒和熱帶風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a spicy backbone and complexity.",
+        "zh": "增加辛辣的主幹和複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds body, color, and a complex fruity note.",
+        "zh": "增加酒體，顏色和複雜的果味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color.",
+        "zh": "增加甜味和紅色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

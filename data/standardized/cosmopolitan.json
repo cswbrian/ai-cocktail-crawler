@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Cosmopolitan",
+    "zh": "柯夢波丹"
+  },
+  "description": {
+    "en": "**A Modern Classic**\n\nThe Cosmopolitan is a tart and refreshing cocktail, known for its vibrant color and sophisticated appeal.\n\nKey features include:\n*   Citron Vodka base\n*   Cranberry juice for color and tartness\n*   Lime juice for brightness\n*   Orange liqueur for sweetness and complexity",
+    "zh": "**現代經典**\n\n柯夢波丹是一款酸甜清爽的雞尾酒，以其鮮豔的色彩和精緻的吸引力而聞名。\n\n主要特點包括：\n*   檸檬伏特加基底\n*   蔓越莓汁，增添色彩和酸味\n*   萊姆汁，增添明亮度\n*   橙味利口酒，增添甜味和複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origins and Popularity**\n\nThe exact origin of the Cosmopolitan is debated, but it gained widespread popularity in the 1990s.\n\nKey points:\n*   Often associated with the TV show *Sex and the City*\n*   Likely evolved from earlier cranberry cocktails\n*   Credited to various bartenders, including Cheryl Cook and Toby Cecchini",
+    "zh": "**起源與普及**\n\n柯夢波丹的確切起源尚有爭議，但在1990年代廣受歡迎。\n\n重點：\n*   通常與電視劇《慾望城市》相關聯\n*   可能源於早期的蔓越莓雞尾酒\n*   歸功於包括 Cheryl Cook 和 Toby Cecchini 在內的眾多調酒師"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中"
+  },
+  "garnish": {
+    "en": "Orange peel twist or flamed orange peel",
+    "zh": "橙皮扭轉或火焰橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Chilled cocktail glass or Martini glass",
+    "zh": "冰鎮雞尾酒杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Bright pink and clear",
+    "zh": "亮粉紅色和清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Citron Vodka",
+        "zh": "檸檬伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base with a citrus twist",
+        "zh": "提供酒精基底並帶有柑橘風味"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur (e.g., Cointreau)",
+        "zh": "橙味利口酒（例如：君度橙酒）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor",
+        "zh": "增加甜味和橙子風味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds color and tartness",
+        "zh": "增加顏色和酸味"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness",
+        "zh": "增加酸度並平衡甜度"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

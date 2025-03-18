@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Whiskey and Coke",
+    "zh": "威士忌可樂"
+  },
+  "description": {
+    "en": "A simple highball cocktail made with whiskey and cola. It's a classic, easy-to-make drink often enjoyed for its refreshing and familiar taste.  The type of whiskey can significantly impact the overall flavor profile. Some variations include the Jack and Coke (using Jack Daniel's Tennessee Whiskey).",
+    "zh": "一種簡單的高杯雞尾酒，由威士忌和可樂製成。它是一種經典、易於製作的飲品，通常因其清爽和熟悉的味道而受到喜愛。威士忌的種類會顯著影響整體風味。一些變體包括 Jack and Coke（使用傑克丹尼田納西威士忌）。"
+  },
+  "historical_reference": {
+    "en": "The exact origin of the Whiskey and Coke is difficult to pinpoint, but it likely emerged in the early 20th century as cola became more widely available. It gained popularity as a simple and accessible mixed drink. Variations like the Cuba Libre (rum and coke) predate it, suggesting a similar trajectory.\n\n*   **Early 20th Century emergence**\n*   **Popularized by its simplicity and accessibility**",
+    "zh": "威士忌可樂的確切起源很難確定，但它可能在 20 世紀初隨著可樂的普及而出現。它作為一種簡單易得的混合飲料而廣受歡迎。古巴自由 (rum and coke) 等變體早於它，表明了相似的發展軌跡。\n\n*   **20 世紀初出現**\n*   **因其簡單性和易得性而廣受歡迎**"
+  },
+  "technique": {
+    "en": "Pour whiskey into a highball glass filled with ice. Top with cola. Add garnish if desired.",
+    "zh": "將威士忌倒入裝滿冰塊的高杯杯中。倒入可樂。如果需要，加入裝飾。"
+  },
+  "garnish": {
+    "en": "Optional: Lime wedge or cherry.",
+    "zh": "可選：檸檬角或櫻桃。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯杯"
+  },
+  "appearance": {
+    "en": "Dark amber to brown, depending on the cola used, with visible bubbles.",
+    "zh": "深琥珀色至棕色，取決於使用的可樂品牌，帶有可見的氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Whiskey",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic whiskey flavor.",
+        "zh": "提供酒精基底和威士忌的特性風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and characteristic cola flavor.",
+        "zh": "增添甜味、氣泡和可樂的特性風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

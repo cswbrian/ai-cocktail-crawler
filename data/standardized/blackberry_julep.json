@@ -1,0 +1,118 @@
+{
+  "name": {
+    "en": "Blackberry Julep",
+    "zh": "黑莓朱利普"
+  },
+  "description": {
+    "en": "**A fruity twist on the classic Mint Julep.**\n\nThis refreshing cocktail combines the smooth taste of bourbon with the sweet and tart flavor of fresh blackberries. The muddled mint adds an aromatic touch, making it a perfect summer drink.\n\n*   Muddled blackberries for fruity flavor\n*   Fresh mint for aromatics\n*   Bourbon as a sweet and oaky base.",
+    "zh": "**經典薄荷朱利普的果味變奏。**\n\n這款清爽的雞尾酒結合了波本威士忌的順滑口感與新鮮黑莓的酸甜風味。混合的薄荷增添了芳香氣息，使其成為完美的夏季飲品。\n\n*   混合黑莓帶來水果風味\n*   新鮮薄荷增添香氣\n*   波本威士忌作為甜美而帶有橡木味的基底。"
+  },
+  "historical_reference": {
+    "en": "The Julep is a traditional drink with a long history. Adding fruit variations to classic cocktails has become increasingly popular in modern mixology.\n\n*   Originated in the Southern United States.\n*   Variations with different fruits are common.",
+    "zh": "朱利普是一種具有悠久歷史的傳統飲品。在現代調酒中，於經典雞尾酒中添加水果變化越來越受歡迎。\n\n*   起源於美國南部。\n*   使用不同水果的變體很常見。"
+  },
+  "technique": {
+    "en": "Muddle blackberries, mint, and syrup. Add bourbon and crushed ice. Stir until chilled. Garnish.",
+    "zh": "將黑莓、薄荷和糖漿混合搗碎。加入波本威士忌和碎冰。攪拌至冰鎮。裝飾。"
+  },
+  "garnish": {
+    "en": "Blackberries and a mint sprig.",
+    "zh": "黑莓和薄荷枝。"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or Julep cup",
+    "zh": "岩石杯或朱利普杯"
+  },
+  "appearance": {
+    "en": "Deep purple with muddled mint and blackberries.",
+    "zh": "深紫色，帶有混合的薄荷和黑莓。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the oaky and vanilla base.",
+        "zh": "提供橡木和香草的基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Fresh Blackberries",
+        "zh": "新鮮黑莓"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds the primary fruity flavor.",
+        "zh": "增添主要的水果風味。"
+      }
+    },
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds fresh, herbal aromatics.",
+        "zh": "增添新鮮的草本香氣。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bourbon and blackberries.",
+        "zh": "增加甜度，以平衡波本威士忌和黑莓。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

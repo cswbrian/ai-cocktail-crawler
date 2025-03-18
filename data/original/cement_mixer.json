@@ -1,0 +1,109 @@
+{
+  "name": {
+    "en": "Cement Mixer",
+    "zh": "水泥攪拌機"
+  },
+  "description": {
+    "en": "**Cement Mixer Shot**\n\nA novelty shot known for its unusual combination of ingredients and the resulting chemical reaction in the mouth.\n\n*   Typically consumed quickly as a shot.",
+    "zh": "**水泥攪拌機**\n\n一種新奇的烈酒，以其不尋常的成分組合和由此產生的口腔內化學反應而聞名。\n\n*   通常作為一口酒快速飲用。"
+  },
+  "historical_reference": {
+    "en": "The Cement Mixer is a novelty shot. The origin is unknown.\n\n* It's a shot designed to create a memorable (or unpleasant) experience.",
+    "zh": "水泥攪拌機是一種新奇的烈酒。 起源未知。\n\n* 這是一種旨在創造令人難忘（或不愉快）體驗的烈酒。"
+  },
+  "technique": {
+    "en": "Pour the Irish Cream into a shot glass. Gently layer the lime juice on top or have the consumer add themselves right before consumption.",
+    "zh": "將愛爾蘭奶油倒入烈酒杯中。 輕輕地將酸橙汁分層放在上面，或讓消費者在飲用前自己添加。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, off-white liquid",
+    "zh": "混濁的灰白色液體"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "This shot does not contain any base spirits",
+        "zh": "此飲料不含任何基酒"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy texture and base for the reaction with lime juice.",
+        "zh": "提供奶油般的質地以及與檸檬汁反應的基礎。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lime juice",
+        "zh": "萊姆汁"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "一短 dash"
+      },
+      "rationale": {
+        "en": "Provides the acidic element to trigger the reaction.",
+        "zh": "提供酸性元素以觸發反應。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 7,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 1,
+    "bubbles": false
+  }
+}

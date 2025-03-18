@@ -1,0 +1,80 @@
+{
+  "name": {
+    "en": "Dark 'n' Sunny",
+    "zh": "黑日"
+  },
+  "description": {
+    "en": "**A simple yet satisfying highball**\n\nA refreshing mix of dark rum and ginger ale, served over ice. It offers a balance of spice and sweetness.\n\n*   Easy to prepare.\n*   Popular choice for warm weather.\n*   Can be adjusted to taste.",
+    "zh": "**簡單而令人滿意的高杯酒**\n\n黑蘭姆酒和薑汁汽水的清爽混合，加冰塊飲用。它提供了香料和甜味的平衡。\n\n*   易於準備。\n*   溫暖天氣的熱門選擇。\n*   可以根據口味調整。"
+  },
+  "historical_reference": {
+    "en": "The Dark 'n' Sunny is a variation of the Dark 'n' Stormy, replacing ginger beer with ginger ale for a milder flavor. The original Dark 'n' Stormy is trademarked by Gosling's Rum and Barritt's Ginger Beer, so using other ingredients requires a different name.\n\n*   Dark 'n' Sunny uses ginger ale, for a more approachable cocktail.\n*   Dark Rum base provides rich molasses notes.",
+    "zh": "Dark 'n' Sunny是Dark 'n' Stormy的變體，用薑汁汽水代替薑汁啤酒，以獲得更溫和的風味。 最初的Dark 'n' Stormy已由Gosling's Rum和Barritt's Ginger Beer註冊商標，因此使用其他成分需要使用不同的名稱。\n\n*   Dark 'n' Sunny使用薑汁汽水，以獲得更平易近人的雞尾酒。\n*   黑蘭姆酒基底提供豐富的糖蜜味。"
+  },
+  "technique": {
+    "en": "Build over ice, gently stir.",
+    "zh": "加冰塊調和，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge or candied ginger.",
+    "zh": "青檸角或蜜餞薑。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass.",
+    "zh": "高杯玻璃杯。"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with a frothy top, bubbles visible.",
+    "zh": "深琥珀色液體，頂部有泡沫，可見氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor, a rich molasses profile.",
+        "zh": "提供基底風味，濃郁的糖蜜味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

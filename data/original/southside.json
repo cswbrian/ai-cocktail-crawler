@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Southside",
+    "zh": "南side"
+  },
+  "description": {
+    "en": "**Refreshing Gin Cocktail**\n\nA classic cocktail known for its refreshing taste and balanced flavors, featuring:\n\n*   Gin as the base spirit\n*   Mint for a cool, herbaceous note\n*   Lime juice for tartness\n*   Sugar for sweetness",
+    "zh": "**清爽的琴酒雞尾酒**\n\n經典雞尾酒，以其清爽的口感和平衡的風味而聞名，特色：\n\n*   琴酒作為基酒\n*   薄荷帶來清涼的草本香\n*   萊姆汁帶來酸味\n*   糖帶來甜味"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Related to the Gin Daisy and Gin Fix cocktails.\n\n*   Emerged in the early 20th century.\n*   Likely named after the South Side neighborhood in Chicago or the South Side Sportsmen's Club on Long Island.\n*   Often associated with Al Capone's gang, who favored gin due to its easier availability during Prohibition.",
+    "zh": "**起源**：與琴酒黛西和琴酒費士雞尾酒有關。\n\n*   出現在20世紀初。\n*   可能以芝加哥的南區社區或長島的南區運動員俱樂部命名。\n*   經常與艾爾·卡彭的幫派聯繫在一起，他們在禁酒令期間更喜歡琴酒，因為它更容易獲得。"
+  },
+  "technique": {
+    "en": "Muddle mint with simple syrup, add gin and lime juice. Shake with ice and double strain into chilled glass.",
+    "zh": "將薄荷與糖漿混合搗碎，加入琴酒和萊姆汁。加入冰塊搖勻，然後雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Mint sprig",
+    "zh": "薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Pale green and slightly cloudy",
+    "zh": "淡綠色且略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical backbone.",
+        "zh": "提供主要的酒精基底和植物風味骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint Leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing, herbaceous flavor.",
+        "zh": "增添清爽的草本風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balances the sweetness.",
+        "zh": "提供酸度，平衡甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the sourness.",
+        "zh": "增添甜味，平衡酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

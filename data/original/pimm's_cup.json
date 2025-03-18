@@ -1,0 +1,167 @@
+{
+  "name": {
+    "en": "Pimm's Cup",
+    "zh": "龐貝杯"
+  },
+  "description": {
+    "en": "**The quintessential British summer cocktail**\n\nA refreshing and complex mix of Pimm's No. 1, lemonade, and a variety of fruits and vegetables, typically including:\n\n*   Cucumber\n*   Orange\n*   Lemon\n*   Strawberry\n*   Mint",
+    "zh": "**典型的英國夏季雞尾酒**\n\n龐貝一號、檸檬汽水以及各種水果和蔬菜的清爽複雜混合物，通常包括：\n\n*   黃瓜\n*   柳橙\n*   檸檬\n*   草莓\n*   薄荷"
+  },
+  "historical_reference": {
+    "en": "**Created by James Pimm in the 1840s**\n\n*   Originally served as a health tonic\n*   Pimm's No. 1 is gin-based\n*   Became popular in the UK, especially during Wimbledon",
+    "zh": "**由詹姆斯·龐貝於1840年代創造**\n\n*   最初作為保健滋補品供應\n*   龐貝一號以琴酒為基底\n*   在英國變得非常受歡迎，尤其是在溫布頓網球公開賽期間"
+  },
+  "technique": {
+    "en": "Build all ingredients in glass over ice",
+    "zh": "在玻璃杯中疊加所有材料和冰塊"
+  },
+  "garnish": {
+    "en": "Cucumber ribbon, orange slice, lemon slice, strawberry, mint sprig",
+    "zh": "黃瓜絲帶、柳橙片、檸檬片、草莓、薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or jug",
+    "zh": "高杯玻璃杯或水罐"
+  },
+  "appearance": {
+    "en": "Light amber with vibrant fruit and vegetable garnish",
+    "zh": "淡琥珀色，搭配鮮豔的水果和蔬菜裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Pimm's No. 1",
+        "zh": "龐貝一號"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the unique Pimm's flavor base",
+        "zh": "提供獨特的龐貝風味基底"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 150,
+      "name": {
+        "en": "Lemonade",
+        "zh": "檸檬汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and fizz",
+        "zh": "增加甜味和氣泡"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Cucumber",
+        "zh": "青瓜"
+      },
+      "unit": {
+        "en": "slices",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds fresh, vegetal notes",
+        "zh": "添加新鮮的蔬菜味"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange",
+        "zh": "橙"
+      },
+      "unit": {
+        "en": "slice",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds citrus and sweetness",
+        "zh": "增加柑橘味和甜味"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon",
+        "zh": "檸檬"
+      },
+      "unit": {
+        "en": "slice",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes",
+        "zh": "增加酸度和柑橘味"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Strawberry",
+        "zh": "草莓"
+      },
+      "unit": {
+        "en": "slices",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds fruity sweetness",
+        "zh": "增加水果甜味"
+      }
+    },
+    {
+      "amount": 4,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds herbal aroma and flavor",
+        "zh": "增加草本香氣和風味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

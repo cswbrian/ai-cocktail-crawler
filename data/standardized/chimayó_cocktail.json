@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Chimayó Cocktail",
+    "zh": "奇馬約雞尾酒"
+  },
+  "description": {
+    "en": "**A Southwestern Delight**\n\nThe Chimayó cocktail is a regional specialty from New Mexico. It combines tequila with apple cider and crème de cassis for a sweet and tart experience.\n\n*   Named after the town of Chimayó, NM\n*   A delicious blend of tequila, cider, and cassis",
+    "zh": "**西南風味的喜悅**\n\nChimayó雞尾酒是新墨西哥州的地區特色。 它將龍舌蘭酒與蘋果酒和黑醋栗利口酒結合，帶來酸甜的體驗。\n\n*   以新墨西哥州Chimayó鎮命名\n*   龍舌蘭酒、蘋果酒和黑醋栗的美味混合"
+  },
+  "historical_reference": {
+    "en": "**New Mexican Heritage**\n\nThe Chimayó cocktail originates from Chimayó, New Mexico. The cocktail is often associated with Rancho de Chimayó, a restaurant in the town that claims to be the home of the cocktail.\n\n*   Developed in the 1960s\n*   Named after Chimayó, New Mexico\n*   Represents the flavors of the region",
+    "zh": "**新墨西哥州的傳統**\n\nChimayó雞尾酒起源於新墨西哥州的Chimayó。 這種雞尾酒通常與Rancho de Chimayó餐廳有關，該餐廳聲稱是這種雞尾酒的發源地。\n\n*   於1960年代開發\n*   以新墨西哥州Chimayó命名\n*   代表該地區的風味"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice. Top with apple cider.",
+    "zh": "與冰搖勻後倒入裝滿冰塊的玻璃杯中。 加入蘋果酒。"
+  },
+  "garnish": {
+    "en": "Apple slice",
+    "zh": "蘋果片"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or coupe",
+    "zh": "高杯玻璃杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Rosy pink, slightly cloudy",
+    "zh": "玫瑰粉色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and agave flavor.",
+        "zh": "提供基底和龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Creme de Cassis",
+        "zh": "黑醋栗利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dark fruit sweetness.",
+        "zh": "增添黑色水果的甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

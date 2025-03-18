@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Ward 8",
+    "zh": "第八區"
+  },
+  "description": {
+    "en": "**Classic Whiskey Cocktail**\n\nA pre-Prohibition whiskey sour variation from Boston:\n*   Combines rye whiskey, lemon juice, and orange juice.\n*   Grenadine adds sweetness and color.\n*   Served up in a coupe glass.",
+    "zh": "**經典威士忌雞尾酒**\n\n波士頓禁酒令之前的威士忌酸酒變體：\n*   結合黑麥威士忌、檸檬汁和柳橙汁。\n*   石榴糖漿增添甜味和色澤。\n*   在高腳杯中飲用。"
+  },
+  "historical_reference": {
+    "en": "**Boston History**\n\n*   Created in Boston's Ward 8, a political district.\n*   Supposedly invented to celebrate a winning election.\n*   Dates back to the late 1890s or early 1900s.",
+    "zh": "**波士頓歷史**\n\n*   在波士頓第 8 選區（一個政治區）創作。\n*   據說是为了慶祝選舉獲勝而發明。\n*   可以追溯到 1890 年代末或 1900 年代初。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled coupe glass",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的高腳杯中"
+  },
+  "garnish": {
+    "en": "Orange slice and cherry",
+    "zh": "柳橙片和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Rosy pink, slightly cloudy",
+    "zh": "玫瑰粉色，略帶混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and spicy character",
+        "zh": "提供基底和辛辣特性"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color",
+        "zh": "增加甜味和色澤"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balance",
+        "zh": "增加酸度和平衡感"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complexity",
+        "zh": "增加甜味和複雜度"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

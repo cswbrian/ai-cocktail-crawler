@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Alexander",
+    "zh": "亞歷山大"
+  },
+  "description": {
+    "en": "**Classic Creamy Cocktail**\n\nA decadent and smooth cocktail featuring:\n*   Gin base for a botanical kick\n*   Crème de Cacao for chocolate flavor\n*   Cream for a rich, velvety texture\n*   Nutmeg garnish for a touch of spice",
+    "zh": "**經典奶油雞尾酒**\n\n一款頹廢而順滑的雞尾酒，特色：\n*   琴酒基底帶來植物風味\n*   可可甜酒帶來巧克力風味\n*   鮮奶油帶來濃郁、絲滑的質地\n*   肉荳蔻裝飾增添一絲辛辣味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to bartender Troy Alexander at Rector's, a restaurant in New York City around the beginning of the 20th century.\n\n*   Legend says it was created to entice a lady who preferred white cocktails.\n*   Popularized in the early to mid-20th century.",
+    "zh": "**起源**: 歸功於 20 世紀初在紐約市 Rector 餐廳的調酒師 Troy Alexander。\n\n*   傳說它是為了吸引一位喜歡白色雞尾酒的女士而創作的。\n*   在 20 世紀初至中期流行起來。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy white",
+    "zh": "不透明，奶油白色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Crème de Cacao",
+        "zh": "可可酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds chocolate flavor and sweetness.",
+        "zh": "增加巧克力風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Cream",
+        "zh": "新鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a creamy texture and richness.",
+        "zh": "提供奶油般的質地和豐富度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

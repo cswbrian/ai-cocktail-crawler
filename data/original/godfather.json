@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Godfather",
+    "zh": "教父"
+  },
+  "description": {
+    "en": "**A simple yet sophisticated classic.**\n\nThe Godfather is a two-ingredient cocktail that highlights:\n\n*   The smoky, malty notes of Scotch.\n*   The sweet, almond flavor of amaretto.",
+    "zh": "**一款簡單而精緻的經典酒品。**\n\n教父是一款由兩種成分組成的雞尾酒，突顯了：\n\n*   蘇格蘭威士忌的煙熏、麥芽風味。\n*   杏仁甜酒的甜美杏仁味。"
+  },
+  "historical_reference": {
+    "en": "**Origin is debated, but popular culture links it to *The Godfather* film.**\n\n*   Likely emerged in the 1970s.\n*   Amaretto's Italian origin may tie it to the movie's themes.\n*   No definitive historical record exists prior to that era.",
+    "zh": "**起源尚有爭議，但流行文化將其與《*教父*》電影聯繫起來。**\n\n*   可能在1970年代出現。\n*   杏仁甜酒的義大利起源可能將其與電影的主題聯繫起來。\n*   在那之前沒有明確的歷史記錄。"
+  },
+  "technique": {
+    "en": "Build: Pour ingredients into glass over ice. Stir gently.",
+    "zh": "兌和法：將原料倒入裝有冰塊的杯子中。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None (optional: orange twist or maraschino cherry)",
+    "zh": "無 (可選：橙皮扭轉或馬拉斯奇諾櫻桃)"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈，深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 35,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky, complex base.",
+        "zh": "提供煙熏，複雜的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Amaretto",
+        "zh": "杏仁酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sweet almond flavor.",
+        "zh": "增添甜美的杏仁風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Mango Sour",
+    "zh": "芒果酸酒"
+  },
+  "description": {
+    "en": "**Tropical Twist on a Classic Sour**\n\nA vibrant and fruity variation of the classic Whiskey Sour, featuring:\n*   Fresh mango puree for a sweet and tropical flavor\n*   Lemon juice for tartness and balance\n*   Optional egg white for a silky smooth texture",
+    "zh": "**經典酸酒的熱帶風味**\n\n經典威士忌酸酒的充滿活力和水果風味的變體，特色：\n* 新鮮芒果泥帶來香甜的熱帶風味\n* 檸檬汁帶來酸度和平衡\n* 可選的蛋白帶來絲滑的口感"
+  },
+  "historical_reference": {
+    "en": "The *Sour* family of cocktails dates back to the mid-1800s, originally a simple combination of a spirit, citrus juice, and sweetener. Adding different fruit purees is a modern variation:\n\n*   The Whiskey Sour is a well-known classic\n*   Using mango adds a tropical flavor dimension\n*   Recipes vary, but fresh ingredients are key",
+    "zh": "*酸酒*系列雞尾酒可追溯至 1800 年代中期，最初是烈酒、柑橘汁和甜味劑的簡單組合。添加不同的水果泥是現代的變體：\n\n* 威士忌酸酒是眾所周知的經典\n* 使用芒果增加了熱帶風味\n* 食譜各不相同，但新鮮的食材是關鍵"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass. Dry shake egg white first if using.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的玻璃杯中。如果使用，先乾搖蛋白。"
+  },
+  "garnish": {
+    "en": "Mango slice or wedge, optional mint sprig",
+    "zh": "芒果片或角，可選薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or coupe glass",
+    "zh": "古典杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Opaque, vibrant yellow-orange color with a frothy head",
+    "zh": "不透明，充滿活力的黃橙色，帶有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and oaky notes.",
+        "zh": "提供基酒和橡木桶味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Mango Puree",
+        "zh": "新鮮芒果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and mango flavor.",
+        "zh": "增加甜味和芒果味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balance.",
+        "zh": "提供酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adjusts sweetness.",
+        "zh": "調整甜度。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加絲滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

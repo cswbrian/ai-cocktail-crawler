@@ -1,0 +1,160 @@
+{
+  "name": {
+    "en": "Virgin Bloody Mary",
+    "zh": "無酒精血腥瑪麗"
+  },
+  "description": {
+    "en": "**Savory and Spicy Tomato Juice-Based Drink**\n\nA non-alcoholic version of the classic Bloody Mary, featuring:\n*   Tomato juice base providing umami and body\n*   Assortment of spices and sauces for complexity\n*   Lemon or lime juice for brightness and balance",
+    "zh": "**鹹香辛辣的番茄汁飲品**\n\n經典血腥瑪麗的無酒精版本，特色：\n*   番茄汁基底提供鮮味和口感\n*   多種香料和醬汁增加複雜性\n*   檸檬或萊姆汁增添明亮感和平衡感"
+  },
+  "historical_reference": {
+    "en": "**A Temperance-Friendly Twist on a Classic**\n\n*   The Bloody Mary was invented in the 1920s.\n*   Virgin versions became popular alongside the rise of mocktails.\n*   Offers the same complex flavors without the alcohol.",
+    "zh": "**經典的禁酒友好版本**\n\n*   血腥瑪麗發明於1920年代。\n*   隨著無酒精雞尾酒的興起，原始版本開始流行。\n*   提供相同的複雜風味，而不含酒精。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a highball glass filled with ice. Garnish as desired.",
+    "zh": "將所有材料與冰塊搖勻，倒入裝滿冰塊的高球杯中。根據喜好裝飾。"
+  },
+  "garnish": {
+    "en": "Celery stalk, lemon wedge, olives, pickled vegetables, bacon.",
+    "zh": "芹菜莖、檸檬角、橄欖、醃製蔬菜、培根。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Thick, red, and savory, often with visible spices and garnishes.",
+    "zh": "濃稠、紅色、鹹味，通常有明顯的香料和裝飾。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and body of the drink.",
+        "zh": "提供飲料的基本風味和口感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightens the flavor.",
+        "zh": "增加酸度並提亮風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and depth of flavor.",
+        "zh": "增加鮮味和風味深度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds heat and spice.",
+        "zh": "增加辣度和香料味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a savory and herbaceous note.",
+        "zh": "增添鹹味和草本味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a spicy and earthy note.",
+        "zh": "增添辛辣和泥土味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 5,
+    "booziness": 0,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

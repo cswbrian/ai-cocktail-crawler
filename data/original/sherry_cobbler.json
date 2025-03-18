@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Sherry Cobbler",
+    "zh": "雪莉柯布勒"
+  },
+  "description": {
+    "en": "*A refreshing and elegant fortified wine cocktail.*\n\nThis classic drink showcases the unique character of Sherry with:\n\n*   A touch of sweetness from sugar.\n*   Bright citrus notes from orange.\n*   Topped with seasonal fruits",
+    "zh": "*一款清新優雅的加強葡萄酒雞尾酒.*\n\n這款經典飲品展現了雪莉酒的獨特風味：\n\n*   來自糖的些許甜味。\n*   來自柳橙的明亮柑橘氣息。\n*   搭配時令水果"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Popularized in the 19th century\n\n*   Became a sensation in both the United States and England.\n*   Often served in elaborate glasses with a mound of crushed ice.\n*   One of the most popular drinks in the mid-1800s.",
+    "zh": "**起源**: 於19世紀普及\n\n*   在美國和英國都引起了轟動。\n*   通常在精緻的玻璃杯中盛放，並堆滿碎冰。\n*   1800年代中期最受歡迎的飲品之一。"
+  },
+  "technique": {
+    "en": "Muddle sugar and orange, add sherry and ice, shake briefly, garnish.",
+    "zh": "將糖和柳橙搗碎，加入雪莉酒和冰塊，稍微搖晃，裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice and seasonal berries",
+    "zh": "柳橙片和時令莓果"
+  },
+  "serve_in_glass": {
+    "en": "Tall glass or goblet filled with crushed ice",
+    "zh": "裝滿碎冰的高杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Pale golden, crystal clear, with fresh fruit garnish",
+    "zh": "淡金色，晶瑩剔透，以新鮮水果裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Fino Sherry",
+        "zh": "菲諾雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the dry, nutty base of the cocktail.",
+        "zh": "提供雞尾酒的干爽、堅果基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the dry sherry.",
+        "zh": "增加甜度以平衡干雪莉酒。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Slice",
+        "zh": "橘子片"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds citrus notes and aromatic oils.",
+        "zh": "增加柑橘風味和芳香油脂。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

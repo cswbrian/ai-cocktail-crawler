@@ -1,0 +1,157 @@
+{
+  "name": {
+    "en": "Vieux Carré",
+    "zh": "老廣場"
+  },
+  "description": {
+    "en": "**A sophisticated and complex classic cocktail**\n\nThe Vieux Carré is a New Orleans classic, a potent mix of rye whiskey, cognac, sweet vermouth, Benedictine, and bitters. It's stirred and served up or on the rocks. The result is a layered and complex drink that is both strong and flavorful.\n\nKey characteristics:\n*   Spirit-forward and complex\n*   Rich and aromatic\n*   Well-balanced sweetness and bitterness",
+    "zh": "**精緻而複雜的經典雞尾酒**\n\nVieux Carré是一款紐奧良經典雞尾酒，由黑麥威士忌、干邑白蘭地、甜味苦艾酒、班尼迪克丁和苦精組成。 它經過攪拌後直接飲用或加冰飲用。 最終呈現的是一款層次豐富且複雜的飲品，既濃烈又美味。\n\n主要特徵：\n*   以烈酒為主，風味複雜\n*   濃郁而芳香\n*   甜味和苦味均衡"
+  },
+  "historical_reference": {
+    "en": "**Created in New Orleans in the 1930s**\n\n*   Invented by Walter Bergeron at the Hotel Monteleone's Carousel Bar.\n*   Named after the French Quarter (Vieux Carré) of New Orleans.\n*   Reflects the diverse cultural influences of the city.",
+    "zh": "**1930年代於紐奧良創作**\n\n*   由 Walter Bergeron 在 Monteleone 酒店的 Carousel Bar 發明。\n*   以紐奧良的法國區 (Vieux Carré) 命名。\n*   反映了該城市多元的文化影響。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into glass. Garnish with a lemon or orange peel.",
+    "zh": "將所有材料與冰塊一起攪拌，然後過濾到玻璃杯中。 用檸檬或橙皮裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon or orange peel",
+    "zh": "檸檬或橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Deep amber, clear",
+    "zh": "深琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust backbone.",
+        "zh": "提供辛辣和醇厚的骨幹。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruity and complex notes.",
+        "zh": "增添果香和複雜的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "增加甜味和草本味。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds honeyed sweetness and herbal complexity.",
+        "zh": "增加蜂蜜的甜味和草藥的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "少量安格仕苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness and aromatic complexity.",
+        "zh": "增加苦味和芳香複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "少量佩喬氏苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a floral and slightly sweet bitterness.",
+        "zh": "增添花香和略帶甜味的苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

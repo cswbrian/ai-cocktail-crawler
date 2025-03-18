@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Tommy's Margarita",
+    "zh": "湯米瑪格麗特"
+  },
+  "description": {
+    "en": "**A Pure Margarita Experience**\n\nTommy's Margarita showcases the quality of the tequila by:\n\n*   Omitting orange liqueur\n*   Using agave nectar as a sweetener\n*   Featuring fresh lime juice",
+    "zh": "**純粹的瑪格麗特體驗**\n\nTommy's Margarita通過以下方式展現了龍舌蘭的品質：\n\n*   省略橙味利口酒\n*   使用龍舌蘭花蜜作為甜味劑\n*   採用新鮮的青檸汁"
+  },
+  "historical_reference": {
+    "en": "**Created by Julio Bermejo**\n\n*   Invented at Tommy's Mexican Restaurant in San Francisco.\n*   Focuses on highlighting the pure agave flavor of tequila.\n*   Developed as a cleaner, more balanced version of the classic Margarita.",
+    "zh": "**由Julio Bermejo創建**\n\n*   在舊金山的Tommy's Mexican Restaurant發明。\n*   著重於突出龍舌蘭的純粹龍舌蘭風味。\n*   開發為經典瑪格麗塔的更清潔、更平衡的版本。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass (optional: salt rim).",
+    "zh": "將所有材料與冰塊搖勻，然後濾入玻璃杯中（可選：鹽口）。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "青檸角或片"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or Margarita glass",
+    "zh": "古典杯或瑪格麗塔杯"
+  },
+  "appearance": {
+    "en": "Pale, translucent liquid with a slight cloudiness, often served without ice.",
+    "zh": "淡而半透明的液體，略帶混濁，通常不加冰塊。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the agave-forward base and characteristic tequila flavor.",
+        "zh": "提供以龍舌蘭為主的基底和典型的龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds essential sourness and citrus notes.",
+        "zh": "增加必要的酸味和柑橘味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and complements the tequila's agave flavor.",
+        "zh": "提供甜味，並補充龍舌蘭的龍舌蘭風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

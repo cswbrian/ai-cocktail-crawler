@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Rabo-de-galo",
+    "zh": "公雞尾巴"
+  },
+  "description": {
+    "en": "**Simple yet potent Brazilian cocktail**\n\nA traditional Brazilian mixed drink made with cachaça and vermouth. Often served as an aperitif.\n\n*   Simple preparation\n*   Strong and flavorful\n*   Popular in Brazil",
+    "zh": "**簡單而濃烈的巴西雞尾酒**\n\n一種傳統的巴西混合飲料，由卡沙夏和苦艾酒製成。通常作為餐前酒供應。\n\n*   簡單的製備方法\n*   濃烈而美味\n*   在巴西很受歡迎"
+  },
+  "historical_reference": {
+    "en": "**Traditional Brazilian Drink**\n\nRabo-de-galo (rooster's tail) is a classic Brazilian cocktail. Its origins are somewhat unclear, but it is believed to have emerged as a simple and affordable drink popular in bars and botecos throughout Brazil.\n\n* The name \"Rabo-de-galo\" means \"rooster's tail\" in Portuguese.\n* It's one of the simplest cocktails to make.",
+    "zh": "**傳統巴西飲品**\n\nRabo-de-galo（公雞尾巴）是經典的巴西雞尾酒。 它的起源有些不明，但據信它是作為一種簡單且價格實惠的飲料而出現的，在巴西各地的酒吧和小酒館中很受歡迎。\n\n*   名稱“Rabo-de-galo”在葡萄牙語中意為“公雞尾巴”。\n*   這是最容易製作的雞尾酒之一。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後濾入杯中。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, golden-amber liquid",
+    "zh": "清澈的金琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡夏莎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and Brazilian character.",
+        "zh": "提供基酒和巴西特色。"
+      },
+      "tags": [
+        {
+          "en": "Cachaça",
+          "zh": "卡夏莎"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增添甜味和草本的複雜性。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal complexity.",
+        "zh": "增添乾澀和草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

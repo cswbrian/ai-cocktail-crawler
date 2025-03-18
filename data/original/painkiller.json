@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Painkiller",
+    "zh": "止痛藥"
+  },
+  "description": {
+    "en": "**A Tropical Escape in a Glass**\n\nThe Painkiller is a creamy and refreshing tropical cocktail:\n\n*   Dominant flavors of pineapple, coconut, and nutmeg\n*   Served over crushed ice, perfect for hot weather\n*   Trademarked by Pusser's Rum, although variations exist",
+    "zh": "**杯中的熱帶逃逸**\n\n止痛藥是一種奶油般清爽的熱帶雞尾酒：\n\n*   鳳梨、椰子和肉荳蔻的主要風味\n*   在碎冰上供應，非常適合炎熱天氣\n*   由Pusser's Rum商標註冊，儘管存在差異版本"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Soggy Dollar Bar, British Virgin Islands\n\n*   Created in the 1970s at the Soggy Dollar Bar on Jost Van Dyke\n*   Originally made with Pusser's Rum, but now often made with other dark rums\n*   The name refers to the wet US dollars patrons would use to pay after swimming to the bar.",
+    "zh": "**起源**: 英屬維京群島的Soggy Dollar酒吧\n\n*   1970年代在Jost Van Dyke的Soggy Dollar酒吧創建\n*   最初使用Pusser's Rum製作，但現在通常使用其他深色蘭姆酒製作\n*   這個名字指的是顧客游泳到酒吧後用來支付的濕美元。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice, shake lightly, pour into glass with crushed ice. Garnish.",
+    "zh": "將所有成分與冰塊混合在搖酒器中，輕輕搖晃，倒入裝有碎冰的玻璃杯中。裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg and pineapple wedge",
+    "zh": "磨碎的肉荳蔻和鳳梨角"
+  },
+  "serve_in_glass": {
+    "en": "Tall glass or mug filled with crushed ice",
+    "zh": "裝滿碎冰的高玻璃杯或馬克杯"
+  },
+  "appearance": {
+    "en": "Creamy, opaque, golden-brown with a frothy head, garnished with nutmeg and pineapple wedge.",
+    "zh": "奶油色，不透明，金棕色，帶有泡沫，以肉荳蔻和鳳梨角裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary flavor profile with rich molasses and caramel notes.",
+        "zh": "提供雞尾酒的主要風味，帶有濃郁的糖蜜和焦糖味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream of Coconut",
+        "zh": "椰奶霜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creamy texture with intense coconut flavor.",
+        "zh": "增加甜味和奶油般的質地，帶有濃郁的椰子味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and tropical flavor.",
+        "zh": "增加甜味、酸度和熱帶風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

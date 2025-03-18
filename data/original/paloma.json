@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Paloma",
+    "zh": "帕洛瑪"
+  },
+  "description": {
+    "en": "**Refreshing Mexican Cocktail**\n\nA popular and refreshing highball cocktail from Mexico, typically made with:\n*   Tequila for its distinctive agave notes\n*   Grapefruit soda for sweetness and effervescence\n*   Lime juice for a touch of acidity\n*   Salt rim (optional) enhances the flavors",
+    "zh": "**清爽的墨西哥雞尾酒**\n\n一種受歡迎且清爽的墨西哥高杯雞尾酒，通常由以下成分製成：\n*   龍舌蘭酒，帶來獨特的龍舌蘭風味\n*   葡萄柚汽水，增添甜味和氣泡感\n*   萊姆汁，帶來一絲酸味\n*   鹽口（可選）增強風味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Mexico\n\n*   The exact origin is debated, but it's believed to have originated in the state of Jalisco.\n*   The name \"Paloma\" means \"dove\" in Spanish.",
+    "zh": "**起源**: 墨西哥\n\n*   確切的起源尚有爭議，但據信起源於哈利斯科州。\n*   \"Paloma\"在西班牙語中意為\"鴿子\"。"
+  },
+  "technique": {
+    "en": "Build. Add tequila and lime juice to a salt-rimmed highball glass filled with ice. Top with grapefruit soda. Stir gently.",
+    "zh": "直接調合法。將龍舌蘭酒和萊姆汁加入裝滿冰塊並已做鹽口的高杯杯中。倒入葡萄柚汽水。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge or grapefruit wedge, salt rim (optional)",
+    "zh": "萊姆角或葡萄柚角，鹽口（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯杯"
+  },
+  "appearance": {
+    "en": "Pale pink or clear, effervescent",
+    "zh": "淡粉色或透明，起泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Tequila Blanco",
+        "zh": "白色龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's base and characteristic agave flavor.",
+        "zh": "提供雞尾酒的基底和獨特的龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

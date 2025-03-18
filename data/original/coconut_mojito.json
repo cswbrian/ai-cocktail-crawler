@@ -1,0 +1,158 @@
+{
+  "name": {
+    "en": "Coconut Mojito",
+    "zh": "椰子莫希托"
+  },
+  "description": {
+    "en": "**Tropical Twist on a Classic**\n\nA refreshing mojito variation with coconut cream. Features:\n\n*   Coconut cream for a rich, tropical flavor.\n*   Fresh lime juice for balanced tartness.\n*   Mint leaves for aroma and freshness.",
+    "zh": "**經典的熱帶風味**\n\n清爽的莫希托變奏版，加入了椰奶。特色：\n\n*   椰奶帶來濃郁的熱帶風味。\n*   新鮮的萊姆汁帶來均衡的酸味。\n*   薄荷葉帶來香氣和清新感。"
+  },
+  "historical_reference": {
+    "en": "The Mojito originated in Havana, Cuba. This coconut version is a modern variation.",
+    "zh": "莫希托起源於古巴哈瓦那。 這個椰子版本是現代的變體。"
+  },
+  "technique": {
+    "en": "Muddle lime wedges, mint, and sugar. Add rum and coconut cream. Fill with ice and top with sparkling water. Garnish.",
+    "zh": "將萊姆角、薄荷和糖混合搗碎。 加入蘭姆酒和椰奶。 填滿冰塊，然後加入氣泡水。 裝飾。"
+  },
+  "garnish": {
+    "en": "Mint sprig and lime wedge",
+    "zh": "薄荷枝和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy white with mint leaves",
+    "zh": "混濁的白色，帶有薄荷葉"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and typical Mojito character.",
+        "zh": "提供酒精基底和典型的莫希托特色。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a creamy texture and coconut flavor.",
+        "zh": "增加奶油般的質地和椰子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Lime wedges",
+        "zh": "萊姆角"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 8,
+      "name": {
+        "en": "Mint leaves",
+        "zh": "薄荷葉"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds aromatic and refreshing herbal notes.",
+        "zh": "增加芳香和清爽的草本風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "teaspoons of Sugar",
+        "zh": "茶匙的糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜度以平衡酸度。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the mixture.",
+        "zh": "增加氣泡並稀釋混合物。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

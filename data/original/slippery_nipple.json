@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Slippery Nipple",
+    "zh": "滑溜奶頭"
+  },
+  "description": {
+    "en": "**Sweet and Layered Shot**\n\nA novelty shot known for its distinctive layering and sweet flavor profile:\n\n*   Combination of coffee liqueur and Irish cream.",
+    "zh": "**香甜分層Shot**\n\n以其獨特分層和香甜風味而聞名的趣味Shot：\n\n*   咖啡利口酒和愛爾蘭奶油的結合。"
+  },
+  "historical_reference": {
+    "en": "Origins of the Slippery Nipple are not precisely documented, but the drink became popularized in the 1980s alongside other novelty shots. Likely created for its suggestive name and sweet taste.",
+    "zh": "Slippery Nipple 的起源沒有精確的記載，但這種飲料在 1980 年代與其他新奇的 shots 一起普及。 可能是因為其暗示性的名稱和甜味而創作的。"
+  },
+  "technique": {
+    "en": "Carefully layer Irish cream on top of coffee liqueur by pouring slowly over the back of a spoon.",
+    "zh": "小心地將愛爾蘭奶油分層置於咖啡利口酒之上，方法是慢慢地倒在湯匙的背面。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered shot with a milky white base and a reddish-brown top layer",
+    "zh": "分層shot，底層為乳白色，頂層為紅棕色"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich coffee flavor and the bottom layer's color.",
+        "zh": "提供濃郁的咖啡風味和底層的顏色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a creamy texture and milky top layer.",
+        "zh": "增加奶油質地和乳白色頂層。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 0,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

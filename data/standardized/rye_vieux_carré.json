@@ -1,0 +1,175 @@
+{
+  "name": {
+    "en": "Rye Vieux Carré",
+    "zh": "黑麥老廣場"
+  },
+  "description": {
+    "en": "**A complex and spirit-forward classic.**\n\nThe Vieux Carré, meaning \"Old Square\" in French, is a New Orleans classic known for its rich and layered flavors.\n\nKey characteristics include:\n*   A blend of rye whiskey, cognac, and sweet vermouth\n*   Bénédictine for herbal and honeyed notes\n*   Peychaud's and Angostura bitters for depth and complexity",
+    "zh": "**一款複雜且以烈酒為主的經典調酒。**\n\nVieux Carré 在法語中意為“老廣場”，是一種以其豐富和層次分明的風味而聞名的紐奧良經典調酒。\n\n主要特點包括：\n* 黑麥威士忌、干邑和甜苦艾酒的混合\n* Bénédictine 添加草本和蜂蜜味\n* Peychaud's 和 Angostura 苦精增加深度和複雜性"
+  },
+  "historical_reference": {
+    "en": "**Created in New Orleans in the 1930s at the Hotel Monteleone's Carousel Bar.**\n\nThe Vieux Carré cocktail is named after the French Quarter (the \"old square\" or Vieux Carré) of New Orleans.\n\nIt combines elements of several classic cocktails, showcasing the city's rich cocktail culture.",
+    "zh": "**於 1930 年代在紐奧良蒙特萊昂酒店的旋轉木馬酒吧發明。**\n\nVieux Carré 雞尾酒以紐奧良的法國區（“老廣場”或 Vieux Carré）命名。\n\n它結合了幾種經典雞尾酒的元素，展示了這座城市豐富的雞尾酒文化。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into glass",
+    "zh": "加冰攪拌後倒入酒杯"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned Glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈的深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whisky",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust foundation.",
+        "zh": "提供辛辣而強勁的基底。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        },
+        {
+          "en": "grain",
+          "zh": "穀物"
+        },
+        {
+          "en": "rye",
+          "zh": "黑麥"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fruity and complex notes.",
+        "zh": "增加果味和複雜的味道。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本複雜性。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Angostura bitters",
+        "zh": "安格仕拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds bitterness and aromatic complexity.",
+        "zh": "增加苦味和芳香複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "dashes Peychaud's Bitters",
+        "zh": "佩喬氏苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds floral and spicy notes.",
+        "zh": "添加花香和辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

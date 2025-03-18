@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Royal Bermuda Yacht Club",
+    "zh": "皇家百慕達遊艇俱樂部"
+  },
+  "description": {
+    "en": "**A Refreshing Classic**\n\nThe Royal Bermuda Yacht Club cocktail is a delightful mix of:\n*   Gin for a solid foundation\n*   Lime and Orange Juice for a zesty twist\n*   Falernum for a hint of spice and sweetness\n*   Egg White for a silky texture",
+    "zh": "**清爽的經典之作**\n\n皇家百慕達遊艇俱樂部雞尾酒是一種令人愉悅的混合：\n*   琴酒作為堅實的基礎\n*   檸檬和柳橙汁帶來清爽的風味\n*   Falernum帶來一絲香料和甜味\n*   蛋白帶來柔滑的質地"
+  },
+  "historical_reference": {
+    "en": "**Origin**:\n\n*   Created at the Royal Bermuda Yacht Club.\n*   Likely dates back to the mid-20th century.\n*   A variation on the classic gin sour with the addition of falernum.",
+    "zh": "**起源**：\n\n*   在皇家百慕達遊艇俱樂部創作。\n*   可能可以追溯到20世紀中葉。\n*   經典琴酒酸酒的變體，添加了法勒南姆。"
+  },
+  "technique": {
+    "en": "Shake all ingredients vigorously with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起用力搖晃。雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "檸檬角或檸檬片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pinkish hue, frothy head",
+    "zh": "粉紅色色調，泡沫狀酒頭"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base and provides botanical notes.",
+        "zh": "構成基底，並提供植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Falernum",
+        "zh": "法勒南香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds spice, sweetness, and complexity.",
+        "zh": "增加香料、甜味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "增加酸味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加柔滑的質地和泡沫狀酒頭。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

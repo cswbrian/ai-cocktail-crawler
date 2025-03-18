@@ -1,0 +1,94 @@
+{
+  "name": {
+    "en": "Bacardi White Rum",
+    "zh": "百加得白蘭姆酒"
+  },
+  "description": {
+    "en": "**Classic White Rum**\n\nA versatile rum perfect for:\n*   Mixing in cocktails\n*   Providing a clean, crisp base\n*   Offering subtle sweetness and smoothness",
+    "zh": "**經典白蘭姆酒**\n\n一款用途廣泛的蘭姆酒，非常適合：\n*   混合在雞尾酒中\n*   提供乾淨、清爽的基底\n*   提供微妙的甜味和順滑感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Santiago de Cuba, Cuba, 1862\n\n*   Founded by Don Facundo Bacardí Massó\n*   Pioneered modern rum-making techniques\n*   Known for its bat logo, a symbol of good luck in Cuba",
+    "zh": "**起源**: 古巴聖地牙哥，1862年\n\n*   由唐·法昆多·百加得·馬索創立\n*   開創了現代蘭姆酒釀造技術\n*   以其蝙蝠標誌而聞名，在古巴是幸運的象徵"
+  },
+  "technique": {
+    "en": "Shaken or stirred, depending on the cocktail recipe",
+    "zh": "搖盪或攪拌，取決於雞尾酒配方"
+  },
+  "garnish": {
+    "en": "Lime wedge or other fruit, depending on the cocktail",
+    "zh": "青檸角或其他水果，取決於雞尾酒"
+  },
+  "serve_in_glass": {
+    "en": "Various cocktail glasses, depending on the drink",
+    "zh": "各種雞尾酒杯，取決於飲品"
+  },
+  "appearance": {
+    "en": "Clear and colorless to pale gold, depending on the variety",
+    "zh": "清澈無色至淡金色，取決於品種"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and characteristic rum flavor.",
+        "zh": "提供基酒和獨特的蘭姆酒風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

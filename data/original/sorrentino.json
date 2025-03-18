@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Sorrentino",
+    "zh": "索倫蒂諾"
+  },
+  "description": {
+    "en": "**Refreshing and Aromatic Aperitivo**\n\nA delightful blend of gin, limoncello, and prosecco:\n\n*   Gin provides the spirit base.\n*   Limoncello adds citrus sweetness and aroma.\n*   Prosecco lends effervescence and a crisp finish.",
+    "zh": "**清新芳香的餐前酒**\n\n琴酒、檸檬甜酒和普羅塞克的美妙融合：\n\n*   琴酒提供烈酒的基底。\n*   檸檬甜酒增添柑橘的甜味和香氣。\n*   普羅塞克則帶來氣泡和清爽的尾韻。"
+  },
+  "historical_reference": {
+    "en": "While not a strictly 'classic' cocktail with a long, documented history, the Sorrentino is a modern creation inspired by Italian flavors, especially those of the Sorrento region, known for its lemons.\n\n*   Likely emerged in the early 21st century.\n*   Emphasizes the bright and refreshing qualities of Italian ingredients.",
+    "zh": "雖然不是具有悠久歷史的嚴格意義上的“經典”雞尾酒，但索倫蒂諾是一種現代創作，靈感來自意大利風味，尤其是以檸檬聞名的索倫托地區。\n\n*   可能出現在21世紀初。\n*   強調義大利食材明亮和清爽的特質。"
+  },
+  "technique": {
+    "en": "Build over ice, top with prosecco, garnish.",
+    "zh": "在冰上調製，倒入普羅塞克，裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Flute glass or Wine glass",
+    "zh": "長笛杯或葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Clear, light yellow",
+    "zh": "清澈，淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "提供基酒和植物風味的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Limoncello",
+        "zh": "檸檬甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides lemon flavor and sweetness.",
+        "zh": "提供檸檬風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a dry finish.",
+        "zh": "增加氣泡和乾燥的尾韻。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

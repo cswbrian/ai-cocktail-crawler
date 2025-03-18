@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Maple Old Fashioned",
+    "zh": "楓糖老式"
+  },
+  "description": {
+    "en": "**A Twist on a Classic**\n\nThe Maple Old Fashioned is a variation of the classic Old Fashioned cocktail, substituting simple syrup with maple syrup for a richer, more complex sweetness.\n\n*   Uses maple syrup instead of sugar.\n*   Features bourbon whiskey.\n*   Garnished with an orange peel.",
+    "zh": "**經典的變奏**\n\n楓糖老式是一款經典老式雞尾酒的變體，用楓糖漿代替簡糖，以獲得更豐富、更複雜的甜味。\n\n*   使用楓糖漿代替糖。\n*   以波本威士忌為特色。\n*   用橙皮裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Modern Variation**\n\nThe Maple Old Fashioned is a modern adaptation of the classic Old Fashioned, likely emerging with the increased popularity of craft cocktails and the desire for unique flavor profiles.\n\n*   Old Fashioned recipes date back to the 1800s\n*   The use of maple syrup adds regional flair (e.g., Vermont)",
+    "zh": "**現代變體**\n\n楓糖老式是經典老式的現代改編，隨著精釀雞尾酒的日益普及以及對獨特風味的需求而出現。\n\n*   老式食譜可追溯至 1800 年代\n*   使用楓糖漿增添了地域特色（例如，佛蒙特州）"
+  },
+  "technique": {
+    "en": "Combine ingredients in glass, add large ice cube, stir until chilled and slightly diluted, garnish.",
+    "zh": "將所有材料放入杯中，加入大冰塊，攪拌至冰鎮和略微稀釋，裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel, expressed and placed in glass",
+    "zh": "橙皮，擠壓後放入杯中"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Deep amber, clear, with a slight sheen from the maple syrup",
+    "zh": "深琥珀色，清澈，帶有楓糖漿的光澤"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the oaky, vanilla-forward base of the cocktail. Its inherent sweetness complements the maple syrup.",
+        "zh": "提供雞尾酒橡木和香草的主體。其固有的甜味與楓糖漿相輔相成。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Maple Syrup",
+        "zh": "楓糖漿"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinctive maple flavor.",
+        "zh": "增加甜味和獨特的楓糖味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and balances the sweetness.",
+        "zh": "增加複雜性並平衡甜度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Helps to dilute and integrate the ingredients.",
+        "zh": "有助於稀釋和融合成分。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Negroni Sbagliato",
+    "zh": "錯誤尼格羅尼"
+  },
+  "description": {
+    "en": "*A delightful twist on the classic Negroni*, the Negroni Sbagliato swaps gin for sparkling wine, typically Prosecco, resulting in a lighter, more approachable cocktail. \"Sbagliato\" means \"mistaken\" or \"wrong\" in Italian, referring to the supposed accidental substitution that led to its creation. It retains the Negroni's characteristic bittersweet profile but with a refreshing effervescence.",
+    "zh": "*經典尼格羅尼的迷人變奏*，尼格羅尼Sbagliato 以氣泡酒（通常是普羅賽克）代替琴酒，從而製成更清淡、更平易近人的雞尾酒。 \"Sbagliato\" 在義大利語中意為「錯誤」或「弄錯」，指的是據說導致其創作的意外替代。 它保留了尼格羅尼典型的苦甜味，但帶有令人耳目一新的氣泡。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Bar Basso in Milan, Italy, 1972.\n\nThe Negroni Sbagliato was supposedly created when a bartender accidentally grabbed a bottle of Prosecco instead of gin while making a classic Negroni. The result was a happy accident, leading to a popular variation of the classic cocktail.",
+    "zh": "**起源**: 1972 年義大利米蘭的 Bar Basso。\n\n據說，在製作經典尼格羅尼時，一位調酒師不小心拿了一瓶普羅賽克而不是琴酒，從而創造了尼格羅尼 Sbagliato。 結果是一個快樂的意外，產生了經典雞尾酒的流行變體。"
+  },
+  "technique": {
+    "en": "Build in glass over ice and gently stir",
+    "zh": "在加冰的杯中調製，輕輕攪拌"
+  },
+  "garnish": {
+    "en": "Orange slice or twist",
+    "zh": "柳橙片或扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or wine glass",
+    "zh": "古典杯或葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Vibrant red-orange with effervescence",
+    "zh": "鮮豔的紅橙色，帶有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter and characteristic flavor of a Negroni.",
+        "zh": "提供尼格羅尼的苦味和特色風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes, balancing the bitterness of Campari.",
+        "zh": "增加甜味和草本味，平衡金巴利的苦味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

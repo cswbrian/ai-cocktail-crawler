@@ -1,0 +1,96 @@
+{
+  "name": {
+    "en": "Rebujito",
+    "zh": "瑞布西托"
+  },
+  "description": {
+    "en": "**Refreshing Andalusian Cocktail**\n\nA simple yet delightful mix of fortified wine and soda, known for its refreshing qualities:\n*   Commonly enjoyed during festivals in Andalusia\n*   Easy to prepare and highly quaffable\n*   Perfect for hot weather",
+    "zh": "**清爽的安達盧西亞雞尾酒**\n\n簡單卻令人愉悅的加強葡萄酒和蘇打水混合物，以其清爽的特質而聞名：\n*   在安達盧西亞的節日期間很常見\n*   易於準備且非常適合暢飲\n*   非常適合炎熱的天氣"
+  },
+  "historical_reference": {
+    "en": "**Andalusian Origin**\n\nThe Rebujito is a traditional drink from Andalusia, Spain:\n\n*   Specifically associated with the *Feria de Abril* (April Fair) in Seville and other local festivals.\n*   Evolved as a refreshing and lighter alternative to drinking fortified wine straight.\n*   Its popularity has spread beyond Andalusia in recent years.",
+    "zh": "**安達盧西亞起源**\n\nRebujito是西班牙安達盧西亞的傳統飲品：\n\n*   特別與塞維利亞的*四月節*（Feria de Abril）和其他當地節日相關。\n*   演變為一種比直接飲用加強葡萄酒更清爽和清淡的替代品。\n*   近年來，它在安達盧西亞以外的地區也越來越受歡迎。"
+  },
+  "technique": {
+    "en": "Fill glass with ice, add fortified wine, top with soda, stir gently.",
+    "zh": "在杯中裝滿冰塊，加入加強葡萄酒，倒入蘇打水，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Optional: Mint sprig or cucumber ribbon",
+    "zh": "可選：薄荷枝或小黃瓜絲帶"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or Copa glass",
+    "zh": "高杯或寬口杯"
+  },
+  "appearance": {
+    "en": "Pale straw color, effervescent.",
+    "zh": "淡稻草色，有氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Fortified Wine",
+        "zh": "加強葡萄酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base of the drink, contributing dryness and character.",
+        "zh": "提供飲品的基底，賦予乾度和特性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Soda",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds lightness and effervescence, diluting the wine.",
+        "zh": "增加輕盈感和氣泡，稀釋葡萄酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

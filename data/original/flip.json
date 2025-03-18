@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Flip",
+    "zh": "菲力浦"
+  },
+  "description": {
+    "en": "**Warm and Comforting Classic**\n\nThe Flip is a classic cocktail known for its warming and comforting nature, featuring:\n*   Richness from egg and cream\n*   Spice, often nutmeg, for aroma and warmth\n*   Fortified wine or beer can be used",
+    "zh": "**溫暖舒適的經典飲品**\n\nFlip 是一種以其溫暖和舒適特性而聞名的經典雞尾酒，其特色包括：\n*   雞蛋和鮮奶油帶來的濃郁口感\n*   香料（通常是肉荳蔻）帶來的香氣和溫暖感\n*   可以使用加強葡萄酒或啤酒"
+  },
+  "historical_reference": {
+    "en": "**Historical Roots**\n\n*   A Flip traditionally included beer, rum, and sugar, heated with a hot poker. (1690s)\n*   Evolved over time to include egg and cream.\n*   Popular in the 18th and 19th centuries as a cold-weather drink.\n*   The *Savoy Cocktail Book* includes several Flip variations.",
+    "zh": "**歷史淵源**\n\n*   傳統的 Flip 包括啤酒、蘭姆酒和糖，用熱鐵棒加熱。（1690年代）\n*   隨著時間的推移，演變成包含雞蛋和鮮奶油。\n*   在 18 和 19 世紀，作為一種寒冷天氣飲品而廣受歡迎。\n*   《薩伏伊雞尾酒書》收錄了多種 Flip 變體。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice, then strain into a glass. Alternatively, can be served warm.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到玻璃杯中。 或者，可以加熱飲用。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg or cinnamon",
+    "zh": "磨碎的肉荳蔻或肉桂"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heatproof glass",
+    "zh": "馬克杯或耐熱玻璃杯"
+  },
+  "appearance": {
+    "en": "Creamy, frothy, often with a dusting of spice on top",
+    "zh": "奶油狀，起泡，通常在頂部撒上香料粉"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    },
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and rich flavor.",
+        "zh": "提供酒精基底和濃郁風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and a velvety texture.",
+        "zh": "增加奶油味和天鵝絨般的質地。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and body.",
+        "zh": "增加濃郁度和酒體。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the drink.",
+        "zh": "增加甜度並平衡飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

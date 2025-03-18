@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Daiquiri",
+    "zh": "黛綺莉"
+  },
+  "description": {
+    "en": "**Classic Refreshing Cocktail**\n\nA simple yet elegant cocktail that highlights the quality of its ingredients:\n*   White rum provides the base.\n*   Lime juice offers a tart and citrusy element.\n*   Sugar balances the acidity and adds sweetness.",
+    "zh": "**經典清爽雞尾酒**\n\n簡單而優雅的雞尾酒，突顯了其成分的品質：\n*   白蘭姆酒提供基底。\n*   萊姆汁提供酸味和柑橘味。\n*   糖平衡酸度並增加甜度。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Cuba\n\n*   Believed to have originated in Cuba around the turn of the 20th century.\n*   Named after the Daiquiri mines near Santiago de Cuba.\n*   Popularized by American mining engineers.",
+    "zh": "**起源**: 古巴\n\n*   據信起源於20世紀初的古巴。\n*   以古巴聖地牙哥附近的Daiquiri礦山命名。\n*   受到美國礦業工程師的歡迎。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wheel or wedge",
+    "zh": "檸檬片或角"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或 coupe 杯"
+  },
+  "appearance": {
+    "en": "Clear and bright, typically colorless",
+    "zh": "清澈明亮，通常無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the foundational flavor and alcoholic strength.",
+        "zh": "提供基礎風味和酒精強度。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus flavor.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the acidity and adds sweetness.",
+        "zh": "平衡酸度並增加甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

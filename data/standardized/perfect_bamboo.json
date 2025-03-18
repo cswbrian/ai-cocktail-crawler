@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Perfect Bamboo",
+    "zh": "完美竹子"
+  },
+  "description": {
+    "en": "A light and refreshing aperitif, the Perfect Bamboo is a variation on the classic Bamboo cocktail, using both dry sherry and dry vermouth. This results in a drink that is both dry and slightly nutty, with complex herbal notes.",
+    "zh": "完美竹子酒是一款清淡提神的開胃酒，是經典竹子雞尾酒的變奏版，同時使用菲諾雪莉酒和不甜香艾酒。 這款飲品口感乾爽、帶有淡淡的堅果味，以及複雜的草本香氣。"
+  },
+  "historical_reference": {
+    "en": "The Bamboo cocktail is a classic aperitif, thought to originate in the late 19th century. It is named after the Bamboo Bar in the Grand Hotel, Yokohama, Japan. This Perfect version uses both dry sherry and dry vermouth.",
+    "zh": "竹子雞尾酒是一款經典的開胃酒，據說起源於 19 世紀末。 它以日本橫濱 Grand Hotel 的 Bamboo Bar 命名。 這個完美版本同時使用菲諾雪莉酒和不甜香艾酒。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後倒入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale straw yellow, clear",
+    "zh": "淡稻草黃色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and herbaceous notes.",
+        "zh": "提供基底和草本風味。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Fino Sherry",
+        "zh": "菲諾雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a dry, nutty character.",
+        "zh": "增添乾爽、堅果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a citrusy aromatic complexity.",
+        "zh": "增加柑橘類的芳香複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": {
+    "en": "Appletini",
+    "zh": "蘋果馬丁尼"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA fruity and tart cocktail that combines:\n*   Vodka for a clean base\n*   Apple liqueur for the primary apple flavor\n*   Lemon juice for tartness and balance",
+    "zh": "**現代經典雞尾酒**\n\n這是一款水果味濃郁、口感酸澀的雞尾酒，結合了：\n*   伏特加，提供純淨的基底\n*   蘋果利口酒，帶來主要的蘋果風味\n*   檸檬汁，增加酸度和平衡感"
+  },
+  "historical_reference": {
+    "en": "**Appletini History**\n\n*   Created in 1996 at Lola's in West Hollywood by Adam Carolla and bartender Joe Koster\n*   A modern twist on the classic Martini, replacing gin with vodka and adding apple flavor.",
+    "zh": "**蘋果馬丁尼的歷史**\n\n*   1996年由Adam Carolla和調酒師Joe Koster在西好萊塢的Lola's酒吧創造\n*   經典馬丁尼的現代變奏，將琴酒替換為伏特加，並加入蘋果風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled martini glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的馬丁尼杯中。"
+  },
+  "garnish": {
+    "en": "Apple slice or cherry",
+    "zh": "蘋果片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Bright green, clear liquid",
+    "zh": "亮綠色，清澈的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "提供中性的酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apple Liqueur",
+        "zh": "蘋果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary apple flavor.",
+        "zh": "提供主要的蘋果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

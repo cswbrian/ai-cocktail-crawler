@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Revolving Door",
+    "zh": "旋轉門"
+  },
+  "description": {
+    "en": "A refreshing and complex cocktail with a balance of citrus, spice, and herbal notes. The egg white provides a silky texture and the absinthe adds a subtle anise aroma.\n\n*   Citrus-forward\n*   Herbaceous\n*   Smooth mouthfeel",
+    "zh": "一款清爽而複雜的雞尾酒，融合了柑橘、香料和草本的味道。 蛋白提供柔滑的質地，苦艾酒則增添了淡淡的茴香香氣。\n\n*   柑橘味\n*   草本味\n*   口感柔順"
+  },
+  "historical_reference": {
+    "en": "While the exact origin is unclear, the Revolving Door is a modern creation influenced by classic gin sours.\n\n*   Emerged in the early 2000s.\n*   Variation on the gin sour family of cocktails.\n*   Showcases the versatility of gin.",
+    "zh": "雖然確切的起源尚不清楚，但旋轉門是受經典琴酒酸酒影響的現代作品。\n\n*   出現在2000年代初。\n*   琴酒酸雞尾酒系列的變體。\n*   展示了琴酒的多功能性。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Strain into a coupe glass.",
+    "zh": "將所有材料乾搖，然後加冰搖晃。 濾入高腳杯。"
+  },
+  "garnish": {
+    "en": "None.",
+    "zh": "無。"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy top.",
+    "zh": "混濁的淡黃色，頂部有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical complexity.",
+        "zh": "提供基酒和植物風味的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and spicy notes.",
+        "zh": "增加草本和辛辣的味道。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds anise flavor.",
+        "zh": "增加茴香味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加柔滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

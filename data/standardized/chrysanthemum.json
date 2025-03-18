@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Chrysanthemum",
+    "zh": "菊花"
+  },
+  "description": {
+    "en": "A classic cocktail showcasing the subtle flavors of dry vermouth and Benedictine. The absinthe adds a delicate anise aroma, creating a sophisticated and aromatic drink.\n\n*   Simple and elegant\n*   Aromatic and herbaceous\n*   Good aperitif",
+    "zh": "一款經典雞尾酒，展現了不甜香艾酒和法國廊酒的微妙風味。 苦艾酒增添了精緻的茴芹香氣，營造出一種精緻而芳香的飲品。\n\n*   簡單而優雅\n*   芳香和草本味\n*   良好的開胃酒"
+  },
+  "historical_reference": {
+    "en": "The Chrysanthemum cocktail first appeared in the *Savoy Cocktail Book* in 1930. It's a simple variation on the Martini, replacing gin with dry vermouth and adding a touch of Benedictine.\n\n*   Created in the early 20th century\n*   Popularized by Harry Craddock\n*   Named after the flower",
+    "zh": "菊花雞尾酒於 1930 年首次出現在《薩伏伊雞尾酒書》中。 它是馬丁尼的簡單變體，用不甜香艾酒代替琴酒，並加入少許法國廊酒。\n\n*   創建於 20 世紀初\n*   由哈利·克拉多克推廣\n*   以花命名"
+  },
+  "technique": {
+    "en": "Rinse the glass with absinthe, then stir the dry vermouth and Benedictine with ice and strain into the prepared glass.",
+    "zh": "用苦艾酒潤洗玻璃杯，然後將不甜香艾酒和法國廊酒與冰塊攪拌，然後濾入準備好的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮 twist"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear, and bright.",
+    "zh": "淡黃色，清澈明亮。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the body and herbal notes.",
+        "zh": "提供酒體和草本風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本的複雜性。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "To rinse the glass with absinthe",
+        "zh": "用苦艾酒洗滌玻璃杯"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

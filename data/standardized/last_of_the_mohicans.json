@@ -1,0 +1,180 @@
+{
+  "name": {
+    "en": "Last of the Mohicans",
+    "zh": "最後的莫希干人"
+  },
+  "description": {
+    "en": "**Bold and Complex Cocktail**\n\nA potent mix of whiskey, rum, and bitters, known for its:\n*   Strong, spicy flavor profile\n*   Aromatic bitters blend\n*   Foamy egg white texture",
+    "zh": "**大膽而複雜的雞尾酒**\n\n威士忌、蘭姆酒和苦精的強效混合物，以其聞名：\n*   強烈、辛辣的風味\n*   芳香的苦精混合\n*   泡沫狀的蛋白口感"
+  },
+  "historical_reference": {
+    "en": "**A Modern Creation**\n\n*   Created in the early 2000s at the Bourgeois Pig in Hollywood, CA\n*   Named after the 1992 film *The Last of the Mohicans*\n*   Inspired by classic whiskey cocktails with a modern twist",
+    "zh": "**現代創作**\n\n*   2000 年代初期在加州好萊塢的 Bourgeois Pig 創建\n*   以 1992 年的電影《*最後的莫希干人*》命名\n*   靈感來自帶有現代風味的經典威士忌雞尾酒"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into a chilled coupe glass.",
+    "zh": "先將所有材料乾搖，然後再加冰搖晃。 雙重過濾到冰鎮的高腳杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe Glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Cloudy, deep amber-red with a foamy white head",
+    "zh": "混濁，深琥珀紅色，帶有泡沫狀白色頭"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy and robust base for the cocktail.",
+        "zh": "為雞尾酒提供辛辣而濃郁的基底。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth and richness to the overall flavor profile.",
+        "zh": "增加整體風味的深度和濃郁度。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cherry Liqueur",
+        "zh": "櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinct cherry flavor.",
+        "zh": "增加甜味和獨特的櫻桃味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and foamy head.",
+        "zh": "增加絲滑的質感和泡沫狀的頭部。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "少量安格仕苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a layer of complexity and spice.",
+        "zh": "增加一層複雜性和風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Dash Peychaud's Bitters",
+        "zh": "少量佩喬氏苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a floral and slightly sweet note.",
+        "zh": "增添花香和淡淡的甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

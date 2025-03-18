@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Snakebite",
+    "zh": "蛇咬"
+  },
+  "description": {
+    "en": "**Simple but Potent Combination**\n\nA layered drink with a reputation for being deceptively strong, featuring:\n\n*   Equal parts lager and cider for a balanced flavor.\n*   Often consumed quickly, contributing to its potent effects.",
+    "zh": "**簡單但強勁的組合**\n\n以其具有欺騙性的烈性而聞名的分層飲料，特色：\n\n*   等量的拉格啤酒和蘋果酒，風味均衡。\n*   通常快速飲用，從而增強其效果。"
+  },
+  "historical_reference": {
+    "en": "**Origin Uncertain**\n\n*   The exact origin is not definitively known, but it is believed to have originated in the UK.\n*   Gained popularity as a simple and inexpensive drink.",
+    "zh": "**起源不明**\n\n*   確切的起源尚不清楚，但據信起源於英國。\n*   作為一種簡單且廉價的飲料而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Pour equal parts lager and cider into a glass, layering if desired.",
+    "zh": "將等量的拉格啤酒和蘋果酒倒入玻璃杯中，如果需要，可以分層。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass",
+    "zh": "品脫杯"
+  },
+  "appearance": {
+    "en": "Layered pale gold and amber liquid with a slight head",
+    "zh": "分層的淡金色和琥珀色液體，略帶泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 150,
+      "name": {
+        "en": "Lager",
+        "zh": "拉格啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and body of the drink.",
+        "zh": "提供飲料的基底和酒體。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 150,
+      "name": {
+        "en": "Cider",
+        "zh": "蘋果酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a fruity sweetness and tartness.",
+        "zh": "增加水果的甜味和酸味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 3,
+    "bubbles": true
+  }
+}

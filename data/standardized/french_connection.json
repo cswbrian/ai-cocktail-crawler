@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "French Connection",
+    "zh": "法國情緣"
+  },
+  "description": {
+    "en": "A simple yet sophisticated after-dinner drink featuring a blend of cognac and amaretto, offering a harmonious balance of fruity and nutty flavors. Typically served neat in an old-fashioned glass.",
+    "zh": "一款簡約而精緻的餐後飲品，融合了干邑白蘭地和杏仁利口酒，提供水果和堅果風味的平衡。通常以純飲方式盛裝在古典杯中。"
+  },
+  "historical_reference": {
+    "en": "The French Connection cocktail emerged in the 1970s, inspired by the eponymous 1971 film starring Gene Hackman. It combines the elegance of Cognac with the sweet almond notes of Amaretto, creating a simple yet sophisticated drink.\n\n*   **Origin**: United States\n*   **Era**: 1970s\n*   **Inspiration**: The film *The French Connection*",
+    "zh": "法國情緣雞尾酒出現在1970年代，靈感來自同名電影《霹靂神探》（1971年），由金·哈克曼主演。它結合了干邑白蘭地的優雅和杏仁利口酒的甜杏仁味，創造出一款簡約而精緻的飲品。\n\n*   **起源**: 美國\n*   **年代**: 1970年代\n*   **靈感**: 電影《霹靂神探》"
+  },
+  "technique": {
+    "en": "Pour both ingredients into an old-fashioned glass filled with ice. Stir gently.",
+    "zh": "將兩種成分倒入裝滿冰塊的古典杯中。輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Clear amber liquid",
+    "zh": "清澈的琥珀色液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds rich, complex base flavour.",
+        "zh": "增加濃郁、複雜的基底風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Amaretto",
+        "zh": "杏仁酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a nutty sweetness that complements the cognac.",
+        "zh": "增加堅果的甜味，與干邑白蘭地相得益彰。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

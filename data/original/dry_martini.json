@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Dry Martini",
+    "zh": "乾馬丁尼"
+  },
+  "description": {
+    "en": "**Classic Cocktail Staple**\n\nThe Dry Martini is a quintessential cocktail known for its simplicity and sophistication. It typically consists of gin and dry vermouth, garnished with an olive or a lemon twist.\n\n*   Highly customizable ratios for personal preference\n*   Iconic and timeless appeal\n*   Emphasis on quality ingredients for optimal flavor",
+    "zh": "**經典調酒的代表**\n\nDry Martini 是一款典型的雞尾酒，以其簡約和精緻而聞名。它通常由琴酒和乾苦艾酒組成，並以橄欖或檸檬皮裝飾。\n\n*   高度可定制的比例以滿足個人喜好\n*   標誌性和永恆的吸引力\n*   強調優質原料以獲得最佳風味"
+  },
+  "historical_reference": {
+    "en": "**Origins**\n\nThe precise origin is debated. One theory suggests it evolved from the Martinez cocktail. It gained popularity in the early 20th century. The 'Dry' Martini emerged as preferences shifted towards less sweet cocktails.\n\n*   Possible Evolution from Martinez cocktail\n*   Popularized in early 20th Century\n*   Dry version reflects changing tastes",
+    "zh": "**起源**\n\n確切的起源存在爭議。 一種理論認為它是由馬丁尼茲雞尾酒演變而來的。 它在 20 世紀初開始流行。 隨著人們的喜好轉向不太甜的雞尾酒，「Dry」Martini 應運而生。\n\n*   可能從馬丁尼茲雞尾酒演變而來\n*   20世紀初開始流行\n*   Dry 版本反映了不斷變化的品味"
+  },
+  "technique": {
+    "en": "Stir with ice until well-chilled. Strain into a chilled glass.",
+    "zh": "與冰塊攪拌至完全冷卻。 濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Green olive or Lemon twist",
+    "zh": "綠橄欖或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass (chilled)",
+    "zh": "馬丁尼杯（冰鎮）"
+  },
+  "appearance": {
+    "en": "Clear, colorless",
+    "zh": "清澈，無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base and provides the primary flavor profile.",
+        "zh": "構成基底並提供主要的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness, herbal notes, and complexity.",
+        "zh": "增添乾爽感、草本味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

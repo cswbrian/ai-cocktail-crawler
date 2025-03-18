@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Harlem Mugger",
+    "zh": "哈林搶劫犯"
+  },
+  "description": {
+    "en": "**Bold and Boozy Classic**\n\nA robust and flavorful cocktail, perfect for whiskey enthusiasts. The combination of rye whiskey, sweet vermouth, and absinthe creates a complex and memorable experience. \n\n*   Strong rye flavor\n*   Herbal notes from absinthe\n*   Subtle sweetness from vermouth",
+    "zh": "**大膽且濃烈的經典雞尾酒**\n\n這是一款濃郁且風味十足的雞尾酒，非常適合威士忌愛好者。黑麥威士忌、甜味苦艾酒和苦艾酒的結合創造出複雜而令人難忘的體驗。\n\n*   強烈的黑麥風味\n*   來自苦艾酒的草本味\n*   來自苦艾酒的淡淡甜味"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Early 20th Century Cocktail\n\nThe Harlem Mugger is a variation of the Manhattan cocktail. It substitutes the traditional aromatic bitters for absinthe, adding a potent herbal note to the drink. Specific origins are murky, but it likely emerged during the early 1900s when absinthe was more widely available (before its ban).",
+    "zh": "**起源**: 20世紀初的雞尾酒\n\n哈林搶劫犯是曼哈頓雞尾酒的一種變體。它用苦艾酒代替了傳統的芳香苦味酒，為飲料增添了濃郁的草本風味。具體起源尚不明確，但它可能出現在 1900 年代初期，當時苦艾酒的供應更為廣泛（在禁令頒布之前）。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass. Garnish with an orange peel twist.",
+    "zh": "與冰塊一起攪拌，然後過濾到冰鎮的玻璃杯中。用橙皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Dark amber, slightly cloudy, with a foamy head.",
+    "zh": "深琥珀色，略帶混濁，帶有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spicy base and backbone of the cocktail.",
+        "zh": "提供雞尾酒的辛辣基底和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complexity.",
+        "zh": "增加甜味和複雜性。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a strong anise and herbal flavor.",
+        "zh": "增加強烈的茴香和草本風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

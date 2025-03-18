@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Lime Rickey",
+    "zh": "萊姆利奇"
+  },
+  "description": {
+    "en": "**Classic Refreshing Cocktail**\n\nThe Lime Rickey is a simple and refreshing cocktail consisting of gin, lime juice, and carbonated water:\n\n*   Easy to make and customizable.\n*   Perfect for warm weather.\n*   A quintessential summer drink.",
+    "zh": "**經典清爽的雞尾酒**\n\n萊姆利奇是一款簡單又清爽的雞尾酒，由琴酒、萊姆汁和氣泡水組成：\n\n*   容易製作且可客製化。\n*   非常適合溫暖的天氣。\n*   典型的夏季飲品。"
+  },
+  "historical_reference": {
+    "en": "**Origin and History**\n\n*   Named after Colonel Joe Rickey, a Democratic lobbyist.\n*   Originally made with bourbon at Shoomaker's bar in Washington, D.C., in the 1880s.\n*   The \"Rickey\" evolved to include other spirits like gin and the addition of lime.",
+    "zh": "**起源與歷史**\n\n*   以民主黨遊說人士喬·利奇上校命名。\n*   最初於1880年代在華盛頓特區的Shoomaker's酒吧以波本威士忌調製。\n*   「利奇」演變為包含其他烈酒（如琴酒）並添加萊姆。"
+  },
+  "technique": {
+    "en": "Combine gin and lime juice in a highball glass filled with ice. Top with carbonated water and garnish.",
+    "zh": "將琴酒和萊姆汁在高球杯中混合，加入冰塊。 倒入氣泡水並裝飾。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "萊姆角或片"
+  },
+  "serve_in_glass": {
+    "en": "Highball Glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Clear, effervescent, and colorless",
+    "zh": "清澈、起泡且無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the alcoholic base and botanical complexity.",
+        "zh": "增加酒精基底和植物的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Carbonated Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

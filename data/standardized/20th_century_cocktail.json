@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "20th Century Cocktail",
+    "zh": "20世紀雞尾酒"
+  },
+  "description": {
+    "en": "**Elegant and Sophisticated**\n\nA pre-prohibition classic featuring:\n*   Gin base for a clean taste.\n*   Lillet Blanc for floral and honeyed notes.\n*   White Creme de Cacao for subtle chocolate richness.\n*   Lemon juice for bright acidity.",
+    "zh": "**優雅而精緻**\n\n禁酒令前經典之作，特色：\n*   琴酒基底帶來清爽口感。\n*   Lillet Blanc帶來花香和蜂蜜香氣。\n*   白色可可甜酒帶來微妙的巧克力醇厚感。\n*   檸檬汁帶來明亮的酸度。"
+  },
+  "historical_reference": {
+    "en": "**Created in the early 20th Century**\n\n*   First appeared around the beginning of the 20th century.\n*   Named after the luxurious 20th Century Limited train, symbolizing modernity and speed.\n*   Became popular in the Savoy Cocktail Book.",
+    "zh": "**創建於20世紀初**\n\n*   首次出現於20世紀初。\n*   以豪華的20th Century Limited列車命名，象徵現代和速度。\n*   在《薩伏伊雞尾酒書》中廣受歡迎。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, frothy head",
+    "zh": "淡黃色，泡沫狀"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and backbone of the cocktail.",
+        "zh": "提供雞尾酒的基底和骨幹。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lillet Blanc",
+        "zh": "麗葉白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral, honeyed, and slightly bitter notes.",
+        "zh": "增添花香、蜂蜜和微苦的味道。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Crème de Cacao",
+        "zh": "可可酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle chocolate flavor and sweetness.",
+        "zh": "增添微妙的巧克力風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "None",
+        "zh": "無"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "no ingredients",
+        "zh": "沒有原料"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Boulevardier",
+    "zh": "布列瓦迪"
+  },
+  "description": {
+    "en": "**The Boulevardier: A Whiskey Negroni**\n\nA sophisticated and boozy cocktail that replaces gin in a Negroni with whiskey. The result is a richer, warmer, and more robust cocktail with a pleasant bitter edge.\n\nKey characteristics:\n*   Whiskey base for warmth\n*   Sweet vermouth for sweetness and body\n*   Campari for bitterness and complexity",
+    "zh": "**Boulevardier：威士忌內格羅尼**\n\n一款精緻且濃烈的雞尾酒，將內格羅尼中的琴酒替換為威士忌。成品口感更豐富、溫暖、強勁，並帶有令人愉悅的苦味。\n\n主要特徵：\n*   威士忌基底帶來溫暖感\n*   甜味美思增加甜度和酒體\n*   金巴利帶來苦味和複雜度"
+  },
+  "historical_reference": {
+    "en": "**Origins of the Boulevardier**\n\nThe Boulevardier cocktail is believed to have originated in Paris in the 1920s, at Harry's New York Bar. It was supposedly created for Erskine Gwynne, an American writer who published a magazine called *The Boulevardier*.\n\nKey historical points:\n*   Created in Paris in the 1920s\n*   Attributed to Erskine Gwynne\n*   A variation on the classic Negroni",
+    "zh": "**Boulevardier的起源**\n\n據信Boulevardier雞尾酒起源於1920年代的巴黎，位於哈利紐約酒吧。 據說它是為厄斯金·格溫（Erskine Gwynne）創作的，他是一位美國作家，出版了一本名為《*The Boulevardier*》的雜誌。\n\n關鍵歷史點：\n*   1920年代在巴黎創建\n*   歸功於厄斯金·格溫\n*   經典內格羅尼的變體"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Deep amber, clear",
+    "zh": "深琥珀色，清澈"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon/Rye Whiskey",
+        "zh": "波本/黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and backbone of the cocktail, offering a rich and spicy flavor.",
+        "zh": "提供基酒，構成雞尾酒的骨幹，帶來濃郁且辛辣的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Campari",
+        "zh": "金巴利"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinct bitter and complex flavor to the cocktail.",
+        "zh": "為雞尾酒增添獨特的苦味和複雜的風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness, body, and herbal notes to balance the bitterness.",
+        "zh": "提供甜味、酒體和草本香氣，以平衡苦味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

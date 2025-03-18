@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Martini",
+    "zh": "馬丁尼"
+  },
+  "description": {
+    "en": "**Classic Cocktail Staple**\n\nA simple yet sophisticated cocktail consisting of:\n*   Gin as the base spirit\n*   A touch of dry vermouth for complexity\n*   Garnished with an olive or lemon twist",
+    "zh": "**經典調酒的代表**\n\n簡約而精緻的雞尾酒，包含：\n*   琴酒作為基酒\n*   少許 Dry Vermouth 增添複雜性\n*   以橄欖或檸檬皮扭轉裝飾"
+  },
+  "historical_reference": {
+    "en": "**Evolving Origins**\n\nThe Martini's exact origin is debated, but it likely evolved from earlier gin cocktails:\n\n*   Emergence in the late 19th century\n*   Popularity surge in the early 20th century\n*   Variations with different gin-to-vermouth ratios",
+    "zh": "**不斷演變的起源**\n\nMartini 的確切起源尚有爭議，但它很可能是從早期的琴酒雞尾酒演變而來：\n\n*   19世紀末出現\n*   20世紀初人氣飆升\n*   琴酒與 Vermouth 的比例有所不同"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後濾入冰鎮的杯中。"
+  },
+  "garnish": {
+    "en": "Olive or Lemon Twist",
+    "zh": "橄欖或檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Martini glass",
+    "zh": "馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless liquid",
+    "zh": "清澈、無色的液體"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic base.",
+        "zh": "提供主要的風味和酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds dryness and herbal notes.",
+        "zh": "增加乾度和草本味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

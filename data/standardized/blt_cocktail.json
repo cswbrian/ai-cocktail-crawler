@@ -1,0 +1,166 @@
+{
+  "name": {
+    "en": "BLT Cocktail",
+    "zh": "BLT 雞尾酒"
+  },
+  "description": {
+    "en": "**Savory and Refreshing**\n\nA unique and bold cocktail that captures the essence of a BLT sandwich:\n\n*   Tomato juice base provides a fresh and savory flavor.\n*   Bacon-infused vodka adds a smoky, salty depth.\n*   Lettuce and tomato accents enhance the freshness.",
+    "zh": "**鹹香且清爽**\n\n一款獨特而大膽的雞尾酒，捕捉了BLT三明治的精髓：\n\n*   番茄汁基底提供新鮮鹹香的風味。\n*   培根浸泡伏特加增添煙熏鹹味。\n*   生菜和番茄的點綴增強了新鮮度。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\n*   A contemporary cocktail inspired by the classic BLT sandwich.\n*   Origin is relatively recent, with variations appearing in the early 21st century.\n*   Aim is to deconstruct the flavors of the sandwich into a drinkable form.",
+    "zh": "**現代創意**\n\n*   一款受經典BLT三明治啟發的現代雞尾酒。\n*   起源相對較新，21世紀初開始出現各種變體。\n*   目標是將三明治的風味解構為可飲用的形式。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a highball glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的高球杯中。"
+  },
+  "garnish": {
+    "en": "Crispy bacon strip, cherry tomato",
+    "zh": "酥脆培根條，小番茄"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Cloudy red with foamy top, bits of bacon may be visible",
+    "zh": "混濁的紅色，頂部有泡沫，可能看得到培根碎"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a savory and slightly acidic flavor.",
+        "zh": "構成雞尾酒的基底，提供鹹香和微酸的風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds brightness and acidity to balance the savory notes.",
+        "zh": "增加明亮度和酸度，以平衡鹹味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Enhances the umami flavor and adds complexity.",
+        "zh": "增強鮮味並增加複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a subtle salty and vegetal note.",
+        "zh": "增加微妙的鹹味和植物味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds spicy note.",
+        "zh": "增加辛辣味."
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

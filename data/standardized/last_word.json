@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Last Word",
+    "zh": "最後一句"
+  },
+  "description": {
+    "en": "**A Balanced and Complex Classic**\n\nThe Last Word is a beautifully balanced cocktail, known for its:\n*   Equal parts of all ingredients, creating harmony\n*   Herbal and citrus notes, with a touch of sweetness and bitterness\n*   Refreshing and intriguing flavor profile",
+    "zh": "**平衡而複雜的經典**\n\n最後一句是一款完美平衡的雞尾酒，以其：\n*   所有成分等量，創造和諧\n*   草本和柑橘香氣，帶有一絲甜味和苦味\n*   清新而有趣的風味而聞名"
+  },
+  "historical_reference": {
+    "en": "**Prohibition-Era Classic**\n\n*   Created at the Detroit Athletic Club in the early 1920s.\n*   Popularized by Murray Stenson at the Zig Zag Cafe in Seattle in the early 2000s, leading to its resurgence.",
+    "zh": "**禁酒時代的經典**\n\n*   於 1920 年代初期在底特律運動俱樂部創建。\n*   2000 年代初期，莫雷·斯滕森在西雅圖的 Zig Zag 咖啡館推廣了它，從而使其復興。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Coupe or Martini glass",
+    "zh": "冰鎮的敞口杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale green and translucent",
+    "zh": "淡綠色和半透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic backbone and botanical notes.",
+        "zh": "提供主要的酒精骨幹和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes herbal complexity and sweetness.",
+        "zh": "貢獻草本複雜性和甜味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry flavor and sweetness.",
+        "zh": "增添微妙的櫻桃風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balance.",
+        "zh": "增加酸味和平衡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

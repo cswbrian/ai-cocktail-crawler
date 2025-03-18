@@ -1,0 +1,161 @@
+{
+  "name": {
+    "en": "Three Wise Men",
+    "zh": "三智者"
+  },
+  "description": {
+    "en": "**A potent combination of three famous whiskies.**\n\nThis shot combines the distinct characteristics of Scotch, Tennessee, and Bourbon whiskeys for a complex drinking experience.\n\n*   Johnnie Walker Black Label adds a smoky depth.\n*   Jack Daniel's offers a hint of sweetness and oak.\n*   Jim Beam provides a traditional bourbon backbone.",
+    "zh": "**三種著名威士忌的強效組合。**\n\n這種短飲結合了蘇格蘭、田納西和波本威士忌的獨特風味，帶來複雜的飲用體驗。\n\n*   約翰走路黑牌增添了煙熏味。\n*   傑克丹尼帶來一絲甜味和橡木味。\n*   金賓威士忌提供了傳統的波本風味基礎。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Modern creation\n\n*   The exact origin is unknown, but it is speculated that it was created in a bar setting.\n*   The name is a play on words, referencing the 'three wise men' and the trio of whiskies used.",
+    "zh": "**起源**: 現代創作\n\n*   確切的起源尚不清楚，但推測是在酒吧環境中創造的。\n*   這個名字是一個文字遊戲，指的是「三位智者」和所使用的三種威士忌。"
+  },
+  "technique": {
+    "en": "Pour each spirit carefully into the shot glass, layering if desired.",
+    "zh": "小心地將每種酒倒入烈酒杯中，如果需要可以分層。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered brown and golden hues",
+    "zh": "分層的棕色和金色色調"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Scotch",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a balanced and smoky scotch whisky component.",
+        "zh": "提供平衡且帶有煙熏味的蘇格蘭威士忌成分。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        },
+        {
+          "en": "malted barley",
+          "zh": "麥芽"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "scottish",
+          "zh": "蘇格蘭"
+        }
+      ]
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Tennessee Whiskey",
+        "zh": "田納西威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sweet and oaky bourbon whiskey element.",
+        "zh": "添加甜美且帶有橡木味的波本威士忌元素。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Bourbon",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes a straightforward and classic bourbon flavor profile.",
+        "zh": "提供直接且經典的波本風味。"
+      },
+      "tags": [
+        {
+          "en": "Whiskey",
+          "zh": "威士忌"
+        },
+        {
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        },
+        {
+          "en": "american",
+          "zh": "美式"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 10,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

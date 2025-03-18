@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Virgin Mimosa",
+    "zh": "無酒精含羞草"
+  },
+  "description": {
+    "en": "**Sparkling Celebration Without the Alcohol**\n\nThe Virgin Mimosa offers a delightful experience, reminiscent of its alcoholic counterpart, but without the alcohol:\n\n*   Effervescent and refreshing\n*   Simple to prepare, perfect for any occasion\n*   A guilt-free indulgence",
+    "zh": "**無酒精的閃耀慶祝**\n\n無酒精含羞草雞尾酒提供令人愉悅的體驗，讓人想起其含酒精的版本，但沒有酒精：\n\n*   氣泡豐富，清新爽口\n*   簡單易製，適合任何場合\n*   無罪惡感的放縱"
+  },
+  "historical_reference": {
+    "en": "**A Non-Alcoholic Twist on a Classic**\n\n*   The Virgin Mimosa is a non-alcoholic adaptation of the classic Mimosa cocktail.\n*   The Mimosa dates back to the 1920s at the Hotel Ritz Paris.\n*   This version allows everyone to enjoy the celebratory feel, regardless of alcohol preference.",
+    "zh": "**經典的無酒精版本**\n\n*   無酒精含羞草雞尾酒是經典含羞草雞尾酒的無酒精版本。\n*   含羞草雞尾酒可追溯至 1920 年代巴黎麗思酒店。\n*   此版本讓每個人都可以享受慶祝的感覺，無論是否喜歡酒精。"
+  },
+  "technique": {
+    "en": "Pour chilled orange juice into a champagne flute. Top with chilled sparkling beverage. Garnish.",
+    "zh": "將冰鎮橙汁倒入香檳杯中。倒入冰鎮的氣泡飲料。裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice or zest.",
+    "zh": "橙片或橙皮。"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Bubbly, bright orange or yellow, translucent.",
+    "zh": "氣泡豐富，明亮的橙色或黃色，半透明。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "柳橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and sweetness.",
+        "zh": "提供主要的風味和甜味。"
+      }
+    },
+    {
+      "amount": 75,
+      "name": {
+        "en": "Sparkling Beverage",
+        "zh": "氣泡飲料"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and dilutes the sweetness.",
+        "zh": "增加氣泡並稀釋甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 0,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

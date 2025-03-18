@@ -1,0 +1,181 @@
+{
+  "name": {
+    "en": "Tomate",
+    "zh": "番茄"
+  },
+  "description": {
+    "en": "A savory cocktail featuring tomato juice, gin, and a hint of heat. Refreshing and perfect for brunch.",
+    "zh": "一款美味的雞尾酒，以番茄汁、琴酒和一絲辛辣味為特色。 清爽，非常適合早午餐。"
+  },
+  "historical_reference": {
+    "en": "The Tomate is a variation of the Bloody Mary, replacing vodka with gin. The exact origin is not clearly documented, but it likely emerged as bartenders experimented with different spirits in the classic Bloody Mary recipe. The Tomate likely originated in the mid-20th century.",
+    "zh": "Tomate 是血腥瑪麗的一種變體，用琴酒代替伏特加。 確切的起源沒有明確的記錄，但它很可能是調酒師在經典的血腥瑪麗食譜中嘗試不同的烈酒而出現的。 Tomate 可能起源於 20 世紀中葉。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Shake well and strain into a glass filled with ice.",
+    "zh": "將所有成分與冰塊放入搖酒器中。 充分搖晃並濾入裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Cherry tomato or celery stalk",
+    "zh": "小番茄或芹菜莖"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "高球杯或品脫杯"
+  },
+  "appearance": {
+    "en": "Reddish-orange, opaque, frothy",
+    "zh": "紅橙色，不透明，有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical complexity.",
+        "zh": "提供酒精基底和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 100,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Main flavor component, provides body and savory notes.",
+        "zh": "主要風味成分，提供酒體和鹹味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and complexity.",
+        "zh": "增加鮮味和複雜度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds heat and spice.",
+        "zh": "增加熱度和辛辣味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch Salt",
+        "zh": "少許鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances flavors.",
+        "zh": "增強風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Pinch Black Pepper",
+        "zh": "少許黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a subtle spicy note.",
+        "zh": "增添微妙的辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Dry Brooklyn",
+    "zh": "乾式布魯克林"
+  },
+  "description": {
+    "en": "A variation on the classic Brooklyn cocktail, the Dry Brooklyn reduces the sweetness and emphasizes the rye whiskey's spiciness and the dry vermouth's herbal notes. This is achieved by reducing the amount of maraschino liqueur and increasing the dry vermouth component. A more spirit-forward and less sweet variation.",
+    "zh": "乾式布魯克林是經典布魯克林雞尾酒的變體，減少了甜度，突出了黑麥威士忌的辛辣味和乾味美思的草本味。 這是通過減少櫻桃利口酒的量並增加乾味美思的成分來實現的。 一種更突出酒體且較不甜的變體。"
+  },
+  "historical_reference": {
+    "en": "The Brooklyn cocktail family originated in the early 20th century, with various versions appearing in cocktail books. The 'Dry' variation specifically aims for a less sweet, more spirit-forward profile, catering to preferences for drier cocktails. Its exact origin is debated but it is a clear modification of the original Brooklyn recipe.\n\n*   Related to the Manhattan cocktail family\n*   Designed for drier palates",
+    "zh": "布魯克林雞尾酒系列起源於20世紀初，各種版本出現在雞尾酒書籍中。 「乾式」變體專門針對不那麼甜、更突出酒體的特性，以滿足對更乾雞尾酒的偏好。 其確切起源尚有爭議，但顯然是對原始布魯克林食譜的修改。\n\n* 與曼哈頓雞尾酒系列相關\n* 專為喜愛不甜口味的人士設計"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice until well-chilled. Strain into a chilled glass. Garnish with a brandied cherry.",
+    "zh": "將所有材料與冰塊攪拌均勻至冰鎮。 濾入冰鎮的玻璃杯中。 用白蘭地櫻桃裝飾。"
+  },
+  "garnish": {
+    "en": "Brandied cherry",
+    "zh": "白蘭地櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear amber",
+    "zh": "清澈的琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and spicy notes.",
+        "zh": "提供基底和辛辣味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a hint of cherry sweetness and complexity.",
+        "zh": "增添一絲櫻桃的甜味和複雜性。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "干苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and slightly bitter notes to balance the sweetness.",
+        "zh": "添加草本和略帶苦味，以平衡甜味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Amer Picon or Angostura Bitters",
+        "zh": "阿美爾皮孔或安哥斯圖拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a bitter complexity and aromatic depth.",
+        "zh": "增添苦味複雜性和芳香深度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

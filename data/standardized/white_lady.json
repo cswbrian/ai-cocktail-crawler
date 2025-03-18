@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "White Lady",
+    "zh": "白娘子"
+  },
+  "description": {
+    "en": "*A pre-prohibition classic, the White Lady is a tart, citrus-forward cocktail.* It balances gin's botanical notes with the brightness of lemon and orange from the triple sec. The egg white provides a silky smooth texture.",
+    "zh": "*白娘子是一款禁酒令前時代的經典雞尾酒，口感酸爽，柑橘味濃郁。* 它平衡了琴酒的植物風味與檸檬和橙皮利口酒帶來的明亮感。蛋白則帶來了絲滑柔順的口感。"
+  },
+  "historical_reference": {
+    "en": "**Attribution:** *Varying claims exist regarding the White Lady's origins.* Harry MacElhone is often credited with creating it at Ciro's Club in London in 1929, though some claim it originated earlier in Paris. It is a variation on the earlier cocktail White Rose. The original White Lady used crème de menthe, but MacElhone later substituted it with gin, lemon juice and Cointreau.",
+    "zh": "**歸屬：* 關於白娘子的起源存在不同的說法。* 哈里·麥克埃爾霍恩經常被認為是在1929年於倫敦的西羅俱樂部創造了它，但有些人聲稱它起源於更早的巴黎。它是早期雞尾酒白玫瑰的變體。最初的白娘子使用薄荷奶油，但麥克埃爾霍恩後來用琴酒、檸檬汁和君度橙酒代替。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻。濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or brandied cherry (optional)",
+    "zh": "檸檬皮或白蘭地酒漬櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow to off-white",
+    "zh": "混濁，淡黃色至灰白色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary alcoholic base and botanical flavors.",
+        "zh": "提供主要的酒精基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Triple Sec (Cointreau)",
+        "zh": "橙皮甜酒（君度橙酒）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and orange flavor.",
+        "zh": "增加甜度和橙子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White (optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的口感和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 8,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

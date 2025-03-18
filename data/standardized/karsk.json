@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en": "Karsk",
+    "zh": "卡斯克"
+  },
+  "description": {
+    "en": "**Simple and Potent**\n\nA traditional Scandinavian drink, Karsk is a rustic combination of neutral spirit and coffee. It's known for:\n\n*   Simplicity: Only two ingredients.\n*   Strength: High alcohol content.\n*   Regional variations: Ratios differ based on preference.",
+    "zh": "**簡單而強烈**\n\n傳統的斯堪地那維亞飲品，Karsk 是中性烈酒和咖啡的鄉村組合。 以其而聞名：\n\n*   簡單性：只有兩種成分。\n*   強度：高酒精含量。\n*   區域差異：比例因喜好而異。"
+  },
+  "historical_reference": {
+    "en": "**Scandinavian Tradition**\n\nKarsk is a traditional Scandinavian drink, particularly popular in Norway and Sweden.\n\n*   Historically a peasant drink, made with readily available ingredients.\n*   Preparation methods and ratios vary significantly between regions and families.\n*   Often associated with social gatherings and celebrations.",
+    "zh": "**斯堪地那維亞傳統**\n\nKarsk 是一種傳統的斯堪地那維亞飲品，在挪威和瑞典尤其受歡迎。\n\n*   歷史上是一種農民飲料，由容易取得的食材製成。\n*   各個地區和家庭之間的製備方法和比例差異很大。\n*   通常與社交聚會和慶祝活動有關。"
+  },
+  "technique": {
+    "en": "Pour spirit into a cup, then add coffee until the correct strength is achieved (traditionally a coin should be visible at the bottom of the cup)",
+    "zh": "將烈酒倒入杯中，然後加入咖啡，直到達到正確的濃度（傳統上，硬幣應該可以在杯底看到）"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Coffee cup or small glass",
+    "zh": "咖啡杯或小玻璃杯"
+  },
+  "appearance": {
+    "en": "Clear, colorless liquid",
+    "zh": "清澈、無色的液體"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Neutral Grain Spirit",
+        "zh": "中性穀物烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a clean flavor profile.",
+        "zh": "提供酒精基底和乾淨的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Coffee",
+        "zh": "咖啡"
+      },
+      "unit": {
+        "en": "Top",
+        "zh": "適量"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and bitterness.",
+        "zh": "添加咖啡風味和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 1,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

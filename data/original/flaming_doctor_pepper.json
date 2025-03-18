@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Flaming Doctor Pepper",
+    "zh": "火焰 Doctor Pepper"
+  },
+  "description": {
+    "en": "**Novelty Cocktail with a Kick**\n\nA layered shot with a flaming top:\n\n*   Carefully layered for visual effect\n*   High-proof rum allows for a dramatic flame\n*   Consumed quickly after lighting",
+    "zh": "**新奇的烈性雞尾酒**\n\n一種帶有火焰頂部的分層shot：\n\n*   小心分層以產生視覺效果\n*   高酒精度的蘭姆酒可產生引人注目的火焰\n*   點燃後迅速飲用"
+  },
+  "historical_reference": {
+    "en": "The Flaming Doctor Pepper's exact origin is unclear, but it's a popular party shot. It aims to mimic the taste of Doctor Pepper soda using amaretto and high-proof rum.\n\n*   Likely originated in the late 20th century\n*   Name is a marketing tie-in to the Dr. Pepper soft drink\n*   Primarily a novelty drink for its visual appeal",
+    "zh": "火焰 Doctor Pepper 的確切起源尚不清楚，但它是一種流行的派對shot。 它旨在使用阿馬雷托酒和高酒精度的蘭姆酒來模仿 Doctor Pepper 蘇打水的味道。\n\n*   可能起源於 20 世紀末\n*   名稱是與 Dr. Pepper 軟性飲料的行銷聯繫\n*   主要是一種因其視覺吸引力而引人注目的新奇飲料"
+  },
+  "technique": {
+    "en": "Layer amaretto in the bottom of a shot glass, top with beer. Carefully float 151 rum on top and ignite.",
+    "zh": "將阿馬雷托酒分層倒入shot杯底部，頂部放啤酒。 小心將151 蘭姆酒浮在頂部並點燃。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Dark amber liquid with blue flame",
+    "zh": "深琥珀色液體，帶有藍色火焰"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Amaretto",
+        "zh": "阿瑪雷托"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the nutty almond flavor.",
+        "zh": "提供堅果杏仁味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "151 Proof Rum",
+        "zh": "151 proof 蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the high alcohol content needed for the flame.",
+        "zh": "提供火焰所需的高酒精含量。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Light Beer",
+        "zh": "淡啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Mimics the base flavor of Doctor Pepper and adds volume.",
+        "zh": "模仿 Doctor Pepper 的基本風味並增加體積。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 9,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

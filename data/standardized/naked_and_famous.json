@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Naked and Famous",
+    "zh": "赤裸與著名"
+  },
+  "description": {
+    "en": "**Modern Classic Cocktail**\n\nA vibrant and complex cocktail with a balance of:\n*   Smoky mezcal\n*   Herbal Chartreuse\n*   Bitter Aperol\n*   Sour Lime Juice",
+    "zh": "**現代經典雞尾酒**\n\n充滿活力和複雜性的雞尾酒，平衡了：\n*   煙燻梅斯卡爾酒\n*   草本夏特勒茲酒\n*   苦味阿佩羅酒\n*   酸澀的萊姆汁"
+  },
+  "historical_reference": {
+    "en": "**Created by Joaquin Simo at Pouring Ribbons in New York City, 2011**\n\nA riff on the Last Word cocktail, replacing gin with mezcal and maraschino liqueur with Aperol.",
+    "zh": "**由Joaquin Simo於2011年在紐約市的Pouring Ribbons創造**\n\n對「最後一杯」雞尾酒的變奏，用梅斯卡爾酒代替琴酒，用阿佩羅酒代替黑櫻桃利口酒。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or zest (optional)",
+    "zh": "萊姆角或皮（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow, frothy",
+    "zh": "混濁、淡黃色、起泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅茲卡爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a smoky and earthy base.",
+        "zh": "提供煙熏和泥土的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and slightly sweet notes.",
+        "zh": "增添草本和微甜的味道。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Aperol",
+        "zh": "阿佩羅"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes bitterness and citrus notes.",
+        "zh": "帶來苦味和柑橘味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

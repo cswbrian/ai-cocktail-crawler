@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Baileys Frappé",
+    "zh": "百利冰沙"
+  },
+  "description": {
+    "en": "A simple and refreshing blended drink featuring Irish cream liqueur, coffee, and ice. Perfect for a warm day or as a dessert cocktail.",
+    "zh": "一種簡單而清爽的混合飲料，以愛爾蘭奶油利口酒、咖啡和冰塊為特色。非常適合溫暖的一天或作為甜點雞尾酒。"
+  },
+  "historical_reference": {
+    "en": "The *Frappé* style of drink has existed for centuries, evolving from iced coffee beverages to include various liqueurs and flavor combinations.\n\n*While Baileys Irish Cream was only invented in 1974, the combination of coffee, cream, and spirits has historical roots.*",
+    "zh": "*Frappé* 風格的飲品已經存在了幾個世紀，從冰咖啡飲料演變為包含各種利口酒和風味組合。\n\n*雖然百利甜酒於 1974 年才發明，但咖啡、奶油和烈酒的組合具有歷史淵源。*"
+  },
+  "technique": {
+    "en": "Blend all ingredients until smooth.",
+    "zh": "將所有成分混合攪拌至光滑。"
+  },
+  "garnish": {
+    "en": "Chocolate shavings or whipped cream (optional)",
+    "zh": "巧克力碎或鮮奶油（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or mason jar",
+    "zh": "颶風杯或梅森罐"
+  },
+  "appearance": {
+    "en": "Creamy, light brown, frothy",
+    "zh": "乳白色、淺棕色、起泡"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy, sweet, and slightly boozy base of the drink.",
+        "zh": "提供飲料的奶油味、甜味和略帶酒精的基底。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the creamy, sweet, and slightly boozy base of the drink.",
+        "zh": "提供飲料的奶油味、甜味和略帶酒精的基底。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cold Brew Coffee",
+        "zh": "冷萃咖啡"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a coffee flavor and balances the sweetness of the liqueur.",
+        "zh": "增添咖啡風味，平衡利口酒的甜度。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Creates the Frappé texture.",
+        "zh": "創造 Frappé 的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 6,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

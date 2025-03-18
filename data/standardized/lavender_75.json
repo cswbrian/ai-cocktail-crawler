@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Lavender 75",
+    "zh": "薰衣草 75"
+  },
+  "description": {
+    "en": "A floral twist on the classic French 75, the Lavender 75 is a delightful and aromatic cocktail perfect for celebrations. The lavender syrup adds a unique and fragrant sweetness that complements the gin and bright citrus notes. Topped with sparkling wine, it's both refreshing and elegant.",
+    "zh": "薰衣草 75 是經典法式 75 的花香變奏，是一款令人愉悅且芳香的雞尾酒，非常適合慶祝活動。 薰衣草糖漿增添了獨特而芬芳的甜味，與琴酒和明亮的柑橘味相得益彰。 搭配氣泡酒，既清爽又優雅。"
+  },
+  "historical_reference": {
+    "en": "The French 75 is a cocktail that dates back to World War I, believed to have originated at Harry's New York Bar in Paris. It's named for the 75mm field gun, a potent artillery piece used by the French during the war, reflecting the cocktail's considerable kick.\n\n*   The Lavender 75 is a modern variation, adding a floral element.\n*   The original recipe typically includes gin, lemon juice, sugar, and Champagne.",
+    "zh": "法式 75 是一款可以追溯到第一次世界大戰的雞尾酒，據信起源於巴黎的 Harry's New York Bar。 它以 75 毫米野戰砲命名，這是法國在戰爭期間使用的一種強大的砲兵武器，反映了這種雞尾酒的巨大衝擊力。\n\n* 薰衣草 75 是一種現代變體，添加了花香元素。\n* 最初的配方通常包括琴酒、檸檬汁、糖和香檳。"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, and lavender syrup with ice. Strain into a champagne flute. Top with sparkling wine. Garnish with a lavender sprig.",
+    "zh": "將琴酒、檸檬汁和薰衣草糖漿與冰塊一起搖勻。 濾入香檳長笛杯中。 倒入氣泡酒。 用薰衣草小枝裝飾。"
+  },
+  "garnish": {
+    "en": "Lavender sprig",
+    "zh": "薰衣草小枝"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳長笛杯"
+  },
+  "appearance": {
+    "en": "Pale golden, effervescent",
+    "zh": "淡金色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical complexity.",
+        "zh": "提供烈酒基底和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lavender Syrup",
+        "zh": "薰衣草糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and lavender flavor.",
+        "zh": "增加甜味和薰衣草風味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

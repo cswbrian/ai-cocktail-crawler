@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Fluffy Duck",
+    "zh": "蓬鬆鴨"
+  },
+  "description": {
+    "en": "**Rich and Creamy Indulgence**\n\nThe Fluffy Duck is a decadent and rich cocktail, blending the botanical notes of gin with the creamy sweetness of Advocaat and cream. A true dessert cocktail!\n\n*   Perfect as an after-dinner treat.\n*   A retro classic, offering a unique taste experience.",
+    "zh": "**濃郁絲滑的享受**\n\n蓬鬆鴨是一杯頹廢而濃郁的雞尾酒，將琴酒的植物風味與蛋黃醬和鮮奶油的奶油甜味融合在一起。 是一款真正的甜點雞尾酒！\n\n*   非常適合作為晚餐後的款待。\n*   一款復古經典，提供獨特的味覺體驗。"
+  },
+  "historical_reference": {
+    "en": "**A Creamy Classic**\n\nThe Fluffy Duck is thought to have originated in the mid-20th century, gaining popularity for its rich and creamy texture. There is some speculation that it was created at the famous Harry's Bar in Venice, although this is not definitively proven.\n\n*  Often found in vintage cocktail books.\n*  Represents a period of experimentation with creamy and sweet cocktails.",
+    "zh": "**奶油經典**\n\n蓬鬆鴨據說起源於 20 世紀中葉，因其濃郁的奶油質地而廣受歡迎。 有人猜測它是在威尼斯著名的哈里酒吧創建的，儘管這尚未得到最終證實。\n\n*   經常出現在老式雞尾酒書籍中。\n*   代表著一個奶油味和甜味雞尾酒實驗的時期。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small stemmed glass or coupe",
+    "zh": "小高腳杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, creamy, frothy",
+    "zh": "淡黃色、奶油狀、起泡"
+  },
+  "allergens": [
+    {
+      "en": "Dairy (cream, Advocaat)",
+      "zh": "乳製品（奶油、蛋黃醬）"
+    },
+    {
+      "en": "Eggs (Advocaat)",
+      "zh": "雞蛋（蛋黃醬）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical backbone and dryness to balance the sweetness.",
+        "zh": "提供植物性的骨幹和乾度，以平衡甜味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Advocaat",
+        "zh": "蛋黃醬"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a creamy, custard-like flavor and texture.",
+        "zh": "提供奶油狀、類似卡士達的風味和質地。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and a velvety texture.",
+        "zh": "增加濃稠度和柔滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 8,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

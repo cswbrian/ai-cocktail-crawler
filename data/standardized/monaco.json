@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Monaco",
+    "zh": "摩納哥"
+  },
+  "description": {
+    "en": "**Simple layered drink**\n\nA non-alcoholic or low-alcohol beverage with a vibrant appearance, made by carefully layering grenadine, lemonade, and lager:\n*   Grenadine settles at the bottom due to its density.\n*   Lemonade forms the middle layer.\n*   Lager gently floats on top.",
+    "zh": "**簡單的分層飲料**\n\n一種非酒精或低酒精飲料，外觀鮮豔，透過仔細分層石榴糖漿、檸檬水和拉格啤酒製成：\n* 石榴糖漿因其密度而沉澱在底部。\n* 檸檬水形成中間層。\n* 拉格啤酒輕輕地漂浮在頂部。"
+  },
+  "historical_reference": {
+    "en": "The Monaco cocktail, or *Bière Monaco*, is a popular drink in France.\n\n*   It's a variation of the Panaché, which mixes beer and lemonade.\n*   The addition of grenadine gives it a distinctive color and flavor.\n*   Likely named after the city-state of Monaco due to its colors (red and white).",
+    "zh": "摩納哥雞尾酒，或*Bière Monaco*，是法國流行的飲品。\n\n* 它是Panaché的變體，後者混合了啤酒和檸檬水。\n* 添加石榴糖漿賦予其獨特的顏色和風味。\n* 可能因其顏色（紅色和白色）而以摩納哥城邦命名。"
+  },
+  "technique": {
+    "en": "Layer the ingredients carefully to create distinct bands of color. Start with grenadine, then gently add lemonade, and finally top with lager.",
+    "zh": "小心地分層配料以創建不同的顏色帶。從石榴糖漿開始，然後輕輕加入檸檬水，最後在上面放上拉格啤酒。"
+  },
+  "garnish": {
+    "en": "Lemon slice or wedge",
+    "zh": "檸檬片或角"
+  },
+  "serve_in_glass": {
+    "en": "Pilsner glass or highball glass",
+    "zh": "皮爾森啤酒杯或高球杯"
+  },
+  "appearance": {
+    "en": "Layered drink with red grenadine at the bottom, yellow lemonade in the middle, and pale lager at the top.",
+    "zh": "分層飲料，底部為紅色石榴糖漿，中間為黃色檸檬水，頂部為淡啤酒。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Lager",
+        "zh": "拉格啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a refreshing and slightly bitter component, forming the top layer.",
+        "zh": "增加清爽和略帶苦味的部分，形成頂層。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and red color to the bottom layer.",
+        "zh": "為底層增加甜味和紅色。"
+      }
+    },
+    {
+      "amount": 100,
+      "name": {
+        "en": "Lemonade",
+        "zh": "檸檬汽水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sour and citrusy flavor to the middle layer.",
+        "zh": "為中間層增加酸味和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 2,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Kahlúa Sour",
+    "zh": "卡魯哇酸酒"
+  },
+  "description": {
+    "en": "**Kahlúa Sour: A Coffee-Liqueur Delight**\n\nA delightful variation on the classic sour cocktail, the Kahlúa Sour offers a rich, coffee-forward experience:\n\n*   Kahlúa provides the base with its distinctive coffee flavor.\n*   Fresh lemon juice balances the sweetness with a refreshing tartness.\n*   Egg white adds a velvety texture and frothy top.",
+    "zh": "**卡魯哇酸酒：咖啡利口酒的美味**\n\n卡魯哇酸酒是經典酸酒雞尾酒的美味變奏，提供豐富的咖啡風味體驗：\n\n*   卡魯哇以其獨特的咖啡風味作為基底。\n*   新鮮檸檬汁以清爽的酸味平衡甜度。\n*   蛋白增添了天鵝絨般的質地和泡沫頂部。"
+  },
+  "historical_reference": {
+    "en": "While the precise origin of the Kahlúa Sour is not definitively documented, it is a modern variation on the classic sour cocktail format.\n\n* The sour cocktail family dates back to the 1800s\n* Kahlúa was first produced in 1936.",
+    "zh": "雖然卡魯哇酸酒的確切起源沒有明確記錄，但它是經典酸酒雞尾酒形式的現代變奏。\n\n* 酸酒雞尾酒系列可以追溯到1800年代\n* 卡魯哇於1936年首次生產。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Strain into glass.",
+    "zh": "將所有材料乾搖，然後再次加冰搖晃。濾入杯中。"
+  },
+  "garnish": {
+    "en": "Coffee beans (optional)",
+    "zh": "咖啡豆（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or coupe",
+    "zh": "古典杯或淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown with a frothy top",
+    "zh": "奶油色，淺棕色，帶有泡沫頂部"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Kahlúa",
+        "zh": "咖啡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the coffee flavor base of the cocktail.",
+        "zh": "提供雞尾酒的咖啡風味基礎。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance the sweetness of Kahlúa.",
+        "zh": "增加酸度以平衡卡魯哇的甜味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

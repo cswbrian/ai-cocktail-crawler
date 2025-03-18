@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Screwdriver",
+    "zh": "螺絲起子"
+  },
+  "description": {
+    "en": "*Simple and refreshing cocktail.* A combination of vodka and orange juice, typically served over ice. Its ease of preparation has made it a popular choice worldwide. Can be easily customized by varying the type and amount of juice.",
+    "zh": "*簡單而清爽的雞尾酒。* 伏特加和柳橙汁的組合，通常加冰飲用。 其易於調製的特性使其成為全球熱門選擇。 可以通過改變果汁的類型和數量輕鬆定制。"
+  },
+  "historical_reference": {
+    "en": "The origin of the Screwdriver is murky, but it's believed to have originated in the mid-20th century.\n\n*   Some attribute its creation to American oil workers in the Persian Gulf, who purportedly mixed vodka with orange juice using screwdrivers.\n*   The cocktail gained popularity in the United States in the 1950s.",
+    "zh": "螺絲起子的起源尚不明確，但據信起源於20世紀中葉。\n\n*   有些人將其歸功於在波斯灣的美國石油工人，據說他們使用螺絲起子將伏特加與柳橙汁混合。\n*   這款雞尾酒在1950年代在美國開始流行。"
+  },
+  "technique": {
+    "en": "Pour vodka and orange juice into a highball glass filled with ice. Stir gently.",
+    "zh": "將伏特加和柳橙汁倒入裝滿冰塊的高球杯中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Orange slice or wedge.",
+    "zh": "柳橙片或角。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Bright, clear orange.",
+    "zh": "明亮、清澈的橘色。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor profile.",
+        "zh": "提供酒精基底和中性的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, acidity, and orange flavor.",
+        "zh": "增加甜味、酸度和柳橙風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

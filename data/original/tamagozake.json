@@ -1,0 +1,108 @@
+{
+  "name": {
+    "en": "Tamagozake",
+    "zh": "雞卵酒"
+  },
+  "description": {
+    "en": "**Warm Japanese Eggnog**\n\nA comforting and traditional Japanese beverage, often enjoyed as a home remedy or nightcap. It combines the warmth of sake with the richness of egg and sweetness of sugar for a soothing experience.\n\n*   Known for its potential cold-fighting properties\n*   A simple yet deeply satisfying drink",
+    "zh": "**日式暖蛋酒**\n\n這是一種令人感到舒適且傳統的日式飲品，通常作為居家療法或睡前飲用。 它結合了清酒的溫暖、雞蛋的濃郁和糖的甜味，帶來舒緩的體驗。\n\n*   以其潛在的抵抗感冒特性而聞名\n*   簡單而令人非常滿足的飲品"
+  },
+  "historical_reference": {
+    "en": "**Traditional Japanese Remedy**\n\nTamagozake has been consumed in Japan for centuries, primarily as a folk remedy for colds and flu. The exact origins are somewhat obscure, but it's a long-standing tradition passed down through generations.\n\n*   Popular home remedy\n*   Eaten traditionally as a remedy for colds and flu",
+    "zh": "**傳統日式療法**\n\n幾個世紀以來，Tamagozake 一直在日本食用，主要作為治療感冒和流感的民間療法。 確切的起源有些模糊，但這是一個代代相傳的悠久傳統。\n\n*   受歡迎的家庭療法\n*   傳統上作為治療感冒和流感的藥物食用"
+  },
+  "technique": {
+    "en": "Gently warm sake in a saucepan. In a separate bowl, whisk egg yolk and sugar until pale. Gradually whisk in the warm sake until combined. Do not boil.",
+    "zh": "在平底鍋中輕輕加熱清酒。 在另一個碗中，將蛋黃和糖攪拌至顏色變淺。 逐漸攪拌加入溫熱的清酒直至混合均勻。 不要煮沸。"
+  },
+  "garnish": {
+    "en": "Optional: Grated ginger or nutmeg",
+    "zh": "可選：磨碎的薑或肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Warm ceramic mug or small bowl",
+    "zh": "溫熱的陶瓷杯或小碗"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow",
+    "zh": "混濁的淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sake",
+        "zh": "清酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and unique flavor profile.",
+        "zh": "提供酒精基底和獨特的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and creaminess.",
+        "zh": "增加濃郁度和奶油感。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Sweetens the drink and balances the flavors.",
+        "zh": "使飲料變甜並平衡風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 3,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

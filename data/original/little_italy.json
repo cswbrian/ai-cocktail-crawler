@@ -1,0 +1,107 @@
+{
+  "name": {
+    "en": "Little Italy",
+    "zh": "小義大利"
+  },
+  "description": {
+    "en": "A spirit-forward cocktail that showcases the boldness of rye whiskey complemented by the rich sweetness of sweet vermouth and a dash of aromatic bitters.\n\n*   Simple yet sophisticated\n*   A great alternative to the Manhattan",
+    "zh": "這是一款以烈酒為主的雞尾酒，展現了黑麥威士忌的醇厚風味，並以甜苦艾酒的濃郁甜味和少許芳香苦味酒加以補充。\n\n*   簡單而精緻\n*   曼哈頓的絕佳替代品"
+  },
+  "historical_reference": {
+    "en": "Likely a variation of the Manhattan cocktail.\n\n*   Named after the Little Italy neighborhood in Manhattan\n*   Emerged in the early 2000s\n*   Created by Audrey Saunders at Pegu Club in NYC, replacing the Manhattan's aromatic bitters with Cynar.",
+    "zh": "可能是曼哈頓雞尾酒的變體。\n\n*   以曼哈頓的小義大利社區命名\n*   出現於 2000 年代初期\n*   由奧黛麗·桑德斯 (Audrey Saunders) 在紐約市的 Pegu Club 創作，用 Cynar 取代了曼哈頓的芳香苦味酒。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Brandied cherry",
+    "zh": "白蘭地櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈的深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the robust and spicy backbone of the cocktail.",
+        "zh": "提供雞尾酒濃郁和辛辣的骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal complexity.",
+        "zh": "增加甜味和草本的複雜性。"
+      }
+    },
+    {
+      "amount": 7,
+      "name": {
+        "en": "Cynar",
+        "zh": "西娜爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a unique bittersweet and herbal element.",
+        "zh": "增添獨特的苦甜和草本風味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

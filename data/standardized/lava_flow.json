@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Lava Flow",
+    "zh": "熔岩流"
+  },
+  "description": {
+    "en": "**Tropical Delight**\n\nA sweet and creamy blended drink that is non-alcoholic.\n*   Layers of coconut cream and fruit purees create a visually appealing 'lava flow'.\n*   Perfect for hot weather and those who enjoy sweet tropical flavors.",
+    "zh": "**熱帶的喜悅**\n\n一種香甜柔滑的混合飲料，不含酒精。\n*   椰奶和水果泥層創造出視覺上吸引人的「熔岩流」。\n*   非常適合炎熱的天氣和喜歡熱帶風味的人。"
+  },
+  "historical_reference": {
+    "en": "A modern tropical drink, inspired by Hawaiian volcanos. Created in the late 20th century.\n\n*   No specific inventor is widely recognized.\n*   Popularized in tropical resort settings.",
+    "zh": "一種現代熱帶飲品，靈感來自夏威夷火山。 20 世紀後期創作。\n\n*   沒有廣為人知的特定發明家。\n*   在熱帶度假勝地普及。"
+  },
+  "technique": {
+    "en": "Blend banana, pineapple juice, coconut cream, and ice. Pour into glass. Gently pour strawberry puree into the center to create a 'lava flow' effect.",
+    "zh": "將香蕉、鳳梨汁、椰奶和冰塊混合。倒入玻璃杯中。輕輕將草莓泥倒入中心，營造「熔岩流」效果。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or cherry",
+    "zh": "鳳梨角和/或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Pilsner or hurricane glass",
+    "zh": "皮爾森啤酒杯或颶風杯"
+  },
+  "appearance": {
+    "en": "Layered red and white smoothie with a lava flow effect",
+    "zh": "分層的紅色和白色冰沙，具有熔岩流效果"
+  },
+  "allergens": [
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    },
+    {
+      "en": "Coconut",
+      "zh": "椰子"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Strawberry Puree",
+        "zh": "草莓泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds red color and strawberry flavor.",
+        "zh": "增加紅色和草莓風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Banana",
+        "zh": "香蕉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds sweetness and thickness.",
+        "zh": "增加甜味和濃稠度。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical flavor.",
+        "zh": "增添熱帶風味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and coconut flavor.",
+        "zh": "增加乳脂感和椰子風味。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds coldness and creates slushie texture.",
+        "zh": "增加冰涼感並產生冰沙質感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 9,
+    "sourness": 2,
+    "booziness": 0,
+    "body": 7,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

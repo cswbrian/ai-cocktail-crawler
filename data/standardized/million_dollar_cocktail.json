@@ -1,0 +1,172 @@
+{
+  "name": {
+    "en": "Million Dollar Cocktail",
+    "zh": "百萬美元雞尾酒"
+  },
+  "description": {
+    "en": "**Elegant and Luxurious Cocktail**\n\nA rich and complex cocktail featuring:\n*   Gin for a strong foundation\n*   Sweet vermouth for sweetness and body\n*   Grenadine for color and subtle fruitiness\n*   Egg white for a silky texture\n*   Absinthe for an anise note\n*   Angostura bitters for aromatic complexity",
+    "zh": "**優雅奢華的雞尾酒**\n\n一款豐富而複雜的雞尾酒，具有以下特點：\n*   琴酒提供堅實的基礎\n*   甜味美思增添甜味和酒體\n*   石榴糖漿帶來色彩和微妙的果香\n*   蛋白帶來柔滑的口感\n*   苦艾酒帶來茴香味\n*   安哥斯圖拉苦精增加香氣的複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First appeared in the early 20th century.\n\n*   Popularized during the pre-Prohibition era\n*   Featured in numerous classic cocktail books\n*   Named for its perceived opulence and value",
+    "zh": "**起源**: 首次出現在20世紀初。\n\n*   在禁酒令前時代廣受歡迎\n*   出現在許多經典雞尾酒書籍中\n*   以其感知到的富裕和價值命名"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Brandied cherry or a lemon twist",
+    "zh": "白蘭地漬櫻桃或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "高腳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, frothy with a creamy texture",
+    "zh": "淡黃色，起泡帶有奶油般的質地"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary spirituous base and botanical complexity.",
+        "zh": "提供主要的酒精基底和植物的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds an anise flavor and aromatic complexity.",
+        "zh": "增加茴香味和香氣的複雜性。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and body to the cocktail.",
+        "zh": "為雞尾酒增加甜味和酒體。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds color and a subtle fruity sweetness.",
+        "zh": "增添色彩和微妙的果香甜味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增添柔滑的口感和泡沫。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity.",
+        "zh": "增加香氣的複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

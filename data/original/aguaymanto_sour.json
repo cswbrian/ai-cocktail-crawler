@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Aguaymanto Sour",
+    "zh": "燈籠果酸酒"
+  },
+  "description": {
+    "en": "**A South American Variation of the Classic Sour**\n\nThis cocktail offers a unique twist on the traditional sour by incorporating aguaymanto (golden berry) puree. The aguaymanto provides a tangy, tropical flavor that complements the pisco. \n\nKey elements include:\n*   Fresh aguaymanto puree for distinctive flavor and color\n*   Egg white for smooth texture and rich foam\n*   Lime juice for balanced acidity",
+    "zh": "**經典酸酒的南美變奏**\n\n這款雞尾酒通過加入燈籠果（黃金莓）泥，為傳統酸酒帶來獨特的風味。燈籠果提供了一種濃郁的熱帶風味，與皮斯科酒相得益彰。\n\n主要元素包括：\n* 新鮮燈籠果泥，帶來獨特的風味和色澤\n* 蛋白，帶來柔滑的口感和豐富的泡沫\n* 青檸汁，帶來平衡的酸度"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Aguaymanto Sour is a contemporary cocktail inspired by the classic Pisco Sour. It highlights the flavors of the aguaymanto, a fruit native to the Andes region of South America. The exact origin is not definitively documented, but it likely emerged in the late 20th or early 21st century as bartenders sought to showcase local ingredients.",
+    "zh": "**現代創作**\n\n燈籠果酸酒是一款現代雞尾酒，靈感來自經典的皮斯科酸酒。它突出了燈籠果的風味，燈籠果是南美洲安第斯山區的原生水果。確切的起源沒有明確的記載，但它可能出現在 20 世紀末或 21 世紀初，當時調酒師們試圖展示當地食材。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice, then shake vigorously with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料在沒有冰的情況下乾搖，然後用冰劇烈搖晃。雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Few drops of Angostura bitters or aguaymanto slice.",
+    "zh": "幾滴安哥斯圖娜苦精或燈籠果切片。"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Sour Glass",
+    "zh": "高腳杯或酸酒杯"
+  },
+  "appearance": {
+    "en": "Golden yellow, slightly cloudy with a frothy head.",
+    "zh": "金黃色，略帶混濁，帶有泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pisco",
+        "zh": "皮斯可"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with distinct South American character.",
+        "zh": "提供具有獨特南美風格的基酒。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡單糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度，平衡酸味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度，平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds texture and creates a frothy head.",
+        "zh": "增加質感並產生泡沫。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Aguaymanto Puree",
+        "zh": "燈籠果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides unique fruity flavor.",
+        "zh": "提供獨特的水果風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

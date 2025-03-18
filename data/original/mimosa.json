@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Mimosa",
+    "zh": "含羞草雞尾酒"
+  },
+  "description": {
+    "en": "**Simple and Celebratory Cocktail**\n\nA classic brunch cocktail, the Mimosa is a mix of sparkling wine and citrus juice.\n\nKey characteristics:\n*   Easy to make\n*   Refreshing\n*   Typically served at brunch",
+    "zh": "**簡單而歡慶的雞尾酒**\n\n經典的早午餐雞尾酒，含氣泡酒和柑橘類果汁的混合物。\n\n主要特點：\n* 容易製作\n* 清爽\n* 通常在早午餐時供應"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Mimosa is believed to have originated at the Hôtel Ritz Paris in 1925.\n\n*   The cocktail is named after the Mimosa flower, which has a similar bright yellow-orange color.\n*   It's a variation of the Buck's Fizz, which has a larger proportion of sparkling wine.",
+    "zh": "**起源**: 據信含羞草雞尾酒起源於1925年的巴黎麗茲酒店。\n\n*   這款雞尾酒以含羞草花命名，其具有相似的明亮黃橙色。\n*   它是Buck's Fizz的變體，後者含有較大比例的氣泡酒。"
+  },
+  "technique": {
+    "en": "Pour chilled sparkling wine into a flute. Top with chilled orange juice.",
+    "zh": "將冰鎮氣泡酒倒入長笛杯。加入冰鎮橙汁。"
+  },
+  "garnish": {
+    "en": "Orange slice or twist",
+    "zh": "橙片或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Champagne flute",
+    "zh": "香檳杯"
+  },
+  "appearance": {
+    "en": "Bubbly, vibrant orange to yellow",
+    "zh": "氣泡豐富，鮮豔的橙色至黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Champagne or other dry sparkling wine",
+        "zh": "香檳或其他不甜的氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the body and effervescence of the cocktail",
+        "zh": "提供酒體和氣泡"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Orange juice, freshly squeezed",
+        "zh": "鮮榨橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus flavor",
+        "zh": "增加甜味和柑橘味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

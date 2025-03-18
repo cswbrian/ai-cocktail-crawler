@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Salty Dog",
+    "zh": "鹹狗"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nA variation of the Greyhound cocktail, distinguished by:\n*   Salted rim for enhanced flavor\n*   Simple mixture of vodka and grapefruit juice",
+    "zh": "**簡單清爽的雞尾酒**\n\n灰狗雞尾酒的變體，特色在於：\n*   鹽口以增強風味\n*   伏特加和葡萄柚汁的簡單混合"
+  },
+  "historical_reference": {
+    "en": "**Evolved from the Greyhound**\n\n*   First appeared after the Greyhound cocktail.\n*   The addition of a salted rim is the defining factor.\n*   Name likely derived from the 'salty' character, the salt enhances the taste and sweetens the grapefruit.",
+    "zh": "**由灰狗演變而來**\n\n*   首次出現在灰狗雞尾酒之後。\n*   添加鹽圈是決定性因素。\n*   名稱可能源自“鹹”的特性，鹽可以增強口感並使葡萄柚變甜。"
+  },
+  "technique": {
+    "en": "Salt the rim of a highball glass. Fill with ice, add vodka and grapefruit juice. Stir gently.",
+    "zh": "在高杯的杯口上沾鹽。 加入冰塊，加入伏特加和葡萄柚汁。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Salted rim; Grapefruit wedge (optional)",
+    "zh": "鹽口；葡萄柚角（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Pale, translucent, with a salted rim",
+    "zh": "淡色半透明，杯口有鹽圈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds the citrusy and slightly bitter flavor.",
+        "zh": "增添柑橘味和略帶苦味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "unit": {
+        "en": "gram",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Used for rimming the glass, enhancing the overall flavor.",
+        "zh": "用於裝飾杯緣，增強整體風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

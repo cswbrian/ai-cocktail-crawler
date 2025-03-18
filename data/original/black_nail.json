@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Black Nail",
+    "zh": "黑釘"
+  },
+  "description": {
+    "en": "A variation on the Rusty Nail, using blended Scotch and stout reduction, offering a richer, darker flavor profile.",
+    "zh": "Rusty Nail的變體，使用混合蘇格蘭威士忌和司陶特啤酒還原物，提供更豐富、更深沉的風味。"
+  },
+  "historical_reference": {
+    "en": "A modern variation on the classic Rusty Nail cocktail, incorporating elements of stout beer reduction to add depth and complexity.",
+    "zh": "經典銹釘雞尾酒的現代變體，結合了司陶特啤酒還原的元素，以增加深度和複雜性。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice, strain into glass with large ice cube.",
+    "zh": "將所有材料與冰塊一起攪拌，濾入裝有大冰塊的杯中。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Old Fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber, clear",
+    "zh": "深琥珀色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Blended Scotch Whisky",
+        "zh": "混合蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky, malty base.",
+        "zh": "提供煙燻麥芽基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Drambuie",
+        "zh": "尊美醇香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds honeyed sweetness and herbal notes.",
+        "zh": "增加蜂蜜的甜味和草本味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Stout Reduction",
+        "zh": "司陶特啤酒還原"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds roasted, bitter notes, and rich body.",
+        "zh": "增加烘烤、苦味和濃郁的酒體。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

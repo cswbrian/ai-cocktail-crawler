@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "French Cosmo",
+    "zh": "法式大都會"
+  },
+  "description": {
+    "en": "A fruity and tart variation of the classic Cosmopolitan, incorporating French raspberry liqueur for added depth and sweetness.",
+    "zh": "經典大都會的果香和酸味變奏版，融入法國覆盆子利口酒，增添深度和甜味。"
+  },
+  "historical_reference": {
+    "en": "The Cosmopolitan gained popularity in the 1990s. The French Cosmo is a variation that enhances the drink with French raspberry liqueur.",
+    "zh": "大都會在1990年代廣受歡迎。 法式大都會是一種通過法國覆盆子利口酒增強飲料的變體。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange zest twist or a fresh raspberry",
+    "zh": "橙皮扭轉或新鮮覆盆子"
+  },
+  "serve_in_glass": {
+    "en": "Chilled Martini glass or Coupe glass",
+    "zh": "冰鎮馬丁尼杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Bright pink, clear, vibrant",
+    "zh": "鮮豔的亮粉紅色，清澈"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit for the cocktail.",
+        "zh": "提供調酒的基酒。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "French Raspberry Liqueur (e.g., Chambord)",
+        "zh": "法式覆盆子利口酒（例如香博）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds raspberry flavor and sweetness.",
+        "zh": "增加覆盆子風味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and color.",
+        "zh": "增加酸味和顏色。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Fresh Lime Juice",
+        "zh": "新鮮萊姆汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

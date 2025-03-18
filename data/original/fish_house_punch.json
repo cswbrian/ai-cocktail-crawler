@@ -1,0 +1,153 @@
+{
+  "name": {
+    "en": "Fish House Punch",
+    "zh": "費雪之家潘趣酒"
+  },
+  "description": {
+    "en": "**Historical American Punch**\n\nA potent and flavorful punch, traditionally served at social gatherings:\n\n*   Based on a recipe from the Fish House (State in Schuylkill)\n*   Features a blend of dark rum, cognac, and peach brandy\n*   Balanced with citrus and sugar for a refreshing finish.",
+    "zh": "**歷史悠久的美國潘趣酒**\n\n一種強勁而風味十足的潘趣酒，傳統上在社交聚會上供應：\n\n*   基於 Fish House (斯庫基爾州) 的食譜\n*   融合了深色蘭姆酒、干邑和桃子白蘭地\n*   以柑橘和糖平衡，帶來清爽的尾韻。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to the State in Schuylkill (also known as the Fish House), a social club near Philadelphia, dating back to the 18th century.\n\n*   Known for its long history and association with influential figures.\n*   The recipe has variations, but the core ingredients remain consistent.\n*   A symbol of American social tradition.",
+    "zh": "**起源**：歸因於斯庫基爾州（也稱為 Fish House），一個位於費城附近的社交俱樂部，可追溯到 18 世紀。\n\n*   以其悠久的歷史和與有影響力人物的聯繫而聞名。\n*   該配方有多種變化，但核心成分保持一致。\n*   美國社會傳統的象徵。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a large punch bowl. Add a large block of ice. Stir well. Let sit for at least 2 hours before serving.",
+    "zh": "將所有材料放入一個大的潘趣酒碗中。加入一大塊冰。 攪拌均勻。 上菜前至少靜置 2 小時。"
+  },
+  "garnish": {
+    "en": "Lemon slices and/or nutmeg",
+    "zh": "檸檬片和/或肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Punch bowl or large pitcher",
+    "zh": "潘趣酒碗或大水罐"
+  },
+  "appearance": {
+    "en": "Pale golden, translucent",
+    "zh": "淡金色，半透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 375,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, molasses-like base.",
+        "zh": "提供濃郁、類似糖蜜的基底。"
+      }
+    },
+    {
+      "amount": 375,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds complexity and fruit notes.",
+        "zh": "增加複雜度和水果香氣。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 125,
+      "name": {
+        "en": "Peach Brandy",
+        "zh": "桃子白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a distinct peach flavor.",
+        "zh": "添加獨特的桃子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 250,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the spirits.",
+        "zh": "增加甜度並平衡烈酒。"
+      }
+    },
+    {
+      "amount": 750,
+      "name": {
+        "en": "Water",
+        "zh": "水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the punch and makes it more palatable.",
+        "zh": "稀釋潘趣酒，使其更易入口。"
+      }
+    },
+    {
+      "amount": 375,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

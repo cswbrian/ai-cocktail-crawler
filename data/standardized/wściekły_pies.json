@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Wściekły Pies (Mad Dog)",
+    "zh": "瘋狗"
+  },
+  "description": {
+    "en": "*Wściekły Pies* translates to 'Mad Dog'. It's a popular layered shot known for its sweet and sour taste and dramatic presentation. The Tabasco sauce adds a surprising kick.",
+    "zh": "「*Wściekły Pies*」翻譯為「瘋狗」。這是一種流行的分層烈酒，以其酸甜的口感和引人注目的外觀而聞名。Tabasco 辣椒醬增添了意想不到的刺激感。"
+  },
+  "historical_reference": {
+    "en": "The origin of *Wściekły Pies* (Mad Dog) is uncertain, but it is believed to have originated in Poland. It is a common party shot.",
+    "zh": "「*Wściekły Pies*」（瘋狗）的起源尚不清楚，但據信起源於波蘭。這是一種常見的派對烈酒。"
+  },
+  "technique": {
+    "en": "Layer ingredients carefully, starting with raspberry syrup, then vodka, and finally, Tabasco sauce on top.",
+    "zh": "小心地分層添加配料，首先是覆盆子糖漿，然後是伏特加，最後在頂部添加 Tabasco 辣椒醬。"
+  },
+  "garnish": {
+    "en": "Few drops of Tabasco sauce on top",
+    "zh": "頂部滴幾滴 Tabasco 辣椒醬"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered shot with red grenadine at the bottom and clear vodka on top.",
+    "zh": "分層的烈酒，底部是紅色石榴糖漿，頂部是透明伏特加。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and a neutral flavor.",
+        "zh": "提供酒精基底和中性風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Raspberry syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color to the base of the shot.",
+        "zh": "為烈酒的底部增添甜味和色彩。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

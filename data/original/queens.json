@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Queens",
+    "zh": "皇后"
+  },
+  "description": {
+    "en": "**A Rich and Tropical Delight**\n\nA smooth and creamy cocktail that balances rum with tropical fruit flavors and vanilla.\n\n*   Pineapple rum provides the base\n*   Pineapple and lime juices add zest\n*   Orgeat syrup and vanilla extract give it sweetness and body",
+    "zh": "**豐富的熱帶風味**\n\n一款口感柔滑且豐富的雞尾酒，蘭姆酒與熱帶水果風味和香草完美平衡。\n\n*   鳳梨蘭姆酒提供基底\n*   鳳梨和檸檬汁增添風味\n*   杏仁糖漿和香草萃取物賦予其甜味和酒體"
+  },
+  "historical_reference": {
+    "en": "**Origins**: Variation of a Piña Colada\n\n*   Likely created in the late 20th or early 21st century.\n*   Its exact origin is not definitively known, but it's a modern riff on the classic Piña Colada.\n*   Queens distinguishes itself by using pineapple rum and vanilla extract, adding depth and complexity.",
+    "zh": "**起源**: 變種自 鳳梨可樂達\n\n*   可能在20世紀末或21世紀初被創造。\n*   其確切起源尚不清楚，但它是經典鳳梨可樂達的現代變奏。\n*   皇后通過使用鳳梨蘭姆酒和香草提取物來區分自己，從而增加了深度和複雜性。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and/or a Maraschino cherry",
+    "zh": "鳳梨角和/或馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or Tiki mug",
+    "zh": "颶風杯或提基馬克杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly opaque, with a frothy top",
+    "zh": "淡黃色，略帶不透明，頂部有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Rum",
+        "zh": "鳳梨蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a tropical base with notes of pineapple.",
+        "zh": "增添帶有鳳梨香氣的熱帶風味基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the pineapple flavor and adds sweetness.",
+        "zh": "增強鳳梨風味並增加甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness.",
+        "zh": "增加酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty sweetness and a creamy texture.",
+        "zh": "增加堅果甜味和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Vanilla Extract",
+        "zh": "香草精"
+      },
+      "unit": {
+        "en": "drops",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth of flavor.",
+        "zh": "增加風味的深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

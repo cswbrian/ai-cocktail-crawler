@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Wolfram",
+    "zh": "沃爾夫勒姆"
+  },
+  "description": {
+    "en": "**Bold and Complex Cocktail**\n\nA modern classic known for its depth of flavor:\n\n*   Gin provides a strong foundation.\n*   Red wine adds body and color.\n*   Orange liqueur contributes sweetness and citrus notes.\n*   Bitters balances the sweetness and adds complexity.",
+    "zh": "**大膽且複雜的雞尾酒**\n\n以其風味深度而聞名的現代經典：\n\n*   琴酒提供堅實的基礎。\n*   紅酒增加酒體和顏色。\n*   橙味利口酒帶來甜味和柑橘味。\n*   苦精平衡了甜味並增加了複雜性。"
+  },
+  "historical_reference": {
+    "en": "**Modern Classic Cocktail**\n\n*   Created by Sam Ross at Milk & Honey in New York City around 2005.\n*   Named after the bartender's (Adam Wolfram's) last name, as he was the first to order the drink.\n*   Quickly gained popularity for its well-balanced and complex flavor profile.",
+    "zh": "**現代經典雞尾酒**\n\n*   由薩姆·羅斯（Sam Ross）於2005年左右在紐約市的Milk & Honey創建。\n*   以調酒師（亞當·沃爾夫勒姆）的姓氏命名，因為他是第一個點這款飲品的人。\n*   由於其均衡而複雜的風味而迅速受到歡迎。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass. Garnish with an orange twist.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的玻璃杯中。用橙皮扭轉裝飾。"
+  },
+  "garnish": {
+    "en": "Orange twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "郁金香杯或尼克與諾拉杯"
+  },
+  "appearance": {
+    "en": "Clear, deep red",
+    "zh": "清澈，深紅色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the strong alcoholic backbone and botanical notes.",
+        "zh": "提供強烈的酒精基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Orange Liqueur",
+        "zh": "橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘風味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds body, color, and tannins to the cocktail.",
+        "zh": "為雞尾酒增添酒體，顏色和單寧酸。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

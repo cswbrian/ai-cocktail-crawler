@@ -1,0 +1,168 @@
+{
+  "name": {
+    "en": "Jagertee",
+    "zh": "獵人茶"
+  },
+  "description": {
+    "en": "**Traditional Austrian Winter Warmer**\n\nA potent and flavorful hot beverage perfect for cold days, featuring:\n*   A blend of dark rum and Austrian herbal spirit.\n*   Sweetened and spiced with various ingredients.\n*   Served hot for maximum comfort.",
+    "zh": "**傳統奧地利暖冬飲品**\n\n一種濃烈而美味的熱飲，非常適合寒冷的日子，特色：\n*   深色蘭姆酒和奧地利草本烈酒的混合。\n*   用各種成分加糖和調味。\n*   熱飲以獲得最大的舒適度。"
+  },
+  "historical_reference": {
+    "en": "**Alpine Tradition**\n\n*   A traditional hot alcoholic beverage from Austria.\n*   Often enjoyed in ski resorts and mountain huts.\n*   Recipes vary, but generally include rum, spices, and fruit extracts.",
+    "zh": "**阿爾卑斯山的傳統**\n\n*   奧地利的傳統熱酒精飲料。\n*   通常在滑雪勝地和山間小屋享用。\n*   配方各不相同，但通常包括蘭姆酒、香料和水果提取物。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a heat-resistant glass or mug. Stir well. Heat until warm, but do not boil.",
+    "zh": "將所有成分放入耐熱玻璃杯或馬克杯中。 攪拌均勻。 加熱至溫熱，但不要煮沸。"
+  },
+  "garnish": {
+    "en": "Lemon wedge or orange slice (optional)",
+    "zh": "檸檬角或橙片（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Heat-resistant glass or mug",
+    "zh": "耐熱玻璃杯或馬克杯"
+  },
+  "appearance": {
+    "en": "Dark amber, opaque",
+    "zh": "深琥珀色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds depth and warmth.",
+        "zh": "增加深度和溫暖感。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Herbal Liqueur",
+        "zh": "草本利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal complexity and bitterness.",
+        "zh": "增加草本的複雜性和苦味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Black Tea",
+        "zh": "紅茶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle bitterness and tannic structure.",
+        "zh": "增加微妙的苦澀和單寧結構。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Orange Slice",
+        "zh": "橘子片"
+      },
+      "unit": {
+        "en": "piece",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds fruity sweetness and aroma.",
+        "zh": "增加水果的甜味和香氣。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Cinnamon Stick",
+        "zh": "肉桂棒"
+      },
+      "unit": {
+        "en": "piece",
+        "zh": "根"
+      },
+      "rationale": {
+        "en": "Adds spicy warmth and aroma.",
+        "zh": "增加辛辣的溫暖和香氣。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Clove",
+        "zh": "丁香"
+      },
+      "unit": {
+        "en": "piece",
+        "zh": "顆"
+      },
+      "rationale": {
+        "en": "Adds spicy warmth and aroma.",
+        "zh": "增加辛辣的溫暖和香氣。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Lemon Slice",
+        "zh": "檸檬片"
+      },
+      "unit": {
+        "en": "piece",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds citrusy brightness and aroma.",
+        "zh": "增加柑橘的明亮感和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

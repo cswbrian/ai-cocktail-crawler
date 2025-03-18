@@ -1,0 +1,102 @@
+{
+  "name": {
+    "en": "Greyhound",
+    "zh": "灰狗"
+  },
+  "description": {
+    "en": "**Simple and Refreshing Cocktail**\n\nThe Greyhound is a straightforward cocktail that combines:\n*   Vodka as the base spirit\n*   Grapefruit juice as the primary flavor component\n\nIt's known for its simplicity and thirst-quenching qualities, making it a popular choice for casual occasions.",
+    "zh": "**簡單清爽的雞尾酒**\n\n灰狗是一款直接的雞尾酒，結合了：\n*   伏特加作為基酒\n*   葡萄柚汁作為主要風味成分\n\n它以其簡單性和解渴特性而聞名，使其成為休閒場合的熱門選擇。"
+  },
+  "historical_reference": {
+    "en": "**Origins and Evolution**\n\n*   The name \"Greyhound\" is believed to originate from a cocktail served at Post Exchange (PX) bars, commonly found on Greyhound bus stations after World War II.\n*   Originally it combined vodka with canned grapefruit juice.\n*   Over time, the recipe has evolved to use fresh grapefruit juice for a more refined flavor.",
+    "zh": "**起源與演變**\n\n*   “灰狗”這個名字據信源於二戰後在灰狗巴士站常見的 Post Exchange (PX) 酒吧供應的一種雞尾酒。\n*   最初，它將伏特加與罐裝葡萄柚汁混合。\n*   隨著時間的推移，該配方已發展為使用新鮮葡萄柚汁，以獲得更精緻的風味。"
+  },
+  "technique": {
+    "en": "Combine vodka and grapefruit juice in a highball glass filled with ice. Stir gently.",
+    "zh": "將伏特加和葡萄柚汁在高球杯中混合，加入冰塊。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or twist (optional)",
+    "zh": "葡萄柚角或扭轉（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale, translucent liquid, often with a slight frothy head.",
+    "zh": "淡色半透明液體，通常帶有輕微的泡沫頂層。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base, offering a clean and neutral profile.",
+        "zh": "提供酒精基底，提供乾淨和中性的風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor, a balance of tartness and slight sweetness.",
+        "zh": "提供主要風味，酸味和輕微甜味的平衡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

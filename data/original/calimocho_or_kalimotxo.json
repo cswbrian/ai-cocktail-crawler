@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Calimocho",
+    "zh": "卡利莫喬"
+  },
+  "description": {
+    "en": "**Simple and Popular Drink**\n\nA very simple mixed drink, traditionally enjoyed in Spain and other parts of the world, especially at outdoor festivals and gatherings. It's known for its affordability and ease of preparation.\n\n*   Equal parts red wine and cola\n*   Serve chilled",
+    "zh": "**簡單而受歡迎的飲品**\n\n一種非常簡單的混合飲品，傳統上在西班牙和世界其他地方享用，尤其是在戶外節日和聚會上。它以其價格實惠且易於準備而聞名。\n\n*   等量的紅酒和可樂\n*   冷藏後飲用"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Basque Country, Spain, in the 1970s\n\n* Legend says it was accidentally created during a festival in Getxo when organizers mixed red wine with cola to mask its poor quality.\n* The name \"Kalimotxo\" (Basque spelling) or \"Calimocho\" (Spanish spelling) quickly spread throughout Spain.",
+    "zh": "**起源**: 西班牙巴斯克地區，1970年代\n\n* 傳說它是在 Getxo 的一個節日中意外創造的，當時組織者將紅酒與可樂混合，以掩蓋其劣質。\n* 名稱“Kalimotxo”（巴斯克語拼寫）或“Calimocho”（西班牙語拼寫）迅速傳遍西班牙。"
+  },
+  "technique": {
+    "en": "Pour equal parts red wine and cola over ice. Stir gently to combine.",
+    "zh": "將等量的紅酒和可樂倒入冰塊中。輕輕攪拌混合。"
+  },
+  "garnish": {
+    "en": "None typically, though a lemon or orange slice is sometimes added.",
+    "zh": "通常沒有，但有時會添加檸檬片或橙片。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or plastic cup",
+    "zh": "高球杯或塑膠杯"
+  },
+  "appearance": {
+    "en": "Dark red to black, depending on the cola and red wine used, often with a frothy head.",
+    "zh": "深紅色至黑色，取決於所使用的可樂和紅酒，通常帶有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Red Wine",
+        "zh": "紅酒"
+      },
+      "unit": {
+        "en": "part",
+        "zh": "份"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and tannins.",
+        "zh": "提供酒精基底和單寧。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Cola",
+        "zh": "可樂"
+      },
+      "unit": {
+        "en": "part",
+        "zh": "份"
+      },
+      "rationale": {
+        "en": "Adds sweetness, carbonation, and cuts the wine's intensity.",
+        "zh": "增加甜味、碳酸氣，並降低葡萄酒的強度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 4,
+    "complexity": 2,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "The Left Hand",
+    "zh": "左手"
+  },
+  "description": {
+    "en": "A stirred, spirit-forward cocktail offering a complex blend of sweet, bitter, and spicy notes. A variation on the classic Manhattan, it substitutes the sweet vermouth with equal parts of dry vermouth and Cynar, creating a more balanced and intriguing flavor profile. Pairs well with rich, savory foods.",
+    "zh": "一款需要攪拌的烈酒型雞尾酒，融合了甜、苦和辛辣的複雜風味。作為經典曼哈頓的變奏，它用等量的Dry Vermouth和Cynar代替了甜味Vermouth，創造出更平衡和有趣的風味。"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Created by Sam Ross at Milk & Honey in New York City.\n\n*   A riff on the Manhattan cocktail.\n*   Named after a Nick Cave and the Bad Seeds song, 'The Left Hand'",
+    "zh": "**起源：** 由 Sam Ross 在紐約市的 Milk & Honey 創造。\n\n*   曼哈頓雞尾酒的變奏。\n*   以 Nick Cave and the Bad Seeds 的歌曲「The Left Hand」命名。"
+  },
+  "technique": {
+    "en": "Stir with ice, strain into chilled glass.",
+    "zh": "與冰塊攪拌，倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora",
+    "zh": "高腳杯或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Dark amber, rich and inviting",
+    "zh": "深琥珀色，濃郁誘人"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust foundation.",
+        "zh": "提供辛辣和強勁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Cynar",
+        "zh": "西娜爾"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a bitter, herbal complexity.",
+        "zh": "增添苦味和草本複雜性。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "增添甜味和草本味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  }
+}

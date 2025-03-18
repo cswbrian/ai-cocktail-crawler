@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Kahlúa Stinger",
+    "zh": "咖啡Stinger"
+  },
+  "description": {
+    "en": "*A variation of the classic Stinger cocktail.*\n\nA simple yet flavorful after-dinner drink combining the rich coffee notes of coffee liqueur with the refreshing coolness of white crème de menthe.",
+    "zh": "*經典Stinger雞尾酒的變體.*\n\n一款簡單而美味的餐後飲品，結合了咖啡利口酒濃郁的咖啡香氣和白色薄荷奶油的清涼感。"
+  },
+  "historical_reference": {
+    "en": "The **Stinger** cocktail dates back to the late 1800s, often associated with New York high society.\n\nThe Kahlúa Stinger is a modern adaptation, substituting traditional brandy with coffee liqueur for a sweeter, coffee-flavored experience.",
+    "zh": "**Stinger**雞尾酒可以追溯到1800年代後期，通常與紐約上流社會有關。\n\nKahlúa Stinger是一種現代改編版本，用咖啡利口酒代替傳統的白蘭地，以獲得更甜美，更具咖啡風味的體驗。"
+  },
+  "technique": {
+    "en": "Pour ingredients into a glass filled with ice. Stir gently.",
+    "zh": "將材料倒入裝滿冰塊的杯子中。 輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or small wine glass",
+    "zh": "古典杯或小型葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Dark brown, opaque",
+    "zh": "深棕色，不透明"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides coffee flavor and sweetness.",
+        "zh": "提供咖啡風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "White Crème de Menthe",
+        "zh": "白色薄荷奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds minty freshness and sweetness.",
+        "zh": "增加薄荷的清新感和甜味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

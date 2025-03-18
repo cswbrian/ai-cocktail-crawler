@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Caipirinha",
+    "zh": "卡琵莉亞"
+  },
+  "description": {
+    "en": "**Brazil's National Cocktail**\n\nA simple yet refreshing drink made with:\n*   Cachaça, a spirit distilled from sugarcane juice.\n*   Fresh lime, muddled to release its oils and juice.\n*   Sugar, to balance the tartness of the lime.",
+    "zh": "**巴西的國家雞尾酒**\n\n一種簡單而清爽的飲品，由以下成分製成：\n*   Cachaça，一種由甘蔗汁蒸餾而成的烈酒。\n*   新鮮萊姆，搗碎以釋放其油脂和汁液。\n*   糖，以平衡萊姆的酸味。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Brazil\n\n*   Likely originated in the early 20th century.\n*   Variations existed, often using other spirits and ingredients, but Cachaça became the standard.\n*   Evolved from a folk remedy.",
+    "zh": "**起源**: 巴西\n\n*   可能起源於20世紀初。\n*   存在各種變體，通常使用其他烈酒和配料，但卡莎夏成為標準。\n*   由民間療法演變而來。"
+  },
+  "technique": {
+    "en": "Muddle lime wedges and sugar in an old-fashioned glass. Fill with ice and add cachaça. Stir well.",
+    "zh": "將萊姆角和糖在古典杯中搗碎。加入冰塊並倒入卡莎夏。充分攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge",
+    "zh": "萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light green-yellow, with muddled lime.",
+    "zh": "混濁，淺綠黃色，帶有搗碎的萊姆。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Cachaça",
+        "zh": "卡夏莎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the distinct base flavor characteristic of the cocktail.",
+        "zh": "提供雞尾酒獨特的基底風味。"
+      },
+      "tags": [
+        {
+          "en": "Cachaça",
+          "zh": "卡夏莎"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Lime",
+        "zh": "萊姆"
+      },
+      "unit": {
+        "en": "pcs",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides the sour, citrusy element that defines the cocktail.",
+        "zh": "提供酸味、柑橘味，定義了這款雞尾酒。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Balances the sourness of the lime and adds sweetness.",
+        "zh": "平衡萊姆的酸味並增加甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 7,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

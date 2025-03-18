@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "Sex on the Beach",
+    "zh": "海灘性愛"
+  },
+  "description": {
+    "en": "**Popular and Fruity Cocktail**\n\nA sweet and fruity cocktail that combines:\n*   Vodka for the base\n*   Peach Schnapps for distinct peach flavor\n*   Cranberry and orange juice for layered sweetness and tartness",
+    "zh": "**受歡迎的水果雞尾酒**\n\n一款香甜的水果雞尾酒，結合了：\n*   伏特加作為基底\n*   桃子Schnapps帶來獨特的桃子風味\n*   蔓越莓和柳橙汁帶來分層的甜味和酸味"
+  },
+  "historical_reference": {
+    "en": "**Modern Classic Cocktail**\n\n*   Origin: Created in the 1980s in Florida, USA.\n*   The name is believed to be inspired by the popularity of beach vacations.",
+    "zh": "**現代經典雞尾酒**\n\n*   起源：1980年代在美國佛羅里達州創造。\n*   據信該名稱的靈感來自海灘度假的流行。"
+  },
+  "technique": {
+    "en": "Build. Add all ingredients to a highball glass filled with ice. Stir gently to combine.",
+    "zh": "直接調合法。將所有材料加入裝滿冰塊的高球杯中。 輕輕攪拌均勻。"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry",
+    "zh": "橙片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Layered shades of red and orange, often with fruit garnishes.",
+    "zh": "分層的紅色和橙色陰影，通常帶有水果裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 40,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a neutral alcoholic base.",
+        "zh": "提供中性的酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Peach Schnapps",
+        "zh": "水蜜桃香甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds distinct peach flavor.",
+        "zh": "增加獨特的水蜜桃風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 80,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增添甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 40,
+      "name": {
+        "en": "Cranberry Juice",
+        "zh": "蔓越莓汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and color.",
+        "zh": "增加酸味和色彩。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

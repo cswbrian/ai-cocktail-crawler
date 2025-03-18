@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Grapefruit Horsefeather",
+    "zh": "葡萄柚馬頸"
+  },
+  "description": {
+    "en": "A refreshing variation on the classic Horsefeather cocktail, substituting grapefruit juice for lime.  It combines vodka with the tartness of grapefruit, the spice of ginger beer, and a dash of bitters for complexity. A delightful and effervescent drink.",
+    "zh": "經典馬頸雞尾酒的清爽變奏版，用葡萄柚汁代替青檸。 它將伏特加與葡萄柚的酸味、薑汁啤酒的辛辣味以及少許苦味結合在一起，使其更複雜。 令人愉悅且充滿活力的飲品。"
+  },
+  "historical_reference": {
+    "en": "The Horsefeather is a simple highball cocktail believed to have originated in Kansas.  This variation substitutes grapefruit for the more common lime found in a standard Horsefeather.  The exact origins are murky, but it gained popularity in the Midwest before spreading.",
+    "zh": "馬頸是一種簡單的高杯雞尾酒，據信起源於堪薩斯州。 這種變體用葡萄柚代替了標準馬頸中更常見的青檸。 確切的起源尚不清楚，但在向外傳播之前，它在中西部地區廣受歡迎。"
+  },
+  "technique": {
+    "en": "Build over ice in glass and stir gently.",
+    "zh": "在高杯中放入冰塊，輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Grapefruit wedge or twist",
+    "zh": "葡萄柚角或皮"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Pale pink, bubbly, with a citrus garnish.",
+    "zh": "淡粉色，有氣泡，帶有柑橘裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base with a clean profile.",
+        "zh": "提供乾淨的酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Grapefruit Juice, freshly squeezed",
+        "zh": "新鮮的葡萄柚汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and citrus notes.",
+        "zh": "增加酸味和柑橘味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dash Angostura Bitters",
+        "zh": "安格式苦味酒"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity.",
+        "zh": "增加深度和複雜性。"
+      }
+    },
+    {
+      "amount": 120,
+      "name": {
+        "en": "Ginger Beer",
+        "zh": "薑汁啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds spice, sweetness and fizz.",
+        "zh": "增加香料，甜味和氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

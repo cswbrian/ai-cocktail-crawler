@@ -1,0 +1,103 @@
+{
+  "name": {
+    "en": "Gimlet",
+    "zh": "吉姆雷特"
+  },
+  "description": {
+    "en": "*A simple, classic cocktail.*\n\nFeaturing:\n*   Gin (or vodka)\n*   Lime juice\n*   Sugar",
+    "zh": "*一款簡單的經典雞尾酒.*\n\n特色：\n* 琴酒（或伏特加）\n* 萊姆汁\n* 糖"
+  },
+  "historical_reference": {
+    "en": "**Origin:** Likely originated in the British Royal Navy during the 19th century.\n\n*   Sailors added lime juice to their gin rations to prevent scurvy.\n*   Originally used Rose's Lime Cordial to sweeten and preserve the lime juice.\n*   The name might derive from Surgeon Admiral Sir Thomas Gimlette, who supposedly prescribed the drink.",
+    "zh": "**起源：** 可能起源於19世紀的英國皇家海軍。\n\n*   水手們在琴酒配給中加入萊姆汁，以預防壞血病。\n*   最初使用Rose's Lime Cordial來增甜和保存萊姆汁。\n*   名稱可能源自外科醫師海軍上將托馬斯·吉姆利特爵士，據說是他開了這種飲料的處方。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "檸檬角或輪片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "碟型香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, slightly cloudy, pale green or colorless",
+    "zh": "清澈、略微混濁、淡綠色或無色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical character.",
+        "zh": "提供酒精基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and citrus flavor.",
+        "zh": "增加酸度和柑橘風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the acidity of the lime juice.",
+        "zh": "平衡萊姆汁的酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Sour",
+      "zh": "酸味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 7,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": {
+    "en": "Herbsaint Frappé",
+    "zh": "赫柏聖冰沙"
+  },
+  "description": {
+    "en": "**Refreshing Anise-flavored Slush**\n\nA simple, refreshing cocktail made with:\n*   Herbsaint for a strong anise flavor\n*   Sugar for sweetness\n*   Crushed ice for a slushy texture",
+    "zh": "**清爽的茴芹風味冰沙**\n\n一款簡單清爽的雞尾酒，由以下成分製成：\n*   Herbsaint，帶來濃郁的茴芹風味\n*   糖，帶來甜味\n*   碎冰，帶來泥濘般的口感"
+  },
+  "historical_reference": {
+    "en": "**New Orleans Classic**\n\n*   A variation on the classic Absinthe Frappé, using Herbsaint as a substitute after absinthe was banned.\n*   Popularized in New Orleans, particularly during hot weather.",
+    "zh": "**新奧爾良經典**\n\n*   經典苦艾酒冰沙的變體，在苦艾酒被禁後使用 Herbsaint 作為替代品。\n*   在新奧爾良普及，尤其是在炎熱的天氣裡。"
+  },
+  "technique": {
+    "en": "Combine Herbsaint, simple syrup, and crushed ice in a blender. Blend until slushy. Pour into glass.",
+    "zh": "將赫柏聖、簡糖漿和碎冰放入攪拌機中。攪拌至泥濘狀。倒入杯中。"
+  },
+  "garnish": {
+    "en": "None typically, mint sprig optional",
+    "zh": "通常沒有，可選薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or stemmed glass",
+    "zh": "古典杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Opaque, pale green, slushy consistency",
+    "zh": "不透明，淡綠色，泥濘的稠度"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Herbsaint",
+        "zh": "赫柏聖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the anise flavor",
+        "zh": "提供茴芹風味"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "teaspoons",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the anise flavor",
+        "zh": "增加甜度並平衡茴芹味"
+      }
+    },
+    {
+      "amount": 240,
+      "name": {
+        "en": "Crushed Ice",
+        "zh": "碎冰"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates the frappé texture",
+        "zh": "創造冰沙質地"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 2,
+    "bubbles": false
+  }
+}

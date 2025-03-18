@@ -1,0 +1,119 @@
+{
+  "name": {
+    "en": "Blue Hawaii",
+    "zh": "藍色夏威夷"
+  },
+  "description": {
+    "en": "**Tropical Delight**\n\nA vibrant blue cocktail that evokes the spirit of Hawaii, featuring:\n*   A blend of rum, pineapple juice, and blue curaçao.\n*   Sweet and fruity flavors.",
+    "zh": "**熱帶喜悅**\n\n一款充滿活力的藍色雞尾酒，喚起夏威夷的精神，特色：\n*   蘭姆酒、鳳梨汁和藍柑橘的混合。\n*   香甜的水果風味。"
+  },
+  "historical_reference": {
+    "en": "**Creation**: Created in 1957 by Harry Yee, head bartender at the Hilton Hawaiian Village Waikiki.\n\n*   Invented for a Dutch salesman who requested a blue drink.\n*   Named after the Elvis Presley movie *Blue Hawaii*.",
+    "zh": "**創建**: 1957年由希爾頓夏威夷度假村威基基的首席調酒師Harry Yee創造。\n\n*   為一位要求藍色飲料的荷蘭銷售員發明。\n*   以埃爾維斯·普雷斯利的電影《藍色夏威夷》命名。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a hurricane glass filled with ice.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入裝滿冰塊的颶風杯中。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and cherry",
+    "zh": "鳳梨角和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass",
+    "zh": "颶風杯"
+  },
+  "appearance": {
+    "en": "Bright blue-green, frothy, and garnished with fruit.",
+    "zh": "鮮豔的藍綠色，起泡，並用水果裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Light Rum",
+        "zh": "白蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and a subtle sweetness.",
+        "zh": "提供基酒和微妙的甜味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Blue Curaçao",
+        "zh": "藍橙味利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the signature blue color and orange flavor.",
+        "zh": "提供標誌性的藍色和橙子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and tropical flavor.",
+        "zh": "增加甜味和熱帶風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet and Sour Mix",
+        "zh": "酸甜汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds balance of sourness and sweetness.",
+        "zh": "增加酸甜的平衡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

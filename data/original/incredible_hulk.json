@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Incredible Hulk",
+    "zh": "綠巨人浩克"
+  },
+  "description": {
+    "en": "**A Powerful and Vibrant Cocktail**\n\nThe Incredible Hulk is a potent and visually striking cocktail known for its bright green color and strong flavor profile. It's a simple mix of:\n*   Cognac for depth\n*   Green colored liqueur for sweetness and color\n*   Lemon juice for a touch of sour",
+    "zh": "**強勁而充滿活力的雞尾酒**\n\n綠巨人浩克是一款強勁且視覺效果驚人的雞尾酒，以其鮮亮的綠色和濃郁的風味而聞名。它是以下簡單的混合物：\n*   干邑帶來深度\n*   綠色利口酒帶來甜味和色彩\n*   檸檬汁帶來一絲酸味"
+  },
+  "historical_reference": {
+    "en": "**Popularized in the early 2000s**\n\n*   Gained popularity in bars and nightclubs.\n*   Attributed to a drink mixed for actor Samuel L. Jackson by a bartender.\n*   Its vibrant color and strong alcohol content made it an instant hit.",
+    "zh": "**在2000年代初普及**\n\n*   在酒吧和夜總會中廣受歡迎。\n*   據說是一位調酒師為演員山繆·傑克遜調製的。\n*   其鮮豔的色彩和高酒精含量使其立即走紅。"
+  },
+  "technique": {
+    "en": "Shake with ice and strain into glass filled with ice.",
+    "zh": "與冰塊搖勻，然後倒入裝滿冰塊的杯中。"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry (optional)",
+    "zh": "橙片或櫻桃（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Old-fashioned glass or rocks glass",
+    "zh": "古典杯或岩石杯"
+  },
+  "appearance": {
+    "en": "Opaque, bright green liquid",
+    "zh": "不透明，鮮綠色液體"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavor.",
+        "zh": "提供基酒和濃郁的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Green colored liqueur",
+        "zh": "綠色利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, color and a unique flavor profile.",
+        "zh": "增加甜度、顏色和獨特的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a sour component to balance sweetness.",
+        "zh": "添加酸味以平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 8,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  }
+}

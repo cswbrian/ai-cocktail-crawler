@@ -1,0 +1,189 @@
+{
+  "name": {
+    "en": "Bloody Maria",
+    "zh": "血腥瑪麗亞"
+  },
+  "description": {
+    "en": "**Savory Tequila Cocktail**\n\nA spicy and savory variation of the classic Bloody Mary:\n*   Tequila instead of vodka for a distinct flavor.\n*   Tomato juice, spices, and hot sauce create a complex, layered taste.\n*   Garnishes like celery, olives, and lime enhance the experience.",
+    "zh": "**鹹香龍舌蘭雞尾酒**\n\n經典血腥瑪麗的辛辣鹹香變體：\n*   使用龍舌蘭酒代替伏特加，帶來獨特風味。\n*   番茄汁、香料和辣椒醬創造出複雜而多層次的口感。\n*   芹菜、橄欖和萊姆等裝飾增強體驗。"
+  },
+  "historical_reference": {
+    "en": "**Variation of the Bloody Mary**\n\n*   Created as a tequila-based alternative to the vodka-based Bloody Mary.\n*   Exact origin and creator are not definitively known, but it likely emerged in the mid-20th century with the rise of tequila's popularity in the United States.\n*   Shares the same savory and spicy profile as the original but with a distinct tequila twist.",
+    "zh": "**血腥瑪麗的變體**\n\n*   作為以龍舌蘭酒為基底，替代以伏特加為基底的血腥瑪麗而創造。\n*   確切的起源和創造者尚不清楚，但可能在20世紀中葉隨著龍舌蘭酒在美國的普及而出現。\n*   與原版具有相同的鹹香和辛辣風味，但帶有獨特的龍舌蘭酒風味。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a shaker with ice. Roll gently between the shaker halves to mix (or stir gently). Strain into an ice-filled glass. Garnish as desired.",
+    "zh": "將所有材料放入裝有冰塊的搖酒器中。在搖酒器的兩半之間輕輕滾動以混合（或輕輕攪拌）。濾入裝滿冰塊的杯子中。根據需要裝飾。"
+  },
+  "garnish": {
+    "en": "Celery stalk, lime wedge, olives, and/or spicy pickled vegetables.",
+    "zh": "芹菜莖、萊姆角、橄欖和/或辛辣醃製蔬菜。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass or pint glass",
+    "zh": "高球杯或品脫杯"
+  },
+  "appearance": {
+    "en": "Deep red, thick, and savory, often with visible spices and garnishes.",
+    "zh": "深紅色，濃稠，鹹香，通常可見香料和裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Tequila",
+        "zh": "龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic flavor.",
+        "zh": "提供酒精基底和獨特風味。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and body of the cocktail.",
+        "zh": "提供雞尾酒的基本風味和酒體。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness.",
+        "zh": "增加酸度和明亮度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Hot Sauce",
+        "zh": "辣椒醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds spiciness and heat.",
+        "zh": "增加辛辣和熱度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Worcestershire Sauce",
+        "zh": "伍斯特醬"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds umami and depth of flavor.",
+        "zh": "增加鮮味和風味深度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Celery Salt",
+        "zh": "芹菜鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory flavor.",
+        "zh": "增強鹹香風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Black Pepper",
+        "zh": "黑胡椒"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Adds a hint of spice.",
+        "zh": "增加一絲辛辣味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 5,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

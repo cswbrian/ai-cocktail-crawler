@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Rossini",
+    "zh": "羅西尼"
+  },
+  "description": {
+    "en": "**Refreshing Italian Cocktail**\n\nA simple yet elegant cocktail that combines:\n*   Strawberry puree for a fruity sweetness.\n*   Prosecco for effervescence and dryness.\n*   Served chilled in a flute glass.",
+    "zh": "**清爽的義大利雞尾酒**\n\n一款簡單而優雅的雞尾酒，結合了：\n*   草莓果泥，帶來水果的甜味。\n*   普羅塞克，帶來氣泡和清爽感。\n*   冰鎮後在高腳杯中供應。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Named after the Italian opera composer Gioachino Rossini.\n\n*   A variation of the Bellini cocktail, substituting peach puree with strawberry puree.\n*   Created in Venice, Italy.",
+    "zh": "**起源**: 以義大利歌劇作曲家焦阿基諾·羅西尼命名。\n\n*   貝里尼雞尾酒的變體，用草莓果泥代替桃子果泥。\n*   在義大利威尼斯創作。"
+  },
+  "technique": {
+    "en": "Pour strawberry puree into a chilled flute glass, top with Prosecco.",
+    "zh": "將草莓果泥倒入冰鎮的長笛杯中，再倒入普羅塞克。"
+  },
+  "garnish": {
+    "en": "Strawberry slice (optional)",
+    "zh": "草莓切片（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Flute Glass",
+    "zh": "長笛杯"
+  },
+  "appearance": {
+    "en": "Pink or red, effervescent",
+    "zh": "粉紅色或紅色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅賽克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the effervescence and forms the base of the cocktail.",
+        "zh": "提供氣泡並構成雞尾酒的基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Strawberry Puree",
+        "zh": "草莓果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and strawberry flavor.",
+        "zh": "增加甜味和草莓風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 3,
+    "body": 3,
+    "complexity": 4,
+    "bubbles": true
+  }
+}

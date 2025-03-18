@@ -1,0 +1,91 @@
+{
+  "name": {
+    "en": "Springbokkie",
+    "zh": "跳羚"
+  },
+  "description": {
+    "en": "**South African Shooter**\n\nA visually striking shooter representing the colors of the Springbok, South Africa's national animal.\n\n*   Layered drink, with Crème de Menthe on the bottom and Amarula Cream on top.\n*   Sweet and creamy taste.",
+    "zh": "**南非小酒**\n\n一款視覺上引人注目的小酒，代表南非國獸跳羚的顏色。\n\n*   分層飲料，底部為薄荷奶油，頂部為阿瑪茹拉奶油。\n*   口感香甜柔滑。"
+  },
+  "historical_reference": {
+    "en": "**Named after the Springbok**\n\nThe Springbokkie cocktail is a shooter named after the Springbok antelope, a national symbol of South Africa and the nickname of the South African national rugby team. Its colors mimic the Springbok's, with the green Crème de Menthe representing the grass and the creamy Amarula representing the antelope itself.",
+    "zh": "**以跳羚命名**\n\n跳羚雞尾酒是一款以跳羚命名的烈酒，跳羚是南非的國家象徵，也是南非國家橄欖球隊的暱稱。 它的顏色模仿跳羚的顏色，綠色的薄荷奶油代表草地，奶油色的阿瑪茹拉代表跳羚本身。"
+  },
+  "technique": {
+    "en": "Layered; carefully pour Amarula Cream over the back of a spoon to float on top of the Crème de Menthe.",
+    "zh": "分層；小心地將阿瑪茹拉奶油倒在湯匙背面，使其漂浮在薄荷奶油之上。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Shot glass",
+    "zh": "烈酒杯"
+  },
+  "appearance": {
+    "en": "Layered green and yellow liqueur",
+    "zh": "分層的綠色和黃色利口酒"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Crème de Menthe",
+        "zh": "薄荷酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a minty flavor and green color to the bottom layer.",
+        "zh": "為底層提供薄荷味和綠色。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Amarula Cream",
+        "zh": "阿瑪茹拉奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a creamy texture and sweet, fruity flavor to the top layer.",
+        "zh": "為頂層提供奶油般的質地和甜美的水果味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 1,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 3,
+    "bubbles": false
+  }
+}

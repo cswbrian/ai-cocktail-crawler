@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Savoy Affair",
+    "zh": "薩伏伊情事"
+  },
+  "description": {
+    "en": "**Classic Gin Sour Variation**\n\nA delicate and refreshing cocktail featuring:\n*   Gin for a botanical backbone\n*   Lemon juice for brightness\n*   Raspberry syrup for sweetness and color\n*   Egg white for a silky texture",
+    "zh": "**經典琴酒酸酒的變體**\n\n一款精緻清爽的雞尾酒，特色：\n*   琴酒提供植物風味基底\n*   檸檬汁帶來明亮感\n*   覆盆子糖漿帶來甜味和色彩\n*   蛋白帶來絲滑的質感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Savoy Cocktail Book (1930) by Harry Craddock\n\n*   A popular gin-based cocktail from the early 20th century.\n*   Features raspberry syrup to create a pink hue and fruity flavor.",
+    "zh": "**起源**: 哈利·克拉多克《薩伏伊雞尾酒書》(1930)\n\n*   20 世紀初流行的琴酒雞尾酒。\n*   以覆盆子糖漿營造粉紅色和水果風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients vigorously with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊充分搖勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Raspberries on a cocktail pick",
+    "zh": "覆盆子串在雞尾酒籤上"
+  },
+  "serve_in_glass": {
+    "en": "Coupe Glass",
+    "zh": "淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Pale pink, slightly cloudy, with a frothy head.",
+    "zh": "淡粉色，略帶混濁，有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and botanical notes.",
+        "zh": "提供烈酒基底和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and raspberry flavor.",
+        "zh": "增加甜味和覆盆子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質感和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

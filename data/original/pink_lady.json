@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Pink Lady",
+    "zh": "粉紅佳人"
+  },
+  "description": {
+    "en": "**Classic, Slightly Sweet Cocktail**\n\nA pre-Prohibition cocktail with a delicate balance of flavors:\n\n*   Gin base provides a botanical foundation.\n*   Apple brandy (or applejack) adds a fruity note.\n*   Lemon juice balances the sweetness.\n*   Grenadine contributes color and sweetness.\n*   Egg white creates a smooth, frothy texture.",
+    "zh": "**經典、微甜的雞尾酒**\n\n禁酒令之前的雞尾酒，具有精緻的風味平衡：\n\n*   琴酒基底提供植物風味。\n*   蘋果白蘭地（或蘋果傑克）增添水果風味。\n*   檸檬汁平衡甜度。\n*   石榴糖漿貢獻顏色和甜味。\n*   蛋白創造滑順、起泡的質地。"
+  },
+  "historical_reference": {
+    "en": "**Origins**: First appeared around the early 1900s.\n\n* Popularized in the 1920s and 1930s.\n* Named for the actress Hazel Dawn (aka 'The Pink Lady').\n* A favorite among women during the Prohibition era due to its sweeter flavor profile.",
+    "zh": "**起源**: 首次出現於1900年代初期。\n\n* 在1920年代和1930年代普及。\n* 以女演員Hazel Dawn（又名“粉紅女郎”）命名。\n* 由於其較甜的風味，在禁酒令時期受到女性的喜愛。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into chilled glass.",
+    "zh": "將所有材料與冰塊搖勻。濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Maraschino cherry",
+    "zh": "馬拉斯奇諾櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale pink, frothy",
+    "zh": "淡粉色，起泡"
+  },
+  "allergens": [
+    {
+      "en": "Egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Apple Brandy",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a fruity apple flavor.",
+        "zh": "增加蘋果的水果風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "增加甜味和顏色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness to balance sweetness.",
+        "zh": "增加酸味以平衡甜度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides a silky texture.",
+        "zh": "提供絲滑的質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

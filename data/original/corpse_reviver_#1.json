@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Corpse Reviver #1",
+    "zh": "死後復活一號"
+  },
+  "description": {
+    "en": "**Complex and Aromatic Cocktail**\n\nA potent pre-prohibition era cocktail designed to 'revive' the drinker. Features:\n*   Cognac for depth\n*   Calvados for apple notes\n*   Sweet Vermouth for sweetness and complexity",
+    "zh": "**複雜而芳香的雞尾酒**\n\n一種有效的禁酒令前時代雞尾酒，旨在“恢復”飲酒者。 特色：\n*   干邑白蘭地增加深度\n*   卡爾瓦多斯蘋果白蘭地帶來蘋果味\n*   甜味苦艾酒帶來甜味和複雜性"
+  },
+  "historical_reference": {
+    "en": "**Classic 'Corpse Reviver' Cocktail**\n\n*   One of several 'Corpse Reviver' cocktails designed as a hangover cure.\n*   Popularized in the early 20th century.\n*   Recipes vary, but Corpse Reviver #1 is well-documented.",
+    "zh": "**經典的“死後復活”雞尾酒**\n\n*   多種旨在緩解宿醉的“死後復活”雞尾酒之一。\n*   20 世紀初開始流行。\n*   配方各不相同，但 Corpse Reviver #1 有詳細記載。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass, chilled",
+    "zh": "冰鎮過的碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, translucent",
+    "zh": "淡黃色，半透明"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Generic Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the spirituous base.",
+        "zh": "構成酒精基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds body and rich flavor.",
+        "zh": "增加酒體和濃郁的風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Calvados",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds apple notes and complexity.",
+        "zh": "增添蘋果味和複雜性。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes.",
+        "zh": "增添甜味和草藥味。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

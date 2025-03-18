@@ -1,0 +1,92 @@
+{
+  "name": {
+    "en": "Bicicletta",
+    "zh": "比西克列塔"
+  },
+  "description": {
+    "en": "**Aperitivo Classic**\n\nA refreshing and simple Italian cocktail, perfect as an aperitif. Combines:\n*   Dry white wine to create a light and crisp base.\n*   Bitters to add complexity and balance.\n*   Orange slice or zest for garnish.",
+    "zh": "**餐前經典**\n\n一杯清新簡單的義大利雞尾酒，非常適合作為餐前酒。結合：\n*   不甜白酒，打造輕盈清爽的基底。\n*   苦味酒，增加複雜性和平衡。\n*   橙片或橙皮作裝飾。"
+  },
+  "historical_reference": {
+    "en": "**Italian Aperitivo**\n\n*   Originated in Italy.\n*   Name means bicycle in Italian, referring to the ease with which it can be enjoyed, like a leisurely bike ride.\n*   Simple and refreshing, intended as a pre-dinner drink.",
+    "zh": "**義大利餐前酒**\n\n*   起源於義大利。\n*   名稱在義大利語中意為自行車，指的是它易於享用的特性，就像悠閒的自行車之旅。\n*   簡單而清爽，旨在作為餐前飲品。"
+  },
+  "technique": {
+    "en": "Build over ice.",
+    "zh": "在冰上調製。"
+  },
+  "garnish": {
+    "en": "Orange slice or zest",
+    "zh": "橙片或橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass",
+    "zh": "葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Pale red, clear, with effervescence.",
+    "zh": "淡紅色，清澈，帶氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Red Bitter Aperitivo",
+        "zh": "紅色苦味餐前酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitterness, color, and complex herbal notes.",
+        "zh": "增加苦味、顏色和複雜的草本味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Dry White Wine",
+        "zh": "不甜白葡萄酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and structure of the cocktail, adding dryness and acidity.",
+        "zh": "提供雞尾酒的基底和結構，增加乾澀感和酸度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 4,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

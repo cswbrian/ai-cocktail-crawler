@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Kahlúa Alexander",
+    "zh": "卡魯哇亞歷山大"
+  },
+  "description": {
+    "en": "*A decadent twist on the classic Alexander cocktail.* Combining the rich flavors of coffee liqueur with gin and cream. *Smooth, creamy, and delightfully indulgent.*",
+    "zh": "*經典亞歷山大雞尾酒的頹廢轉變。* 將咖啡利口酒的濃郁風味與琴酒和鮮奶油結合。*口感柔滑、奶油般，令人愉悅地沉溺其中。*"
+  },
+  "historical_reference": {
+    "en": "The *Alexander* cocktail itself is believed to have originated in the early 20th century. The *Kahlúa Alexander* is a more modern variation, incorporating coffee liqueur for a richer, sweeter profile. There are several stories about the origins of the original Alexander, but none can be definitively proven.",
+    "zh": "*亞歷山大*雞尾酒本身據信起源於20世紀初。*卡魯哇亞歷山大*是一種更現代的變體，融入咖啡利口酒，以獲得更豐富、更甜美的風味。關於原始亞歷山大的起源有多個故事，但沒有一個可以明確證明。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled coupe glass.",
+    "zh": "將所有材料與冰塊搖勻，然後過濾到冰鎮的高腳杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown",
+    "zh": "乳白色，淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Dairy (cream)",
+      "zh": "乳製品（奶油）"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡風味和甜味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base.",
+        "zh": "提供酒體基礎。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and texture.",
+        "zh": "增加乳脂感和質地。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

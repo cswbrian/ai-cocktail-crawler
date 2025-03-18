@@ -1,0 +1,123 @@
+{
+  "name": {
+    "en": "Farnell",
+    "zh": "法內爾"
+  },
+  "description": {
+    "en": "**A Bold Rye Whiskey Cocktail**\n\nA stirred cocktail emphasizing the rich flavors of rye whiskey, with subtle supporting elements:\n\n*   Amaro adds complexity and bitterness.\n*   Simple syrup provides a touch of sweetness.\n*   Bitters enhance the overall flavor profile.",
+    "zh": "**一款大膽的黑麥威士忌雞尾酒**\n\n一款攪拌式雞尾酒，突顯黑麥威士忌的濃郁風味，並帶有微妙的輔助元素：\n\n*   阿瑪洛增加了複雜性和苦味。\n*   簡單糖漿提供了一絲甜味。\n*   苦精增強了整體風味。"
+  },
+  "historical_reference": {
+    "en": "While a very modern creation, it is a play on the many stirred whiskey forward drinks from the early 2000's. The original was made with Rittenhouse Rye, Averna Amaro and a dash of orange bitters.",
+    "zh": "雖然是一個非常現代的創作，但它是對2000年代初期的許多攪拌式威士忌主導飲品的致敬。 最初是用Rittenhouse Rye、Averna Amaro和少許橙子苦精製成的。"
+  },
+  "technique": {
+    "en": "Stir with ice until well-chilled, then strain into a rocks glass over a large ice cube.",
+    "zh": "與冰塊攪拌至完全冰鎮，然後過濾到裝有大冰塊的古典杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel, expressed",
+    "zh": "橙皮，擠壓"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "古典杯"
+  },
+  "appearance": {
+    "en": "Dark amber and clear, with an oily sheen",
+    "zh": "深琥珀色且清澈，帶有油亮的光澤"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the robust base and spicy notes.",
+        "zh": "提供強勁的基底和辛辣味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Amaro",
+        "zh": "阿瑪洛"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bitter, herbal, and complex flavors.",
+        "zh": "增添苦味、草本和複雜的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness to balance the bitterness and spice.",
+        "zh": "增加一絲甜味，以平衡苦味和辛辣味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic notes.",
+        "zh": "增加複雜性和芳香。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

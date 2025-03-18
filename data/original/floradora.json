@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Floradora",
+    "zh": "弗洛拉多拉"
+  },
+  "description": {
+    "en": "A refreshing and effervescent cocktail. The Floradora is a delightful mix of gin, lime, raspberry syrup, and ginger ale, resulting in a sweet, tart, and bubbly experience.",
+    "zh": "一款清新且充滿氣泡的雞尾酒。Floradora 是琴酒、萊姆、覆盆子糖漿和薑汁汽水的美味混合，帶來甜美、酸澀和氣泡的體驗。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Thought to originate in the early 1900s, named after the popular Broadway musical *Florodora* (1900).\n\n*   The musical was known for its chorus line of beautiful women, adding to the cocktail's allure.\n*   The Floradora gained popularity during the early 20th century as a refreshing and stylish drink.",
+    "zh": "**起源**: 據信起源於 1900 年代初期，以廣受歡迎的百老匯音樂劇《*Florodora*》（1900 年）命名。\n\n*   這部音樂劇以其美麗的合唱團女郎而聞名，增加了雞尾酒的吸引力。\n*   Floradora 在 20 世紀初作為一種清新時尚的飲品而廣受歡迎。"
+  },
+  "technique": {
+    "en": "Build all ingredients over ice in a highball glass. Top with ginger ale and stir gently.",
+    "zh": "將所有材料放入裝有冰塊的高杯中。加入薑汁汽水並輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lime wedge or raspberry.",
+    "zh": "萊姆角或覆盆子。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass.",
+    "zh": "高杯。"
+  },
+  "appearance": {
+    "en": "Pink or light red hue with visible effervescence.",
+    "zh": "粉紅色或淡紅色，帶有明顯的氣泡。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical backbone of the cocktail.",
+        "zh": "提供雞尾酒的基酒和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a citrusy tartness to balance the sweetness.",
+        "zh": "增加柑橘酸味以平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Raspberry Syrup",
+        "zh": "覆盆子糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a distinct raspberry flavor.",
+        "zh": "增加甜味和獨特的覆盆子風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

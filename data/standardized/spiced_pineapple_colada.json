@@ -1,0 +1,145 @@
+{
+  "name": {
+    "en": "Spiced Pineapple Colada",
+    "zh": "香料鳳梨可樂達"
+  },
+  "description": {
+    "en": "**A Spicy Tropical Delight**\n\nThis twist on the classic Piña Colada introduces a warming spice element, complementing the sweet pineapple and creamy coconut:\n\n*   A blend of rum, pineapple, coconut cream, and spices creates a balanced flavor profile.\n*   Ideal for warm weather or bringing a taste of the tropics to any occasion.",
+    "zh": "**辛辣的熱帶美味**\n\n這款經典的鳳梨可樂達的變奏版引入了溫暖的香料元素，與甜美的鳳梨和奶油椰子相得益彰：\n\n*   蘭姆酒、鳳梨、椰奶和香料的混合創造出平衡的風味。\n*   適合溫暖的天氣或將熱帶風味帶到任何場合。"
+  },
+  "historical_reference": {
+    "en": "**Modern Twist on a Classic**\n\nWhile the Piña Colada's origins are well-established, this spiced variation is a more recent invention, aiming to add depth and warmth to the traditional recipe:\n\n*   The Piña Colada was created in Puerto Rico in the 1950s.\n*   Spiced variations have emerged in recent years, reflecting a trend towards bolder flavor combinations.",
+    "zh": "**經典的現代轉變**\n\n雖然鳳梨可樂達的起源已確立，但這種香料變體是最近的發明，旨在為傳統配方增加深度和溫暖感：\n\n*   鳳梨可樂達於 1950 年代在波多黎各創造。\n*   近年來出現了香料變體，反映了更大膽的風味組合趨勢。"
+  },
+  "technique": {
+    "en": "Blend all ingredients with ice until smooth. Pour into glass and garnish.",
+    "zh": "將所有材料與冰塊混合均勻。倒入玻璃杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge, sprinkle of cinnamon or nutmeg",
+    "zh": "鳳梨角，撒上肉桂或肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane glass or large goblet",
+    "zh": "颶風杯或大高腳杯"
+  },
+  "appearance": {
+    "en": "Creamy, light yellow-brown with a frothy top, garnished with pineapple wedge and a sprinkle of spice.",
+    "zh": "乳白色，淺黃棕色，頂部有泡沫，以鳳梨角和少許香料裝飾。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Rum",
+        "zh": "冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the tropical base and alcoholic backbone.",
+        "zh": "提供熱帶基底和酒精骨幹。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "冧酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary fruity sweetness.",
+        "zh": "提供主要的果香甜味。"
+      }
+    },
+    {
+      "amount": 45,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and creamy texture.",
+        "zh": "增加濃郁度和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Spice Mix (cinnamon, nutmeg, ginger)",
+        "zh": "綜合香料（肉桂、肉荳蔻、薑）"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds warmth and complexity.",
+        "zh": "增添溫暖感和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

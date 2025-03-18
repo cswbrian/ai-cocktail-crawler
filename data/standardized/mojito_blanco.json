@@ -1,0 +1,149 @@
+{
+  "name": {
+    "en": "Mojito",
+    "zh": "莫希托"
+  },
+  "description": {
+    "en": "**Classic Cuban Cocktail**\n\nA refreshing and vibrant cocktail:\n*   Muddled mint and lime release essential oils.\n*   Rum provides the alcoholic backbone.\n*   Soda water adds fizz and dilutes the sweetness.",
+    "zh": "**經典古巴雞尾酒**\n\n一款清新充滿活力的雞尾酒：\n*   搗碎的薄荷和檸檬釋放精油。\n*   蘭姆酒提供酒精骨幹。\n*   蘇打水增加氣泡並稀釋甜度。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Cuba\n\n*   Its roots can be traced back to the 16th century.\n*   Evolved from a medicinal drink used by indigenous Cubans.\n*   Popularized in the early 20th century.",
+    "zh": "**起源**: 古巴\n\n*   其根源可以追溯到 16 世紀。\n*   由古巴原住民使用的藥用飲料演變而來。\n*   在 20 世紀初普及。"
+  },
+  "technique": {
+    "en": "Muddle mint with sugar and lime juice, add rum, fill with ice, top with soda water.",
+    "zh": "將薄荷與糖和檸檬汁混合搗碎，加入蘭姆酒，加滿冰塊，最後加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Mint sprig and lime wedge",
+    "zh": "薄荷枝和檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯"
+  },
+  "appearance": {
+    "en": "Clear, bubbly, light green",
+    "zh": "清澈，有氣泡，淡綠色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and characteristic flavor.",
+        "zh": "提供酒精基底和特色風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 6,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Provides refreshing herbal notes.",
+        "zh": "提供清爽的草本氣息。"
+      }
+    },
+    {
+      "amount": 25,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the lime juice.",
+        "zh": "增加甜度以平衡檸檬汁。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

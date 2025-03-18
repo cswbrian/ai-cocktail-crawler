@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Gin Fizz",
+    "zh": "琴費士"
+  },
+  "description": {
+    "en": "**A Classic and Refreshing Cocktail**\n\nThe Gin Fizz is a simple yet elegant cocktail known for its refreshing taste and fizzy texture. Key elements include:\n*   Gin for botanical depth\n*   Lemon juice for tartness\n*   Sugar for sweetness\n*   Soda water for effervescence\n*   Optional egg white for a silky texture",
+    "zh": "**經典又清爽的雞尾酒**\n\nGin Fizz 是一款簡單而優雅的雞尾酒，以其清爽的口感和氣泡質地而聞名。 主要元素包括：\n* 琴酒帶來植物風味\n* 檸檬汁帶來酸味\n* 糖帶來甜味\n* 蘇打水帶來氣泡\n* 可選的蛋白帶來絲滑的口感"
+  },
+  "historical_reference": {
+    "en": "**A Timeless Classic**\n\nThe Gin Fizz has a long and storied history, with its roots tracing back to the mid-19th century. \n\n*   Popularized in the late 1800s.\n*   Variations include the Ramos Gin Fizz (with cream and orange flower water).\n*   Mentioned in numerous cocktail books and guides over the years.",
+    "zh": "**永恆的經典**\n\nGin Fizz 擁有悠久而傳奇的歷史，其根源可以追溯到 19 世紀中葉。\n\n* 在 1800 年代後期普及。\n* 變化包括 Ramos Gin Fizz（含奶油和橙花水）。\n* 多年來在眾多雞尾酒書籍和指南中都有提及。"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except soda water) with ice. Strain into a highball glass filled with ice. Top with soda water.",
+    "zh": "將所有材料（蘇打水除外）與冰塊一起搖勻。 濾入裝滿冰塊的高球杯中。 最後加入蘇打水。"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge",
+    "zh": "檸檬或萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale, cloudy, effervescent",
+    "zh": "淡色、混濁、有氣泡"
+  },
+  "allergens": [
+    {
+      "en": "egg white (optional)",
+      "zh": "蛋白（可選）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic kick.",
+        "zh": "提供基底風味和酒精強度。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜度。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and lengthens the drink.",
+        "zh": "增加氣泡並延長飲用時間。"
+      }
+    },
+    {
+      "amount": 0,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白 (可選)"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加絲滑口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  }
+}

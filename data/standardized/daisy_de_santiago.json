@@ -1,0 +1,156 @@
+{
+  "name": {
+    "en": "Daisy de Santiago",
+    "zh": "聖地牙哥黛西"
+  },
+  "description": {
+    "en": "**A Cuban Classic**\n\nThe Daisy de Santiago is a refreshing and balanced cocktail, showcasing the bright flavors of rum and citrus.\n\nKey features:\n*   Blend of aged rum for depth\n*   Lime and lemon juice for a balanced sour note\n*   Yellow Chartreuse for herbal complexity\n*   Dash of grenadine for color and hint of sweetness\n*   Sparkling wine for effervescence",
+    "zh": "**古巴經典**\n\n聖地牙哥黛西是一款清爽均衡的雞尾酒，展現了蘭姆酒和柑橘的明亮風味。\n\n主要特點：\n*   使用陳年蘭姆酒增添深度\n*   檸檬和萊姆汁帶來平衡的酸味\n*   黃色查特酒帶來草本的複雜性\n*   少許紅石榴糖漿增添色澤和一絲甜味\n*   氣泡酒增添氣泡感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Cuba\n\n*   Likely originated in Santiago de Cuba.\n*   A variation of the classic Daisy cocktail family.\n*   Became popular during the early 20th century.",
+    "zh": "**起源**：古巴\n\n*   可能起源於古巴聖地牙哥。\n*   經典黛西雞尾酒系列的變體。\n*   在20世紀初開始流行。"
+  },
+  "technique": {
+    "en": "Shake all ingredients (except sparkling wine) with ice. Strain into a chilled glass. Top with sparkling wine.",
+    "zh": "將所有材料（除了氣泡酒）與冰塊搖勻。 濾入冰鎮的杯子中。 最後加入氣泡酒。"
+  },
+  "garnish": {
+    "en": "Lime wedge or wheel",
+    "zh": "萊姆角或萊姆片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Cocktail Glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear, and effervescent",
+    "zh": "淡黃色、清澈且有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and a touch of sweetness.",
+        "zh": "提供基酒和一絲甜味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Yellow Component",
+        "zh": "黃色成分"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and sweet notes.",
+        "zh": "增加草本和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "增加酸味和柑橘味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and citrus notes.",
+        "zh": "增加酸味和柑橘味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness and color.",
+        "zh": "增加一絲甜味和顏色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": true
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": {
+    "en": "Yale Cocktail",
+    "zh": "耶魯雞尾酒"
+  },
+  "description": {
+    "en": "**Classic pre-Prohibition cocktail**\n\nA refreshing and subtly complex drink, featuring:\n*   Equal parts gin and crème de violette.\n*   Dash of bitters for added depth.",
+    "zh": "**經典禁酒令前雞尾酒**\n\n 一款清新且略帶複雜的飲品，特色：\n*   等比例琴酒和紫羅蘭利口酒。\n*   少許苦精增加深度。"
+  },
+  "historical_reference": {
+    "en": "**Pre-Prohibition Era Cocktail**\n\n*   Appears in early cocktail books\n*   Name origin is uncertain, possibly linked to Yale University.",
+    "zh": "**禁酒令前時代雞尾酒**\n\n*   出現在早期的雞尾酒書籍中\n*   名稱來源不確定，可能與耶魯大學有關。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or violet blossom (optional)",
+    "zh": "檸檬皮或紫羅蘭花（可選）"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe",
+    "zh": "雞尾酒杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Golden and clear, with a slight green hue.",
+    "zh": "金黃清澈，略帶綠色色調。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary botanical flavor and alcoholic base.",
+        "zh": "提供主要的植物風味和酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Crème de Violette",
+        "zh": "紫羅蘭甜酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Imparts a floral aroma and subtle sweetness, giving the drink its signature color.",
+        "zh": "賦予花香和微妙的甜味，使飲品具有標誌性顏色。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a touch of sweetness to balance the cocktail.",
+        "zh": "添加一絲甜味以平衡雞尾酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  }
+}
