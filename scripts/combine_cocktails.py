@@ -20,7 +20,7 @@ def combine_cocktails():
     # Save the combined list to cocktails.json
     output_file = Path('cocktails.json')
     with open(output_file, 'w') as f:
-        json.dump(cocktails, f, indent=2)
+        json.dump(cocktails, f, indent=2, ensure_ascii=False)
     
     print(f"Combined {len(cocktails)} cocktails into {output_file}")
 

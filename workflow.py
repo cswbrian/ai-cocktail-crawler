@@ -267,6 +267,10 @@ class CocktailWorkflow:
     
     def standardize_names(self) -> None:
         """Standardize names in all cocktail files using the mappings"""
+        # First, get all files in standardized directory
+        standardized_files = set(f.name for f in self.base_dirs['standardized'].glob('*.json'))
+        
+        # Process only files that exist in original directory
         for file_path in self.base_dirs['original'].glob('*.json'):
             with open(file_path, 'r', encoding='utf-8') as f:
                 cocktail = json.load(f)
@@ -328,6 +332,14 @@ class CocktailWorkflow:
                 json.dump(standardized_cocktail, f, ensure_ascii=False, indent=2)
             
             print(f"Saved standardized version of {file_path.name} to {standardized_file}")
+        
+        # Remove files from standardized directory that don't exist in original
+        for file_name in standardized_files:
+            original_file = self.base_dirs['original'] / file_name
+            if not original_file.exists():
+                standardized_file = self.base_dirs['standardized'] / file_name
+                standardized_file.unlink()
+                print(f"Removed {file_name} from standardized directory as it no longer exists in original")
     
     def run_workflow(self, cocktail_names: List[str], standardize: bool = False) -> None:
         """Run the complete workflow"""
@@ -355,27 +367,6 @@ if __name__ == '__main__':
     
     # Use the cocktail list from main.py
     cocktails = [
-        "Garibaldi", "Jungle Bird", "Enzoni", "Siesta", "Bicicletta", "Cardinale", "Milano-Torino", 
-        "The Left Hand", "Old Pal", "Sorrentino", "The Ribbon", "Sloegroni", "Old Acquaintance", 
-        "Old Gal", "Killer Cocktail", "English Marmalade", "Jasmine", "Paris Between the Wars", 
-        "Spaghett", "Blood and Sand", "Remember the Maine", "Little Italy", "Liberal Cocktail", 
-        "Brooklyn Cocktail", "Bobby Burns", "Bamboo Cocktail", "Americano", "Vieux Carré", 
-        "Million Dollar Cocktail", "Liberal Cocktail", "Horsefeather", "Between the Sheets", 
-        "Corpse Reviver #2", "Champagne Cocktail", "Penicillin", "Cardinale", "Old Pal", "Enzoni", 
-        "The Left Hand", "Adonis", "Income Tax Cocktail", "Maiden's Prayer", "Chrysanthemum", 
-        "20th Century Cocktail", "Alexandre", "Bronx Cocktail", "Dukes Martini", "El Presidente", 
-        "Ford Cocktail", "Harvard Cocktail", "Ideal Cocktail", "Piccadilly Cocktail", "Silver Streak", 
-        "Turf Club Cocktail", "Upside Down Martini", "Yale Cocktail", "Bijou Cocktail", "Dry Rob Roy", 
-        "Savoy Corpse Reviver", "Black Russian", "White Russian", "Espresso Martini", "Brave Bull", 
-        "Colorado Bulldog", "Mind Eraser", "Flying Grasshopper", "Blind Russian", "Russian Quaalude", 
-        "Toasted Almond", "Reverend's Daughter", "Kahlúa and Cream", "Kahlúa Fizz", "Kahlúa Sour", 
-        "Kahlúa Alexander", "Kahlúa Hot Chocolate", "Kahlúa Mudslide", "Kahlúa Stinger", "Kahlúa Frappe", 
-        "Dirty Mother", "B-52", "Chocolate Martini", "Irish Coffee", "Baileys Hot Chocolate", 
-        "Baileys Alexander", "Baileys White Russian", "Baileys Mudslide", "Baileys Frappé", 
-        "Baileys and Coffee", "Baileys and Cream Soda", "Baileys and Milk", "Baileys and Frangelico", 
-        "Baileys and Amaretto", "Baileys and Mint Chocolate", "Baileys and Hazelnut Liqueur", 
-        "Baileys and Vodka Shot", "Baileys and Brandy", "Baileys and Dark Rum", 
-        "Baileys and Butterscotch Schnapps", "Baileys and Ice Cream"
     ]
     
     # Run the workflow with standardization

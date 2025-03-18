@@ -142,7 +142,7 @@
         "en": "Scotch Whisky",
         "zh": "蘇格蘭威士忌"
       },
-      "count": 15,
+      "count": 14,
       "tags": []
     },
     {
@@ -210,14 +210,6 @@
     },
     {
       "name": {
-        "en": "Irish Whiskey",
-        "zh": "愛爾蘭威士忌"
-      },
-      "count": 10,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Light Rum",
         "zh": "白蘭姆酒"
       },
@@ -278,6 +270,14 @@
           "zh": "卡夏莎"
         }
       ]
+    },
+    {
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "count": 7,
+      "tags": []
     },
     {
       "name": {
@@ -786,7 +786,7 @@
         "en": "Sweet Vermouth",
         "zh": "甜苦艾酒"
       },
-      "count": 44,
+      "count": 43,
       "tags": []
     },
     {
@@ -795,14 +795,6 @@
         "zh": "咖啡利口酒"
       },
       "count": 26,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Irish Cream Liqueur",
-        "zh": "愛爾蘭奶油利口酒"
-      },
-      "count": 23,
       "tags": []
     },
     {
@@ -819,6 +811,14 @@
         "zh": "苦艾酒"
       },
       "count": 18,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
+      },
+      "count": 17,
       "tags": []
     },
     {
@@ -935,14 +935,6 @@
     },
     {
       "name": {
-        "en": "Irish Cream",
-        "zh": "愛爾蘭奶油"
-      },
-      "count": 5,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Lillet Blanc",
         "zh": "麗葉酒"
       },
@@ -967,14 +959,6 @@
     },
     {
       "name": {
-        "en": "Cherry Heering",
-        "zh": "櫻桃希林酒"
-      },
-      "count": 4,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Chocolate Liqueur",
         "zh": "巧克力利口酒"
       },
@@ -993,6 +977,14 @@
       "name": {
         "en": "Falernum",
         "zh": "法勒南香甜酒"
+      },
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
       },
       "count": 4,
       "tags": []
@@ -1033,6 +1025,14 @@
       "name": {
         "en": "Blue Curaçao",
         "zh": "藍橙味利口酒"
+      },
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Cherry Heering",
+        "zh": "櫻桃希林酒"
       },
       "count": 3,
       "tags": []
@@ -2473,14 +2473,6 @@
     },
     {
       "name": {
-        "en": "Fresh Cream",
-        "zh": "鮮奶油"
-      },
-      "count": 3,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Grenadine",
         "zh": "石榴糖漿"
       },
@@ -2547,14 +2539,6 @@
       "name": {
         "en": "Banana",
         "zh": "香蕉"
-      },
-      "count": 2,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Brewed Coffee",
-        "zh": "沖泡咖啡"
       },
       "count": 2,
       "tags": []
@@ -2635,6 +2619,14 @@
       "name": {
         "en": "Dry White Wine",
         "zh": "不甜白葡萄酒"
+      },
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Fresh Cream",
+        "zh": "鮮奶油"
       },
       "count": 2,
       "tags": []
@@ -2969,6 +2961,14 @@
     },
     {
       "name": {
+        "en": "Brewed Coffee",
+        "zh": "沖泡咖啡"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Brown Sugar Syrup",
         "zh": "紅糖糖漿"
       },
@@ -3035,14 +3035,6 @@
       "name": {
         "en": "Chocolate Bitters",
         "zh": "巧克力苦精"
-      },
-      "count": 1,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Chocolate Flavoring",
-        "zh": "巧克力調味劑"
       },
       "count": 1,
       "tags": []
@@ -4169,14 +4161,6 @@
     },
     {
       "name": {
-        "en": "Vanilla Flavoring",
-        "zh": "香草調味劑"
-      },
-      "count": 1,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Water or Ice",
         "zh": "水或冰塊"
       },
@@ -4302,7 +4286,7 @@
         "en": "Citrus",
         "zh": "柑橘"
       },
-      "count": 357,
+      "count": 356,
       "tags": []
     },
     {
@@ -4310,7 +4294,7 @@
         "en": "Fruity",
         "zh": "果香"
       },
-      "count": 341,
+      "count": 340,
       "tags": []
     },
     {
@@ -4318,7 +4302,7 @@
         "en": "Herbal",
         "zh": "草本"
       },
-      "count": 321,
+      "count": 320,
       "tags": []
     },
     {
@@ -4347,14 +4331,6 @@
     },
     {
       "name": {
-        "en": "Vanilla",
-        "zh": "香草"
-      },
-      "count": 109,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Floral",
         "zh": "花香"
       },
@@ -4363,10 +4339,10 @@
     },
     {
       "name": {
-        "en": "Creamy",
-        "zh": "乳脂"
+        "en": "Vanilla",
+        "zh": "香草"
       },
-      "count": 92,
+      "count": 101,
       "tags": []
     },
     {
@@ -4379,26 +4355,18 @@
     },
     {
       "name": {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      "count": 84,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Nutty",
         "zh": "堅果"
       },
-      "count": 68,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Chocolate",
-        "zh": "朱古力"
-      },
-      "count": 54,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Coffee",
-        "zh": "咖啡"
-      },
-      "count": 50,
+      "count": 61,
       "tags": []
     },
     {
@@ -4406,7 +4374,23 @@
         "en": "Smoky",
         "zh": "煙燻"
       },
-      "count": 48,
+      "count": 47,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Chocolate",
+        "zh": "朱古力"
+      },
+      "count": 46,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Coffee",
+        "zh": "咖啡"
+      },
+      "count": 44,
       "tags": []
     },
     {
