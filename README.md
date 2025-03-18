@@ -1,6 +1,6 @@
 # Cocktail Crawler Project
 
-This project is a cocktail information crawler that fetches detailed cocktail recipes and information using the Gemini API.
+This project is a cocktail information crawler that fetches detailed cocktail recipes and information using the Gemini API, with support for standardization and bilingual data processing.
 
 ## Prerequisites
 
@@ -45,41 +45,63 @@ Before you begin, ensure you have the following installed:
      API_KEY = "your_api_key_here"
      ```
 
-6. **Run the project**
+6. **Set up name mappings**
+   - Create a `data/name_mappings.yaml` file for ingredient standardization
+   - Define mappings for base spirits, liqueurs, ingredients, and flavor descriptors
+
+7. **Run the project**
    ```bash
-   python main.py
+   python workflow.py
    ```
 
 ## Project Structure
 
-- `main.py`: Main script to fetch and save cocktail data
+- `workflow.py`: Main workflow script that handles data processing and standardization
 - `llm_client.py`: Handles API communication with Gemini
 - `config.py`: Contains API configuration (you need to create this)
-- `data/cocktails/`: Directory where individual cocktail JSON files are stored
-- `scripts/`: Contains utility scripts for processing cocktail data
+- `data/`: Project data directory structure:
+  - `original/`: Raw cocktail data from API
+  - `standardized/`: Standardized cocktail data
+  - `reports/`: Generated analysis reports
+  - `name_mappings.yaml`: Ingredient name standardization mappings
 
 ## Key Features
 
 - Fetches detailed cocktail information including:
+  - Base spirits
+  - Liqueurs
   - Ingredients
   - Preparation techniques
-  - Historical references
   - Flavor profiles
-- Stores data in JSON format
+- Standardizes ingredient names and categories
+- Generates detailed reports:
+  - Ingredient usage summary
+  - Name mismatch analysis
 - Supports bilingual information (English and Traditional Chinese)
+- Automatic ingredient categorization and standardization
 
 ## Requirements
 
-The project uses the following Python packages (automatically installed via requirements.txt):
+The project uses the following Python packages:
+- google-genai==0.8.4
+- PyYAML==6.0.2
+- requests==2.31.0
+- python-dotenv==1.0.0
+
+## Workflow Steps
+
+1. **Data Fetching**: Retrieves cocktail information from the Gemini API
+2. **Name Standardization**: Standardizes ingredient names using predefined mappings
+3. **Report Generation**: 
+   - Generates ingredient usage summaries
+   - Analyzes name mismatches
+   - Creates standardized data files
 
 ## Troubleshooting
 
-- If you encounter API key issues, use the `api_key_validator.py` script to verify your key:
-  ```bash
-  python api_key_validator.py
-  ```
-
-- Ensure you have proper write permissions for the `data/cocktails` directory
+- If you encounter API key issues, verify your key configuration in `config.py`
+- Ensure you have proper write permissions for the `data` directory and its subdirectories
+- Check that your `name_mappings.yaml` file is properly formatted
 
 ## License
 
