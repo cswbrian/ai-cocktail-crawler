@@ -44,14 +44,6 @@
     },
     {
       "name": {
-        "en": "Rye Whiskey",
-        "zh": "黑麥威士忌"
-      },
-      "count": 33,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Dark Rum",
         "zh": "黑冧酒"
       },
@@ -74,6 +66,14 @@
           "zh": "熱帶"
         }
       ]
+    },
+    {
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "count": 32,
+      "tags": []
     },
     {
       "name": {
@@ -134,7 +134,7 @@
         "en": "Cognac",
         "zh": "干邑白蘭地"
       },
-      "count": 15,
+      "count": 14,
       "tags": []
     },
     {
@@ -786,7 +786,7 @@
         "en": "Sweet Vermouth",
         "zh": "甜苦艾酒"
       },
-      "count": 43,
+      "count": 42,
       "tags": []
     },
     {
@@ -826,7 +826,7 @@
         "en": "Bénédictine",
         "zh": "廊酒"
       },
-      "count": 15,
+      "count": 14,
       "tags": []
     },
     {
@@ -4218,14 +4218,6 @@
     {
       "name": {
         "en": "dashes Angostura Bitters",
-        "zh": "dashes 安格仕苦精"
-      },
-      "count": 1,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "dashes Angostura Bitters",
         "zh": "安格式巴拿馬苦精"
       },
       "count": 1,
@@ -4265,14 +4257,6 @@
     },
     {
       "name": {
-        "en": "dashes Peychaud's Bitters",
-        "zh": " dashes Peychaud's 苦精"
-      },
-      "count": 1,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "teaspoons of Sugar",
         "zh": "茶匙的糖"
       },
@@ -4294,7 +4278,7 @@
         "en": "Fruity",
         "zh": "果香"
       },
-      "count": 340,
+      "count": 339,
       "tags": []
     },
     {
@@ -4302,7 +4286,7 @@
         "en": "Herbal",
         "zh": "草本"
       },
-      "count": 320,
+      "count": 319,
       "tags": []
     },
     {
@@ -4310,7 +4294,7 @@
         "en": "Bitter",
         "zh": "苦味"
       },
-      "count": 204,
+      "count": 203,
       "tags": []
     },
     {
@@ -4318,7 +4302,7 @@
         "en": "Spicy",
         "zh": "辛辣"
       },
-      "count": 159,
+      "count": 158,
       "tags": []
     },
     {
@@ -4347,16 +4331,16 @@
     },
     {
       "name": {
-        "en": "Woody",
-        "zh": "木質"
+        "en": "Creamy",
+        "zh": "乳脂"
       },
-      "count": 85,
+      "count": 84,
       "tags": []
     },
     {
       "name": {
-        "en": "Creamy",
-        "zh": "乳脂"
+        "en": "Woody",
+        "zh": "木質"
       },
       "count": 84,
       "tags": []

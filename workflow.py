@@ -341,6 +341,27 @@ class CocktailWorkflow:
                 standardized_file.unlink()
                 print(f"Removed {file_name} from standardized directory as it no longer exists in original")
     
+    def combine_cocktails(self) -> None:
+        """Combine all standardized cocktail files into a single cocktails.json file"""
+        # Get all JSON files in the standardized directory
+        json_files = self.base_dirs['standardized'].glob('*.json')
+        
+        # Initialize an empty list to hold all cocktails
+        cocktails = []
+        
+        # Read each JSON file and append its content to the list
+        for json_file in json_files:
+            with open(json_file, 'r', encoding='utf-8') as f:
+                cocktail_data = json.load(f)
+                cocktails.append(cocktail_data)
+        
+        # Save the combined list to cocktails.json in the project root
+        output_file = Path('cocktails.json')
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(cocktails, f, indent=2, ensure_ascii=False)
+        
+        print(f"Combined {len(cocktails)} cocktails into {output_file}")
+    
     def run_workflow(self, cocktail_names: List[str], standardize: bool = False) -> None:
         """Run the complete workflow"""
         print("Step 1: Fetching cocktail data...")
@@ -358,6 +379,9 @@ class CocktailWorkflow:
             print("Regenerating reports after standardization...")
             self.generate_ingredient_report()
             self.analyze_name_mismatches()
+        
+        print("Step 5: Combining cocktails into single file...")
+        self.combine_cocktails()
         
         print("Workflow completed!")
 

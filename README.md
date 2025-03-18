@@ -59,6 +59,7 @@ Before you begin, ensure you have the following installed:
 - `workflow.py`: Main workflow script that handles data processing and standardization
 - `llm_client.py`: Handles API communication with Gemini
 - `config.py`: Contains API configuration (you need to create this)
+- `cocktails.json`: Combined output file containing all standardized cocktail data
 - `data/`: Project data directory structure:
   - `original/`: Raw cocktail data from API
   - `standardized/`: Standardized cocktail data
@@ -79,6 +80,7 @@ Before you begin, ensure you have the following installed:
   - Name mismatch analysis
 - Supports bilingual information (English and Traditional Chinese)
 - Automatic ingredient categorization and standardization
+- Combines all standardized cocktail data into a single JSON file
 
 ## Requirements
 
@@ -96,6 +98,16 @@ The project uses the following Python packages:
    - Generates ingredient usage summaries
    - Analyzes name mismatches
    - Creates standardized data files
+4. **Data Combination**: 
+   - Combines all standardized cocktail data into a single cocktails.json file
+   - Located in the project root directory
+
+## Output Files
+
+- `cocktails.json`: Combined file containing all standardized cocktail data
+- `data/reports/ingredient_summary.json`: Summary of ingredient usage
+- `data/reports/name_mismatches.yaml`: Analysis of naming inconsistencies
+- Individual cocktail files in `data/standardized/` directory
 
 ## Troubleshooting
 
