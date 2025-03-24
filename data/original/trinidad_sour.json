@@ -50,8 +50,8 @@
     {
       "amount": 30,
       "name": {
-        "en": "Bitters",
-        "zh": "苦精"
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
       },
       "unit": {
         "en": "ml",
@@ -65,8 +65,8 @@
     {
       "amount": 22,
       "name": {
-        "en": "Syrup",
-        "zh": "糖漿"
+        "en": "Orgeat Syrup",
+        "zh": "杏仁糖漿"
       },
       "unit": {
         "en": "ml",

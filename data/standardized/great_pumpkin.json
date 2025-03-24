@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Great Pumpkin",
+    "zh": "大南瓜"
+  },
+  "description": {
+    "en": "**Autumnal Delight**\n\nA festive cocktail that captures the essence of fall, featuring:\n*   Pumpkin puree for a creamy texture and authentic flavor.\n*   Warm spices for a comforting aroma and taste.\n*   Bourbon for a boozy backbone.",
+    "zh": "**秋日饗宴**\n\n一款節慶雞尾酒，捕捉秋天的精髓，特色：\n*   南瓜泥帶來奶油般的質地和真實風味。\n*   溫暖的香料帶來舒適的香氣和味道。\n*   波本威士忌帶來酒精的骨幹。"
+  },
+  "historical_reference": {
+    "en": "A modern cocktail creation, inspired by the flavors of pumpkin pie and autumnal spices. While not a classic in the traditional sense, it draws upon classic cocktail techniques and flavor pairings to create a unique and seasonal drinking experience. Its origins can be traced to the rise in popularity of pumpkin spice flavors in the early 21st century.",
+    "zh": "一款現代雞尾酒，靈感來自南瓜派和秋季香料的味道。雖然不是傳統意義上的經典，但它借鑒了經典的雞尾酒技術和風味搭配，創造出獨特而季節性的飲用體驗。其起源可以追溯到21世紀初南瓜香料口味的日益流行。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a rocks glass filled with ice. Garnish with a cinnamon stick.",
+    "zh": "將所有材料與冰塊搖勻。濾入裝滿冰塊的岩石杯中。用肉桂棒裝飾。"
+  },
+  "garnish": {
+    "en": "Cinnamon stick",
+    "zh": "肉桂棒"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Opaque, deep orange, frothy head, garnished with a cinnamon stick.",
+    "zh": "不透明，深橙色，泡沫豐富，以肉桂棒裝飾。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with a rich, caramel flavor.",
+        "zh": "提供基酒，帶有濃郁的焦糖風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Hazelnut Liqueur",
+        "zh": "榛果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the nutty and warm flavors.",
+        "zh": "加強堅果和溫暖的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pumpkin Puree",
+        "zh": "南瓜泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds pumpkin flavor and creamy texture.",
+        "zh": "增添南瓜風味和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Maple Syrup",
+        "zh": "楓糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and maple flavor.",
+        "zh": "增加甜味和楓糖風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes Angostura Bitters",
+        "zh": "安格斯圖拉苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity.",
+        "zh": "增加深度和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

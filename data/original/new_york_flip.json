@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "New York Flip",
+    "zh": "紐約菲力浦"
+  },
+  "description": {
+    "en": "**Rich and Comforting Cocktail**\n\nThe New York Flip is a classic cocktail known for its:\n*   Smooth, creamy texture\n*   Warming spirit base\n*   Nutmeg garnish for aromatic appeal",
+    "zh": "**濃郁且令人感到舒適的雞尾酒**\n\n紐約菲力浦是一款經典的雞尾酒，以其：\n*   柔滑，奶油般的質地\n*   溫暖的烈酒基底\n*   肉荳蔻裝飾增添香氣"
+  },
+  "historical_reference": {
+    "en": "**Historical Flip Cocktail**\n\n*   The Flip has been around since the 1600s. Back then the Flip was made with beer, rum and sugar, and heated with a hot poker!",
+    "zh": "**歷史悠久的菲力浦雞尾酒**\n\n*   菲力浦酒自1600年代就已存在。當時，菲力浦酒是用啤酒，朗姆酒和糖製成的，並用熱鐵棒加熱！"
+  },
+  "technique": {
+    "en": "Dry shake, then shake with ice. Strain into chilled glass.",
+    "zh": "先乾搖，然後加冰搖勻。濾入冰鎮過的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or small wine glass",
+    "zh": "高腳杯或小酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow, frothy head",
+    "zh": "奶油狀，淡黃色，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Bourbon Whiskey",
+        "zh": "波本威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous base and oaky notes.",
+        "zh": "提供烈酒基底和橡木桶味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Ruby Port",
+        "zh": "紅寶石波特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fortified wine notes and complexity.",
+        "zh": "添加加強葡萄酒的風味和複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the spirit.",
+        "zh": "增加甜度以平衡烈酒。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides richness, texture, and emulsification.",
+        "zh": "提供豐富度，質地和乳化作用。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

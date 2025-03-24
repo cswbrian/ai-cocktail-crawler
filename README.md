@@ -105,7 +105,7 @@ The project uses the following Python packages:
 ## Output Files
 
 - `cocktails.json`: Combined file containing all standardized cocktail data
-- `data/reports/ingredient_summary.json`: Summary of ingredient usage
+- `data/reports/summary.json`: Summary of ingredient usage
 - `data/reports/name_mismatches.yaml`: Analysis of naming inconsistencies
 - Individual cocktail files in `data/standardized/` directory
 

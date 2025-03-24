@@ -1,0 +1,145 @@
+{
+  "name": {
+    "en": "Canary Flip",
+    "zh": "金絲雀翻轉"
+  },
+  "description": {
+    "en": "**A Rich and Warming Flip Cocktail**\n\nThe Canary Flip is a decadent and comforting drink, perfect for cooler evenings.\n\n*   Features a combination of rich dark rum, egg yolk, and sugar.\n*   The addition of cream and nutmeg adds to its luxurious texture and flavor.\n*   Best enjoyed slowly, savoring each sip.",
+    "zh": "**濃郁而溫暖的翻轉雞尾酒**\n\nCanary Flip 是一款頹廢且令人感到舒適的飲品，非常適合涼爽的夜晚。\n\n*   以濃郁的深色蘭姆酒、蛋黃和糖混合製成。\n*   加入鮮奶油和肉荳蔻，增添奢華的質地和風味。\n*   最好慢慢享用，細細品味每一口。"
+  },
+  "historical_reference": {
+    "en": "**A Classic Flip Cocktail Variation**\n\n*   Flips have been enjoyed since at least the 1600s, evolving from beer-based drinks to spirit-based cocktails.\n*   The Canary Flip likely emerged as a sweeter, richer variation on the traditional Flip.\n*   The name may refer to the color of the drink, or perhaps a specific ingredient in older recipes.",
+    "zh": "**經典的翻轉雞尾酒變體**\n\n*   自 1600 年代以來，人們就一直在享用 Flips，從啤酒基底的飲料演變為烈酒基底的雞尾酒。\n*   Canary Flip 可能作為傳統 Flip 的更甜、更豐富的變體而出現。\n*   這個名字可能指的是飲料的顏色，或者可能是舊食譜中的特定成分。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice to emulsify the egg, then shake again with ice. Strain into chilled glass.",
+    "zh": "將所有材料不加冰乾搖，使蛋黃乳化，然後再加冰搖晃。 濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or small wine glass",
+    "zh": "高腳杯或小酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow",
+    "zh": "乳白色，淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a rich, complex base with notes of molasses and spice.",
+        "zh": "提供豐富、複雜的基底，帶有糖蜜和香料的味道。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加濃郁度和口感。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides sweetness and balances the other ingredients.",
+        "zh": "提供甜味並平衡其他成分。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and body.",
+        "zh": "增加乳脂感和酒體。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Cynar Flip",
+    "zh": "金巴利翻轉"
+  },
+  "description": {
+    "en": "**Rich and Bittersweet Treat**\n\nA flip cocktail that blends the unique bitter character of artichoke-based amaro with the richness of an egg and a touch of sweetness.\n\n*   Creamy and decadent texture\n*   Bittersweet profile with herbal undertones\n*   Nutmeg garnish for aromatic enhancement",
+    "zh": "**濃郁而苦甜的享受**\n\n融合了以朝鮮薊為基礎的阿瑪aro酒獨特的苦味，以及雞蛋的濃郁和一絲甜味的翻轉雞尾酒。\n\n*   奶油般柔滑的口感\n*   帶有草本氣息的苦甜風味\n*   肉荳蔻裝飾增強香氣"
+  },
+  "historical_reference": {
+    "en": "**A Modern Twist on a Classic**\n\n*   The flip cocktail has roots dating back to the 17th century. Traditionally consisting of beer, rum, and sugar, heated with a hot poker.\n*   Modern flips are typically made with egg, spirit, and sugar.\n*   This Cynar version showcases the growing trend of using amari in classic cocktail formats.",
+    "zh": "**經典的現代演繹**\n\n*   翻轉雞尾酒的歷史可以追溯到17世紀。傳統上由啤酒、蘭姆酒和糖組成，用熱鐵棒加熱。\n*   現代的翻轉雞尾酒通常由雞蛋、烈酒和糖製成。\n*   這個Cynar版本展示了在經典雞尾酒形式中使用阿瑪aro酒的日益增長的趨勢。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖晃。濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small stemmed glass or coupe",
+    "zh": "小高腳杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy, light brown with foam",
+    "zh": "不透明，奶油色，淺棕色帶泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Amari",
+        "zh": "阿瑪aro酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter base and herbal complexity.",
+        "zh": "提供苦味基礎和草本的複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the bitterness.",
+        "zh": "增加甜度以平衡苦味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and body to the cocktail.",
+        "zh": "為雞尾酒增加濃郁度和酒體。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

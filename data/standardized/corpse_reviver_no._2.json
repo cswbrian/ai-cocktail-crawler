@@ -89,14 +89,12 @@
         "en": "Adds orange flavor and sweetness.",
         "zh": "增添橙子風味和甜味。"
       }
-    }
-  ],
-  "ingredients": [
+    },
     {
       "amount": 2,
       "name": {
-        "en": "Dash Absinthe",
-        "zh": "少量苦艾酒"
+        "en": "Absinthe",
+        "zh": "苦艾酒"
       },
       "unit": {
         "en": "dash",
@@ -108,6 +106,7 @@
       }
     }
   ],
+  "ingredients": [],
   "flavor_descriptors": [
     {
       "en": "Citrus",

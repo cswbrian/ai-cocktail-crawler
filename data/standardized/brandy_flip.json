@@ -1,0 +1,138 @@
+{
+  "name": {
+    "en": "Brandy Flip",
+    "zh": "白蘭地菲力"
+  },
+  "description": {
+    "en": "*Rich and decadent cocktail*\n\nA classic after-dinner drink featuring:\n*   Brandy for warmth\n*   Egg yolk for creaminess\n*   Nutmeg for spice\n\nUsually served warm.",
+    "zh": "*濃郁而頹廢的雞尾酒*\n\n一款經典的餐後飲品，特色：\n* 白蘭地帶來溫暖\n* 蛋黃帶來奶油般的口感\n* 肉荳蔻帶來香料味\n\n通常熱飲。"
+  },
+  "historical_reference": {
+    "en": "**Origin**: The Flip cocktail family dates back to the 17th century. Originally made with beer, rum, and sugar, later variations included eggs and other spirits.\n\n*   Popular in the 18th and 19th centuries\n*   Brandy Flip is a refined version of the original Flip",
+    "zh": "**起源**: Flip 雞尾酒系列可以追溯到 17 世紀。 最初由啤酒、蘭姆酒和糖製成，後來的變體包括雞蛋和其他烈酒。\n\n*   在 18 和 19 世紀很受歡迎\n*   白蘭地菲力是原版菲力的精緻版本"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Strain into glass. Garnish with grated nutmeg.",
+    "zh": "將所有材料乾搖，然後加冰搖晃。 濾入玻璃杯。 用磨碎的肉荳蔻裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small mug or coupe glass",
+    "zh": "小馬克杯或轎跑杯"
+  },
+  "appearance": {
+    "en": "Creamy, frothy, light brown",
+    "zh": "奶油色、起泡、淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and rich flavor.",
+        "zh": "提供酒精基底和濃郁風味。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cream Sherry",
+        "zh": "奶油雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty and complex notes.",
+        "zh": "增添堅果和複雜的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and creaminess.",
+        "zh": "增加濃郁度和奶油味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 8,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

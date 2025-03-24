@@ -7,11 +7,11 @@ mismatches:
     - 黑蘭姆酒
     - 深色蘭姆酒
     Generic Tequila:
-    - 通用龍舌蘭
     - 通用龍舌蘭酒
+    - 通用龍舌蘭
     London Dry Gin:
-    - 倫敦 сухо 琴酒
     - 倫敦乾琴酒
+    - 倫敦 сухо 琴酒
     Dry Sherry:
     - Dry Sherry
     - Dry 雪莉酒
@@ -20,419 +20,415 @@ mismatches:
     - 班尼迪克丁
     - 本篤丁
     White Crème de Cacao:
-    - 白色可可奶油
     - 白色可可甜酒
+    - 白色可可奶油
   ingredients:
     Fresh Lime Juice:
-    - 新鮮酸橙汁
     - 新鮮萊姆汁
+    - 新鮮酸橙汁
     - 新鮮青檸汁
     - 新鮮檸檬汁
     Fresh Orange Juice:
     - 新鮮柳橙汁
     - 新鮮橙汁
     Dry Vermouth:
-    - 乾苦艾酒
     - 乾味美思
     - 不甜香艾酒
+    - 乾苦艾酒
+    Dash Angostura Bitters:
+    - 安格式苦味酒
+    - 少量安格仕苦精
 unmapped_items:
   base_spirits:
-  - Generic Bitter Liqueur
+  - Fino Sherry
+  - Neutral Grain Spirit
+  - Pineapple Rum
+  - Aquavit
+  - Generic White Wine
+  - Amaro
+  - Vanilla Vodka
+  - Cognac
+  - Tequila (Blanco)
+  - Peach Flavored Spirit
   - Pimm's No. 1
   - Bourbon Whiskey
-  - Pastis
-  - Mezcal
-  - Pineapple Rum
-  - Vodka (optional)
-  - Generic White Wine
-  - Fino Sherry
-  - Martinique Rhum Agricole
-  - Tequila Blanco
-  - Sloe Gin
-  - Stout
-  - Vanilla Vodka
-  - Tequila (Blanco)
-  - Citrus Vodka
-  - Peach Flavored Spirit
-  - Tequila (Blanco/Silver)
-  - Champagne or other dry sparkling wine
-  - Gold Rum
-  - Southern Comfort
-  - Peach Schnapps
-  - Mexican Lager
-  - Neutral Spirit
-  - Aguardiente
-  - Neutral Grain Spirit
-  - Rye Whiskey
-  - Port Wine
-  - Irish Whiskey
-  - Rhum Agricole
-  - Citron Vodka
-  - White Spirit
-  - Scotch Whisky
-  - Sake (Junmai or Ginjo)
   - Bacon-Infused Bourbon
-  - Rum (White or Gold)
-  - Light Rum
-  - Aquavit
-  - Generic Bitter Aperitivo
-  - Bourbon/Rye Whiskey
-  - Generic Spirit
-  - None
-  - Branded Spirit
+  - Champagne or other dry sparkling wine
   - Tawny Port
-  - Cognac
-  liqueurs:
+  - Mexican Lager
+  - Tequila Blanco
   - Generic Bitter Liqueur
-  - Green colored liqueur
-  - Cherry Heering
-  - Sparkling Wine (Prosecco or Champagne)
-  - Amer Picon (or Orange Bitters)
-  - Generic Irish Cream
-  - Amaro Averna
-  - Honey-Ginger Syrup
-  - Crème de Violette
-  - Yellow Component
-  - Coconut Cream
-  - Green Apple Liqueur
-  - Cherry Liqueur
-  - Peach Schnapps
-  - Galliano L'Autentico
-  - Coffee liqueur (e.g., Kahlúa)
-  - Smoked Islay Single Malt Scotch Whisky (float)
-  - Triple Sec (Cointreau)
-  - Islay Single Malt Scotch
-  - Orange Liqueur
-  - Midori
-  - Maraschino Liqueur
-  - Amaretto Liqueur
-  - Generic Coffee Liqueur
-  - Strawberry Puree
-  - Stout Reduction
-  - White Crème de Menthe
-  - Dry Red Wine (Cabernet Sauvignon or Shiraz)
-  - Cream
-  - Lillet Blanc
-  - Amarula Cream
-  - Champagne or Sparkling Wine
-  - Galliano
-  - Falernum Liqueur
-  - Islay Scotch Whisky
-  - Orange Bitters Tincture
-  - Orange Curaçao
-  - Chambord
-  - Orange Liqueur (e.g., Triple Sec)
-  - Lavender Syrup
-  - Cream Sherry
-  - Orange Flavored Liqueur
-  - Cloudberry Liqueur
-  - Aperitivo
-  - Passion Fruit Liqueur
-  - Apricot Brandy
-  - Dry Curaçao
-  - Crème de Cacao (White)
-  - Generic Amaretto
-  - Generic Mezcal
+  - Sake (Junmai or Ginjo)
   - Rye Whiskey
-  - Generic Liqueur
-  - Red Wine Float
-  - Generic Fruit Liqueur
-  - Bitters (Angostura)
-  - Suze (or other gentian liqueur)
-  - Walnut Liqueur
-  - Allspice Dram
-  - Smoked Fig Liqueur
-  - Bitter Apertivo
-  - None
-  - Elderflower Liqueur
-  - Mint Liqueur
-  - Apricot Liqueur
-  - Amer Picon or Angostura Bitters
-  - Component 1
+  - Amari
+  - Scotch Whisky
+  - Martinique Rhum Agricole
   - Mezcal
-  - Dark Creme de Cacao
-  - Aromatized Wine
-  - Chili Liqueur
-  - Port Wine (Tawny)
-  - Cider
-  - Grenadine
-  - Sherry (e.g. Fino)
-  - Advocaat
-  - Blackcurrant Liqueur
-  - Creme de Cassis
-  - Gentian Liqueur
-  - Cream of Coconut
-  - Blackberry Liqueur
-  - Coffee Liqueur (e.g., Kahlua)
-  - Drambuie
-  - Red Berry Liqueur
-  - Amaro
-  - Curaçao Liqueur (Blue or Clear)
-  - Irish Cream
-  - Falernum
-  - Apple Liqueur
-  - Boker's Bitters
-  - Cream Soda
-  - Orange Liqueur (Cointreau)
-  - Midori Melon Liqueur
-  - Heavy Cream
-  - Amer Picon
-  - Blue Curaçao
-  - Cognac
-  - Red Bitter Aperitivo
-  - Rose's Lime Cordial
-  - Pastis
-  - Amer Picon or Amaro
-  - Amer Picon (or substitute)
-  - Fino Sherry
-  - Raspberry Syrup
-  - Ginger Wine
-  - Generic Triple Sec
+  - Port Wine
+  - Gold Rum
+  - Tequila (Blanco/Silver)
+  - Southern Comfort
+  - Irish Whiskey
+  - Neutral Spirit
+  - Light Rum
+  - None
+  - Aguardiente
   - Sloe Gin
+  - White Spirit
+  - Citron Vodka
+  - Vodka (optional)
+  - Stout
+  - Generic Bitter Aperitivo
+  - Rum (White or Gold)
+  - Peach Schnapps
+  - Generic Spirit
+  - Citrus Vodka
+  - Rhum Agricole
+  - Pastis
+  liqueurs:
+  - Generic Triple Sec
+  - Champagne or Sparkling Wine
+  - Green colored liqueur
+  - Heavy Cream
+  - Cognac
+  - Amaro Averna
+  - Blackcurrant Liqueur
+  - Orange Liqueur (Cointreau)
+  - Falernum
+  - Amer Picon or Angostura Bitters
+  - Averna Amaro
+  - Cream Soda
+  - Mint Liqueur
+  - Dark Creme de Cacao
+  - Coconut Cream
+  - Advocaat
+  - Elderflower Liqueur
+  - None
+  - Crème de Cacao (White)
+  - Crème de Violette
+  - Crème de Menthe (White)
+  - Generic Coffee Liqueur
+  - Grenadine
+  - Peach Schnapps
+  - Honey-Ginger Syrup
+  - Amer Picon (or Orange Bitters)
+  - Passion Fruit Liqueur
+  - Midori
+  - Amer Picon (or substitute)
+  - Islay Single Malt Scotch
+  - Cream
+  - Peach Puree or Nectar
+  - Red Berry Liqueur
+  - Galliano
+  - Rose's Lime Cordial
   - Smoked Liqueur
-  - Amaro Nonino
+  - Amarula Cream
+  - Ruby Port
+  - Cloudberry Liqueur
+  - Dry Curaçao
+  - Generic Irish Cream
+  - Cherry Heering
+  - Yellow Component
   - Peach Brandy
   - Fruit Liqueur
-  - Chocolate Liqueur
+  - Irish Cream
+  - Triple Sec (Cointreau)
   - Ginger-Honey Syrup
-  - Orange Liqueur (e.g., Cointreau)
-  - Islay Single Malt Scotch Whisky
-  - Generic Orange Liqueur
-  - Orgeat Syrup
-  - Green Mint Liqueur
-  - Herbal Liqueur
   - Limoncello
-  - Averna Amaro
+  - Generic Mezcal
+  - Cream of Coconut
+  - Chocolate Liqueur
+  - Chambord
+  - Boker's Bitters
+  - Blue Curaçao
+  - White Crème de Menthe
+  - Raspberry Syrup
+  - Coffee Liqueur (e.g., Kahlua)
+  - Allspice Dram
+  - Orange Flavored Liqueur
+  - Sparkling Wine (Prosecco or Champagne)
+  - Chili Liqueur
+  - Component 1
+  - Cream Sherry
+  - Amaretto Liqueur
+  - Strawberry Puree
+  - Cherry Liqueur
+  - Amaro
+  - Orange Liqueur (e.g., Cointreau)
+  - Falernum Liqueur
+  - Creme de Cassis
   - Jazmin Tea Syrup
-  - Peach Puree or Nectar
+  - Amer Picon or Amaro
+  - Generic Bitter Liqueur
+  - Midori Melon Liqueur
+  - Stout Reduction
+  - Aperitivo
+  - Generic Liqueur
+  - Walnut Liqueur
   - French Raspberry Liqueur (e.g., Chambord)
+  - Red Wine Float
+  - Mezcal
+  - Sherry (e.g. Fino)
+  - Lillet Blanc
+  - Orgeat Syrup
+  - Apple Liqueur
+  - Green Apple Liqueur
+  - Ginger Wine
+  - Gentian Liqueur
+  - Bitter Apertivo
+  - Orange Liqueur (e.g., Triple Sec)
+  - Generic Fruit Liqueur
+  - Red Bitter Aperitivo
+  - Drambuie
+  - Port Wine (Tawny)
+  - Fino Sherry
+  - Herbal Liqueur
+  - Hazelnut Liqueur
+  - Lavender Syrup
+  - Smoked Fig Liqueur
+  - Suze (or other gentian liqueur)
+  - Generic Amaretto
+  - Amer Picon
+  - Smoked Islay Single Malt Scotch Whisky (float)
+  - Coffee liqueur (e.g., Kahlúa)
+  - Bitters (Angostura)
+  - Islay Scotch Whisky
+  - Rye Whiskey
+  - Apricot Brandy
+  - Aromatized Wine
+  - Blackberry Liqueur
+  - Galliano L'Autentico
+  - Green Mint Liqueur
+  - Orange Curaçao
+  - Dry Red Wine (Cabernet Sauvignon or Shiraz)
+  - Sloe Gin
+  - Apricot Liqueur
+  - Orange Bitters Tincture
+  - Curaçao Liqueur (Blue or Clear)
+  - Islay Single Malt Scotch Whisky
+  - Cider
+  - Maraschino Liqueur
+  - Amaro Nonino
+  - Pastis
   ingredients:
-  - Ginger Ale
-  - Smoked Salt
-  - Agave Nectar or Simple Syrup
+  - Italian Vermouth
+  - Lime Wedge
+  - Smoked Pineapple Juice
   - Fresh Mango Puree
-  - Hot Chocolate Mix
-  - Dash Absinthe
-  - Raspberry Juice
-  - Unsalted Butter
-  - Ice Cubes
+  - dashes
+  - Horchata
+  - Ginger Syrup
+  - Honey Syrup (2:1)
+  - Egg White (optional)
+  - Milk
+  - Egg white (optional)
+  - Heavy Cream
+  - Fresh Raspberry
+  - Ice cubes
+  - Peach Puree
+  - Lemonade
+  - Condensed Milk
+  - dashes Orange Bitters
+  - Maple Syrup
+  - Sparkling Beverage
+  - Orange Juice, freshly squeezed
+  - Cold Brew Coffee
+  - Fresh Espresso
+  - Rosemary Syrup
+  - Pineapple Chunks
+  - Lime Juice, freshly squeezed
   - Lemon Peel
   - Clamato Juice
-  - Fresh Watermelon Juice
-  - Spiced Syrup
-  - Honey-Ginger Syrup
-  - Water or Ice
-  - Smoked Paprika
+  - Sweetened Condensed Milk
+  - Mint or other Herbs
+  - Generic lemon-lime soda
+  - Pinch Salt
+  - Chocolate Bitters
   - Coconut Cream
-  - Grapefruit Juice, freshly squeezed
-  - Apple
-  - Clove
-  - Ripe Mango
-  - Maple Syrup
+  - Egg yolks
   - Cloves
-  - Egg
-  - Juice
-  - Hot Milk
-  - Crushed Ice
-  - Lemon
-  - Dash of Orange Bitters
-  - Cola
+  - Cucumber
+  - None
+  - Club Soda
+  - Agave Nectar or Simple Syrup
   - Cold Water
-  - Teaspoons Sugar
-  - Herbsaint
-  - Orange Marmalade
-  - Maraschino Liqueur
-  - Cinnamon Sticks
-  - White Grape Juice
-  - Dashes Bitters
-  - Cashew Fruit Syrup
-  - Strawberry Puree
-  - Spice Mix (cinnamon, nutmeg, ginger)
-  - Lemonade or Ginger Ale
-  - Blood
-  - Dashes of Bitters
-  - Tonic Water
-  - Pinch Celery Salt
-  - Lapsang Souchong Tea Syrup
-  - Brown Sugar Syrup
+  - Grenadine
+  - Soda Water or Club Soda (optional)
   - teaspoons of Sugar
+  - Crushed Ice
+  - Honey-Ginger Syrup
+  - Granulated Sugar
+  - Orange juice, freshly squeezed
+  - Ground Clove
+  - Mint Sprigs
   - Cream
   - Generic Chili
-  - Sparkling Water
-  - Fresh Raspberry
-  - Hot Sauce
-  - Syrup
-  - Smoked Pineapple Juice
-  - Coffee Beans
-  - Brewed Coffee
-  - Orange Juice, freshly squeezed
-  - Large Eggs
-  - Dash Hot Sauce
-  - Guava Juice
-  - Black Raspberry Liqueur
-  - Orange Curaçao
-  - Brown Sugar
-  - Fresh Blackberries
-  - Milk
-  - Lavender Syrup
-  - Generic Angostura Bitters
-  - Strong Brewed Coffee
-  - Stout
-  - Fresh Oyster
-  - Tomato Juice
-  - Sugar
-  - Cane Syrup
-  - Generic Grenadine
-  - Cilantro Sprigs
-  - Granulated Sugar
   - Black Tea
-  - Dashes Hot Sauce
-  - Almonds
-  - Carbonated Water
-  - Lime wedges
-  - Honey Syrup (2:1)
-  - Soda
-  - Pinch of Nutmeg
-  - dashes Orange Bitters
-  - Ginger Coins
-  - Dash Peychaud's Bitters
-  - Smoked Vanilla Syrup
-  - dashes Angostura bitters
-  - Cold Brew Coffee
-  - Chocolate Bitters
-  - Egg White (optional)
-  - Dashes Worcestershire Sauce
-  - Egg yolks
-  - Celery Salt
-  - Soda Water or Club Soda (optional)
-  - Lemonade or Sprite
-  - Fresh Herb
-  - Green Grapes
-  - Lemonade
-  - dashes Angostura Bitters
-  - None
-  - Generic Orange Juice
-  - Sweet and Sour Mix
-  - Mint or other Herbs
-  - dashes Peychaud's Bitters
-  - Generic Dry Vermouth
-  - Red Chili Pepper
-  - Edible Shimmer Dust
-  - Tabasco Sauce
-  - Seville Oranges
-  - Mint Sprigs
-  - dashes
-  - Italian Vermouth
-  - Honey Syrup (3:1 Honey to Water)
-  - Smoked Peach Puree
-  - Ice cubes
-  - Agave Nectar
-  - Dash Angostura Bitters
-  - Pear Puree
-  - Orange Flower Water
-  - Generic Lime Juice
-  - Chili Tincture
-  - Grenadine
-  - Lime Juice (Freshly Squeezed)
-  - Water
-  - Powdered sugar
-  - Orange slice
-  - Egg white (optional)
-  - Ginger Syrup
-  - Blue Curaçao Syrup (Non-alcoholic)
-  - Cream of Coconut
-  - Cardamom
-  - Pinch Salt
-  - Sweetened Condensed Milk
-  - Lemon Slice
-  - Salt and Pepper
-  - Cucumber slices
-  - Beef Broth
-  - Club Soda
-  - Horseradish
-  - Yogurt
-  - Lemon Wedges
-  - Lemon-Lime Soda or Sparkling Lemonade
-  - Mexican Coke
-  - Aguaymanto Puree
-  - Hot Coffee
-  - Fruit (berries, stone fruit, citrus)
-  - Whole Milk
-  - Boiling Water
-  - Blueberry Tea Syrup
-  - Condensed Milk
-  - Club-Mate
-  - Lime
-  - Generic Pineapple Juice
-  - Lime Wedge
-  - Chilled Carbonated Water
-  - Chipotle Peppers in Adobo Sauce
-  - Grapefruit Soda
-  - Ice Cream
-  - Raspberry syrup
-  - Heavy Cream
-  - Topo Chico
-  - Pickle Brine
-  - dashes Bitters
-  - Olive Brine
-  - Passion Fruit Puree
-  - Dash of Cinnamon
-  - Hot Water
-  - Fruit (e.g., coconut, passion fruit)
-  - Banana
   - Cardamom Pods
-  - Ice
-  - Lucuma Puree
-  - Berries (strawberries, raspberries, blueberries)
-  - Orange
-  - Orange Peel
-  - Horchata
-  - Pinch of Salt
-  - Cucumber
-  - Generic lemon-lime soda
-  - Raspberry Syrup
-  - Strawberry
-  - Dash of Angostura Bitters
+  - Generic Orange Juice
+  - Lemonade or Sprite
   - Sugar Cube
-  - Ginger Beer
-  - Lime Juice, freshly squeezed
-  - Fresh Strawberries
-  - Honey
-  - White Peach Puree
+  - Fresh Oyster
+  - Almonds
+  - Agave Nectar
+  - Fruit (berries, stone fruit, citrus)
+  - Pear Puree
+  - Yogurt
+  - Olive Brine
   - Peach
-  - Dashes Angostura Bitters
-  - Dash of Nutmeg
+  - Blue Curaçao Syrup (Non-alcoholic)
+  - Lemon Slice
+  - Dashes Worcestershire Sauce
+  - Pinch of Salt
+  - Ice
+  - Fresh Watermelon Juice
+  - Sparkling Water
+  - Salt and Pepper
+  - Cilantro Sprigs
+  - Brown Sugar Syrup
+  - Blueberry Tea Syrup
+  - Lime Juice (Freshly Squeezed)
+  - Club-Mate
+  - Raspberry syrup
+  - Black Raspberry Liqueur
+  - Banana
+  - Generic Pineapple Juice
+  - Cardamom
+  - Large Eggs
+  - Topo Chico
+  - Generic Lime Juice
+  - Generic Grenadine
+  - Herbsaint
+  - Carbonated Water
+  - Cucumber slices
+  - Dash Hot Sauce
+  - Unsalted Butter
+  - Lapsang Souchong Tea Syrup
+  - Dashes of Bitters
+  - Cream of Coconut
+  - Ripe Mango
+  - Chilled Carbonated Water
+  - Juice
+  - Guava Juice
+  - Raspberry Syrup
+  - Powdered sugar
+  - Smoked Vanilla Syrup
+  - Chili Tincture
+  - Chipotle Peppers in Adobo Sauce
+  - Strawberry
+  - Red Chili Pepper
+  - Aguaymanto Puree
+  - Brewed Coffee
+  - Fruit (e.g., coconut, passion fruit)
+  - Tomato Juice
   - Tablespoon of Brown Sugar
-  - Pineapple Chunks
-  - Berries (Strawberries, Raspberries)
-  - Peach Puree
-  - Smoked Simple Syrup
-  - Rose Water
-  - Sparkling water
-  - White Sugar
-  - Rosemary Syrup
-  - Orgeat Syrup
+  - Pinch Celery Salt
+  - Strawberry Puree
+  - Horseradish
+  - Green Grapes
+  - Fresh Strawberries
   - Fresh Mint Leaves
-  - Orange Slice
-  - Egg White (Optional)
-  - Pinch Black Pepper
-  - Worcestershire Sauce
-  - Fresh Espresso
-  - Orange juice, freshly squeezed
-  - Chocolate Powder
-  - Pinch of Black Pepper
-  - Beer (Pilsner or Lager)
-  - Passion Fruit Juice
-  - Dash Orange Bitters
-  - Apple Cider Shrub
-  - Dash Worcestershire Sauce
-  - Lime Wedges
+  - Ginger Beer
+  - Edible Shimmer Dust
+  - Brown Sugar
+  - Generic Angostura Bitters
+  - Coffee Beans
+  - Grapefruit Soda
+  - Pumpkin Puree
   - Iced Tea
+  - Clove
   - Ginger Coin
-  - Peach Puree or Nectar
-  - Sparkling Beverage
-  - Ground Clove
+  - Fresh Herb
+  - dashes Angostura Bitters
+  - Pinch Black Pepper
+  - Cane Syrup
+  - Grapefruit Juice, freshly squeezed
+  - Mexican Coke
+  - Teaspoons Sugar
+  - dashes Bitters
+  - Water or Ice
+  - Celery Salt
+  - Hot Milk
+  - Honey Syrup (3:1 Honey to Water)
+  - Tonic Water
+  - Berries (Strawberries, Raspberries)
+  - Lime wedges
+  - Orgeat Syrup
+  - Cashew Fruit Syrup
+  - Generic Dry Vermouth
+  - Strong Brewed Coffee
   - Light Beer
+  - Orange Flower Water
+  - Smoked Salt
+  - dashes Peychaud's Bitters
+  - Passion Fruit Juice
+  - Dash Worcestershire Sauce
+  - Apple
+  - Smoked Simple Syrup
+  - White Sugar
+  - Boiling Water
+  - Lucuma Puree
+  - Hot Chocolate Mix
+  - Passion Fruit Puree
+  - Egg White (Optional)
+  - Orange Peel
+  - Sweet and Sour Mix
+  - Orange Marmalade
+  - Seville Oranges
+  - Blood
+  - Apple Cider Shrub
+  - Whole Milk
+  - Hot Coffee
+  - Sugar
+  - Lavender Syrup
+  - Spice Mix (cinnamon, nutmeg, ginger)
+  - Peach Puree or Nectar
+  - dashes Angostura bitters
+  - Spiced Syrup
+  - Smoked Paprika
+  - Dashes Angostura Bitters
+  - Dashes Bitters
+  - Pinch of Nutmeg
+  - White Grape Juice
+  - Smoked Peach Puree
+  - Ginger Coins
+  - Lemon Wedges
+  - Sparkling water
+  - Lime
+  - Rose Water
+  - Hot Water
+  - Berries (strawberries, raspberries, blueberries)
+  - Soda
+  - Tabasco Sauce
+  - Raspberry Juice
+  - Worcestershire Sauce
+  - Ice Cubes
+  - Orange Curaçao
+  - Beef Broth
+  - Hot Sauce
+  - Fresh Blackberries
+  - Ginger Ale
+  - Orange
+  - White Peach Puree
+  - Chocolate Powder
+  - Honey
+  - Maraschino Liqueur
+  - Water
+  - Orange Slice
+  - Lime Wedges
+  - Orange slice
+  - Pickle Brine
+  - Lemon-Lime Soda or Sparkling Lemonade
+  - Lemonade or Ginger Ale
+  - Lemon
+  - Beer (Pilsner or Lager)
+  - Ice Cream
+  - Dashes Hot Sauce
+  - Stout
+  - Cinnamon Sticks
+  - Pinch of Black Pepper
+  - Egg
+  - Cola
   flavor_descriptors:
   - Sourness
   - Sweetness

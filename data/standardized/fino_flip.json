@@ -1,0 +1,112 @@
+{
+  "name": {
+    "en": "Fino Flip",
+    "zh": "菲諾菲力浦"
+  },
+  "description": {
+    "en": "**A Fortified Wine Flip**\n\nA rich and flavorful flip that showcases Fino Sherry:\n\n*   Combines the nutty, dry character of Fino Sherry with the richness of egg and sweetness of sugar.\n*   Often uses whole egg for a richer texture.",
+    "zh": "**加強型葡萄酒菲力浦**\n\n一款豐富且美味的菲力浦，突顯了菲諾雪莉酒的風味：\n\n*   結合了菲諾雪莉酒的堅果、乾爽特性與雞蛋的濃郁和糖的甜味。\n*   通常使用全蛋以獲得更豐富的口感。"
+  },
+  "historical_reference": {
+    "en": "**A Sherry Infusion**\n\n*   Flips were popular in the 1600s.\n*   Originally a beer-based drink.\n*   Later evolved to include spirits and fortified wines.\n*   The use of egg distinguishes it from other mixed drinks.",
+    "zh": "**雪莉酒風味**\n\n*   菲力浦在1600年代很受歡迎。\n*   最初是一種以啤酒為基礎的飲料。\n*   後來發展為包含烈酒和加強型葡萄酒。\n*   雞蛋的使用使其有別於其他混合飲品。"
+  },
+  "technique": {
+    "en": "Dry shake, then shake with ice and strain.",
+    "zh": "先乾搖，然後加冰搖晃並過濾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small stemmed glass or coupe",
+    "zh": "小高腳杯或敞口杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow",
+    "zh": "乳白色，淡黃色"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Fino Sherry",
+        "zh": "菲諾雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a dry, nutty base.",
+        "zh": "提供乾燥、堅果風味的基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      "unit": {
+        "en": "whole",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加濃郁度和口感。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sherry.",
+        "zh": "增加甜度以平衡雪莉酒。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Salty",
+      "zh": "鹹味"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

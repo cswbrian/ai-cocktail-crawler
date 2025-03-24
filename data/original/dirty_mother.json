@@ -1,53 +1,53 @@
 {
   "name": {
     "en": "Dirty Mother",
-    "zh": "骯髒的母親"
+    "zh": "黯淡的母親"
   },
   "description": {
-    "en": "**Simple and Strong**\n\nA two-ingredient cocktail that emphasizes the flavors of coffee liqueur and vodka:\n\n*   Easy to make and adjust to taste.\n*   Served in a rocks glass, no garnish is necessary.",
-    "zh": "**簡單而強烈**\n\n一種強調咖啡利口酒和伏特加風味的雙成分雞尾酒：\n\n*   易於製作且可根據口味調整。\n*   在岩石杯中供應，不需要裝飾。"
+    "en": "Dirty Mother is a simple yet flavorful coffee liqueur cocktail. It combines brandy as a base with coffee liqueur, creating a rich, after-dinner coffee-like experience. The unique notes of brandy blend seamlessly with the coffee liqueur, offering a touch of sweetness and nutty aroma, with a smooth texture that leaves a warm aftertaste.\n\n*   Rich and creamy\n*   Easy to make\n*   Good for dessert",
+    "zh": "「黯淡的母親」（Dirty Mother）是一款簡單卻深具風味的咖啡香甜酒調酒。\n\n以白蘭地為基底，與咖啡香甜酒混合，創造出如餐後咖啡般的醇厚口感。\n\n白蘭地的獨特風味與咖啡香甜酒完美融合，帶來一絲甜美與堅果香氣，口感滑順，在舌尖留下溫暖的餘韻。儘管名稱略帶戲謔，這款調酒卻能撫慰疲憊的心靈，如同在深夜中，為辛勞的母親帶來一絲慰藉。"
   },
   "historical_reference": {
-    "en": "**Origins Unclear**\n\n*   Likely emerged in the mid-20th century.\n*   The name suggests a 'dirtier' version of the 'Black Russian,' replacing cream with coffee liqueur.",
-    "zh": "**起源不明**\n\n*   可能出現在20世紀中葉。\n*   這個名字暗示了“黑色俄羅斯”的“更髒”版本，用咖啡利口酒代替奶油。"
+    "en": "",
+    "zh": ""
   },
   "technique": {
-    "en": "Pour vodka and coffee liqueur into a rocks glass with ice. Stir gently.",
-    "zh": "將伏特加和咖啡利口酒倒入裝有冰塊的岩石杯中。 輕輕攪拌。"
+    "en": "Build over ice",
+    "zh": "在冰上調製"
   },
   "garnish": {
-    "en": "None",
-    "zh": "無"
+    "en": "Grated nutmeg or chocolate shavings (optional)",
+    "zh": "磨碎的肉荳蔻或巧克力屑（可選）"
   },
   "serve_in_glass": {
-    "en": "Rocks glass",
-    "zh": "岩石杯"
+    "en": "Old-fashioned glass",
+    "zh": "古典杯"
   },
   "appearance": {
-    "en": "Opaque, dark brown to black",
-    "zh": "不透明，深棕色至黑色"
+    "en": "Light brown",
+    "zh": "淺棕色"
   },
   "allergens": [],
   "base_spirits": [
     {
-      "amount": 30,
+      "amount": 60,
       "name": {
-        "en": "Vodka",
-        "zh": "伏特加"
+        "en": "Brandy",
+        "zh": "白蘭地"
       },
       "unit": {
         "en": "ml",
         "zh": "毫升"
       },
       "rationale": {
-        "en": "Provides the alcoholic base and a neutral flavor profile.",
-        "zh": "提供酒精基底和中性的風味。"
+        "en": "Provides the alcoholic base and warm fruit notes.",
+        "zh": "提供酒精基底和溫暖的水果味。"
       }
     }
   ],
   "liqueurs": [
     {
-      "amount": 60,
+      "amount": 30,
       "name": {
         "en": "Coffee Liqueur",
         "zh": "咖啡利口酒"
@@ -57,32 +57,36 @@
         "zh": "毫升"
       },
       "rationale": {
-        "en": "Adds sweetness, coffee flavor, and color.",
-        "zh": "增加甜味、咖啡味和顏色。"
+        "en": "Adds coffee flavor and sweetness.",
+        "zh": "增加咖啡味和甜味。"
       }
     }
   ],
   "ingredients": [],
   "flavor_descriptors": [
     {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
       "en": "Coffee",
       "zh": "咖啡"
     },
     {
-      "en": "Bitter",
-      "zh": "苦味"
+      "en": "Vanilla",
+      "zh": "香草"
     },
     {
-      "en": "Chocolate",
-      "zh": "朱古力"
+      "en": "Nutty",
+      "zh": "堅果"
     }
   ],
   "flavor_profile": {
-    "sweetness": 5,
+    "sweetness": 7,
     "sourness": 1,
-    "booziness": 7,
-    "body": 6,
-    "complexity": 4,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 5,
     "bubbles": false
   }
 }

@@ -1,0 +1,135 @@
+{
+  "name": {
+    "en": "Revolutionary Flip",
+    "zh": "革命翻轉"
+  },
+  "description": {
+    "en": "**A Rich and Warming Delight**\n\nThe Revolutionary Flip is a historically significant cocktail that showcases the richness of dark rum, the sweetness of brown sugar, and the creamy texture of a whole egg and cream. Nutmeg adds a final touch of spice.\n\n*   Perfect for cool evenings\n*   A true classic",
+    "zh": "**豐富而溫暖的美味**\n\n革命翻轉是一款具有歷史意義的雞尾酒，展示了黑蘭姆酒的豐富性、紅糖的甜味，以及全蛋和鮮奶油的奶油質地。肉荳蔻增添了最後一絲辛辣味。\n\n*   適合涼爽的夜晚\n*   真正的經典"
+  },
+  "historical_reference": {
+    "en": "**Historical Origins**\n\nThe Flip is a style of drink that dates back to the 17th century. Originally, it was made with beer, rum, and sugar, heated with a hot iron (loggerhead). The Revolutionary Flip is a more refined version.\n\n*   Evolved from earlier, simpler forms of flips\n*   A popular drink in colonial America",
+    "zh": "**歷史起源**\n\n翻轉是一種可以追溯到 17 世紀的飲品風格。 最初，它是用啤酒、蘭姆酒和糖製成的，用熱鐵（loggerhead）加熱。 革命翻轉是一個更精緻的版本。\n\n*   從早期、更簡單的翻轉形式演變而來\n*   在美國殖民時期很受歡迎的飲品"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then add ice and shake again. Strain into a glass. Garnish with grated nutmeg.",
+    "zh": "將所有材料乾搖，然後加入冰塊再次搖勻。 濾入玻璃杯中。 撒上磨碎的肉荳蔻裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Snifter or Coupe",
+    "zh": "白蘭地杯或敞口香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, rich, dark brown",
+    "zh": "奶油色，濃郁，深棕色"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and a rich, molasses-like flavor.",
+        "zh": "提供基酒和豐富的糖蜜風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加豐富度和口感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "紅糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens and adds molasses notes.",
+        "zh": "增添甜味和糖蜜風味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creamy texture and richness.",
+        "zh": "增加奶油質地和豐富度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Yeasty",
+      "zh": "酵母"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

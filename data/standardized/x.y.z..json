@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "X.Y.Z.",
+    "zh": "X.Y.Z."
+  },
+  "description": {
+    "en": "**A pre-prohibition era cocktail**\n\nA sour-style cocktail featuring:\n*   Gin base\n*   Lemon juice for tartness\n*   Orange liqueur and a dash of absinthe add complexity",
+    "zh": "**禁酒令前時代的雞尾酒**\n\n以酸味為主的雞尾酒，特色：\n*   琴酒基底\n*   檸檬汁帶來酸味\n*   橙酒和少許苦艾酒增加複雜性"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to Harry Craddock's *Savoy Cocktail Book* (1930)\n\n*   Named for its ingredients: X (unknown), Y (unknown), Z (unknown).\n*   The true origin and meaning of the name remains debated.",
+    "zh": "**起源**: 歸功於哈利·克拉多克的《*薩伏伊雞尾酒書*》（1930 年）\n\n*   以其成分命名：X（未知），Y（未知），Z（未知）。\n*   名稱的真正起源和含義仍然存在爭議。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow",
+    "zh": "混濁的淡黃色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rum",
+        "zh": "冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and alcoholic base.",
+        "zh": "提供主要風味和酒精基底。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "冧酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Triple Sec",
+        "zh": "橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and complexity.",
+        "zh": "增加橙子風味和複雜性。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Absinthe",
+        "zh": "苦艾酒"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少量"
+      },
+      "rationale": {
+        "en": "Adds a subtle anise note.",
+        "zh": "增添微妙的茴香味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the drink.",
+        "zh": "使飲料變甜。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 4,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "American Beauty",
+    "zh": "美國美人"
+  },
+  "description": {
+    "en": "**A Classic Cocktail with a Floral Touch**\n\nThe American Beauty is a visually stunning and flavorful cocktail that combines the richness of cognac with the refreshing touch of grenadine and the subtle floral notes of crème de menthe. The egg white adds a silky texture, making it a truly delightful experience.\n\nKey features:\n\n*   Cognac base for depth\n*   Grenadine for sweetness and color\n*   Crème de menthe for a hint of mint and floral aroma\n*   Egg white for a smooth, creamy texture",
+    "zh": "**帶有花香的經典雞尾酒**\n\n美國美人是一款視覺上令人驚艷且風味十足的雞尾酒，它結合了干邑白蘭地的濃郁、紅石榴糖漿的清新和薄荷奶油的微妙花香。 蛋白的加入增添了絲滑的口感，使其成為一種真正令人愉悅的體驗。\n\n主要特點：\n\n*   干邑白蘭地基底，帶來深度\n*   紅石榴糖漿帶來甜味和色彩\n*   薄荷奶油帶來一絲薄荷味和花香\n*   蛋白帶來柔滑、奶油般的質地"
+  },
+  "historical_reference": {
+    "en": "**A Cocktail of Unknown Origins**\n\nThe American Beauty cocktail's exact origin is not definitively known, but it gained popularity in the early 20th century. Its combination of flavors and attractive presentation made it a favorite during that era.\n\n*   Appeared in cocktail books from the early 1900s.\n*   The cocktail's name evokes a sense of elegance and allure.",
+    "zh": "**起源不明的雞尾酒**\n\n美國美人雞尾酒的確切起源尚不清楚，但在 20 世紀初開始流行。 其風味的結合和吸引人的外觀使其成為那個時代的最愛。\n\n*   出現在 1900 年代初的雞尾酒書籍中。\n*   這款雞尾酒的名字喚起了一種優雅和魅力的感覺。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled coupe glass.",
+    "zh": "將所有材料與冰塊一起搖勻，然後倒入冰鎮的淺碟香檳杯中。"
+  },
+  "garnish": {
+    "en": "Mint sprig and a cherry",
+    "zh": "薄荷枝和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "淺碟香檳杯"
+  },
+  "appearance": {
+    "en": "Pinkish-red with a frothy egg white layer",
+    "zh": "粉紅色帶有泡沫狀的蛋白層"
+  },
+  "allergens": [
+    {
+      "en": "Egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavors.",
+        "zh": "提供基酒和濃郁的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Crème de Menthe (White)",
+        "zh": "白色薄荷奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a refreshing minty flavor and aroma.",
+        "zh": "增添清爽的薄荷味和香氣。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "紅石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a vibrant red color.",
+        "zh": "增加甜味和鮮豔的紅色。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg white",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a smooth, silky texture.",
+        "zh": "增添柔滑的口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": {
+    "en": "Fernandito",
+    "zh": "費南迪多"
+  },
+  "description": {
+    "en": "*Simple and refreshing Argentinian highball*\n\nA popular and easy-to-make cocktail consisting of:\n*   Amaro (usually Fernet-Branca)\n*   Cola\n*   Ice\n\nOften enjoyed as an aperitif or a casual drink.",
+    "zh": "*簡單清爽的阿根廷 Highball*\n\n一種受歡迎且易於調製的雞尾酒，包含：\n* 阿瑪羅酒 (通常是 Fernet-Branca)\n* 可樂\n* 冰塊\n\n經常作為餐前酒或休閒飲品享用。"
+  },
+  "historical_reference": {
+    "en": "**Popular Argentinian Cocktail**\n\n*   Originates from Argentina\n*   The exact origin is debated but the cocktail gained popularity in the 1970s\n*   Fernet-Branca became the staple amaro due to Italian immigration influence.",
+    "zh": "**受歡迎的阿根廷雞尾酒**\n\n*   起源於阿根廷\n*   確切起源尚有爭議，但該雞尾酒在1970年代廣受歡迎\n*   由於義大利移民的影響，Fernet-Branca 成為主要使用的阿瑪羅酒。"
+  },
+  "technique": {
+    "en": "Fill glass with ice, add Fernet, top with Cola.",
+    "zh": "在高杯中加入冰塊，加入 Fernet，倒入可樂。"
+  },
+  "garnish": {
+    "en": "Optional: Lemon or Orange wedge",
+    "zh": "可選：檸檬或橙角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "Highball 杯"
+  },
+  "appearance": {
+    "en": "Dark amber, effervescent",
+    "zh": "深琥珀色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Amaro",
+        "zh": "阿瑪羅"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the bitter and herbal base.",
+        "zh": "提供苦味和草本基底。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 0,
+      "name": {
+        "en": "Ice",
+        "zh": "冰塊"
+      },
+      "unit": {
+        "en": "cubes",
+        "zh": "塊"
+      },
+      "rationale": {
+        "en": "To chill and dilute the drink.",
+        "zh": "冷卻和稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 3,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 5,
+    "bubbles": true
+  }
+}

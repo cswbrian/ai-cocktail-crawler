@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Sunday Flip",
+    "zh": "星期天翻轉"
+  },
+  "description": {
+    "en": "A rich and decadent flip cocktail, perfect for a leisurely Sunday morning. The combination of dark rum, cream, egg, and spices creates a warming and comforting drink.",
+    "zh": "一款濃郁且令人愉悅的翻轉雞尾酒，非常適合悠閒的星期天早晨。 深色蘭姆酒、奶油、雞蛋和香料的結合創造了一種溫暖舒適的飲品。"
+  },
+  "historical_reference": {
+    "en": "Flips have been around since the 1600s, originally made with beer, rum, and sugar, heated with a hot iron rod.\n\n* The egg was added later for extra richness.\n* This version reflects the spirit-forward flips that became popular in the 19th century.",
+    "zh": "翻轉雞尾酒自 1600 年代以來就已存在，最初由啤酒、蘭姆酒和糖製成，並用熱鐵棒加熱。\n\n* 後來添加雞蛋以增加濃郁度。\n* 這個版本反映了 19 世紀流行的烈酒主導的翻轉。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients to emulsify, then add ice and shake again until well-chilled. Strain into a chilled glass and garnish with grated nutmeg.",
+    "zh": "將所有材料乾搖以乳化，然後加入冰塊再次搖勻至完全冷卻。 濾入冰鎮的玻璃杯中，並用磨碎的肉荳蔻裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or small wine glass",
+    "zh": "高腳杯或小型葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, light brown, frothy head",
+    "zh": "乳白色，淺棕色，泡沫狀"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "深色蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich molasses notes.",
+        "zh": "提供基酒和濃郁的糖蜜味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness, body, and texture.",
+        "zh": "增加豐富度、酒體和質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the other ingredients.",
+        "zh": "增加甜度以平衡其他成分。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and a creamy texture.",
+        "zh": "增加濃郁度和奶油質地。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

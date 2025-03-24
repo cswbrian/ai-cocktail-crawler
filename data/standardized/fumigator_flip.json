@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Fumigator Flip",
+    "zh": "煙燻菲力浦"
+  },
+  "description": {
+    "en": "**Smoky and Rich Flip Cocktail**\n\nA variation on the classic flip, featuring:\n*   Mezcal for a smoky flavor profile\n*   Whole egg for a rich, creamy texture\n*   Brown sugar for molasses-like sweetness\n*   Angostura bitters for aromatic complexity",
+    "zh": "**煙燻濃郁的菲力浦雞尾酒**\n\n經典菲力浦的變奏，特色：\n*   梅斯卡爾酒帶來煙燻風味\n*   全蛋提供濃郁、奶油般的質地\n*   紅糖帶來糖蜜般的甜味\n*   安格式苦精增添香氣複雜性"
+  },
+  "historical_reference": {
+    "en": "**Flip Cocktail History**\n\n*   Flips have been around since the 1600s.\n*   Traditionally involved beer, rum, and sugar, heated with a hot iron.\n*   Modern flips use eggs for a creamy texture. The 'Fumigator Flip' is a modern variation using Mezcal.",
+    "zh": "**菲力浦雞尾酒的歷史**\n\n*   菲力浦起源於17世紀。\n*   傳統上涉及啤酒、蘭姆酒和糖，用熱鐵加熱。\n*   現代菲力浦使用雞蛋來獲得奶油般的質地。 「煙燻菲力浦」是使用梅斯卡爾酒的現代變奏。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients vigorously. Add ice and shake again until well-chilled.",
+    "zh": "將所有材料用力乾搖。 加入冰塊再次搖晃，直至完全冷卻。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉豆蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "碟型香檳杯或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy, light brown with a frothy head",
+    "zh": "不透明，奶油色，淺棕色，帶有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Mezcal",
+        "zh": "梅斯卡爾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the smoky base and agave notes.",
+        "zh": "提供煙熏基底和龍舌蘭風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity and spice.",
+        "zh": "增添香氣複雜性和辛辣味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Whole Egg",
+        "zh": "全蛋"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加濃郁度和質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Brown Sugar",
+        "zh": "紅糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds molasses-like sweetness.",
+        "zh": "增加糖蜜般的甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Earth",
+      "zh": "泥土"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

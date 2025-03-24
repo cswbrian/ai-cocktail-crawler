@@ -75,29 +75,12 @@
         "en": "Adds sweet and herbal notes",
         "zh": "增加甜味和草本香"
       }
-    }
-  ],
-  "ingredients": [
-    {
-      "amount": 3,
-      "name": {
-        "en": "Dash Peychaud's Bitters",
-        "zh": "少量佩喬氏苦精"
-      },
-      "unit": {
-        "en": "dash",
-        "zh": "少許"
-      },
-      "rationale": {
-        "en": "Adds bitter and floral notes.",
-        "zh": "增添苦味和花香。"
-      }
     },
     {
       "amount": 3,
       "name": {
-        "en": "Dash Absinthe",
-        "zh": "少量苦艾酒"
+        "en": "Absinthe",
+        "zh": "苦艾酒"
       },
       "unit": {
         "en": "dash",
@@ -106,6 +89,23 @@
       "rationale": {
         "en": "Adds anise flavor.",
         "zh": "增加茴香味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 3,
+      "name": {
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds bitter and floral notes.",
+        "zh": "增添苦味和花香。"
       }
     }
   ],

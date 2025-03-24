@@ -1,0 +1,132 @@
+{
+  "name": {
+    "en": "Gaelic Flip",
+    "zh": "蘇格蘭翻轉"
+  },
+  "description": {
+    "en": "**A rich and warming cocktail**\n\nThe Gaelic Flip is a variation of the classic Flip cocktail, substituting Scotch whisky for the traditional base spirit. It offers:\n\n*   A creamy and smooth texture\n*   A balance of sweetness and spice\n*   A warming and comforting character",
+    "zh": "**一款濃郁而溫暖的雞尾酒**\n\n蘇格蘭翻轉是經典翻轉雞尾酒的變體，用蘇格蘭威士忌代替了傳統的基酒。它提供：\n\n*   奶油般柔滑的質地\n*   甜味和香料的平衡\n*   溫暖而舒適的特性"
+  },
+  "historical_reference": {
+    "en": "**Origins of the Flip Cocktail**\n\n*   The flip has a long history, dating back to 17th-century England.\n*   Originally, flips were made with beer, rum, and sugar, heated with a hot iron.\n*   Over time, the recipe evolved to include spirits, egg, and spices.\n*   The Gaelic Flip is a more modern variation.",
+    "zh": "**翻轉雞尾酒的起源**\n\n*   翻轉有著悠久的歷史，可以追溯到17世紀的英格蘭。\n*   最初，翻轉由啤酒、蘭姆酒和糖製成，並用熱鐵加熱。\n*   隨著時間的推移，配方演變為包括烈酒、雞蛋和香料。\n*   蘇格蘭翻轉是一種更現代的變體。"
+  },
+  "technique": {
+    "en": "Dry shake, then shake with ice and strain",
+    "zh": "先乾搖，然後加入冰塊搖勻並過濾"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small stemmed glass or coupe",
+    "zh": "小高腳杯或碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow to light brown with a frothy top",
+    "zh": "奶油狀，淡黃色至淺棕色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a malty and smoky base.",
+        "zh": "提供麥芽和煙熏的基底風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cream Sherry",
+        "zh": "奶油雪利酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty and sweet notes.",
+        "zh": "增加堅果和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and creaminess.",
+        "zh": "增加濃郁度和奶油味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the whisky.",
+        "zh": "增加甜度以平衡威士忌。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

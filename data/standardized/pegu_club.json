@@ -94,7 +94,7 @@
     {
       "amount": 1,
       "name": {
-        "en": "Dash of Orange Bitters",
+        "en": "Orange Bitters",
         "zh": "橙味苦精"
       },
       "unit": {
@@ -109,8 +109,8 @@
     {
       "amount": 1,
       "name": {
-        "en": "Dash of Angostura Bitters",
-        "zh": "安格式苦精"
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
       },
       "unit": {
         "en": "dash",

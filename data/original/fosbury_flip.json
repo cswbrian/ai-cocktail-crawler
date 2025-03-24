@@ -1,0 +1,147 @@
+{
+  "name": {
+    "en": "Fosbury Flip",
+    "zh": "福斯貝里翻轉"
+  },
+  "description": {
+    "en": "**Fosbury Flip: A Genever Sour Variation**\n\nA rich and creamy sour cocktail, featuring:\n\n*   Genever as the base spirit.\n*   Yellow Chartreuse for herbal complexity.\n*   Fresh lemon juice for balance.\n*   Egg white for a silky texture.",
+    "zh": "**福斯貝里翻轉：荷蘭琴酒酸酒變體**\n\n豐富而奶油般的酸味雞尾酒，特色：\n\n*   荷蘭琴酒作為基酒。\n*   黃色查特酒增添草本複雜性。\n*   新鮮檸檬汁帶來平衡。\n*   蛋白帶來絲滑口感。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nA contemporary cocktail, inspired by classic sour recipes but with a unique twist using Genever and Yellow Chartreuse. Named after Dick Fosbury's high jump technique due to the 'flip' in preparation.",
+    "zh": "**現代創作**\n\n一款現代雞尾酒，靈感來自經典的酸味配方，但使用荷蘭琴酒和黃色查特酒帶來獨特的風味。 以迪克·福斯貝里的跳高技術命名，因為準備過程中的“翻轉”。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients without ice, then shake again with ice. Double strain into chilled glass.",
+    "zh": "將所有材料在沒有冰的情況下進行乾搖，然後再與冰一起搖晃。 雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "3 drops of Angostura bitters floated on top of the foam, optional lemon twist",
+    "zh": "在泡沫頂部滴3滴安格式苦酒，可選檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "郁金香杯或尼克與諾拉杯"
+  },
+  "appearance": {
+    "en": "Opaque, pale yellow with a frothy white head",
+    "zh": "不透明，淡黃色，帶有泡沫狀的白色頭部"
+  },
+  "allergens": [
+    {
+      "en": "Egg White",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Genever",
+        "zh": "荷蘭琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the juniper-forward base and malty notes.",
+        "zh": "提供杜松子風味的基底和麥芽香氣。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色查特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and floral notes.",
+        "zh": "增添草本和花香。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Fresh Lemon Juice",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity to balance the sweetness.",
+        "zh": "提供酸度以平衡甜度。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the sourness.",
+        "zh": "增加甜度並平衡酸味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的口感和泡沫狀的頭部。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  }
+}

@@ -37,8 +37,8 @@
     {
       "amount": 45,
       "name": {
-        "en": "Bourbon/Rye Whiskey",
-        "zh": "波本/黑麥威士忌"
+        "en": "Whisky",
+        "zh": "威士忌"
       },
       "unit": {
         "en": "ml",
@@ -47,7 +47,13 @@
       "rationale": {
         "en": "Provides the base spirit and backbone of the cocktail, offering a rich and spicy flavor.",
         "zh": "提供基酒，構成雞尾酒的骨幹，帶來濃郁且辛辣的風味。"
-      }
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        }
+      ]
     }
   ],
   "liqueurs": [

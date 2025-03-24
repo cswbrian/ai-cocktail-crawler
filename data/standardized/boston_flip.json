@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Boston Flip",
+    "zh": "波士頓菲力"
+  },
+  "description": {
+    "en": "**Classic Fortifying Drink**\n\nThe Boston Flip is a rich and creamy cocktail perfect for a cold evening. It features:\n*   Brandy as its base spirit.\n*   Egg yolk for richness and texture.\n*   Sugar for sweetness.\n*   Cream for added smoothness and body.\n*   Nutmeg for aromatic spice.",
+    "zh": "**經典滋補飲品**\n\n波士頓菲力是一款濃郁且奶油狀的雞尾酒，非常適合寒冷的夜晚。它的特色包括：\n*   白蘭地作為基酒。\n*   蛋黃提供豐富的口感和質地。\n*   糖提供甜味。\n*   鮮奶油增加滑順感和酒體。\n*   肉荳蔻帶來芳香的香料味。"
+  },
+  "historical_reference": {
+    "en": "**Origin: Pre-Prohibition Era**\n\n*   The Flip cocktail family dates back to the 17th century.\n*   Originally made with beer, rum, and sugar, heated with a hot poker.\n*   The Boston Flip evolved in the 19th century to include egg yolk and cream.\n*   Popularized in the late 1800s and early 1900s, often served as a restorative drink.",
+    "zh": "**起源：禁酒令之前**\n\n*   菲力雞尾酒家族可以追溯到17世紀。\n*   最初由啤酒、蘭姆酒和糖製成，並用熱鐵棒加熱。\n*   波士頓菲力在19世紀演變為包含蛋黃和鮮奶油。\n*   在1800年代末和1900年代初流行起來，通常作為恢復性飲料供應。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients vigorously, then shake again with ice. Strain into glass and garnish.",
+    "zh": "將所有材料用力乾搖，然後再次加冰搖晃。 濾入玻璃杯中並裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small wine glass or coupe",
+    "zh": "小號葡萄酒杯或碟形香檳杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow with a frothy top",
+    "zh": "奶油狀，淡黃色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Brandy",
+        "zh": "白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and warmth to the cocktail.",
+        "zh": "提供基酒和雞尾酒的溫暖感。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and a silky texture.",
+        "zh": "增加濃郁度和絲滑的質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the drink.",
+        "zh": "增加甜度以平衡飲品。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and body to the cocktail.",
+        "zh": "為雞尾酒增添奶油味和酒體。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

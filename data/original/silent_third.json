@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Silent Third",
+    "zh": "沉默的第三者"
+  },
+  "description": {
+    "en": "**A sophisticated and balanced cocktail with a complex flavor profile.**\n\nThis classic cocktail is known for its harmonious blend of sweet, sour, and herbal notes. It's a perfect choice for those who appreciate a well-crafted, nuanced drink.",
+    "zh": "**一款精緻且平衡的雞尾酒，具有複雜的風味。**\n\n這款經典雞尾酒以其甜、酸和草本風味的和諧融合而聞名。對於欣賞精心調製、細膩飲品的人來說，這是一個完美的選擇。"
+  },
+  "historical_reference": {
+    "en": "The Silent Third is a classic cocktail that emerged in the early 20th century. Its exact origins are debated, but it's believed to have originated in either France or England. The name likely refers to the balance of three main ingredients.",
+    "zh": "「沉默的第三者」是一款 20 世紀初出現的經典雞尾酒。其確切起源尚有爭議，但據信起源於法國或英國。這個名字可能指的是三種主要成分的平衡。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist or cherry",
+    "zh": "檸檬皮或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or coupe glass",
+    "zh": "雞尾酒杯或高腳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow or amber",
+    "zh": "淡黃色或琥珀色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Scotch Whisky",
+        "zh": "蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and smoky notes.",
+        "zh": "提供基酒和煙燻味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Dry Curaçao",
+        "zh": "乾味庫拉索橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds citrus and orange notes.",
+        "zh": "增加柑橘和橙子的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+        {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

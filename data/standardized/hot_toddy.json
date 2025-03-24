@@ -1,0 +1,128 @@
+{
+  "name": {
+    "en": "Hot Toddy",
+    "zh": "熱托迪"
+  },
+  "description": {
+    "en": "**A comforting classic.**\n\nThe Hot Toddy is a warm and soothing drink, often used as a remedy for colds or sore throats. It combines whisky with honey, lemon, and hot water for a simple yet effective beverage.\n\nKey characteristics:\n*   Warming and comforting.\n*   Customizable to taste.\n*   Traditional remedy.",
+    "zh": "**一杯撫慰人心的經典飲品。**\n\n熱托迪是一種溫暖而舒緩的飲料，常被用作治療感冒或喉嚨痛的良方。 它將威士忌與蜂蜜、檸檬和熱水混合，製成簡單而有效的飲品。\n\n主要特點：\n*   溫暖而舒適。\n*   可根據口味定制。\n*   傳統療法。"
+  },
+  "historical_reference": {
+    "en": "**Origin and history**\n\nThe exact origin of the Hot Toddy is unknown, but it's believed to have originated in Scotland in the 1700s as a way to make whisky more palatable. The term \"toddy\" originally referred to a beverage made with spirits, hot water, sugar, and spices.\n\n*   Originally a Scottish drink.\n*   Used to mask the harshness of whisky.\n*   Evolved into a medicinal remedy.",
+    "zh": "**起源與歷史**\n\n熱托迪的確切起源尚不清楚，但據信它起源於 1700 年代的蘇格蘭，作為一種使威士忌更可口的方法。 術語“托迪”最初指的是用烈酒、熱水、糖和香料製成的飲料。\n\n*   最初是一種蘇格蘭飲品。\n*   用於掩蓋威士忌的粗糙味道。\n*   演變成一種藥用療法。"
+  },
+  "technique": {
+    "en": "Combine all ingredients in a mug and stir well. Garnish with a lemon slice and/or cinnamon stick.",
+    "zh": "將所有原料放入馬克杯中攪拌均勻。 用檸檬片和/或肉桂棒裝飾。"
+  },
+  "garnish": {
+    "en": "Lemon slice or wheel, cinnamon stick.",
+    "zh": "檸檬片或檸檬輪，肉桂棒。"
+  },
+  "serve_in_glass": {
+    "en": "Mug or heat-resistant glass.",
+    "zh": "馬克杯或耐熱玻璃杯。"
+  },
+  "appearance": {
+    "en": "Warm, translucent amber liquid with steam rising.",
+    "zh": "溫暖、半透明的琥珀色液體，帶有上升的蒸汽。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and warmth.",
+        "zh": "提供酒精基底和暖意。"
+      },
+      "tags": [
+        {
+          "en": "Whisky",
+          "zh": "威士忌"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Honey",
+        "zh": "蜂蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and soothes the throat.",
+        "zh": "增加甜度並舒緩喉嚨。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and brightness.",
+        "zh": "增加酸度和亮度。"
+      }
+    },
+    {
+      "amount": 150,
+      "name": {
+        "en": "Hot Water",
+        "zh": "熱水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Dilutes the drink and provides warmth.",
+        "zh": "稀釋飲料並提供溫暖。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 4,
+    "bubbles": false
+  }
+}

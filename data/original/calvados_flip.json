@@ -1,0 +1,116 @@
+{
+  "name": {
+    "en": "Calvados Flip",
+    "zh": "卡爾瓦多斯菲力浦"
+  },
+  "description": {
+    "en": "**Rich and Comforting Classic**\n\nA classic flip cocktail featuring Calvados, showcasing:\n*   A creamy texture from the egg yolk\n*   A rich sweetness from the sugar\n*   Aromatic depth from the grated nutmeg garnish",
+    "zh": "**濃郁舒適的經典之作**\n\n以卡爾瓦多斯為特色的經典菲力浦雞尾酒，展示：\n*   蛋黃帶來的奶油般質感\n*   糖帶來的豐富甜味\n*   磨碎的肉荳蔻裝飾帶來的香氣深度"
+  },
+  "historical_reference": {
+    "en": "**Origins of the Flip Cocktail**\n\n*   Flips date back to the 17th century, originally made with beer, rum, and sugar.\n*   Later versions evolved to include eggs, becoming a richer, more dessert-like drink.\n*   The Calvados Flip is a variation using apple brandy.",
+    "zh": "**菲力浦雞尾酒的起源**\n\n*   菲力浦可以追溯到 17 世紀，最初由啤酒、蘭姆酒和糖製成。\n*   後來的版本演變為包含雞蛋，成為更豐富、更像甜點的飲料。\n*   卡爾瓦多斯菲力浦是使用蘋果白蘭地的一種變體。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖晃。濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or small wine glass",
+    "zh": "郁金香杯或小型葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow with a frothy top",
+    "zh": "奶油狀，淡黃色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Calvados",
+        "zh": "卡爾瓦多斯"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the apple brandy base and core flavor of the cocktail.",
+        "zh": "提供蘋果白蘭地基底和雞尾酒的核心風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the Calvados and egg yolk.",
+        "zh": "增加甜度，以平衡卡爾瓦多斯和蛋黃。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Provides a creamy texture and richness.",
+        "zh": "提供奶油般的質地和豐富度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  }
+}

@@ -1468,147 +1468,6 @@
   },
   {
     "name": {
-      "en": "The Last Word",
-      "zh": "最後一句話"
-    },
-    "description": {
-      "en": "**A perfectly balanced equal-parts cocktail.**\n\nThe Last Word is a complex and refreshing drink with:\n*   A harmonious blend of gin, green Chartreuse, maraschino liqueur, and lime juice.\n*   An intensely flavored and sophisticated profile.\n*   Equal parts of each ingredient ensure balance and depth.",
-      "zh": "**一款完美平衡的等比例雞尾酒。**\n\n最後一句話是一款複雜而清爽的飲品，具有：\n*   琴酒、綠色 Chartreuse、黑櫻桃利口酒和萊姆汁的和諧融合。\n*   風味濃郁且精緻的特色。\n*   每種成分的等比例確保了平衡和深度。"
-    },
-    "historical_reference": {
-      "en": "**Prohibition-Era Classic**\n\n*   Credited to Frank Fogarty at the Detroit Athletic Club around 1915.\n*   Gained renewed popularity in the early 2000s, particularly in Seattle and Portland.\n*   Known for its unique combination of ingredients, resulting in a complex flavor profile.",
-      "zh": "**禁酒時代的經典**\n\n*   據說是 1915 年左右由底特律體育俱樂部的 Frank Fogarty 創作的。\n*   在 2000 年代初期重新流行起來，尤其是在西雅圖和波特蘭。\n*   以其獨特的成分組合而聞名，產生了複雜的風味。"
-    },
-    "technique": {
-      "en": "Shake all ingredients with ice and strain into a chilled glass.",
-      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮過的杯中。"
-    },
-    "garnish": {
-      "en": "Maraschino cherry (optional)",
-      "zh": "馬拉斯奇諾櫻桃（可選）"
-    },
-    "serve_in_glass": {
-      "en": "Chilled coupe or martini glass",
-      "zh": "冰鎮過的淺碟香檳杯或馬丁尼杯"
-    },
-    "appearance": {
-      "en": "Pale green and slightly cloudy",
-      "zh": "淡綠色且略帶混濁"
-    },
-    "allergens": [],
-    "base_spirits": [
-      {
-        "amount": 22,
-        "name": {
-          "en": "Gin",
-          "zh": "琴酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Forms the base and provides a botanical backbone.",
-          "zh": "構成基底，提供植物風味。"
-        },
-        "tags": [
-          {
-            "en": "clear spirit",
-            "zh": "清澈烈酒"
-          },
-          {
-            "en": "juniper",
-            "zh": "杜松子"
-          },
-          {
-            "en": "botanical",
-            "zh": "植物香料"
-          }
-        ]
-      }
-    ],
-    "liqueurs": [
-      {
-        "amount": 22,
-        "name": {
-          "en": "Green Chartreuse",
-          "zh": "綠色夏翠絲"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds herbal complexity and sweetness.",
-          "zh": "增加草本複雜性和甜味。"
-        }
-      },
-      {
-        "amount": 22,
-        "name": {
-          "en": "Maraschino Liqueur",
-          "zh": "黑櫻桃利口酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds nutty notes and sweetness.",
-          "zh": "增添堅果風味和甜味。"
-        }
-      }
-    ],
-    "ingredients": [
-      {
-        "amount": 22,
-        "name": {
-          "en": "Lime Juice",
-          "zh": "青檸汁"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds acidity and balance.",
-          "zh": "增加酸度和平衡感。"
-        }
-      }
-    ],
-    "flavor_descriptors": [
-      {
-        "en": "Herbal",
-        "zh": "草本"
-      },
-      {
-        "en": "Citrus",
-        "zh": "柑橘"
-      },
-      {
-        "en": "Fruity",
-        "zh": "果香"
-      },
-      {
-        "en": "Bitter",
-        "zh": "苦味"
-      },
-      {
-        "en": "Floral",
-        "zh": "花香"
-      }
-    ],
-    "flavor_profile": {
-      "sweetness": 5,
-      "sourness": 6,
-      "booziness": 6,
-      "body": 7,
-      "complexity": 9,
-      "bubbles": false
-    }
-  },
-  {
-    "name": {
       "en": "Apple Cider Shrub",
       "zh": "蘋果西打醋"
     },
@@ -2256,8 +2115,8 @@
       {
         "amount": 30,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -9691,6 +9550,136 @@
   },
   {
     "name": {
+      "en": "Calvados Flip",
+      "zh": "卡爾瓦多斯菲力浦"
+    },
+    "description": {
+      "en": "**Rich and Comforting Classic**\n\nA classic flip cocktail featuring Calvados, showcasing:\n*   A creamy texture from the egg yolk\n*   A rich sweetness from the sugar\n*   Aromatic depth from the grated nutmeg garnish",
+      "zh": "**濃郁舒適的經典之作**\n\n以卡爾瓦多斯為特色的經典菲力浦雞尾酒，展示：\n*   蛋黃帶來的奶油般質感\n*   糖帶來的豐富甜味\n*   磨碎的肉荳蔻裝飾帶來的香氣深度"
+    },
+    "historical_reference": {
+      "en": "**Origins of the Flip Cocktail**\n\n*   Flips date back to the 17th century, originally made with beer, rum, and sugar.\n*   Later versions evolved to include eggs, becoming a richer, more dessert-like drink.\n*   The Calvados Flip is a variation using apple brandy.",
+      "zh": "**菲力浦雞尾酒的起源**\n\n*   菲力浦可以追溯到 17 世紀，最初由啤酒、蘭姆酒和糖製成。\n*   後來的版本演變為包含雞蛋，成為更豐富、更像甜點的飲料。\n*   卡爾瓦多斯菲力浦是使用蘋果白蘭地的一種變體。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients, then shake with ice. Strain into a chilled glass.",
+      "zh": "將所有材料乾搖，然後加冰搖晃。濾入冰鎮的杯子。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or small wine glass",
+      "zh": "郁金香杯或小型葡萄酒杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow with a frothy top",
+      "zh": "奶油狀，淡黃色，頂部有泡沫"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Apple Brandy (Calvados)",
+          "zh": "蘋果白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the apple brandy base and core flavor of the cocktail.",
+          "zh": "提供蘋果白蘭地基底和雞尾酒的核心風味。"
+        },
+        "tags": [
+          {
+            "en": "Brandy",
+            "zh": "白蘭地"
+          },
+          {
+            "en": "apple brandy",
+            "zh": "蘋果白蘭地"
+          },
+          {
+            "en": "calvados",
+            "zh": "卡爾瓦多斯"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the Calvados and egg yolk.",
+          "zh": "增加甜度，以平衡卡爾瓦多斯和蛋黃。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Provides a creamy texture and richness.",
+          "zh": "提供奶油般的質地和豐富度。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 6,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Brut",
       "zh": "布魯特"
     },
@@ -13395,6 +13384,167 @@
   },
   {
     "name": {
+      "en": "Fosbury Flip",
+      "zh": "福斯貝里翻轉"
+    },
+    "description": {
+      "en": "**Fosbury Flip: A Genever Sour Variation**\n\nA rich and creamy sour cocktail, featuring:\n\n*   Genever as the base spirit.\n*   Yellow Chartreuse for herbal complexity.\n*   Fresh lemon juice for balance.\n*   Egg white for a silky texture.",
+      "zh": "**福斯貝里翻轉：荷蘭琴酒酸酒變體**\n\n豐富而奶油般的酸味雞尾酒，特色：\n\n*   荷蘭琴酒作為基酒。\n*   黃色查特酒增添草本複雜性。\n*   新鮮檸檬汁帶來平衡。\n*   蛋白帶來絲滑口感。"
+    },
+    "historical_reference": {
+      "en": "**Modern Creation**\n\nA contemporary cocktail, inspired by classic sour recipes but with a unique twist using Genever and Yellow Chartreuse. Named after Dick Fosbury's high jump technique due to the 'flip' in preparation.",
+      "zh": "**現代創作**\n\n一款現代雞尾酒，靈感來自經典的酸味配方，但使用荷蘭琴酒和黃色查特酒帶來獨特的風味。 以迪克·福斯貝里的跳高技術命名，因為準備過程中的“翻轉”。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients without ice, then shake again with ice. Double strain into chilled glass.",
+      "zh": "將所有材料在沒有冰的情況下進行乾搖，然後再與冰一起搖晃。 雙重過濾到冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "3 drops of Angostura bitters floated on top of the foam, optional lemon twist",
+      "zh": "在泡沫頂部滴3滴安格式苦酒，可選檸檬皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Nick & Nora glass",
+      "zh": "郁金香杯或尼克與諾拉杯"
+    },
+    "appearance": {
+      "en": "Opaque, pale yellow with a frothy white head",
+      "zh": "不透明，淡黃色，帶有泡沫狀的白色頭部"
+    },
+    "allergens": [
+      {
+        "en": "Egg White",
+        "zh": "蛋白"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the juniper-forward base and malty notes.",
+          "zh": "提供杜松子風味的基底和麥芽香氣。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Yellow Chartreuse",
+          "zh": "黃色夏翠絲"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds herbal and floral notes.",
+          "zh": "增添草本和花香。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Lemon Juice",
+          "zh": "檸檬汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides acidity to balance the sweetness.",
+          "zh": "提供酸度以平衡甜度。"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and balances the sourness.",
+          "zh": "增加甜度並平衡酸味。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg White",
+          "zh": "蛋白"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds a silky texture and frothy head.",
+          "zh": "增加絲滑的口感和泡沫狀的頭部。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Floral",
+        "zh": "花香"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Grassy",
+        "zh": "草青"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 6,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 8,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Kensington Court",
       "zh": "肯辛頓宮廷"
     },
@@ -13816,6 +13966,118 @@
       "booziness": 7,
       "body": 5,
       "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
+      "en": "Fino Flip",
+      "zh": "菲諾菲力浦"
+    },
+    "description": {
+      "en": "**A Fortified Wine Flip**\n\nA rich and flavorful flip that showcases Fino Sherry:\n\n*   Combines the nutty, dry character of Fino Sherry with the richness of egg and sweetness of sugar.\n*   Often uses whole egg for a richer texture.",
+      "zh": "**加強型葡萄酒菲力浦**\n\n一款豐富且美味的菲力浦，突顯了菲諾雪莉酒的風味：\n\n*   結合了菲諾雪莉酒的堅果、乾爽特性與雞蛋的濃郁和糖的甜味。\n*   通常使用全蛋以獲得更豐富的口感。"
+    },
+    "historical_reference": {
+      "en": "**A Sherry Infusion**\n\n*   Flips were popular in the 1600s.\n*   Originally a beer-based drink.\n*   Later evolved to include spirits and fortified wines.\n*   The use of egg distinguishes it from other mixed drinks.",
+      "zh": "**雪莉酒風味**\n\n*   菲力浦在1600年代很受歡迎。\n*   最初是一種以啤酒為基礎的飲料。\n*   後來發展為包含烈酒和加強型葡萄酒。\n*   雞蛋的使用使其有別於其他混合飲品。"
+    },
+    "technique": {
+      "en": "Dry shake, then shake with ice and strain.",
+      "zh": "先乾搖，然後加冰搖晃並過濾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Small stemmed glass or coupe",
+      "zh": "小高腳杯或敞口杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow",
+      "zh": "乳白色，淡黃色"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Fino Sherry",
+          "zh": "菲諾雪莉酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a dry, nutty base.",
+          "zh": "提供乾燥、堅果風味的基底。"
+        }
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg",
+          "zh": "雞蛋"
+        },
+        "unit": {
+          "en": "whole",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and texture.",
+          "zh": "增加濃郁度和口感。"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the sherry.",
+          "zh": "增加甜度以平衡雪莉酒。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Salty",
+        "zh": "鹹味"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Yeasty",
+        "zh": "酵母"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 4,
+      "sourness": 2,
+      "booziness": 5,
+      "body": 7,
+      "complexity": 6,
       "bubbles": false
     }
   },
@@ -17568,8 +17830,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -18180,8 +18442,8 @@
       {
         "amount": 25,
         "name": {
-          "en": "Generic Orange Liqueur",
-          "zh": "通用橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -19165,8 +19427,8 @@
       {
         "amount": 25,
         "name": {
-          "en": "Generic Orange Liqueur",
-          "zh": "通用橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -19337,8 +19599,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash of Nutmeg",
-          "zh": "少許肉荳蔻"
+          "en": "Nutmeg",
+          "zh": "肉豆蔻"
         },
         "unit": {
           "en": "dash",
@@ -19495,6 +19757,143 @@
       "booziness": 5,
       "body": 3,
       "complexity": 4,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
+      "en": "Boston Flip",
+      "zh": "波士頓菲力"
+    },
+    "description": {
+      "en": "**Classic Fortifying Drink**\n\nThe Boston Flip is a rich and creamy cocktail perfect for a cold evening. It features:\n*   Brandy as its base spirit.\n*   Egg yolk for richness and texture.\n*   Sugar for sweetness.\n*   Cream for added smoothness and body.\n*   Nutmeg for aromatic spice.",
+      "zh": "**經典滋補飲品**\n\n波士頓菲力是一款濃郁且奶油狀的雞尾酒，非常適合寒冷的夜晚。它的特色包括：\n*   白蘭地作為基酒。\n*   蛋黃提供豐富的口感和質地。\n*   糖提供甜味。\n*   鮮奶油增加滑順感和酒體。\n*   肉荳蔻帶來芳香的香料味。"
+    },
+    "historical_reference": {
+      "en": "**Origin: Pre-Prohibition Era**\n\n*   The Flip cocktail family dates back to the 17th century.\n*   Originally made with beer, rum, and sugar, heated with a hot poker.\n*   The Boston Flip evolved in the 19th century to include egg yolk and cream.\n*   Popularized in the late 1800s and early 1900s, often served as a restorative drink.",
+      "zh": "**起源：禁酒令之前**\n\n*   菲力雞尾酒家族可以追溯到17世紀。\n*   最初由啤酒、蘭姆酒和糖製成，並用熱鐵棒加熱。\n*   波士頓菲力在19世紀演變為包含蛋黃和鮮奶油。\n*   在1800年代末和1900年代初流行起來，通常作為恢復性飲料供應。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients vigorously, then shake again with ice. Strain into glass and garnish.",
+      "zh": "將所有材料用力乾搖，然後再次加冰搖晃。 濾入玻璃杯中並裝飾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Small wine glass or coupe",
+      "zh": "小號葡萄酒杯或碟形香檳杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow with a frothy top",
+      "zh": "奶油狀，淡黃色，頂部有泡沫"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and warmth to the cocktail.",
+          "zh": "提供基酒和雞尾酒的溫暖感。"
+        },
+        "tags": [
+          {
+            "en": "Brandy",
+            "zh": "白蘭地"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and a silky texture.",
+          "zh": "增加濃郁度和絲滑的質地。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the drink.",
+          "zh": "增加甜度以平衡飲品。"
+        }
+      },
+      {
+        "amount": 60,
+        "name": {
+          "en": "Cream",
+          "zh": "鮮奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds creaminess and body to the cocktail.",
+          "zh": "為雞尾酒增添奶油味和酒體。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 1,
+      "booziness": 6,
+      "body": 8,
+      "complexity": 7,
       "bubbles": false
     }
   },
@@ -19783,7 +20182,7 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash of Orange Bitters",
+          "en": "Orange Bitters",
           "zh": "橙味苦精"
         },
         "unit": {
@@ -19798,8 +20197,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash of Angostura Bitters",
-          "zh": "安格式苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -23340,6 +23739,134 @@
   },
   {
     "name": {
+      "en": "Hot Toddy",
+      "zh": "熱托迪"
+    },
+    "description": {
+      "en": "**A comforting classic.**\n\nThe Hot Toddy is a warm and soothing drink, often used as a remedy for colds or sore throats. It combines whisky with honey, lemon, and hot water for a simple yet effective beverage.\n\nKey characteristics:\n*   Warming and comforting.\n*   Customizable to taste.\n*   Traditional remedy.",
+      "zh": "**一杯撫慰人心的經典飲品。**\n\n熱托迪是一種溫暖而舒緩的飲料，常被用作治療感冒或喉嚨痛的良方。 它將威士忌與蜂蜜、檸檬和熱水混合，製成簡單而有效的飲品。\n\n主要特點：\n*   溫暖而舒適。\n*   可根據口味定制。\n*   傳統療法。"
+    },
+    "historical_reference": {
+      "en": "**Origin and history**\n\nThe exact origin of the Hot Toddy is unknown, but it's believed to have originated in Scotland in the 1700s as a way to make whisky more palatable. The term \"toddy\" originally referred to a beverage made with spirits, hot water, sugar, and spices.\n\n*   Originally a Scottish drink.\n*   Used to mask the harshness of whisky.\n*   Evolved into a medicinal remedy.",
+      "zh": "**起源與歷史**\n\n熱托迪的確切起源尚不清楚，但據信它起源於 1700 年代的蘇格蘭，作為一種使威士忌更可口的方法。 術語“托迪”最初指的是用烈酒、熱水、糖和香料製成的飲料。\n\n*   最初是一種蘇格蘭飲品。\n*   用於掩蓋威士忌的粗糙味道。\n*   演變成一種藥用療法。"
+    },
+    "technique": {
+      "en": "Combine all ingredients in a mug and stir well. Garnish with a lemon slice and/or cinnamon stick.",
+      "zh": "將所有原料放入馬克杯中攪拌均勻。 用檸檬片和/或肉桂棒裝飾。"
+    },
+    "garnish": {
+      "en": "Lemon slice or wheel, cinnamon stick.",
+      "zh": "檸檬片或檸檬輪，肉桂棒。"
+    },
+    "serve_in_glass": {
+      "en": "Mug or heat-resistant glass.",
+      "zh": "馬克杯或耐熱玻璃杯。"
+    },
+    "appearance": {
+      "en": "Warm, translucent amber liquid with steam rising.",
+      "zh": "溫暖、半透明的琥珀色液體，帶有上升的蒸汽。"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 50,
+        "name": {
+          "en": "Whisky",
+          "zh": "威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the alcoholic base and warmth.",
+          "zh": "提供酒精基底和暖意。"
+        },
+        "tags": [
+          {
+            "en": "Whisky",
+            "zh": "威士忌"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Honey",
+          "zh": "蜂蜜"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and soothes the throat.",
+          "zh": "增加甜度並舒緩喉嚨。"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Lemon Juice",
+          "zh": "檸檬汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds acidity and brightness.",
+          "zh": "增加酸度和亮度。"
+        }
+      },
+      {
+        "amount": 150,
+        "name": {
+          "en": "Hot Water",
+          "zh": "熱水"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Dilutes the drink and provides warmth.",
+          "zh": "稀釋飲料並提供溫暖。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 4,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 4,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "French Connection",
       "zh": "法國情緣"
     },
@@ -23552,139 +24079,6 @@
       "body": 5,
       "complexity": 5,
       "bubbles": true
-    }
-  },
-  {
-    "name": {
-      "en": "Bijou Cocktail",
-      "zh": "珠寶雞尾酒"
-    },
-    "description": {
-      "en": "**Classic Cocktail with Herbal Complexity**\n\nA balanced and aromatic cocktail featuring:\n*   Equal parts gin, green Chartreuse, and sweet vermouth\n*   Orange bitters for added depth\n*   Named after the colors of the gemstones: Gin (Diamond), Chartreuse (Emerald), Vermouth (Ruby)",
-      "zh": "**具有草本複雜性的經典雞尾酒**\n\n一款平衡且芳香的雞尾酒，特色：\n*   等量的琴酒、綠色Chartreuse和甜味苦艾酒\n*   橙味苦精增加風味深度\n*   以寶石的顏色命名：琴酒（鑽石）、Chartreuse（翡翠）、苦艾酒（紅寶石）"
-    },
-    "historical_reference": {
-      "en": "**Origin**: Attributed to Harry Johnson in the late 19th century.\n\n*   First appeared in *Harry Johnson's Bartender's Manual* (1900 edition).\n*   Named for the gemstone colors of its ingredients.",
-      "zh": "**起源**：歸功於19世紀後期的哈利·約翰遜。\n\n*   首次出現在《*哈利·約翰遜的調酒師手冊*》（1900年版）中。\n*   以其成分的寶石顏色命名。"
-    },
-    "technique": {
-      "en": "Stir with ice and strain into a chilled glass.",
-      "zh": "與冰攪拌後濾入冰鎮的玻璃杯中。"
-    },
-    "garnish": {
-      "en": "Lemon or orange twist",
-      "zh": "檸檬皮或橙皮扭轉"
-    },
-    "serve_in_glass": {
-      "en": "Coupe or Martini glass",
-      "zh": "高腳杯或馬丁尼杯"
-    },
-    "appearance": {
-      "en": "Clear, light amber",
-      "zh": "清澈的淺琥珀色"
-    },
-    "allergens": [],
-    "base_spirits": [
-      {
-        "amount": 30,
-        "name": {
-          "en": "Gin",
-          "zh": "琴酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Provides the base and botanical backbone.",
-          "zh": "提供基底和植物風味骨幹。"
-        },
-        "tags": [
-          {
-            "en": "clear spirit",
-            "zh": "清澈烈酒"
-          },
-          {
-            "en": "juniper",
-            "zh": "杜松子"
-          },
-          {
-            "en": "botanical",
-            "zh": "植物香料"
-          }
-        ]
-      }
-    ],
-    "liqueurs": [
-      {
-        "amount": 30,
-        "name": {
-          "en": "Green Chartreuse",
-          "zh": "綠色夏翠絲"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds herbal and complex sweetness.",
-          "zh": "增加草本和複雜的甜味。"
-        }
-      },
-      {
-        "amount": 30,
-        "name": {
-          "en": "Sweet Vermouth",
-          "zh": "甜苦艾酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds sweetness and herbal notes.",
-          "zh": "增加甜味和草藥味。"
-        }
-      }
-    ],
-    "ingredients": [
-      {
-        "amount": 1,
-        "name": {
-          "en": "Orange Bitters",
-          "zh": "橙味苦精"
-        },
-        "unit": {
-          "en": "dash",
-          "zh": "滴"
-        },
-        "rationale": {
-          "en": "Adds a layer of citrus and spice.",
-          "zh": "增加柑橘和香料的味道。"
-        }
-      }
-    ],
-    "flavor_descriptors": [
-      {
-        "en": "Herbal",
-        "zh": "草本"
-      },
-      {
-        "en": "Bitter",
-        "zh": "苦味"
-      },
-      {
-        "en": "Floral",
-        "zh": "花香"
-      }
-    ],
-    "flavor_profile": {
-      "sweetness": 5,
-      "sourness": 3,
-      "booziness": 7,
-      "body": 6,
-      "complexity": 8,
-      "bubbles": false
     }
   },
   {
@@ -23941,6 +24335,158 @@
       "body": 4,
       "complexity": 6,
       "bubbles": true
+    }
+  },
+  {
+    "name": {
+      "en": "X.Y.Z.",
+      "zh": "X.Y.Z."
+    },
+    "description": {
+      "en": "**A pre-prohibition era cocktail**\n\nA sour-style cocktail featuring:\n*   Gin base\n*   Lemon juice for tartness\n*   Orange liqueur and a dash of absinthe add complexity",
+      "zh": "**禁酒令前時代的雞尾酒**\n\n以酸味為主的雞尾酒，特色：\n*   琴酒基底\n*   檸檬汁帶來酸味\n*   橙酒和少許苦艾酒增加複雜性"
+    },
+    "historical_reference": {
+      "en": "**Origin**: Attributed to Harry Craddock's *Savoy Cocktail Book* (1930)\n\n*   Named for its ingredients: X (unknown), Y (unknown), Z (unknown).\n*   The true origin and meaning of the name remains debated.",
+      "zh": "**起源**: 歸功於哈利·克拉多克的《*薩伏伊雞尾酒書*》（1930 年）\n\n*   以其成分命名：X（未知），Y（未知），Z（未知）。\n*   名稱的真正起源和含義仍然存在爭議。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+    },
+    "garnish": {
+      "en": "Lemon twist",
+      "zh": "檸檬皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Cocktail glass",
+      "zh": "雞尾酒杯"
+    },
+    "appearance": {
+      "en": "Cloudy, pale yellow",
+      "zh": "混濁的淡黃色"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Rum",
+          "zh": "冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the primary flavor and alcoholic base.",
+          "zh": "提供主要風味和酒精基底。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "冧酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 7,
+        "name": {
+          "en": "Triple Sec",
+          "zh": "橙酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds orange flavor and complexity.",
+          "zh": "增加橙子風味和複雜性。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Absinthe",
+          "zh": "苦艾酒"
+        },
+        "unit": {
+          "en": "dash",
+          "zh": "少量"
+        },
+        "rationale": {
+          "en": "Adds a subtle anise note.",
+          "zh": "增添微妙的茴香味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 22,
+        "name": {
+          "en": "Lemon Juice",
+          "zh": "檸檬汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds tartness and balances sweetness.",
+          "zh": "增加酸度並平衡甜度。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Sweetens the drink.",
+          "zh": "使飲料變甜。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 4,
+      "sourness": 7,
+      "booziness": 6,
+      "body": 4,
+      "complexity": 7,
+      "bubbles": false
     }
   },
   {
@@ -24331,6 +24877,138 @@
       "booziness": 6,
       "body": 5,
       "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
+      "en": "New York Flip",
+      "zh": "紐約菲力浦"
+    },
+    "description": {
+      "en": "**Rich and Comforting Cocktail**\n\nThe New York Flip is a classic cocktail known for its:\n*   Smooth, creamy texture\n*   Warming spirit base\n*   Nutmeg garnish for aromatic appeal",
+      "zh": "**濃郁且令人感到舒適的雞尾酒**\n\n紐約菲力浦是一款經典的雞尾酒，以其：\n*   柔滑，奶油般的質地\n*   溫暖的烈酒基底\n*   肉荳蔻裝飾增添香氣"
+    },
+    "historical_reference": {
+      "en": "**Historical Flip Cocktail**\n\n*   The Flip has been around since the 1600s. Back then the Flip was made with beer, rum and sugar, and heated with a hot poker!",
+      "zh": "**歷史悠久的菲力浦雞尾酒**\n\n*   菲力浦酒自1600年代就已存在。當時，菲力浦酒是用啤酒，朗姆酒和糖製成的，並用熱鐵棒加熱！"
+    },
+    "technique": {
+      "en": "Dry shake, then shake with ice. Strain into chilled glass.",
+      "zh": "先乾搖，然後加冰搖勻。濾入冰鎮過的玻璃杯中。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or small wine glass",
+      "zh": "高腳杯或小酒杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow, frothy head",
+      "zh": "奶油狀，淡黃色，有泡沫"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Bourbon Whiskey",
+          "zh": "波本威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the spirituous base and oaky notes.",
+          "zh": "提供烈酒基底和橡木桶味。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Ruby Port",
+          "zh": "紅寶石波特酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds fortified wine notes and complexity.",
+          "zh": "添加加強葡萄酒的風味和複雜性。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the spirit.",
+          "zh": "增加甜度以平衡烈酒。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Whole Egg",
+          "zh": "全蛋"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Provides richness, texture, and emulsification.",
+          "zh": "提供豐富度，質地和乳化作用。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 6,
       "bubbles": false
     }
   },
@@ -24970,8 +25648,8 @@
       {
         "amount": 2,
         "name": {
-          "en": "Dash Angostura Bitters",
-          "zh": "少量安格仕苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -24985,8 +25663,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash Peychaud's Bitters",
-          "zh": "少量佩喬氏苦精"
+          "en": "Peychaud's Bitters",
+          "zh": "佩喬苦精"
         },
         "unit": {
           "en": "dash",
@@ -25455,8 +26133,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -26491,8 +27169,8 @@
       {
         "amount": 30,
         "name": {
-          "en": "Bitters",
-          "zh": "苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "ml",
@@ -26506,8 +27184,8 @@
       {
         "amount": 22,
         "name": {
-          "en": "Syrup",
-          "zh": "糖漿"
+          "en": "Orgeat Syrup",
+          "zh": "杏仁糖漿"
         },
         "unit": {
           "en": "ml",
@@ -27195,8 +27873,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Generic Orange Liqueur",
-          "zh": "通用橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -27276,6 +27954,159 @@
       "body": 5,
       "complexity": 7,
       "bubbles": true
+    }
+  },
+  {
+    "name": {
+      "en": "Revolutionary Flip",
+      "zh": "革命翻轉"
+    },
+    "description": {
+      "en": "**A Rich and Warming Delight**\n\nThe Revolutionary Flip is a historically significant cocktail that showcases the richness of dark rum, the sweetness of brown sugar, and the creamy texture of a whole egg and cream. Nutmeg adds a final touch of spice.\n\n*   Perfect for cool evenings\n*   A true classic",
+      "zh": "**豐富而溫暖的美味**\n\n革命翻轉是一款具有歷史意義的雞尾酒，展示了黑蘭姆酒的豐富性、紅糖的甜味，以及全蛋和鮮奶油的奶油質地。肉荳蔻增添了最後一絲辛辣味。\n\n*   適合涼爽的夜晚\n*   真正的經典"
+    },
+    "historical_reference": {
+      "en": "**Historical Origins**\n\nThe Flip is a style of drink that dates back to the 17th century. Originally, it was made with beer, rum, and sugar, heated with a hot iron (loggerhead). The Revolutionary Flip is a more refined version.\n\n*   Evolved from earlier, simpler forms of flips\n*   A popular drink in colonial America",
+      "zh": "**歷史起源**\n\n翻轉是一種可以追溯到 17 世紀的飲品風格。 最初，它是用啤酒、蘭姆酒和糖製成的，用熱鐵（loggerhead）加熱。 革命翻轉是一個更精緻的版本。\n\n*   從早期、更簡單的翻轉形式演變而來\n*   在美國殖民時期很受歡迎的飲品"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients, then add ice and shake again. Strain into a glass. Garnish with grated nutmeg.",
+      "zh": "將所有材料乾搖，然後加入冰塊再次搖勻。 濾入玻璃杯中。 撒上磨碎的肉荳蔻裝飾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Snifter or Coupe",
+      "zh": "白蘭地杯或敞口香檳杯"
+    },
+    "appearance": {
+      "en": "Creamy, rich, dark brown",
+      "zh": "奶油色，濃郁，深棕色"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Dark Rum",
+          "zh": "黑冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and a rich, molasses-like flavor.",
+          "zh": "提供基酒和豐富的糖蜜風味。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "蘭姆酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Whole Egg",
+          "zh": "全蛋"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and texture.",
+          "zh": "增加豐富度和口感。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Brown Sugar",
+          "zh": "紅糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Sweetens and adds molasses notes.",
+          "zh": "增添甜味和糖蜜風味。"
+        }
+      },
+      {
+        "amount": 30,
+        "name": {
+          "en": "Heavy Cream",
+          "zh": "鮮奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds creamy texture and richness.",
+          "zh": "增加奶油質地和豐富度。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Yeasty",
+        "zh": "酵母"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 1,
+      "booziness": 6,
+      "body": 8,
+      "complexity": 7,
+      "bubbles": false
     }
   },
   {
@@ -27646,6 +28477,140 @@
       "body": 3,
       "complexity": 4,
       "bubbles": true
+    }
+  },
+  {
+    "name": {
+      "en": "Flipping Good",
+      "zh": "非常棒的翻轉"
+    },
+    "description": {
+      "en": "**A Rich and Creamy Classic**\n\nThe Flip is a classic cocktail known for its rich and creamy texture, incorporating:\n*   A base spirit, typically brandy or sherry\n*   An egg for body and richness\n*   Sugar for sweetness and balance",
+      "zh": "**濃郁和奶油的經典**\n\nFlip 是一款以其濃郁和奶油質地而聞名的經典雞尾酒，包括：\n*   一種基酒，通常是白蘭地或雪利酒\n*   雞蛋提供酒體和豐富度\n*   糖提供甜度和平衡"
+    },
+    "historical_reference": {
+      "en": "**Historical Context**\n\nThe Flip dates back to the 17th century, originally a mixture of beer, rum, and sugar, heated with a hot iron (loggerhead).\n\n*   Evolved over time to include eggs and spices.\n*   Became popular in the 18th and 19th centuries as a warming and fortifying drink.\n*   Variations exist using different spirits, such as sherry or gin.",
+      "zh": "**歷史背景**\n\nFlip 可以追溯到 17 世紀，最初是啤酒、朗姆酒和糖的混合物，用熱鐵（loggerhead）加熱。\n\n*   隨著時間的推移，演變成包括雞蛋和香料。\n*   在 18 世紀和 19 世紀，它作為一種暖身和滋補的飲料而流行起來。\n*   存在使用不同烈酒的變體，例如雪利酒或琴酒。"
+    },
+    "technique": {
+      "en": "Shake vigorously with ice and strain into glass. Garnish with grated nutmeg.",
+      "zh": "與冰塊充分搖晃，然後濾入杯中。 用磨碎的肉豆蔻裝飾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉豆蔻"
+    },
+    "serve_in_glass": {
+      "en": "Wine glass or small mug",
+      "zh": "葡萄酒杯或小馬克杯"
+    },
+    "appearance": {
+      "en": "Frothy, creamy tan color",
+      "zh": "泡沫豐富，奶油棕褐色"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and warmth",
+          "zh": "提供基酒和溫暖感"
+        },
+        "tags": [
+          {
+            "en": "Brandy",
+            "zh": "白蘭地"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Cream Sherry",
+          "zh": "奶油雪利酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and body",
+          "zh": "增加甜味和酒體"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and texture",
+          "zh": "增加豐富度和質地"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and balances flavors",
+          "zh": "增加甜度並平衡風味"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 8,
+      "complexity": 7,
+      "bubbles": false
     }
   },
   {
@@ -29472,8 +30437,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Generic Orange Liqueur",
-          "zh": "通用橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -29980,8 +30945,8 @@
       {
         "amount": 20,
         "name": {
-          "en": "Generic Orange Liqueur",
-          "zh": "通用橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -32016,119 +32981,6 @@
       "booziness": 6,
       "body": 5,
       "complexity": 6,
-      "bubbles": false
-    }
-  },
-  {
-    "name": {
-      "en": "Alexandre",
-      "zh": "亞歷山大"
-    },
-    "description": {
-      "en": "**Classic French Cocktail**\n\nA sophisticated and balanced cocktail:\n*   Combines Cognac, dry vermouth, and bitters.\n*   Often served up in a coupe glass.\n*   Known for its refined taste and subtle complexity.",
-      "zh": "**經典法式雞尾酒**\n\n一種精緻且均衡的雞尾酒：\n*   結合了干邑白蘭地、乾味美思和苦精。\n*   通常在高腳杯中供應。\n*   以其精緻的口感和微妙的複雜性而聞名。"
-    },
-    "historical_reference": {
-      "en": "**Historical Origins**\n\nThe Alexandre cocktail is believed to have originated in the early 20th century, possibly in France. While its exact history is debated, it's considered a classic cocktail with French roots, showcasing the elegance and sophistication of French mixology during that era.\n\n*   Emergence in the early 1900s.\n*   Associated with French cocktail culture.",
-      "zh": "**歷史淵源**\n\n人們認為亞歷山大雞尾酒起源於 20 世紀初，可能是在法國。雖然其確切歷史尚有爭議，但它被認為是一種具有法國血統的經典雞尾酒，展現了當時法國調酒的優雅和精緻。\n\n*   出現在 1900 年代初期。\n*   與法國雞尾酒文化相關。"
-    },
-    "technique": {
-      "en": "Stir with ice and strain into a chilled coupe glass.",
-      "zh": "與冰塊攪拌並濾入冰鎮過的香檳杯中。"
-    },
-    "garnish": {
-      "en": "Lemon twist",
-      "zh": "檸檬皮扭轉"
-    },
-    "serve_in_glass": {
-      "en": "Coupe glass",
-      "zh": "高腳杯"
-    },
-    "appearance": {
-      "en": "Clear, light amber",
-      "zh": "清澈，淺琥珀色"
-    },
-    "allergens": [
-      {
-        "en": "None",
-        "zh": "無"
-      }
-    ],
-    "base_spirits": [
-      {
-        "amount": 45,
-        "name": {
-          "en": "Cognac",
-          "zh": "干邑白蘭地"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Provides the base spirit with rich flavor and complexity.",
-          "zh": "提供基酒，具有濃郁的風味和複雜性。"
-        }
-      }
-    ],
-    "liqueurs": [
-      {
-        "amount": 20,
-        "name": {
-          "en": "Dry Vermouth",
-          "zh": "不甜苦艾酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds dryness and herbal notes.",
-          "zh": "增添乾爽和草本氣息。"
-        }
-      }
-    ],
-    "ingredients": [
-      {
-        "amount": 2,
-        "name": {
-          "en": "Orange Bitters",
-          "zh": "橙味苦精"
-        },
-        "unit": {
-          "en": "dashes",
-          "zh": "滴"
-        },
-        "rationale": {
-          "en": "Adds a touch of bitterness and citrus aroma.",
-          "zh": "增添一絲苦味和柑橘香氣。"
-        }
-      }
-    ],
-    "flavor_descriptors": [
-      {
-        "en": "Fruity",
-        "zh": "果香"
-      },
-      {
-        "en": "Herbal",
-        "zh": "草本"
-      },
-      {
-        "en": "Bitter",
-        "zh": "苦味"
-      },
-      {
-        "en": "Woody",
-        "zh": "木質"
-      }
-    ],
-    "flavor_profile": {
-      "sweetness": 4,
-      "sourness": 3,
-      "booziness": 7,
-      "body": 6,
-      "complexity": 8,
       "bubbles": false
     }
   },
@@ -34979,6 +35831,155 @@
   },
   {
     "name": {
+      "en": "Sunday Flip",
+      "zh": "星期天翻轉"
+    },
+    "description": {
+      "en": "A rich and decadent flip cocktail, perfect for a leisurely Sunday morning. The combination of dark rum, cream, egg, and spices creates a warming and comforting drink.",
+      "zh": "一款濃郁且令人愉悅的翻轉雞尾酒，非常適合悠閒的星期天早晨。 深色蘭姆酒、奶油、雞蛋和香料的結合創造了一種溫暖舒適的飲品。"
+    },
+    "historical_reference": {
+      "en": "Flips have been around since the 1600s, originally made with beer, rum, and sugar, heated with a hot iron rod.\n\n* The egg was added later for extra richness.\n* This version reflects the spirit-forward flips that became popular in the 19th century.",
+      "zh": "翻轉雞尾酒自 1600 年代以來就已存在，最初由啤酒、蘭姆酒和糖製成，並用熱鐵棒加熱。\n\n* 後來添加雞蛋以增加濃郁度。\n* 這個版本反映了 19 世紀流行的烈酒主導的翻轉。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients to emulsify, then add ice and shake again until well-chilled. Strain into a chilled glass and garnish with grated nutmeg.",
+      "zh": "將所有材料乾搖以乳化，然後加入冰塊再次搖勻至完全冷卻。 濾入冰鎮的玻璃杯中，並用磨碎的肉荳蔻裝飾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or small wine glass",
+      "zh": "高腳杯或小型葡萄酒杯"
+    },
+    "appearance": {
+      "en": "Creamy, light brown, frothy head",
+      "zh": "乳白色，淺棕色，泡沫狀"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Dark Rum",
+          "zh": "黑冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and rich molasses notes.",
+          "zh": "提供基酒和濃郁的糖蜜味。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "蘭姆酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Whole Egg",
+          "zh": "全蛋"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness, body, and texture.",
+          "zh": "增加豐富度、酒體和質地。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the other ingredients.",
+          "zh": "增加甜度以平衡其他成分。"
+        }
+      },
+      {
+        "amount": 60,
+        "name": {
+          "en": "Heavy Cream",
+          "zh": "鮮奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds richness and a creamy texture.",
+          "zh": "增加濃郁度和奶油質地。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 2,
+      "booziness": 5,
+      "body": 8,
+      "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Greyhound",
       "zh": "灰狗"
     },
@@ -35708,8 +36709,8 @@
       {
         "amount": 25,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -35841,8 +36842,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -35994,8 +36995,8 @@
       {
         "amount": 45,
         "name": {
-          "en": "Bourbon/Rye Whiskey",
-          "zh": "波本/黑麥威士忌"
+          "en": "Whisky",
+          "zh": "威士忌"
         },
         "unit": {
           "en": "ml",
@@ -36004,7 +37005,13 @@
         "rationale": {
           "en": "Provides the base spirit and backbone of the cocktail, offering a rich and spicy flavor.",
           "zh": "提供基酒，構成雞尾酒的骨幹，帶來濃郁且辛辣的風味。"
-        }
+        },
+        "tags": [
+          {
+            "en": "Whisky",
+            "zh": "威士忌"
+          }
+        ]
       }
     ],
     "liqueurs": [
@@ -36136,8 +37143,8 @@
       {
         "amount": 20,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -38000,8 +39007,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash of Cinnamon",
-          "zh": "少量肉桂粉"
+          "en": "Cinnamon",
+          "zh": "肉桂"
         },
         "unit": {
           "en": "dash",
@@ -39525,8 +40532,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash Angostura Bitters",
-          "zh": "少量安格仕苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -39540,8 +40547,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash Peychaud's Bitters",
-          "zh": "少量佩喬氏苦精"
+          "en": "Peychaud's Bitters",
+          "zh": "佩喬苦精"
         },
         "unit": {
           "en": "dash",
@@ -40078,6 +41085,144 @@
   },
   {
     "name": {
+      "en": "Great Pumpkin",
+      "zh": "大南瓜"
+    },
+    "description": {
+      "en": "**Autumnal Delight**\n\nA festive cocktail that captures the essence of fall, featuring:\n*   Pumpkin puree for a creamy texture and authentic flavor.\n*   Warm spices for a comforting aroma and taste.\n*   Bourbon for a boozy backbone.",
+      "zh": "**秋日饗宴**\n\n一款節慶雞尾酒，捕捉秋天的精髓，特色：\n*   南瓜泥帶來奶油般的質地和真實風味。\n*   溫暖的香料帶來舒適的香氣和味道。\n*   波本威士忌帶來酒精的骨幹。"
+    },
+    "historical_reference": {
+      "en": "A modern cocktail creation, inspired by the flavors of pumpkin pie and autumnal spices. While not a classic in the traditional sense, it draws upon classic cocktail techniques and flavor pairings to create a unique and seasonal drinking experience. Its origins can be traced to the rise in popularity of pumpkin spice flavors in the early 21st century.",
+      "zh": "一款現代雞尾酒，靈感來自南瓜派和秋季香料的味道。雖然不是傳統意義上的經典，但它借鑒了經典的雞尾酒技術和風味搭配，創造出獨特而季節性的飲用體驗。其起源可以追溯到21世紀初南瓜香料口味的日益流行。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice. Strain into a rocks glass filled with ice. Garnish with a cinnamon stick.",
+      "zh": "將所有材料與冰塊搖勻。濾入裝滿冰塊的岩石杯中。用肉桂棒裝飾。"
+    },
+    "garnish": {
+      "en": "Cinnamon stick",
+      "zh": "肉桂棒"
+    },
+    "serve_in_glass": {
+      "en": "Rocks glass",
+      "zh": "岩石杯"
+    },
+    "appearance": {
+      "en": "Opaque, deep orange, frothy head, garnished with a cinnamon stick.",
+      "zh": "不透明，深橙色，泡沫豐富，以肉桂棒裝飾。"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Bourbon Whiskey",
+          "zh": "波本威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit with a rich, caramel flavor.",
+          "zh": "提供基酒，帶有濃郁的焦糖風味。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Hazelnut Liqueur",
+          "zh": "榛果利口酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Enhances the nutty and warm flavors.",
+          "zh": "加強堅果和溫暖的風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Pumpkin Puree",
+          "zh": "南瓜泥"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds pumpkin flavor and creamy texture.",
+          "zh": "增添南瓜風味和奶油般的質地。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Maple Syrup",
+          "zh": "楓糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and maple flavor.",
+          "zh": "增加甜味和楓糖風味。"
+        }
+      },
+      {
+        "amount": 2,
+        "name": {
+          "en": "Dashes Angostura Bitters",
+          "zh": "安格斯圖拉苦精"
+        },
+        "unit": {
+          "en": "dash",
+          "zh": "滴"
+        },
+        "rationale": {
+          "en": "Adds depth and complexity.",
+          "zh": "增加深度和複雜性。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 6,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Maiden's Prayer",
       "zh": "少女的祈禱"
     },
@@ -40557,7 +41702,7 @@
   {
     "name": {
       "en": "Naked and Famous",
-      "zh": "赤裸與著名"
+      "zh": "一脫成名"
     },
     "description": {
       "en": "**Modern Classic Cocktail**\n\nA vibrant and complex cocktail with a balance of:\n*   Smoky mezcal\n*   Herbal Chartreuse\n*   Bitter Aperol\n*   Sour Lime Juice",
@@ -40663,6 +41808,155 @@
       "booziness": 6,
       "body": 5,
       "complexity": 8,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
+      "en": "Lazy Man Flip",
+      "zh": "懶人菲力浦"
+    },
+    "description": {
+      "en": "**A Rich and Indulgent Cocktail**\n\nThe Lazy Man Flip is a decadent and comforting cocktail, perfect for a cozy evening. It's a simplified version of a classic Flip, focusing on ease of preparation without sacrificing flavor.\n\nKey features include:\n*   Rich dark rum base\n*   Creamy egg yolk\n*   Sweetened with sugar\n*   Nutmeg garnish for warmth",
+      "zh": "**一款濃郁而放縱的雞尾酒**\n\n「懶人菲力浦」是一款頹廢而舒適的雞尾酒，非常適合在舒適的夜晚享用。它是經典菲力浦的簡化版本，專注於易於準備，而不犧牲風味。\n\n主要特點包括：\n*   濃郁的深色蘭姆酒基底\n*   奶油蛋黃\n*   用糖調味\n*   肉荳蔻裝飾，增添溫暖感"
+    },
+    "historical_reference": {
+      "en": "**Evolution of the Flip Cocktail**\n\nThe Lazy Man Flip is a variation of the classic Flip cocktail, which dates back to the 17th century. Flips traditionally included beer, rum, and sugar, heated with a hot iron (a \"loggerhead\"). Over time, the recipe evolved to include eggs and cream, and the heating process was replaced by shaking with ice.\n\nThe \"Lazy Man\" designation suggests a simplified or quicker version of the traditional recipe, likely omitting some of the more laborious steps.",
+      "zh": "**菲力浦雞尾酒的演變**\n\n「懶人菲力浦」是經典菲力浦雞尾酒的變體，其歷史可以追溯到 17 世紀。傳統的菲力浦包括啤酒、蘭姆酒和糖，用熱鐵（「loggerhead」）加熱。隨著時間的推移，配方演變為包括雞蛋和奶油，加熱過程被用冰搖晃所取代。\n\n「懶人」的名稱表示傳統配方的簡化或更快版本，可能省略了一些更費力的步驟。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice. Strain into glass. Garnish with grated nutmeg.",
+      "zh": "將所有材料與冰塊一起搖勻。倒入玻璃杯中。用磨碎的肉荳蔻裝飾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Small wine glass or coupe",
+      "zh": "小號葡萄酒杯或 coupe 杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow, frothy head",
+      "zh": "奶油色、淡黃色、泡沫狀"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Dark Rum",
+          "zh": "黑冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and rich flavor.",
+          "zh": "提供基酒和濃郁風味。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "蘭姆酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and texture.",
+          "zh": "增加濃郁度和質地。"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and balances the drink.",
+          "zh": "增加甜度並平衡飲品。"
+        }
+      },
+      {
+        "amount": 30,
+        "name": {
+          "en": "Cream",
+          "zh": "鮮奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds creaminess and smooth texture.",
+          "zh": "增加奶油味和柔滑口感。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 1,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 5,
       "bubbles": false
     }
   },
@@ -40835,6 +42129,134 @@
       "body": 7,
       "complexity": 5,
       "bubbles": true
+    }
+  },
+  {
+    "name": {
+      "en": "American Beauty",
+      "zh": "美國美人"
+    },
+    "description": {
+      "en": "**A Classic Cocktail with a Floral Touch**\n\nThe American Beauty is a visually stunning and flavorful cocktail that combines the richness of cognac with the refreshing touch of grenadine and the subtle floral notes of crème de menthe. The egg white adds a silky texture, making it a truly delightful experience.\n\nKey features:\n\n*   Cognac base for depth\n*   Grenadine for sweetness and color\n*   Crème de menthe for a hint of mint and floral aroma\n*   Egg white for a smooth, creamy texture",
+      "zh": "**帶有花香的經典雞尾酒**\n\n美國美人是一款視覺上令人驚艷且風味十足的雞尾酒，它結合了干邑白蘭地的濃郁、紅石榴糖漿的清新和薄荷奶油的微妙花香。 蛋白的加入增添了絲滑的口感，使其成為一種真正令人愉悅的體驗。\n\n主要特點：\n\n*   干邑白蘭地基底，帶來深度\n*   紅石榴糖漿帶來甜味和色彩\n*   薄荷奶油帶來一絲薄荷味和花香\n*   蛋白帶來柔滑、奶油般的質地"
+    },
+    "historical_reference": {
+      "en": "**A Cocktail of Unknown Origins**\n\nThe American Beauty cocktail's exact origin is not definitively known, but it gained popularity in the early 20th century. Its combination of flavors and attractive presentation made it a favorite during that era.\n\n*   Appeared in cocktail books from the early 1900s.\n*   The cocktail's name evokes a sense of elegance and allure.",
+      "zh": "**起源不明的雞尾酒**\n\n美國美人雞尾酒的確切起源尚不清楚，但在 20 世紀初開始流行。 其風味的結合和吸引人的外觀使其成為那個時代的最愛。\n\n*   出現在 1900 年代初的雞尾酒書籍中。\n*   這款雞尾酒的名字喚起了一種優雅和魅力的感覺。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled coupe glass.",
+      "zh": "將所有材料與冰塊一起搖勻，然後倒入冰鎮的淺碟香檳杯中。"
+    },
+    "garnish": {
+      "en": "Mint sprig and a cherry",
+      "zh": "薄荷枝和櫻桃"
+    },
+    "serve_in_glass": {
+      "en": "Coupe glass",
+      "zh": "淺碟香檳杯"
+    },
+    "appearance": {
+      "en": "Pinkish-red with a frothy egg white layer",
+      "zh": "粉紅色帶有泡沫狀的蛋白層"
+    },
+    "allergens": [
+      {
+        "en": "Egg white",
+        "zh": "蛋白"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Cognac",
+          "zh": "干邑白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and rich flavors.",
+          "zh": "提供基酒和濃郁的風味。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Crème de Menthe (White)",
+          "zh": "白色薄荷奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a refreshing minty flavor and aroma.",
+          "zh": "增添清爽的薄荷味和香氣。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Grenadine",
+          "zh": "紅石榴糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and a vibrant red color.",
+          "zh": "增加甜味和鮮豔的紅色。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg White",
+          "zh": "蛋白"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds a smooth, silky texture.",
+          "zh": "增添柔滑的口感。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Floral",
+        "zh": "花香"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 3,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 7,
+      "bubbles": false
     }
   },
   {
@@ -42070,148 +43492,6 @@
   },
   {
     "name": {
-      "en": "20th Century Cocktail",
-      "zh": "20世紀雞尾酒"
-    },
-    "description": {
-      "en": "**Elegant and Sophisticated**\n\nA pre-prohibition classic featuring:\n*   Gin base for a clean taste.\n*   Lillet Blanc for floral and honeyed notes.\n*   White Creme de Cacao for subtle chocolate richness.\n*   Lemon juice for bright acidity.",
-      "zh": "**優雅而精緻**\n\n禁酒令前經典之作，特色：\n*   琴酒基底帶來清爽口感。\n*   Lillet Blanc帶來花香和蜂蜜香氣。\n*   白色可可甜酒帶來微妙的巧克力醇厚感。\n*   檸檬汁帶來明亮的酸度。"
-    },
-    "historical_reference": {
-      "en": "**Created in the early 20th Century**\n\n*   First appeared around the beginning of the 20th century.\n*   Named after the luxurious 20th Century Limited train, symbolizing modernity and speed.\n*   Became popular in the Savoy Cocktail Book.",
-      "zh": "**創建於20世紀初**\n\n*   首次出現於20世紀初。\n*   以豪華的20th Century Limited列車命名，象徵現代和速度。\n*   在《薩伏伊雞尾酒書》中廣受歡迎。"
-    },
-    "technique": {
-      "en": "Shake all ingredients with ice and strain into a chilled glass.",
-      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
-    },
-    "garnish": {
-      "en": "Lemon twist",
-      "zh": "檸檬皮扭轉"
-    },
-    "serve_in_glass": {
-      "en": "Coupe or Martini glass",
-      "zh": "高腳杯或馬丁尼杯"
-    },
-    "appearance": {
-      "en": "Pale yellow, frothy head",
-      "zh": "淡黃色，泡沫狀"
-    },
-    "allergens": [
-      {
-        "en": "None",
-        "zh": "無"
-      }
-    ],
-    "base_spirits": [
-      {
-        "amount": 45,
-        "name": {
-          "en": "Gin",
-          "zh": "琴酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Provides the base and backbone of the cocktail.",
-          "zh": "提供雞尾酒的基底和骨幹。"
-        },
-        "tags": [
-          {
-            "en": "clear spirit",
-            "zh": "清澈烈酒"
-          },
-          {
-            "en": "juniper",
-            "zh": "杜松子"
-          },
-          {
-            "en": "botanical",
-            "zh": "植物香料"
-          }
-        ]
-      }
-    ],
-    "liqueurs": [
-      {
-        "amount": 22,
-        "name": {
-          "en": "Lillet Blanc",
-          "zh": "麗葉白"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds floral, honeyed, and slightly bitter notes.",
-          "zh": "增添花香、蜂蜜和微苦的味道。"
-        }
-      },
-      {
-        "amount": 22,
-        "name": {
-          "en": "Crème de Cacao",
-          "zh": "可可酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds a subtle chocolate flavor and sweetness.",
-          "zh": "增添微妙的巧克力風味和甜味。"
-        }
-      }
-    ],
-    "ingredients": [
-      {
-        "amount": 0,
-        "name": {
-          "en": "None",
-          "zh": "無"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "no ingredients",
-          "zh": "沒有原料"
-        }
-      }
-    ],
-    "flavor_descriptors": [
-      {
-        "en": "Citrus",
-        "zh": "柑橘"
-      },
-      {
-        "en": "Floral",
-        "zh": "花香"
-      },
-      {
-        "en": "Chocolate",
-        "zh": "朱古力"
-      },
-      {
-        "en": "Herbal",
-        "zh": "草本"
-      }
-    ],
-    "flavor_profile": {
-      "sweetness": 4,
-      "sourness": 5,
-      "booziness": 6,
-      "body": 5,
-      "complexity": 7,
-      "bubbles": false
-    }
-  },
-  {
-    "name": {
       "en": "Test Pilot",
       "zh": "試飛員"
     },
@@ -42374,8 +43654,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash Angostura Bitters",
-          "zh": "少量安格仕苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -47074,6 +48354,94 @@
   },
   {
     "name": {
+      "en": "Fernandito",
+      "zh": "費南迪多"
+    },
+    "description": {
+      "en": "*Simple and refreshing Argentinian highball*\n\nA popular and easy-to-make cocktail consisting of:\n*   Amaro (usually Fernet-Branca)\n*   Cola\n*   Ice\n\nOften enjoyed as an aperitif or a casual drink.",
+      "zh": "*簡單清爽的阿根廷 Highball*\n\n一種受歡迎且易於調製的雞尾酒，包含：\n* 阿瑪羅酒 (通常是 Fernet-Branca)\n* 可樂\n* 冰塊\n\n經常作為餐前酒或休閒飲品享用。"
+    },
+    "historical_reference": {
+      "en": "**Popular Argentinian Cocktail**\n\n*   Originates from Argentina\n*   The exact origin is debated but the cocktail gained popularity in the 1970s\n*   Fernet-Branca became the staple amaro due to Italian immigration influence.",
+      "zh": "**受歡迎的阿根廷雞尾酒**\n\n*   起源於阿根廷\n*   確切起源尚有爭議，但該雞尾酒在1970年代廣受歡迎\n*   由於義大利移民的影響，Fernet-Branca 成為主要使用的阿瑪羅酒。"
+    },
+    "technique": {
+      "en": "Fill glass with ice, add Fernet, top with Cola.",
+      "zh": "在高杯中加入冰塊，加入 Fernet，倒入可樂。"
+    },
+    "garnish": {
+      "en": "Optional: Lemon or Orange wedge",
+      "zh": "可選：檸檬或橙角"
+    },
+    "serve_in_glass": {
+      "en": "Highball glass",
+      "zh": "Highball 杯"
+    },
+    "appearance": {
+      "en": "Dark amber, effervescent",
+      "zh": "深琥珀色，有氣泡"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 50,
+        "name": {
+          "en": "Amaro",
+          "zh": "阿瑪羅"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the bitter and herbal base.",
+          "zh": "提供苦味和草本基底。"
+        }
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 0,
+        "name": {
+          "en": "Ice",
+          "zh": "冰塊"
+        },
+        "unit": {
+          "en": "cubes",
+          "zh": "塊"
+        },
+        "rationale": {
+          "en": "To chill and dilute the drink.",
+          "zh": "冷卻和稀釋飲料。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 3,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 5,
+      "bubbles": true
+    }
+  },
+  {
+    "name": {
       "en": "Tommy's Margarita",
       "zh": "湯米瑪格麗特"
     },
@@ -47347,8 +48715,8 @@
       {
         "amount": 20,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -49540,7 +50908,7 @@
         "amount": 15,
         "name": {
           "en": "Triple Sec",
-          "zh": "橙皮酒"
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -50355,36 +51723,41 @@
   {
     "name": {
       "en": "20th Century Cocktail",
-      "zh": "二十世紀雞尾酒"
+      "zh": "20世紀雞尾酒"
     },
     "description": {
-      "en": "**A Pre-Prohibition Classic**\n\nA balanced gin cocktail featuring:\n*   Gin for a solid base.\n*   Lemon juice for sourness.\n*   Créme de cacao for chocolate and sweetness.\n*   Cream for texture and richness.",
-      "zh": "**禁酒令前經典**\n\n一款均衡的琴酒雞尾酒，特色：\n* 琴酒作為堅實的基底。\n* 檸檬汁帶來酸味。\n* 可可奶油帶來巧克力風味和甜味。\n* 鮮奶油增加質地和濃郁度。"
+      "en": "**Elegant and Sophisticated**\n\nA pre-prohibition classic featuring:\n*   Gin base for a clean taste.\n*   Lillet Blanc for floral and honeyed notes.\n*   White Creme de Cacao for subtle chocolate richness.\n*   Lemon juice for bright acidity.",
+      "zh": "**優雅而精緻**\n\n禁酒令前經典之作，特色：\n*   琴酒基底帶來清爽口感。\n*   Lillet Blanc帶來花香和蜂蜜香氣。\n*   白色可可甜酒帶來微妙的巧克力醇厚感。\n*   檸檬汁帶來明亮的酸度。"
     },
     "historical_reference": {
-      "en": "**Origin**: Created in the early 20th century.\n\n*   First appeared in print in *Recipes for Mixed Drinks* by Hugo Ensslin (1917).\n*   Served at the Wallick and Hoffman's bar, also known as the Hoffman House in New York City.",
-      "zh": "**起源**: 20世紀初創作。\n\n*   首次出現在Hugo Ensslin的《*混合飲料配方*》（1917年）中。\n*   在紐約市的Wallick and Hoffman's酒吧（也稱為霍夫曼之家）供應。"
+      "en": "**Created in the early 20th Century**\n\n*   First appeared around the beginning of the 20th century.\n*   Named after the luxurious 20th Century Limited train, symbolizing modernity and speed.\n*   Became popular in the Savoy Cocktail Book.",
+      "zh": "**創建於20世紀初**\n\n*   首次出現於20世紀初。\n*   以豪華的20th Century Limited列車命名，象徵現代和速度。\n*   在《薩伏伊雞尾酒書》中廣受歡迎。"
     },
     "technique": {
       "en": "Shake all ingredients with ice and strain into a chilled glass.",
-      "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子中。"
+      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
     },
     "garnish": {
-      "en": "Grated Nutmeg",
-      "zh": "磨碎的肉荳蔻"
+      "en": "Lemon twist",
+      "zh": "檸檬皮扭轉"
     },
     "serve_in_glass": {
-      "en": "Coupe",
-      "zh": "高腳杯"
+      "en": "Coupe or Martini glass",
+      "zh": "高腳杯或馬丁尼杯"
     },
     "appearance": {
-      "en": "Clear, vibrant pink",
-      "zh": "清澈、鮮豔的粉紅色"
+      "en": "Pale yellow, frothy head",
+      "zh": "淡黃色，泡沫狀"
     },
-    "allergens": [],
+    "allergens": [
+      {
+        "en": "None",
+        "zh": "無"
+      }
+    ],
     "base_spirits": [
       {
-        "amount": 40,
+        "amount": 45,
         "name": {
           "en": "Gin",
           "zh": "琴酒"
@@ -50394,8 +51767,8 @@
           "zh": "毫升"
         },
         "rationale": {
-          "en": "Provides the primary spirit base and botanical complexity.",
-          "zh": "提供主要的烈酒基底和植物的複雜性。"
+          "en": "Provides the base and backbone of the cocktail.",
+          "zh": "提供雞尾酒的基底和骨幹。"
         },
         "tags": [
           {
@@ -50415,7 +51788,22 @@
     ],
     "liqueurs": [
       {
-        "amount": 20,
+        "amount": 22,
+        "name": {
+          "en": "Lillet Blanc",
+          "zh": "麗葉白"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds floral, honeyed, and slightly bitter notes.",
+          "zh": "增添花香、蜂蜜和微苦的味道。"
+        }
+      },
+      {
+        "amount": 22,
         "name": {
           "en": "Crème de Cacao",
           "zh": "可可酒"
@@ -50425,40 +51813,25 @@
           "zh": "毫升"
         },
         "rationale": {
-          "en": "Adds chocolate flavor and sweetness.",
-          "zh": "增加巧克力風味和甜味。"
+          "en": "Adds a subtle chocolate flavor and sweetness.",
+          "zh": "增添微妙的巧克力風味和甜味。"
         }
       }
     ],
     "ingredients": [
       {
-        "amount": 20,
+        "amount": 0,
         "name": {
-          "en": "Lemon Juice",
-          "zh": "檸檬汁"
+          "en": "None",
+          "zh": "無"
         },
         "unit": {
           "en": "ml",
           "zh": "毫升"
         },
         "rationale": {
-          "en": "Adds acidity to balance the sweetness.",
-          "zh": "增加酸度以平衡甜味。"
-        }
-      },
-      {
-        "amount": 20,
-        "name": {
-          "en": "Cream",
-          "zh": "鮮奶油"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds a rich and velvety texture.",
-          "zh": "增加豐富和柔滑的質地。"
+          "en": "no ingredients",
+          "zh": "沒有原料"
         }
       }
     ],
@@ -50468,19 +51841,23 @@
         "zh": "柑橘"
       },
       {
+        "en": "Floral",
+        "zh": "花香"
+      },
+      {
         "en": "Chocolate",
         "zh": "朱古力"
       },
       {
-        "en": "Creamy",
-        "zh": "乳脂"
+        "en": "Herbal",
+        "zh": "草本"
       }
     ],
     "flavor_profile": {
-      "sweetness": 6,
+      "sweetness": 4,
       "sourness": 5,
       "booziness": 6,
-      "body": 7,
+      "body": 5,
       "complexity": 7,
       "bubbles": false
     }
@@ -51226,7 +52603,7 @@
   {
     "name": {
       "en": "Sidecar",
-      "zh": " साइडकार (Sāidùkǎ)"
+      "zh": "側車"
     },
     "description": {
       "en": "*Classic Sour Cocktail*\n\nA harmonious blend of:\n*   Branded Spirit for structure and complexity.\n*   Generic Orange Liqueur contributes to the overall flavor profile, adding sweetness and complementing the brandy's character.\n*   Lemon Juice for brightness and acidity to balance the sweet components.",
@@ -51257,8 +52634,8 @@
       {
         "amount": 50,
         "name": {
-          "en": "Branded Spirit",
-          "zh": "品牌烈酒"
+          "en": "Cognac",
+          "zh": "白蘭地"
         },
         "unit": {
           "en": "ml",
@@ -51274,8 +52651,8 @@
       {
         "amount": 20,
         "name": {
-          "en": "Generic Orange Liqueur",
-          "zh": "通用橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -51520,8 +52897,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Grand Marnier",
-          "zh": "柑曼怡"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -51565,8 +52942,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Grand Marnier",
-          "zh": "柑曼怡"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -52094,8 +53471,8 @@
       {
         "amount": 22,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -53095,8 +54472,8 @@
       {
         "amount": 2,
         "name": {
-          "en": "Dash Angostura Bitters",
-          "zh": "少量安格仕苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -55389,6 +56766,231 @@
   },
   {
     "name": {
+      "en": "Silent Third",
+      "zh": "沉默的第三者"
+    },
+    "description": {
+      "en": "**A sophisticated and balanced cocktail with a complex flavor profile.**\n\nThis classic cocktail is known for its harmonious blend of sweet, sour, and herbal notes. It's a perfect choice for those who appreciate a well-crafted, nuanced drink.",
+      "zh": "**一款精緻且平衡的雞尾酒，具有複雜的風味。**\n\n這款經典雞尾酒以其甜、酸和草本風味的和諧融合而聞名。對於欣賞精心調製、細膩飲品的人來說，這是一個完美的選擇。"
+    },
+    "historical_reference": {
+      "en": "The Silent Third is a classic cocktail that emerged in the early 20th century. Its exact origins are debated, but it's believed to have originated in either France or England. The name likely refers to the balance of three main ingredients.",
+      "zh": "「沉默的第三者」是一款 20 世紀初出現的經典雞尾酒。其確切起源尚有爭議，但據信起源於法國或英國。這個名字可能指的是三種主要成分的平衡。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子。"
+    },
+    "garnish": {
+      "en": "Lemon twist or cherry",
+      "zh": "檸檬皮或櫻桃"
+    },
+    "serve_in_glass": {
+      "en": "Cocktail glass or coupe glass",
+      "zh": "雞尾酒杯或高腳杯"
+    },
+    "appearance": {
+      "en": "Pale yellow or amber",
+      "zh": "淡黃色或琥珀色"
+    },
+    "allergens": [
+      {
+        "en": "None",
+        "zh": "無"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Scotch Whisky",
+          "zh": "蘇格蘭威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and smoky notes.",
+          "zh": "提供基酒和煙燻味。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Dry Curaçao",
+          "zh": "乾味庫拉索橙酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds citrus and orange notes.",
+          "zh": "增加柑橘和橙子的風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Lemon Juice",
+          "zh": "檸檬汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds acidity and balances the sweetness.",
+          "zh": "增加酸度並平衡甜味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Smoky",
+        "zh": "煙燻"
+      },
+      {
+        "en": "Sweet",
+        "zh": "甜味"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 6,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
+      "en": "Cynar Flip",
+      "zh": "金巴利翻轉"
+    },
+    "description": {
+      "en": "**Rich and Bittersweet Treat**\n\nA flip cocktail that blends the unique bitter character of artichoke-based amaro with the richness of an egg and a touch of sweetness.\n\n*   Creamy and decadent texture\n*   Bittersweet profile with herbal undertones\n*   Nutmeg garnish for aromatic enhancement",
+      "zh": "**濃郁而苦甜的享受**\n\n融合了以朝鮮薊為基礎的阿瑪aro酒獨特的苦味，以及雞蛋的濃郁和一絲甜味的翻轉雞尾酒。\n\n*   奶油般柔滑的口感\n*   帶有草本氣息的苦甜風味\n*   肉荳蔻裝飾增強香氣"
+    },
+    "historical_reference": {
+      "en": "**A Modern Twist on a Classic**\n\n*   The flip cocktail has roots dating back to the 17th century. Traditionally consisting of beer, rum, and sugar, heated with a hot poker.\n*   Modern flips are typically made with egg, spirit, and sugar.\n*   This Cynar version showcases the growing trend of using amari in classic cocktail formats.",
+      "zh": "**經典的現代演繹**\n\n*   翻轉雞尾酒的歷史可以追溯到17世紀。傳統上由啤酒、蘭姆酒和糖組成，用熱鐵棒加熱。\n*   現代的翻轉雞尾酒通常由雞蛋、烈酒和糖製成。\n*   這個Cynar版本展示了在經典雞尾酒形式中使用阿瑪aro酒的日益增長的趨勢。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients, then shake with ice. Strain into a chilled glass.",
+      "zh": "將所有材料乾搖，然後加冰搖晃。濾入冰鎮的玻璃杯中。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Small stemmed glass or coupe",
+      "zh": "小高腳杯或敞口杯"
+    },
+    "appearance": {
+      "en": "Opaque, creamy, light brown with foam",
+      "zh": "不透明，奶油色，淺棕色帶泡沫"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Amari",
+          "zh": "阿瑪aro酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the bitter base and herbal complexity.",
+          "zh": "提供苦味基礎和草本的複雜性。"
+        }
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the bitterness.",
+          "zh": "增加甜度以平衡苦味。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Whole Egg",
+          "zh": "全蛋"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and body to the cocktail.",
+          "zh": "為雞尾酒增加濃郁度和酒體。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 4,
+      "sourness": 2,
+      "booziness": 5,
+      "body": 8,
+      "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Spicy Paloma",
       "zh": "香辣帕洛瑪"
     },
@@ -55757,6 +57359,138 @@
   },
   {
     "name": {
+      "en": "Gaelic Flip",
+      "zh": "蘇格蘭翻轉"
+    },
+    "description": {
+      "en": "**A rich and warming cocktail**\n\nThe Gaelic Flip is a variation of the classic Flip cocktail, substituting Scotch whisky for the traditional base spirit. It offers:\n\n*   A creamy and smooth texture\n*   A balance of sweetness and spice\n*   A warming and comforting character",
+      "zh": "**一款濃郁而溫暖的雞尾酒**\n\n蘇格蘭翻轉是經典翻轉雞尾酒的變體，用蘇格蘭威士忌代替了傳統的基酒。它提供：\n\n*   奶油般柔滑的質地\n*   甜味和香料的平衡\n*   溫暖而舒適的特性"
+    },
+    "historical_reference": {
+      "en": "**Origins of the Flip Cocktail**\n\n*   The flip has a long history, dating back to 17th-century England.\n*   Originally, flips were made with beer, rum, and sugar, heated with a hot iron.\n*   Over time, the recipe evolved to include spirits, egg, and spices.\n*   The Gaelic Flip is a more modern variation.",
+      "zh": "**翻轉雞尾酒的起源**\n\n*   翻轉有著悠久的歷史，可以追溯到17世紀的英格蘭。\n*   最初，翻轉由啤酒、蘭姆酒和糖製成，並用熱鐵加熱。\n*   隨著時間的推移，配方演變為包括烈酒、雞蛋和香料。\n*   蘇格蘭翻轉是一種更現代的變體。"
+    },
+    "technique": {
+      "en": "Dry shake, then shake with ice and strain",
+      "zh": "先乾搖，然後加入冰塊搖勻並過濾"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Small stemmed glass or coupe",
+      "zh": "小高腳杯或碟型香檳杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow to light brown with a frothy top",
+      "zh": "奶油狀，淡黃色至淺棕色，頂部有泡沫"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Scotch Whisky",
+          "zh": "蘇格蘭威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a malty and smoky base.",
+          "zh": "提供麥芽和煙熏的基底風味。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Cream Sherry",
+          "zh": "奶油雪利酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds nutty and sweet notes.",
+          "zh": "增加堅果和甜味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and creaminess.",
+          "zh": "增加濃郁度和奶油味。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the whisky.",
+          "zh": "增加甜度以平衡威士忌。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Smoky",
+        "zh": "煙燻"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Gin Pahit",
       "zh": "琴酒巴 hit"
     },
@@ -55978,67 +57712,59 @@
   {
     "name": {
       "en": "Dirty Mother",
-      "zh": "骯髒的母親"
+      "zh": "黯淡的母親"
     },
     "description": {
-      "en": "**Simple and Strong**\n\nA two-ingredient cocktail that emphasizes the flavors of coffee liqueur and vodka:\n\n*   Easy to make and adjust to taste.\n*   Served in a rocks glass, no garnish is necessary.",
-      "zh": "**簡單而強烈**\n\n一種強調咖啡利口酒和伏特加風味的雙成分雞尾酒：\n\n*   易於製作且可根據口味調整。\n*   在岩石杯中供應，不需要裝飾。"
+      "en": "Dirty Mother is a simple yet flavorful coffee liqueur cocktail. It combines brandy as a base with coffee liqueur, creating a rich, after-dinner coffee-like experience. The unique notes of brandy blend seamlessly with the coffee liqueur, offering a touch of sweetness and nutty aroma, with a smooth texture that leaves a warm aftertaste.\n\n*   Rich and creamy\n*   Easy to make\n*   Good for dessert",
+      "zh": "「黯淡的母親」（Dirty Mother）是一款簡單卻深具風味的咖啡香甜酒調酒。\n\n以白蘭地為基底，與咖啡香甜酒混合，創造出如餐後咖啡般的醇厚口感。\n\n白蘭地的獨特風味與咖啡香甜酒完美融合，帶來一絲甜美與堅果香氣，口感滑順，在舌尖留下溫暖的餘韻。儘管名稱略帶戲謔，這款調酒卻能撫慰疲憊的心靈，如同在深夜中，為辛勞的母親帶來一絲慰藉。"
     },
     "historical_reference": {
-      "en": "**Origins Unclear**\n\n*   Likely emerged in the mid-20th century.\n*   The name suggests a 'dirtier' version of the 'Black Russian,' replacing cream with coffee liqueur.",
-      "zh": "**起源不明**\n\n*   可能出現在20世紀中葉。\n*   這個名字暗示了“黑色俄羅斯”的“更髒”版本，用咖啡利口酒代替奶油。"
+      "en": "",
+      "zh": ""
     },
     "technique": {
-      "en": "Pour vodka and coffee liqueur into a rocks glass with ice. Stir gently.",
-      "zh": "將伏特加和咖啡利口酒倒入裝有冰塊的岩石杯中。 輕輕攪拌。"
+      "en": "Build over ice",
+      "zh": "在冰上調製"
     },
     "garnish": {
-      "en": "None",
-      "zh": "無"
+      "en": "Grated nutmeg or chocolate shavings (optional)",
+      "zh": "磨碎的肉荳蔻或巧克力屑（可選）"
     },
     "serve_in_glass": {
-      "en": "Rocks glass",
-      "zh": "岩石杯"
+      "en": "Old-fashioned glass",
+      "zh": "古典杯"
     },
     "appearance": {
-      "en": "Opaque, dark brown to black",
-      "zh": "不透明，深棕色至黑色"
+      "en": "Light brown",
+      "zh": "淺棕色"
     },
     "allergens": [],
     "base_spirits": [
       {
-        "amount": 30,
+        "amount": 60,
         "name": {
-          "en": "Vodka",
-          "zh": "伏特加"
+          "en": "Brandy",
+          "zh": "白蘭地"
         },
         "unit": {
           "en": "ml",
           "zh": "毫升"
         },
         "rationale": {
-          "en": "Provides the alcoholic base and a neutral flavor profile.",
-          "zh": "提供酒精基底和中性的風味。"
+          "en": "Provides the alcoholic base and warm fruit notes.",
+          "zh": "提供酒精基底和溫暖的水果味。"
         },
         "tags": [
           {
-            "en": "clear spirit",
-            "zh": "清澈烈酒"
-          },
-          {
-            "en": "neutral",
-            "zh": "中性"
-          },
-          {
-            "en": "filtration",
-            "zh": "過濾"
+            "en": "Brandy",
+            "zh": "白蘭地"
           }
         ]
       }
     ],
     "liqueurs": [
       {
-        "amount": 60,
+        "amount": 30,
         "name": {
           "en": "Coffee Liqueur",
           "zh": "咖啡利口酒"
@@ -56048,32 +57774,36 @@
           "zh": "毫升"
         },
         "rationale": {
-          "en": "Adds sweetness, coffee flavor, and color.",
-          "zh": "增加甜味、咖啡味和顏色。"
+          "en": "Adds coffee flavor and sweetness.",
+          "zh": "增加咖啡味和甜味。"
         }
       }
     ],
     "ingredients": [],
     "flavor_descriptors": [
       {
+        "en": "Chocolate",
+        "zh": "朱古力"
+      },
+      {
         "en": "Coffee",
         "zh": "咖啡"
       },
       {
-        "en": "Bitter",
-        "zh": "苦味"
+        "en": "Vanilla",
+        "zh": "香草"
       },
       {
-        "en": "Chocolate",
-        "zh": "朱古力"
+        "en": "Nutty",
+        "zh": "堅果"
       }
     ],
     "flavor_profile": {
-      "sweetness": 5,
+      "sweetness": 7,
       "sourness": 1,
-      "booziness": 7,
-      "body": 6,
-      "complexity": 4,
+      "booziness": 6,
+      "body": 4,
+      "complexity": 5,
       "bubbles": false
     }
   },
@@ -56703,7 +58433,7 @@
         "amount": 15,
         "name": {
           "en": "Triple Sec",
-          "zh": "橙皮酒"
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -57599,29 +59329,12 @@
           "en": "Adds sweet and herbal notes",
           "zh": "增加甜味和草本香"
         }
-      }
-    ],
-    "ingredients": [
-      {
-        "amount": 3,
-        "name": {
-          "en": "Dash Peychaud's Bitters",
-          "zh": "少量佩喬氏苦精"
-        },
-        "unit": {
-          "en": "dash",
-          "zh": "少許"
-        },
-        "rationale": {
-          "en": "Adds bitter and floral notes.",
-          "zh": "增添苦味和花香。"
-        }
       },
       {
         "amount": 3,
         "name": {
-          "en": "Dash Absinthe",
-          "zh": "少量苦艾酒"
+          "en": "Absinthe",
+          "zh": "苦艾酒"
         },
         "unit": {
           "en": "dash",
@@ -57630,6 +59343,23 @@
         "rationale": {
           "en": "Adds anise flavor.",
           "zh": "增加茴香味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 3,
+        "name": {
+          "en": "Peychaud's Bitters",
+          "zh": "佩喬苦精"
+        },
+        "unit": {
+          "en": "dash",
+          "zh": "少許"
+        },
+        "rationale": {
+          "en": "Adds bitter and floral notes.",
+          "zh": "增添苦味和花香。"
         }
       }
     ],
@@ -57661,6 +59391,137 @@
       "booziness": 7,
       "body": 7,
       "complexity": 8,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
+      "en": "Fumigator Flip",
+      "zh": "煙燻菲力浦"
+    },
+    "description": {
+      "en": "**Smoky and Rich Flip Cocktail**\n\nA variation on the classic flip, featuring:\n*   Mezcal for a smoky flavor profile\n*   Whole egg for a rich, creamy texture\n*   Brown sugar for molasses-like sweetness\n*   Angostura bitters for aromatic complexity",
+      "zh": "**煙燻濃郁的菲力浦雞尾酒**\n\n經典菲力浦的變奏，特色：\n*   梅斯卡爾酒帶來煙燻風味\n*   全蛋提供濃郁、奶油般的質地\n*   紅糖帶來糖蜜般的甜味\n*   安格式苦精增添香氣複雜性"
+    },
+    "historical_reference": {
+      "en": "**Flip Cocktail History**\n\n*   Flips have been around since the 1600s.\n*   Traditionally involved beer, rum, and sugar, heated with a hot iron.\n*   Modern flips use eggs for a creamy texture. The 'Fumigator Flip' is a modern variation using Mezcal.",
+      "zh": "**菲力浦雞尾酒的歷史**\n\n*   菲力浦起源於17世紀。\n*   傳統上涉及啤酒、蘭姆酒和糖，用熱鐵加熱。\n*   現代菲力浦使用雞蛋來獲得奶油般的質地。 「煙燻菲力浦」是使用梅斯卡爾酒的現代變奏。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients vigorously. Add ice and shake again until well-chilled.",
+      "zh": "將所有材料用力乾搖。 加入冰塊再次搖晃，直至完全冷卻。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉豆蔻"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Nick & Nora glass",
+      "zh": "碟型香檳杯或 Nick & Nora 杯"
+    },
+    "appearance": {
+      "en": "Opaque, creamy, light brown with a frothy head",
+      "zh": "不透明，奶油色，淺棕色，帶有泡沫"
+    },
+    "allergens": [
+      {
+        "en": "egg",
+        "zh": "雞蛋"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Mezcal",
+          "zh": "梅斯卡爾酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the smoky base and agave notes.",
+          "zh": "提供煙熏基底和龍舌蘭風味。"
+        }
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 2,
+        "name": {
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
+        },
+        "unit": {
+          "en": "dashes",
+          "zh": "滴"
+        },
+        "rationale": {
+          "en": "Adds aromatic complexity and spice.",
+          "zh": "增添香氣複雜性和辛辣味。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Whole Egg",
+          "zh": "全蛋"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and texture.",
+          "zh": "增加濃郁度和質地。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Brown Sugar",
+          "zh": "紅糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds molasses-like sweetness.",
+          "zh": "增加糖蜜般的甜味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Smoky",
+        "zh": "煙燻"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Earth",
+        "zh": "泥土"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 2,
+      "booziness": 7,
+      "body": 8,
+      "complexity": 7,
       "bubbles": false
     }
   },
@@ -58269,8 +60130,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -60341,8 +62202,8 @@
       {
         "amount": 15,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -61822,127 +63683,6 @@
   },
   {
     "name": {
-      "en": "Bees Knees",
-      "zh": "蜜蜂的膝蓋"
-    },
-    "description": {
-      "en": "*Classic Prohibition-era Cocktail*\n\nA simple yet elegant cocktail featuring:\n*   Gin as the base spirit.\n*   Lemon juice for tartness.\n*   Honey syrup for sweetness and floral aroma.",
-      "zh": "*禁酒時代的經典雞尾酒*\n\n簡單而優雅的雞尾酒，特色：\n*   琴酒為基酒。\n*   檸檬汁帶來酸味。\n*   蜂蜜糖漿帶來甜味和花香。"
-    },
-    "historical_reference": {
-      "en": "**Origin**: Emerged during the Prohibition era in the United States (1920-1933).\n\n* The name \"Bees Knees\" was slang for \"the best.\"\n*   Honey was used to mask the harsh flavors of poorly made gin during Prohibition.\n*   First appeared in print in 1930, in *Recipes for Mixed Drinks* by Harry MacElhone.",
-      "zh": "**起源**: 出現於美國禁酒時期（1920-1933）。\n\n*   名稱“Bees Knees”是“最好的”的俚語。\n*   在禁酒時期，蜂蜜被用來掩蓋劣質琴酒的刺鼻味道。\n*   首次出現在印刷品中是1930年哈里·麥克埃爾霍尼的《混合飲料食譜》。"
-    },
-    "technique": {
-      "en": "Shake all ingredients with ice. Strain into a chilled glass.",
-      "zh": "將所有材料與冰塊一起搖勻。 濾入冰鎮的玻璃杯中。"
-    },
-    "garnish": {
-      "en": "Lemon twist or edible flower (optional)",
-      "zh": "檸檬皮或食用花（可選）"
-    },
-    "serve_in_glass": {
-      "en": "Coupe or cocktail glass",
-      "zh": "淺碟香檳杯或雞尾酒杯"
-    },
-    "appearance": {
-      "en": "Pale yellow, slightly cloudy",
-      "zh": "淡黃色，略帶混濁"
-    },
-    "allergens": [],
-    "base_spirits": [
-      {
-        "amount": 60,
-        "name": {
-          "en": "Gin",
-          "zh": "琴酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Provides the primary alcoholic backbone and botanical notes.",
-          "zh": "提供主要的酒精骨幹和植物風味。"
-        },
-        "tags": [
-          {
-            "en": "clear spirit",
-            "zh": "清澈烈酒"
-          },
-          {
-            "en": "juniper",
-            "zh": "杜松子"
-          },
-          {
-            "en": "botanical",
-            "zh": "植物香料"
-          }
-        ]
-      }
-    ],
-    "liqueurs": [],
-    "ingredients": [
-      {
-        "amount": 22,
-        "name": {
-          "en": "Honey Syrup",
-          "zh": "蜂蜜糖漿"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Sweetens the drink and provides a floral note.",
-          "zh": "為飲料增添甜味，並提供花香。"
-        }
-      },
-      {
-        "amount": 22,
-        "name": {
-          "en": "Lemon Juice",
-          "zh": "檸檬汁"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds acidity and balances the sweetness.",
-          "zh": "增加酸度，平衡甜度。"
-        }
-      }
-    ],
-    "flavor_descriptors": [
-      {
-        "en": "Citrus",
-        "zh": "柑橘"
-      },
-      {
-        "en": "Floral",
-        "zh": "花香"
-      },
-      {
-        "en": "Herbal",
-        "zh": "草本"
-      },
-      {
-        "en": "Fruity",
-        "zh": "果香"
-      }
-    ],
-    "flavor_profile": {
-      "sweetness": 5,
-      "sourness": 6,
-      "booziness": 6,
-      "body": 4,
-      "complexity": 5,
-      "bubbles": false
-    }
-  },
-  {
-    "name": {
       "en": "Mezcal Margarita",
       "zh": "梅斯卡爾瑪格麗特"
     },
@@ -61992,8 +63732,8 @@
       {
         "amount": 25,
         "name": {
-          "en": "Orange Liqueur",
-          "zh": "橙味利口酒"
+          "en": "Triple Sec",
+          "zh": "橙酒"
         },
         "unit": {
           "en": "ml",
@@ -62729,8 +64469,8 @@
       {
         "amount": 1,
         "name": {
-          "en": "Dash Angostura Bitters",
-          "zh": "少量安格仕苦精"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -65195,6 +66935,144 @@
   },
   {
     "name": {
+      "en": "Brandy Flip",
+      "zh": "白蘭地菲力"
+    },
+    "description": {
+      "en": "*Rich and decadent cocktail*\n\nA classic after-dinner drink featuring:\n*   Brandy for warmth\n*   Egg yolk for creaminess\n*   Nutmeg for spice\n\nUsually served warm.",
+      "zh": "*濃郁而頹廢的雞尾酒*\n\n一款經典的餐後飲品，特色：\n* 白蘭地帶來溫暖\n* 蛋黃帶來奶油般的口感\n* 肉荳蔻帶來香料味\n\n通常熱飲。"
+    },
+    "historical_reference": {
+      "en": "**Origin**: The Flip cocktail family dates back to the 17th century. Originally made with beer, rum, and sugar, later variations included eggs and other spirits.\n\n*   Popular in the 18th and 19th centuries\n*   Brandy Flip is a refined version of the original Flip",
+      "zh": "**起源**: Flip 雞尾酒系列可以追溯到 17 世紀。 最初由啤酒、蘭姆酒和糖製成，後來的變體包括雞蛋和其他烈酒。\n\n*   在 18 和 19 世紀很受歡迎\n*   白蘭地菲力是原版菲力的精緻版本"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients, then shake with ice. Strain into glass. Garnish with grated nutmeg.",
+      "zh": "將所有材料乾搖，然後加冰搖晃。 濾入玻璃杯。 用磨碎的肉荳蔻裝飾。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Small mug or coupe glass",
+      "zh": "小馬克杯或轎跑杯"
+    },
+    "appearance": {
+      "en": "Creamy, frothy, light brown",
+      "zh": "奶油色、起泡、淺棕色"
+    },
+    "allergens": [
+      {
+        "en": "egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the alcoholic base and rich flavor.",
+          "zh": "提供酒精基底和濃郁風味。"
+        },
+        "tags": [
+          {
+            "en": "Brandy",
+            "zh": "白蘭地"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Cream Sherry",
+          "zh": "奶油雪莉酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds nutty and complex notes.",
+          "zh": "增添堅果和複雜的風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness.",
+          "zh": "增加甜度。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and creaminess.",
+          "zh": "增加濃郁度和奶油味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 1,
+      "booziness": 5,
+      "body": 8,
+      "complexity": 6,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Black Manhattan",
       "zh": "黑色曼哈頓"
     },
@@ -66372,14 +68250,12 @@
           "en": "Adds orange flavor and sweetness.",
           "zh": "增添橙子風味和甜味。"
         }
-      }
-    ],
-    "ingredients": [
+      },
       {
         "amount": 2,
         "name": {
-          "en": "Dash Absinthe",
-          "zh": "少量苦艾酒"
+          "en": "Absinthe",
+          "zh": "苦艾酒"
         },
         "unit": {
           "en": "dash",
@@ -66391,6 +68267,7 @@
         }
       }
     ],
+    "ingredients": [],
     "flavor_descriptors": [
       {
         "en": "Citrus",
@@ -66714,6 +68591,151 @@
   },
   {
     "name": {
+      "en": "Canary Flip",
+      "zh": "金絲雀翻轉"
+    },
+    "description": {
+      "en": "**A Rich and Warming Flip Cocktail**\n\nThe Canary Flip is a decadent and comforting drink, perfect for cooler evenings.\n\n*   Features a combination of rich dark rum, egg yolk, and sugar.\n*   The addition of cream and nutmeg adds to its luxurious texture and flavor.\n*   Best enjoyed slowly, savoring each sip.",
+      "zh": "**濃郁而溫暖的翻轉雞尾酒**\n\nCanary Flip 是一款頹廢且令人感到舒適的飲品，非常適合涼爽的夜晚。\n\n*   以濃郁的深色蘭姆酒、蛋黃和糖混合製成。\n*   加入鮮奶油和肉荳蔻，增添奢華的質地和風味。\n*   最好慢慢享用，細細品味每一口。"
+    },
+    "historical_reference": {
+      "en": "**A Classic Flip Cocktail Variation**\n\n*   Flips have been enjoyed since at least the 1600s, evolving from beer-based drinks to spirit-based cocktails.\n*   The Canary Flip likely emerged as a sweeter, richer variation on the traditional Flip.\n*   The name may refer to the color of the drink, or perhaps a specific ingredient in older recipes.",
+      "zh": "**經典的翻轉雞尾酒變體**\n\n*   自 1600 年代以來，人們就一直在享用 Flips，從啤酒基底的飲料演變為烈酒基底的雞尾酒。\n*   Canary Flip 可能作為傳統 Flip 的更甜、更豐富的變體而出現。\n*   這個名字可能指的是飲料的顏色，或者可能是舊食譜中的特定成分。"
+    },
+    "technique": {
+      "en": "Dry shake all ingredients without ice to emulsify the egg, then shake again with ice. Strain into chilled glass.",
+      "zh": "將所有材料不加冰乾搖，使蛋黃乳化，然後再加冰搖晃。 濾入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉荳蔻"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or small wine glass",
+      "zh": "高腳杯或小酒杯"
+    },
+    "appearance": {
+      "en": "Creamy, pale yellow",
+      "zh": "乳白色，淡黃色"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Dark Rum",
+          "zh": "黑冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a rich, complex base with notes of molasses and spice.",
+          "zh": "提供豐富、複雜的基底，帶有糖蜜和香料的味道。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "蘭姆酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and texture.",
+          "zh": "增加濃郁度和口感。"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides sweetness and balances the other ingredients.",
+          "zh": "提供甜味並平衡其他成分。"
+        }
+      },
+      {
+        "amount": 60,
+        "name": {
+          "en": "Cream",
+          "zh": "鮮奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds creaminess and body.",
+          "zh": "增加乳脂感和酒體。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 8,
+      "complexity": 7,
+      "bubbles": false
+    }
+  },
+  {
+    "name": {
       "en": "Strawberry Caipirinha",
       "zh": "草莓卡琵莉亞"
     },
@@ -66974,113 +68996,6 @@
       "booziness": 7,
       "body": 6,
       "complexity": 8,
-      "bubbles": false
-    }
-  },
-  {
-    "name": {
-      "en": "Bamboo Cocktail",
-      "zh": "竹子雞尾酒"
-    },
-    "description": {
-      "en": "*A classic aperitif cocktail*\n\nA simple yet elegant mix of sherry, vermouth, and orange bitters.\n\n*   Low ABV, making it suitable for daytime drinking\n*   Often served before a meal to stimulate the appetite",
-      "zh": "*經典的餐前雞尾酒*\n\n雪莉酒、苦艾酒和橙味苦精的簡單而優雅的混合。\n\n*   酒精度低，適合白天飲用\n*   通常在餐前飲用以刺激食慾"
-    },
-    "historical_reference": {
-      "en": "*Created in the late 19th century*\n\n*   Attributed to Louis Eppinger at the Hoffman House in New York\n*   Named after the Bamboo Room at the hotel\n*   A low-alcohol alternative to the Martini",
-      "zh": "*創建於19世紀後期*\n\n*   歸功於紐約霍夫曼之家的路易斯·埃平格\n*   以酒店的竹屋命名\n*   馬丁尼的低酒精替代品"
-    },
-    "technique": {
-      "en": "Stir with ice and strain into chilled glass",
-      "zh": "與冰攪拌並過濾到冰鎮的玻璃杯中"
-    },
-    "garnish": {
-      "en": "Lemon twist or Olive",
-      "zh": "檸檬皮或橄欖"
-    },
-    "serve_in_glass": {
-      "en": "Cocktail glass or coupe",
-      "zh": "雞尾酒杯或淺碟杯"
-    },
-    "appearance": {
-      "en": "Pale golden, clear",
-      "zh": "淡金色，清澈"
-    },
-    "allergens": [],
-    "base_spirits": [],
-    "liqueurs": [
-      {
-        "amount": 45,
-        "name": {
-          "en": "Dry Sherry",
-          "zh": "不甜雪莉酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Provides the base and nutty flavor.",
-          "zh": "提供基底和堅果風味。"
-        }
-      },
-      {
-        "amount": 45,
-        "name": {
-          "en": "Dry Vermouth",
-          "zh": "不甜苦艾酒"
-        },
-        "unit": {
-          "en": "ml",
-          "zh": "毫升"
-        },
-        "rationale": {
-          "en": "Adds herbal and floral notes.",
-          "zh": "增添草本和花香。"
-        }
-      }
-    ],
-    "ingredients": [
-      {
-        "amount": 2,
-        "name": {
-          "en": "Orange Bitters",
-          "zh": "橙味苦精"
-        },
-        "unit": {
-          "en": "dashes",
-          "zh": "滴"
-        },
-        "rationale": {
-          "en": "Adds a layer of complexity and aroma.",
-          "zh": "增加複雜性和香氣。"
-        }
-      }
-    ],
-    "flavor_descriptors": [
-      {
-        "en": "Herbal",
-        "zh": "草本"
-      },
-      {
-        "en": "Nutty",
-        "zh": "堅果"
-      },
-      {
-        "en": "Bitter",
-        "zh": "苦味"
-      },
-      {
-        "en": "Woody",
-        "zh": "木質"
-      }
-    ],
-    "flavor_profile": {
-      "sweetness": 3,
-      "sourness": 2,
-      "booziness": 4,
-      "body": 5,
-      "complexity": 6,
       "bubbles": false
     }
   },
@@ -69659,8 +71574,8 @@
       {
         "amount": 2,
         "name": {
-          "en": "Dash Angostura Bitters",
-          "zh": "安格式苦味酒"
+          "en": "Angostura Bitters",
+          "zh": "安格斯特拉苦精"
         },
         "unit": {
           "en": "dash",
@@ -70646,8 +72561,8 @@
       {
         "amount": 2,
         "name": {
-          "en": "Dash Orange Bitters",
-          "zh": "少許橙味苦精"
+          "en": "Orange Bitters",
+          "zh": "橙味苦精"
         },
         "unit": {
           "en": "dash",
@@ -71191,6 +73106,160 @@
       "body": 3,
       "complexity": 5,
       "bubbles": true
+    }
+  },
+  {
+    "name": {
+      "en": "Rum Flip",
+      "zh": "蘭姆翻轉"
+    },
+    "description": {
+      "en": "**Classic Rum Flip**\n\nA rich and decadent cocktail:\n\n*   Known for its creamy texture and warming spices\n*   Traditionally served warm, but can be served chilled.",
+      "zh": "**經典蘭姆翻轉**\n\n一款濃郁且頹廢的雞尾酒：\n\n*   以其奶油般的質地和溫暖的香料而聞名\n*   傳統上是熱飲，但也可以冷飲。"
+    },
+    "historical_reference": {
+      "en": "**History of the Flip**\n\n*   The flip is a style of drink that dates back to the 17th century.\n*   Originally made with beer, rum, and sugar, heated with a hot iron.\n*   The egg flip variation became popular in the 19th century, appearing in bartender guides.",
+      "zh": "**翻轉的歷史**\n\n*   翻轉是一種可以追溯到17世紀的飲品。\n*   最初由啤酒、蘭姆酒和糖製成，用熱鐵加熱。\n*   雞蛋翻轉的變體在19世紀開始流行，出現在調酒師指南中。"
+    },
+    "technique": {
+      "en": "Dry shake, then shake with ice and strain into a glass. Optionally, warm gently before serving.",
+      "zh": "先乾搖，然後加冰搖晃，倒入杯中。 可選地，在飲用前輕輕加熱。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉豆蔻"
+    },
+    "serve_in_glass": {
+      "en": "Wine glass or mug",
+      "zh": "葡萄酒杯或馬克杯"
+    },
+    "appearance": {
+      "en": "Creamy, frothy, light brown",
+      "zh": "奶油狀，起泡，淺棕色"
+    },
+    "allergens": [
+      {
+        "en": "Egg",
+        "zh": "雞蛋"
+      },
+      {
+        "en": "Dairy",
+        "zh": "乳製品"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Dark Rum",
+          "zh": "黑冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base flavor and alcoholic backbone.",
+          "zh": "提供基底風味和酒精骨幹。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "蘭姆酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Cream Sherry",
+          "zh": "奶油雪莉酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds nutty and fortified wine notes.",
+          "zh": "增添堅果和加強葡萄酒的風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds richness and creamy texture.",
+          "zh": "增加豐富度和奶油般的質地。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness.",
+          "zh": "增加甜度。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 8,
+      "complexity": 7,
+      "bubbles": false
     }
   },
   {

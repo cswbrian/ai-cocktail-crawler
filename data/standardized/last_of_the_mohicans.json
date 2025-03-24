@@ -119,8 +119,8 @@
     {
       "amount": 2,
       "name": {
-        "en": "Dash Angostura Bitters",
-        "zh": "少量安格仕苦精"
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
       },
       "unit": {
         "en": "dash",
@@ -134,8 +134,8 @@
     {
       "amount": 1,
       "name": {
-        "en": "Dash Peychaud's Bitters",
-        "zh": "少量佩喬氏苦精"
+        "en": "Peychaud's Bitters",
+        "zh": "佩喬苦精"
       },
       "unit": {
         "en": "dash",

@@ -1,7 +1,7 @@
 {
   "name": {
     "en": "Sidecar",
-    "zh": " साइडकार (Sāidùkǎ)"
+    "zh": "側車"
   },
   "description": {
     "en": "*Classic Sour Cocktail*\n\nA harmonious blend of:\n*   Branded Spirit for structure and complexity.\n*   Generic Orange Liqueur contributes to the overall flavor profile, adding sweetness and complementing the brandy's character.\n*   Lemon Juice for brightness and acidity to balance the sweet components.",
@@ -32,8 +32,8 @@
     {
       "amount": 50,
       "name": {
-        "en": "Branded Spirit",
-        "zh": "品牌烈酒"
+        "en": "Cognac",
+        "zh": "白蘭地"
       },
       "unit": {
         "en": "ml",
@@ -49,8 +49,8 @@
     {
       "amount": 20,
       "name": {
-        "en": "Generic Orange Liqueur",
-        "zh": "通用橙味利口酒"
+        "en": "Triple Sec",
+        "zh": "橙酒"
       },
       "unit": {
         "en": "ml",

@@ -1,0 +1,136 @@
+{
+  "name": {
+    "en": "Rum Flip",
+    "zh": "蘭姆翻轉"
+  },
+  "description": {
+    "en": "**Classic Rum Flip**\n\nA rich and decadent cocktail:\n\n*   Known for its creamy texture and warming spices\n*   Traditionally served warm, but can be served chilled.",
+    "zh": "**經典蘭姆翻轉**\n\n一款濃郁且頹廢的雞尾酒：\n\n*   以其奶油般的質地和溫暖的香料而聞名\n*   傳統上是熱飲，但也可以冷飲。"
+  },
+  "historical_reference": {
+    "en": "**History of the Flip**\n\n*   The flip is a style of drink that dates back to the 17th century.\n*   Originally made with beer, rum, and sugar, heated with a hot iron.\n*   The egg flip variation became popular in the 19th century, appearing in bartender guides.",
+    "zh": "**翻轉的歷史**\n\n*   翻轉是一種可以追溯到17世紀的飲品。\n*   最初由啤酒、蘭姆酒和糖製成，用熱鐵加熱。\n*   雞蛋翻轉的變體在19世紀開始流行，出現在調酒師指南中。"
+  },
+  "technique": {
+    "en": "Dry shake, then shake with ice and strain into a glass. Optionally, warm gently before serving.",
+    "zh": "先乾搖，然後加冰搖晃，倒入杯中。 可選地，在飲用前輕輕加熱。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉豆蔻"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or mug",
+    "zh": "葡萄酒杯或馬克杯"
+  },
+  "appearance": {
+    "en": "Creamy, frothy, light brown",
+    "zh": "奶油狀，起泡，淺棕色"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base flavor and alcoholic backbone.",
+        "zh": "提供基底風味和酒精骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Cream Sherry",
+        "zh": "奶油雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds nutty and fortified wine notes.",
+        "zh": "增添堅果和加強葡萄酒的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and creamy texture.",
+        "zh": "增加豐富度和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness.",
+        "zh": "增加甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 8,
+    "complexity": 7,
+    "bubbles": false
+  }
+}

@@ -310,7 +310,11 @@ liqueurs:
   Absinthe:
     standard_en: "Absinthe"
     standard_zh: "苦艾酒"
-    variants: []
+    variants:
+      - en: "Absinthe"
+        zh: "苦艾酒"
+      - en: "Dash Absinthe"
+        zh: "少量苦艾酒"
   Bénédictine:
     standard_en: "Bénédictine"
     standard_zh: "廊酒"
@@ -351,8 +355,16 @@ liqueurs:
     variants: []
   Triple Sec:
     standard_en: "Triple Sec"
-    standard_zh: "橙皮酒"
-    variants: []
+    standard_zh: "橙酒"
+    variants:
+      - en: "Triple Sec"
+        zh: "橙酒"
+      - en: "Orange Liqueur"
+        zh: "橙酒"
+      - en: "Generic Orange Liqueur"
+        zh: "通用橙味利口酒"
+      - en: "Grand Marnier"
+        zh: "柑曼怡"
   Grand Marnier:
     standard_en: "Grand Marnier"
     standard_zh: "柑曼怡"
@@ -403,6 +415,10 @@ liqueurs:
     variants:
       - en: "White Crème de Cacao"
         zh: "白可可酒"
+      - en: "White Crème de Cacao"
+        zh: "白色可可奶油"
+      - en: "White Crème de Cacao"
+        zh: "白色可可甜酒"
       - en: "Dark Crème de Cacao"
         zh: "黑可可酒"
   Crème de Menthe:
@@ -596,6 +612,8 @@ ingredients:
         zh: "簡單糖漿"
       - en: "Syrup component"
         zh: "糖漿"
+      - en: "Simple Syrup"
+        zh: "簡糖漿"
   Honey Syrup:
     standard_en: "Honey Syrup"
     standard_zh: "蜂蜜糖漿"
@@ -607,7 +625,9 @@ ingredients:
   Egg White:
     standard_en: "Egg White"
     standard_zh: "蛋白"
-    variants: []
+    variants:
+      - en: "Egg White"
+        zh: "蛋白"
   Egg Yolk:
     standard_en: "Egg Yolk"
     standard_zh: "蛋黃"
@@ -664,6 +684,8 @@ ingredients:
         zh: "肉桂棒"
       - en: "Ground Cinnamon"
         zh: "肉桂粉"
+      - en: "Dash of Cinnamon"
+        zh: "少量肉桂粉"
   Nutmeg:
     standard_en: "Nutmeg"
     standard_zh: "肉豆蔻"
@@ -672,6 +694,10 @@ ingredients:
         zh: "新鮮肉豆蔻"
       - en: "Ground Nutmeg"
         zh: "肉豆蔻粉"
+      - en: "Dash of Nutmeg"
+        zh: "少量肉豆蔻"
+      - en: "Dash of Nutmeg"
+        zh: "肉豆蔻"
   Salt:
     standard_en: "Salt"
     standard_zh: "鹽"
@@ -709,15 +735,33 @@ ingredients:
   Angostura Bitters:
     standard_en: "Angostura Bitters"
     standard_zh: "安格斯特拉苦精"
-    variants: []
+    variants:
+      - en: "Angostura Bitters"
+        zh: "安格斯特拉苦精"
+      - en: "Angostura"
+        zh: "安格斯特拉"
+      - en: "Dash Angostura Bitters"
+        zh: "少量安格仕苦精"
+      - en: "Dash of Angostura Bitters"
+        zh: "少量安格仕苦精"
   Orange Bitters:
     standard_en: "Orange Bitters"
     standard_zh: "橙味苦精"
-    variants: []
+    variants:
+      - en: "Orange Bitters"
+        zh: "橙味苦精"
+      - en: "Dash Orange Bitters"
+        zh: "少量橙味苦精"
+      - en: "Dash of Orange Bitters"
+        zh: "少量橙味苦精"
   Peychaud's Bitters:
     standard_en: "Peychaud's Bitters"
     standard_zh: "佩喬苦精"
-    variants: []
+    variants:
+      - en: "Peychaud's Bitters"
+        zh: "佩喬苦精"
+      - en: "Dash Peychaud's Bitters"
+        zh: "少量佩喬苦精"
 
 flavor_descriptors:
   Bitter:

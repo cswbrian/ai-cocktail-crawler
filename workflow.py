@@ -166,7 +166,7 @@ class CocktailWorkflow:
         }
         
         # Save the report
-        report_file = self.base_dirs['reports'] / 'ingredient_summary.json'
+        report_file = self.base_dirs['reports'] / 'summary.json'
         with open(report_file, 'w', encoding='utf-8') as f:
             json.dump(report, f, ensure_ascii=False, indent=2)
     
@@ -355,8 +355,8 @@ class CocktailWorkflow:
                 cocktail_data = json.load(f)
                 cocktails.append(cocktail_data)
         
-        # Save the combined list to cocktails.json in the project root
-        output_file = Path('cocktails.json')
+        # Save the combined list to cocktails.json in the reports directory
+        output_file = self.base_dirs['reports'] / 'cocktails.json'
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(cocktails, f, indent=2, ensure_ascii=False)
         
@@ -390,8 +390,7 @@ if __name__ == '__main__':
     workflow = CocktailWorkflow()
     
     # Use the cocktail list from main.py
-    cocktails = [
-    ]
+    cocktails = [ "Fernandito" ]
     
     # Run the workflow with standardization
     workflow.run_workflow(cocktails, standardize=True) 

@@ -1,0 +1,149 @@
+{
+  "name": {
+    "en": "Lazy Man Flip",
+    "zh": "懶人菲力浦"
+  },
+  "description": {
+    "en": "**A Rich and Indulgent Cocktail**\n\nThe Lazy Man Flip is a decadent and comforting cocktail, perfect for a cozy evening. It's a simplified version of a classic Flip, focusing on ease of preparation without sacrificing flavor.\n\nKey features include:\n*   Rich dark rum base\n*   Creamy egg yolk\n*   Sweetened with sugar\n*   Nutmeg garnish for warmth",
+    "zh": "**一款濃郁而放縱的雞尾酒**\n\n「懶人菲力浦」是一款頹廢而舒適的雞尾酒，非常適合在舒適的夜晚享用。它是經典菲力浦的簡化版本，專注於易於準備，而不犧牲風味。\n\n主要特點包括：\n*   濃郁的深色蘭姆酒基底\n*   奶油蛋黃\n*   用糖調味\n*   肉荳蔻裝飾，增添溫暖感"
+  },
+  "historical_reference": {
+    "en": "**Evolution of the Flip Cocktail**\n\nThe Lazy Man Flip is a variation of the classic Flip cocktail, which dates back to the 17th century. Flips traditionally included beer, rum, and sugar, heated with a hot iron (a \"loggerhead\"). Over time, the recipe evolved to include eggs and cream, and the heating process was replaced by shaking with ice.\n\nThe \"Lazy Man\" designation suggests a simplified or quicker version of the traditional recipe, likely omitting some of the more laborious steps.",
+    "zh": "**菲力浦雞尾酒的演變**\n\n「懶人菲力浦」是經典菲力浦雞尾酒的變體，其歷史可以追溯到 17 世紀。傳統的菲力浦包括啤酒、蘭姆酒和糖，用熱鐵（「loggerhead」）加熱。隨著時間的推移，配方演變為包括雞蛋和奶油，加熱過程被用冰搖晃所取代。\n\n「懶人」的名稱表示傳統配方的簡化或更快版本，可能省略了一些更費力的步驟。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into glass. Garnish with grated nutmeg.",
+    "zh": "將所有材料與冰塊一起搖勻。倒入玻璃杯中。用磨碎的肉荳蔻裝飾。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉荳蔻"
+  },
+  "serve_in_glass": {
+    "en": "Small wine glass or coupe",
+    "zh": "小號葡萄酒杯或 coupe 杯"
+  },
+  "appearance": {
+    "en": "Creamy, pale yellow, frothy head",
+    "zh": "奶油色、淡黃色、泡沫狀"
+  },
+  "allergens": [
+    {
+      "en": "Egg",
+      "zh": "雞蛋"
+    },
+    {
+      "en": "Dairy",
+      "zh": "乳製品"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Dark Rum",
+        "zh": "黑冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavor.",
+        "zh": "提供基酒和濃郁風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and texture.",
+        "zh": "增加濃郁度和質地。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the drink.",
+        "zh": "增加甜度並平衡飲品。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds creaminess and smooth texture.",
+        "zh": "增加奶油味和柔滑口感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 5,
+    "bubbles": false
+  }
+}
