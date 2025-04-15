@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Sesame Seed Swirl",
+    "zh": "芝麻漩渦"
+  },
+  "description": {
+    "en": "**Sesame Seed Swirl Cocktail**\n\nA unique and savory cocktail featuring:\n*   Creamy texture from sesame paste.\n*   Subtle sweetness balanced by a hint of salt.\n*   Elegant and flavorful.",
+    "zh": "**芝麻漩渦雞尾酒**\n\n一款獨特而美味的雞尾酒，特色：\n*   芝麻醬帶來的奶油般質感。\n*   微妙的甜味與一絲鹹味平衡。\n*   優雅且風味十足。"
+  },
+  "historical_reference": {
+    "en": "The **Sesame Seed Swirl** is a modern creation, inspired by the flavors of Asian cuisine and desserts. This cocktail is designed to offer a savory and nutty experience, combining the richness of sesame with the smoothness of vodka. While it does not have a long-standing history, it represents a contemporary approach to cocktail crafting, focusing on innovative flavor combinations and textures.",
+    "zh": "**芝麻漩渦**是一款現代創作，靈感來自亞洲美食和甜點的風味。 這款雞尾酒旨在提供美味和堅果的體驗，將芝麻的濃鬱與伏特加的順滑相結合。 雖然它沒有悠久的歷史，但它代表了一種現代的雞尾酒製作方法，專注於創新的風味組合和質地。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a rocks glass with a large ice cube. Swirl a small amount of dark sesame paste at the bottom of the glass before pouring.",
+    "zh": "將所有材料與冰塊搖勻，倒入裝有大冰塊的岩石杯中。 倒入前，在杯底旋入少量黑芝麻醬。"
+  },
+  "garnish": {
+    "en": "Sesame seeds rim and a sesame cracker on the side.",
+    "zh": "杯口一圈芝麻粒，旁邊佐以芝麻薄餅。"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass",
+    "zh": "岩石杯"
+  },
+  "appearance": {
+    "en": "Opaque, creamy beige with a swirl of dark sesame at the bottom.",
+    "zh": "不透明的奶油米色，底部有黑芝麻漩渦。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean base for the other flavors to shine.",
+        "zh": "為其他風味提供乾淨的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sesame Liqueur",
+        "zh": "芝麻利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Boosts the sesame flavor.",
+        "zh": "加強芝麻風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Sesame Paste",
+        "zh": "芝麻醬"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary nutty and creamy flavor.",
+        "zh": "提供主要的堅果和奶油風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the savory notes.",
+        "zh": "增加甜度以平衡鹹味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "unit": {
+        "en": "pinch",
+        "zh": "撮"
+      },
+      "rationale": {
+        "en": "Enhances the savory character of the cocktail.",
+        "zh": "增強雞尾酒的鹹味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Salty",
+      "zh": "有鹽"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

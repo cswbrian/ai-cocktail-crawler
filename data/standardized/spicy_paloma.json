@@ -81,7 +81,7 @@
       "amount": 90,
       "name": {
         "en": "Grapefruit Soda",
-        "zh": "葡萄柚蘇打"
+        "zh": "葡萄柚蘇打水"
       },
       "unit": {
         "en": "ml",
@@ -148,5 +148,8 @@
     "body": 4,
     "complexity": 7,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

@@ -64,13 +64,12 @@
       ]
     }
   ],
-  "liqueurs": [],
-  "ingredients": [
+  "liqueurs": [
     {
       "amount": 15,
       "name": {
-        "en": "Generic Dry Vermouth",
-        "zh": "通用 Dry Vermouth"
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
       },
       "unit": {
         "en": "ml",
@@ -80,7 +79,9 @@
         "en": "Adds subtle herbal and wine-like notes, balancing the gin.",
         "zh": "添加微妙的草本和類似葡萄酒的風味，平衡琴酒。"
       }
-    },
+    }
+  ],
+  "ingredients": [
     {
       "amount": 2,
       "name": {
@@ -122,5 +123,8 @@
     "body": 5,
     "complexity": 7,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

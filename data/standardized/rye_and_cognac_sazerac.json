@@ -48,7 +48,7 @@
       "amount": 30,
       "name": {
         "en": "Cognac",
-        "zh": "干邑白蘭地"
+        "zh": "干邑"
       },
       "unit": {
         "en": "ml",
@@ -57,7 +57,17 @@
       "rationale": {
         "en": "Adds complexity and fruity notes to complement the rye.",
         "zh": "增加複雜性和水果風味，以補充黑麥威士忌。"
-      }
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
     }
   ],
   "liqueurs": [
@@ -134,5 +144,8 @@
     "body": 7,
     "complexity": 9,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

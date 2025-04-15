@@ -1,7 +1,7 @@
 {
   "name": {
-    "en": "20th Century Cocktail",
-    "zh": "20世紀雞尾酒"
+    "en": "20th Century",
+    "zh": "20世紀"
   },
   "description": {
     "en": "**Elegant and Sophisticated**\n\nA pre-prohibition classic featuring:\n*   Gin base for a clean taste.\n*   Lillet Blanc for floral and honeyed notes.\n*   White Creme de Cacao for subtle chocolate richness.\n*   Lemon juice for bright acidity.",
@@ -138,5 +138,8 @@
     "body": 5,
     "complexity": 7,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

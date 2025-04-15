@@ -1,7 +1,7 @@
 {
   "name": {
-    "en": "Aviation",
-    "zh": "飛行"
+    "en": "Takumi's Aviation",
+    "zh": "Takumi的飛行"
   },
   "description": {
     "en": "**Classic Pre-Prohibition Cocktail**\n\nA delightful blend of gin, lemon juice, maraschino liqueur, and crème de violette, resulting in:\n\n*   A visually stunning pale lavender hue.\n*   A balanced sweet and sour profile with floral notes.\n*   A refreshing and complex flavor experience.",
@@ -128,5 +128,8 @@
     "body": 4,
     "complexity": 7,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

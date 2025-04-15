@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Yuzu Blossom",
+    "zh": "柚子花"
+  },
+  "description": {
+    "en": "**A Refreshing Citrus Cocktail**\n\nThe Yuzu Blossom is a bright and aromatic cocktail featuring the unique flavor of yuzu.\n\n*   Combines gin with yuzu juice and elderflower liqueur for a floral and citrusy profile.\n*   Egg white adds a silky texture and creates a beautiful foam.\n*   A few dashes of orange bitters provide a touch of complexity and spice.",
+    "zh": "**清爽的柑橘雞尾酒**\n\nYuzu Blossom 是一款明亮芳香的雞尾酒，具有獨特的柚子風味。\n\n*   將琴酒與柚子汁和接骨木花利口酒結合，帶來花香和柑橘風味。\n*   蛋白增加了柔滑的質地，並產生了美麗的泡沫。\n*   幾滴橙味苦精帶來一絲複雜性和辛辣味。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Yuzu Blossom is a contemporary cocktail, likely created in the late 20th or early 21st century.\n\n*   Its inspiration comes from the increasing availability and appreciation of yuzu in Western mixology.\n*   The combination of gin, yuzu, and elderflower reflects a trend towards floral and citrus-forward cocktails.",
+    "zh": "**現代創作**\n\nYuzu Blossom 是一款現代雞尾酒，很可能是在 20 世紀末或 21 世紀初創作的。\n\n*   它的靈感來自於西方調酒中柚子的日益普及和讚賞。\n*   琴酒、柚子和接骨木花的組合反映了花香和柑橘風味雞尾酒的趨勢。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後再加冰搖晃。雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Edible flower (e.g., pansy or orchid)",
+    "zh": "食用花卉（例如，三色堇或蘭花）"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "郁金香杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, slightly cloudy, with a frothy white head.",
+    "zh": "淡黃色，略帶混濁，帶有乳白色的泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the botanical base and a strong spirituous backbone.",
+        "zh": "提供植物風味的基底和強烈的酒精骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral sweetness and complements the yuzu.",
+        "zh": "增添花香甜味，與柚子相得益彰。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Yuzu Juice",
+        "zh": "柚子汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a unique tart and aromatic citrus flavor.",
+        "zh": "提供獨特的酸味和芳香的柑橘風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增添絲滑的質地和泡沫。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and a subtle spice.",
+        "zh": "增加複雜性和微妙的香料味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

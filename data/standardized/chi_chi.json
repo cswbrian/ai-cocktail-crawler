@@ -80,7 +80,7 @@
       "amount": 60,
       "name": {
         "en": "Cream of Coconut",
-        "zh": "椰奶"
+        "zh": "椰奶霜"
       },
       "unit": {
         "en": "ml",
@@ -117,5 +117,8 @@
     "body": 7,
     "complexity": 4,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

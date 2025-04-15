@@ -39,11 +39,63 @@ class CocktailInfo(BaseModel):
     ingredients: list[Ingredient]
     flavor_descriptors: list[BilingualText]
     flavor_profile: FlavorProfile
+    categories: list[str]
 
 class LLMClient:
     def __init__(self):
         self.client = genai.Client(api_key=API_KEY)
     
+    def determine_categories(self, cocktail_data: dict) -> list[str]:
+        """Determine categories based on cocktail description and characteristics"""
+        try:
+            prompt = f"""Analyze this cocktail data and determine its PRIMARY category from the following options:
+- Strong & Spirit-Focused
+- Sweet & Tart
+- Tall & Bubbly
+- Rich & Creamy
+
+Rules:
+1. Select ONE primary category that best describes the cocktail
+2. ONLY if the cocktail has TWO equally dominant characteristics, you may add a second category
+3. Base your decision on:
+   - The cocktail's description
+   - The base spirit and its amount
+   - The presence of sweet/sour ingredients
+   - The presence of carbonation
+   - The presence of cream/egg ingredients
+4. Return ONLY a JSON array of category strings, nothing else
+
+Cocktail data:
+{json.dumps(cocktail_data, indent=2)}
+
+Example responses:
+["Strong & Spirit-Focused"]  # For a spirit-forward cocktail
+["Sweet & Tart"]  # For a balanced sweet-sour cocktail
+["Tall & Bubbly"]  # For a carbonated highball
+["Rich & Creamy"]  # For a creamy/eggy cocktail
+["Strong & Spirit-Focused", "Sweet & Tart"]  # ONLY if truly has two equally dominant characteristics"""
+
+            response = self.client.models.generate_content(
+                model='gemini-2.0-flash',
+                contents=prompt,
+                config={ 
+                    'response_mime_type': 'application/json',
+                }, 
+            )
+            
+            # Parse the JSON response
+            categories = json.loads(response.text)
+            
+            # Ensure we have at least one category
+            if not categories:
+                return ["Strong & Spirit-Focused"]  # Default category
+            
+            # Limit to maximum 2 categories
+            return categories[:2]
+        except Exception as e:
+            print(f"Error determining categories: {str(e)}")
+            return ["Strong & Spirit-Focused"]  # Default category on error
+
     def get_cocktail_info(self, cocktail_name: str) -> CocktailInfo | None:
         try:
             prompt = f"""You are a professional mixologist specializing in classic cocktails. Provide detailed information about {cocktail_name} in JSON format, and *only* in JSON format, adhering to the following rules:
@@ -76,12 +128,18 @@ class LLMClient:
    - Woody (木質)
    - Grassy (草青)
    - Yeasty (酵母)
+9. For categories, select at most 2 categories from these exact values:
+   - Strong & Spirit-Focused
+   - Sweet & Tart
+   - Tall & Bubbly
+   - Rich & Creamy
 
 Example format:
 {{
 "name": {{"en": "Sazerac", "zh": "薩澤拉克"}},
 "serve_in_glass": {{"en": "Chilled old-fashioned glass", "zh": "冰鎮古典杯"}},
 "appearance": {{"en": "Clear amber liquid with a golden hue, no garnish", "zh": "清澈的琥珀色液體，帶有金黃色調，無裝飾"}},
+"categories": ["Strong & Spirit-Focused"],
 "base_spirits": [
 {{
 "name": {{"en": "Rye Whisky", "zh": "黑麥威士忌"}},

@@ -1,0 +1,150 @@
+{
+  "name": {
+    "en": "Matcha Mist",
+    "zh": "抹茶迷霧"
+  },
+  "description": {
+    "en": "**Refreshing and Aromatic Cocktail**\n\nA modern cocktail that balances the earthy notes of matcha with the floral and citrus notes of gin.\n\n*   Matcha powder provides a unique color and flavor.\n*   Lemon juice adds brightness and acidity.\n*   Simple syrup sweetens the drink.\n*   Egg white creates a silky texture.",
+    "zh": "**清新芳香的雞尾酒**\n\n一款現代雞尾酒，將抹茶的泥土味與琴酒的花香和柑橘味相平衡。\n\n*   抹茶粉提供獨特的顏色和風味。\n*   檸檬汁增加亮度和酸度。\n*   簡糖漿使飲料變甜。\n*   蛋白營造出柔滑的質感。"
+  },
+  "historical_reference": {
+    "en": "The Matcha Mist is a modern creation, lacking a specific historical origin. It exemplifies contemporary mixology's exploration of diverse flavors, such as matcha, in cocktail crafting. It is an innovative cocktail demonstrating the integration of tea culture with cocktail culture.",
+    "zh": "抹茶迷霧是一種現代創作，缺乏特定的歷史淵源。 它體現了當代調酒師對多種風味（如抹茶）在雞尾酒調製中的探索。 這是一款創新的雞尾酒，展示了茶文化與雞尾酒文化的融合。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice. Double strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖勻。 雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Matcha powder dusting or lemon twist",
+    "zh": "抹茶粉或檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy pale green with a frothy top",
+    "zh": "混濁的淡綠色，頂部有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical base and alcoholic strength.",
+        "zh": "提供植物基礎和酒精強度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Matcha Liqueur",
+        "zh": "抹茶利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the matcha flavor and adds sweetness.",
+        "zh": "增強抹茶風味並增加甜度。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture to the cocktail.",
+        "zh": "為雞尾酒增添柔滑的質感。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度，平衡甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the cocktail and balances the sourness.",
+        "zh": "使雞尾酒變甜，平衡酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
+}

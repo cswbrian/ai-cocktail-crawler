@@ -1,59 +1,25 @@
-from llm_client import LLMClient
-import json
-import os
-import codecs
+from workflow import CocktailWorkflow
 
-# Create necessary directories if they don't exist
-os.makedirs('data/converted', exist_ok=True)
-os.makedirs('data/new', exist_ok=True)
-
-cocktails = [
-    "Garibaldi", "Jungle Bird", "Enzoni", "Siesta", "Bicicletta", "Cardinale", "Milano-Torino", "The Left Hand", "Old Pal", "Sorrentino", "The Ribbon", "Sloegroni", "Old Acquaintance", "Old Gal", "Killer Cocktail", "English Marmalade", "Jasmine", "Paris Between the Wars", "Spaghett", "Blood and Sand", "Remember the Maine", "Little Italy", "Liberal Cocktail", "Brooklyn Cocktail", "Bobby Burns", "Bamboo Cocktail", "Americano", "Vieux Carré", "Million Dollar Cocktail", "Liberal Cocktail", "Horsefeather", "Between the Sheets", "Corpse Reviver #2", "Champagne Cocktail", "Penicillin", "Cardinale", "Old Pal", "Enzoni", "The Left Hand", "Adonis", "Income Tax Cocktail", "Maiden's Prayer", "Chrysanthemum", "20th Century Cocktail", "Alexandre", "Bronx Cocktail", "Dukes Martini", "El Presidente", "Ford Cocktail", "Harvard Cocktail", "Ideal Cocktail", "Piccadilly Cocktail", "Silver Streak", "Turf Club Cocktail", "Upside Down Martini", "Yale Cocktail", "Bijou Cocktail", "Dry Rob Roy", "Savoy Corpse Reviver", "Black Russian", "White Russian", "Espresso Martini", "Brave Bull", "Colorado Bulldog", "Mind Eraser", "Flying Grasshopper", "Blind Russian", "Russian Quaalude", "Toasted Almond", "Reverend's Daughter", "Kahlúa and Cream", "Kahlúa Fizz", "Kahlúa Sour", "Kahlúa Alexander", "Kahlúa Hot Chocolate", "Kahlúa Mudslide", "Kahlúa Stinger", "Kahlúa Frappe", "Dirty Mother", "B-52", "Chocolate Martini", "Irish Coffee", "Baileys Hot Chocolate", "Baileys Alexander", "Baileys White Russian", "Baileys Mudslide", "Baileys Frappé", "Baileys and Coffee", "Baileys and Cream Soda", "Baileys and Milk", "Baileys and Frangelico", "Baileys and Amaretto", "Baileys and Mint Chocolate", "Baileys and Hazelnut Liqueur", "Baileys and Vodka Shot", "Baileys and Brandy", "Baileys and Dark Rum", "Baileys and Butterscotch Schnapps", "Baileys and Ice Cream"
-    # "Tom Collins", "John Collins", "French Collins", "Raspberry Collins", "Gimlet", "Rose's Gimlet", "Lavender Gimlet", "Cucumber Gimlet", "Screwdriver", "Harvey Wallbanger", "Tequila Screwdriver", "Vodka and Grapefruit", "Paloma", "Spicy Paloma", "Smoked Paloma", "Grapefruit Rosemary Paloma", "Bellini", "Rossini", "Tintoretto", "Mimosa Bellini", "Pisco Sour", "Maracuya Pisco Sour", "Cilantro Pisco Sour", "Lucuma Pisco Sour", "Mint Julep", "Pineapple Julep", "Strawberry Julep", "Blackberry Julep", "Caipirinha", "Caipiroska", "Caipirissima", "Strawberry Caipirinha", "Vieux Carré", "Rye Vieux Carré", "Cognac Vieux Carré", "Spiced Vieux Carré", "Bamboo", "Dry Bamboo", "Sherry Cobbler style Bamboo", "Perfect Bamboo", "Corpse Reviver #2", "Corpse Reviver #1", "Grapefruit Corpse Reviver", "Americano", "Negroni Sbagliato", "Bobby Burns", "Atholl Brose Bobby Burns", "Perfect Bobby Burns", "Smoked Bobby Burns", "Horsefeather", "Spiced Horsefeather", "Smoked Horsefeather", "Grapefruit Horsefeather", "Between the Sheets", "Aged rum Between the Sheets.", "Brooklyn Cocktail", "Dry Brooklyn", "Perfect Brooklyn", "Liberal Cocktail", "Dry Liberal", "Perfect Liberal", "Million Dollar Cocktail", "Penicillin", "Smoked Penicillin", "Honeyed Penicillin", "Spiced Penicillin"
-    # "Old Fashioned", "Smoked Old Fashioned", "Maple Old Fashioned", "Spiced Pear Old Fashioned", "Manhattan", "Perfect Manhattan", "Black Manhattan", "Rob Roy", "Daiquiri", "Strawberry Daiquiri", "Hemingway Daiquiri", "Banana Daiquiri", "Margarita", "Spicy Margarita", "Tommy's Margarita", "Frozen Margarita", "Mojito", "Strawberry Mojito", "Pineapple Mojito", "Coconut Mojito", "Martini", "Dirty Martini", "Vesper Martini", "Gibson Martini", "Negroni", "Boulevardier", "White Negroni", "Sbagliato", "Whiskey Sour", "New York Sour", "Boston Sour", "Spiced Whiskey Sour", "Cosmopolitan", "Raspberry Cosmo", "Elderflower Cosmo", "French Cosmo", "Moscow Mule", "Kentucky Mule", "Mexican Mule", "Irish Mule", "Sazerac", "Cognac Sazerac", "Rye and Cognac Sazerac", "Honey Sazerac", "Aperol Spritz", "Limoncello Spritz", "Elderflower Spritz", "Cynar Spritz", "Mimosa", "Peach Mimosa", "Cranberry Mimosa", "Grapefruit Mimosa", "Bloody Mary", "Bloody Maria", "Michelada", "Clamato Bloody Mary", "Pina Colada", "Chi Chi", "Lava Flow", "Spiced Pineapple Colada", "Dark 'n' Stormy", "Spiced Dark 'n' Stormy", "Dark 'n' Sunny", "Mexican Dark 'n' Stormy", "French 75", "French 95", "Italian 75", "Lavender 75", "Sidecar", "Between the Sheets", "Brandy Crusta", "Honey Sidecar", "Mai Tai", "Royal Mai Tai", "Trader Vic's Mai Tai", "Pineapple Mai Tai"
-    # "Dry Martini","Vodka Martini","Dirty Martini","Perfect Martini","50/50 Martini","Gibson","Vesper","Reverse Martini","Wet Martini","Churchill Martini","Shirley Temple","Virgin Mary","Virgin Mojito","Virgin Piña Colada","Virgin Margarita","Virgin Bloody Mary","Virgin Cosmopolitan","Virgin Mimosa","Virgin Sangria","Strawberry Lemonade","Mango Lassi","Cinderella","Peach Bellini Mocktail","Apple Cider Shrub","Roy Rogers","Sparkling Cranberry Spritzer","Grapefruit Spritzer","Pineapple Ginger Mocktail","Watermelon Refresher","Mint Julep Mocktail","Cassis Orange", "Sazerac", "Mojito" ,"Virgin Mojito", "Vieux Carré", "Alexender", "Tequila Sunrise", "Old Fashioned", "Negroni", "Widow's Kiss", "Old Cuban", "Daiquiri", "Dry Martini", "Margarita", "Manhattan", "Whiskey Sour", "Espresso Martini", "Aperol Spritz", "Moscow Mule", "Cosmopolitan", "Mai Tai", "Pina Colada", "Bloody Mary", "Long Island Iced Tea", "Singapore Sling", "Caipirinha", "Bellini", "Last Word", "Diamondback", "Bijou", "Greenpoint", "La Louisiane", "Mezcal Margarita", "Smoky Paloma", "Scotch Sour", "Penicillin", "Rob Roy", "Blood & Sand", "Islay Mist", "Rusty Nail", "Boulevardier", "Godfather", "Revolving Door", "Last of the Mohicans", "Gunsmoke", "Campfire Cocktail", "Smoked Maple Old Fashioned", "Bacon Bourbon Manhattan", "Smoked Pineapple Margarita", "Chipotle Bloody Mary", "Mezcal Negroni", "Smoked Rosemary Gimlet", "Lapsang Souchong Martini", "Smoked Peach Bellini", "Smoked Fig and Bourbon Sour", "Charred Orange Paloma", "Smoked Vanilla Espresso Martini", "Martini", "Mimosa", "French 75", "Sidecar", "Amaretto Sour", "Pisco Sour", "Tom Collins", "Gin Fizz", "Dark 'n' Stormy", "White Russian", "Black Russian", "Grasshopper", "Paloma", "Campari Spritz", "Americano", "Negroni Sbagliato", "Bamboo Cocktail", "Bee's Knees", "Between the Sheets", "Bramble", "Corpse Reviver No. 2", "Clover Club", "Death in the Afternoon", "Derby", "El Diablo", "Flip", "French Connection", "Gimlet", "Hanky Panky", "Harvey Wallbanger", "Horse's Neck", "Irish Coffee", "Jack Rose", "Japanese Slipper", "Kir Royale", "Mint Julep", "Monkey Gland", "Old Pal", "Paper Plane", "Perfect Manhattan", "Planter's Punch", "Queen's Park Swizzle", "Ramos Gin Fizz", "Scofflaw", "Sherry Cobbler", "Sloe Gin Fizz", "Smash", "Southside", "Stinger", "Suffering Bastard", "The Last Word", "Three-Mile Long Island Iced Tea", "Ti' Punch", "Tom and Jerry", "Trinidad Sour", "Tuxedo", "Vesper", "Ward Eight", "Whiskey Smash", "White Lady", "Zombie", "Aviation", "Pimm's Cup", "Corpse reviver #2", "Chrysanthemum", "Black and tan", "Black velvet", "Boilermaker", "Hangman's blood", "Irish car bomb", "Michelada", "Monaco", "Porchcrawler", "Queen Mary", "Sake bomb", "Shandy", "Snakebite", "Spaghett", "U-boot", "Angel face", "Blow my skull", "Brandy Alexander", "Brandy crusta", "Brandy old fashioned", "Brandy Manhattan", "Brandy sour", "Chicago cocktail", "Curaçao punch", "Diki-diki", "Four score", "Hennchata", "Hoppel poppel", "Incredible Hulk", "Paradise", "Porto flip", "Savoy affair", "Savoy corpse reviver", "The Blenheim", "Batida", "Caju amigo", "Leite de onça", "Quentão", "Rabo-de-galo", "20th century", "Blackthorn", "Bloody Margaret", "Breakfast martini", "Bronx", "Casino", "Cloister", "Clover Club cocktail", "Cooperstown cocktail", "Damn the weather", "Fluffy duck", "Gibson", "Gin and tonic", "Gin pahit", "Gin sour", "Greyhound", "John Collins", "Lime Rickey", "Lorraine", "Martinez", "Moon River", "My Fair Lady", "Old Etonian", "Pegu club", "Pink gin", "Pink lady", "Queens", "Royal arrival", "Salty dog", "Takumi's aviation", "Delilah", "Wolfram", "Ancient Mariner", "Airmail", "Bacardi", "Barracuda", "Blue Hawaii", "Blue Hawaiian", "Bumbo", "Bushwacker", "Cobra's fang", "Cojito", "Cremat", "Cuban sunset", "El Presidente", "Fish house punch", "Flaming Doctor Pepper", "Flaming volcano", "Fluffy critter", "Grog", "Gunfire", "Hot buttered rum", "Hurricane", "Jagertee", "Macuá", "Mary Pickford", "Mr. Bali Hai", "Painkiller", "Piña colada", "Q.B. Cooler", "Royal Bermuda", "Cuba libre", "Rum swizzle", "Sumatra Kula", "Test pilot", "Trumptini", "Tschunk", "Yellow bird", "Saketini", "Tamagozake", "Boston tea party", "Batanga", "Bloody Maria", "Cantarito", "Chimayó cocktail", "Death Flip", "Harlem mugger", "Juan Collins", "Matador", "Mexican firing squad", "Mexican martini", "Mojito blanco", "Sangrita", "Tequila & Tonic", "Tequila slammer", "Tequila sour", "Tommy's margarita", "Vampiro", "Illegal", "Naked and famous", "Oaxaca old fashioned", "Mezcal last word", "Tia mia", "Division bell", "Medicina Latina", "Appletini", "Astro pop", "Bay breeze", "BLT cocktail", "Blue Lagoon", "Bull shot", "Caesar", "Caipiroska", "Cape Codder", "Chi-chi", "Colombia", "Dirty Shirley", "Flirtini", "Glowtini", "Godmother", "John Daly", "Kamikaze", "Karsk", "Kensington Court special", "Lemon drop", "Link up", "Orange tundra", "Platinum blonde", "Porn star martini", "Red Russian", "Rose Kennedy cocktail", "Screwdriver", "Sea breeze", "Sex on the beach", "Spicy Fifty", "Vargtass", "Vodka gimlet", "Kangaroo", "Vodka McGovern", "Woo woo", "Wściekły pies", "Yorsh", "Amber moon", "Black nail", "Blood and Sand", "Blue blazer", "Bobby Burns", "Bourbon lancer", "Brooklyn", 
-    # "Churchill", "Farnell", "Horsefeather", "Whiskey and Coke", "Lynchburg lemonade", "Missouri mule", "New York sour", "Nixon", "Scotch and soda", "Seven and Seven", "Three wise men", "Toronto", "Ward 8", "Whisky Mac", "Cheeky Vimto", "Portbuka", "Rebujito", "Up to date", "Rose", "Adonis", "Agua de Valencia", "Prince of Wales", "Agua de Sevilla", "Spritz", "Hugo", "Rossini", "Atomic", "Chambord Royale", "Champagne cocktail", "Kir royal", "Ochsenblut", "Calimocho or Kalimotxo", "Claret cup", "Glögg", "Tinto de verano", "Zurracapote", "Kir", "Spritzer", "Chocolate martini", "Herbsaint frappé", "Mauresque", "Perroquet", "Rourou", "Tomate", "B-52", "Baby Guinness", "Moose milk", "Orgasm", "Cement mixer", "Oatmeal cookie", "Quick fuck", "Slippery nipple", "Springbokkie", "Revelation", 
-    # "Aguaymanto sour", "Jazmin sour", "Mango sour", "Piscola", "Fuzzy navel", "Polar bear", "Redheaded slut", "Brut cocktail", "Fernet con coca", "Alabama slammer", "Blueberry tea"
-    # "Mudslide", "Dirty Martini", "Gibson", "Bloody Mary", "Caesar", "Michelada", "Bull Shot", "Salty Dog", "Oyster Shooter", "Pickleback", "Red Snapper", "Vesper", "Manhattan", "Rob Roy", "Sazerac", "Old Pal", "Boulevardier", "Negroni", "Americano", "Campari Spritz", "Cynar Spritz", "Averna Spritz", "Fernet Branca & Coke", "Black Velvet", "Irish Coffee", "French 75", "Last Word", "Paper Plane", "Gold Rush", "Bees Knees", "Sidecar", "Margarita", "Paloma", "Tommy's Margarita", "Ranch Water", "El Diablo", "Moscow Mule", "Dark 'n' Stormy", "Mai Tai", "Painkiller", "Zombie", "Singapore Sling", "Pisco Sour", "Clover Club", "Bramble", "Aviation", "Penicillin", "Chartreuse Swizzle", "Trinidad Sour", "Espresso Martini", "Last Word", "Bijou", "Clover Club", "French 75", "Gimlet", "Hanky Panky", "Hemingway Daiquiri", "Jungle Bird", "Mai Tai", "Margarita", "Mojito", "Moscow Mule", "Negroni", "Old Pal", "Paloma", "Pimm's Cup", "Planter's Punch", "Sazerac", "Sidecar", "Singapore Sling", "Stinger", "Tom Collins", "Vieux Carré", "White Lady", "Zombie", "Aviation", "Bramble", "Chartreuse Swizzle", "Daisy de Santiago", "Derby", "El Diablo", "Fitzgerald", "Floradora", "Green Beast", "Irish Maid", "Jasmine", "Kentucky Buck", "Lion's Tail", "Martinez", "Mint Julep", "Oaxaca Old Fashioned", "Penicillin", "Queen's Park Swizzle", "Remember the Maine", "Scofflaw", "Ti' Punch", "Toronto", "Ward Eight", "Tipperary", "Gypsy", "Nuclear daiquiri", "Byculla", "Calvados port", "Purgatory", "12 mile limits", "Egg Nog", "Twelve Mile Limit", "Ciro's Special"
-]
-
-client = LLMClient()
-
-async def fetchCocktails():
-    cocktail_data_list = []
+if __name__ == '__main__':
+    # Initialize the workflow
+    workflow = CocktailWorkflow()
     
-    for cocktail in cocktails:
-        filePath = f"data/new/{cocktail.lower().replace(' ', '_').replace('/', '-')}.json"
-        
-        # Check if file exists using Python's os.path
-        if not os.path.exists(filePath):
-            cocktail_info = await client.get_cocktail_info(cocktail)
-            if cocktail_info:
-                cocktail_data_list.append(cocktail_info)
-        else:
-            print(f"Skipping {cocktail}, file already exists.")
-
-    return cocktail_data_list
-
-for cocktail in cocktails:
-    print(f"Processing {cocktail}...")
-    converted_filename = f"data/converted/{cocktail.lower().replace(' ', '_').replace('/', '-')}.json"
-    new_filename = f"data/new/{cocktail.lower().replace(' ', '_').replace('/', '-')}.json"
+    # Add your new cocktails here
+    new_cocktails = [
+        "French Kiss",
+        "Mojito",
+        "Margarita",
+        # Add more cocktails here, one per line
+    ]
     
-    # First check if cocktail exists in converted directory
-    if not os.path.exists(converted_filename):
-        # If not in converted, check if we need to fetch it
-        if not os.path.exists(new_filename):
-            cocktail_info = client.get_cocktail_info(cocktail)
-            
-            if cocktail_info:
-                # Convert to JSON and save to file with proper Unicode handling
-                with codecs.open(new_filename, 'w', 'utf-8') as f:
-                    json.dump(cocktail_info.dict(), f, ensure_ascii=False, indent=2)
-                print(f"Saved {cocktail} to {new_filename}")
-            else:
-                print(f"Failed to process {cocktail}")
-        else:
-            print(f"Skipping {cocktail}, already exists in new directory")
-    else:
-        print(f"Skipping {cocktail}, already exists in converted directory")
+    print(f"Processing {len(new_cocktails)} cocktails:")
+    for cocktail in new_cocktails:
+        print(f"- {cocktail}")
+    
+    # Run the workflow with standardization
+    workflow.run_workflow(new_cocktails, standardize=True)
+    
+    print(f"\nTo add more cocktails, you can:")
+    print("1. Add more cocktail names to the 'new_cocktails' list in this file")
+    print("2. Or create new files in data/original/ with the cocktail data")
+    print("3. Or run workflow.py directly to process all cocktails in data/original/")

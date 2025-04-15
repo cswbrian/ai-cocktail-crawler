@@ -61,14 +61,12 @@
           "zh": "陳年"
         }
       ]
-    }
-  ],
-  "liqueurs": [
+    },
     {
       "amount": 30,
       "name": {
         "en": "Cognac",
-        "zh": "干邑白蘭地"
+        "zh": "干邑"
       },
       "unit": {
         "en": "ml",
@@ -77,8 +75,20 @@
       "rationale": {
         "en": "Adds fruity and complex notes.",
         "zh": "增加果味和複雜的味道。"
-      }
-    },
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
     {
       "amount": 15,
       "name": {
@@ -171,5 +181,8 @@
     "body": 7,
     "complexity": 9,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Kyoto Cooler",
+    "zh": "京都冷飲"
+  },
+  "description": {
+    "en": "**Refreshing Japanese-Inspired Cocktail**\n\nA light and effervescent cooler, perfect for warm weather, featuring:\n*   A base spirit for a solid foundation.\n*   Citrus to add a bright, tart element.\n*   A touch of sugar and sparkling components for sweetness and fizz.",
+    "zh": "**清爽的日式靈感雞尾酒**\n\n輕盈氣泡的冷飲，非常適合溫暖的天氣，特色：\n*   基酒提供堅實的基礎。\n*   柑橘增添明亮、酸澀的元素。\n*   少許糖和氣泡成分帶來甜味和氣泡感。"
+  },
+  "historical_reference": {
+    "en": "While the exact origin is unclear, the Kyoto Cooler is inspired by Japanese flavors and drinking culture. It's a modern creation, not a historically documented cocktail. Variations may exist.",
+    "zh": "雖然確切的起源尚不清楚，但京都冷飲的靈感來自日本風味和飲酒文化。這是一個現代創作，而不是歷史記載的雞尾酒。可能存在變化。"
+  },
+  "technique": {
+    "en": "Build in glass over ice; stir gently.",
+    "zh": "在裝有冰塊的杯中調製；輕輕攪拌。"
+  },
+  "garnish": {
+    "en": "Lemon or lime wedge",
+    "zh": "檸檬或青檸角"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, effervescent",
+    "zh": "淡黃色，有氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Generic Spirit",
+        "zh": "通用烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and structure.",
+        "zh": "提供酒精基底和結構。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Citrus Juice",
+        "zh": "通用柑橘果汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and citrus notes.",
+        "zh": "增加酸度和柑橘味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the citrus.",
+        "zh": "增加甜度以平衡柑橘味。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Sparkling Component",
+        "zh": "氣泡成分"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and volume.",
+        "zh": "增加氣泡和體積。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 3,
+    "complexity": 6,
+    "bubbles": true
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

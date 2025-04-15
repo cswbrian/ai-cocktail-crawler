@@ -63,8 +63,8 @@
     {
       "amount": 30,
       "name": {
-        "en": "Amaretto Liqueur",
-        "zh": "杏仁利口酒"
+        "en": "Amaretto",
+        "zh": "杏仁酒"
       },
       "unit": {
         "en": "ml",
@@ -102,5 +102,8 @@
     "body": 7,
     "complexity": 4,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Rich & Creamy"
+  ]
 }

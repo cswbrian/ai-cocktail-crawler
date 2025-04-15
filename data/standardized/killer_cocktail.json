@@ -87,8 +87,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Generic Amaretto",
-        "zh": "通用阿瑪雷托"
+        "en": "Amaretto",
+        "zh": "杏仁酒"
       },
       "unit": {
         "en": "ml",
@@ -104,8 +104,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Generic Orange Juice",
-        "zh": "通用橙汁"
+        "en": "Orange Juice",
+        "zh": "橙汁"
       },
       "unit": {
         "en": "ml",
@@ -119,8 +119,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Generic Pineapple Juice",
-        "zh": "通用鳳梨汁"
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
       },
       "unit": {
         "en": "ml",
@@ -149,8 +149,8 @@
     {
       "amount": 2,
       "name": {
-        "en": "Generic Angostura Bitters",
-        "zh": "通用安格式苦酒"
+        "en": "Angostura Bitters",
+        "zh": "安格斯特拉苦精"
       },
       "unit": {
         "en": "dashes",
@@ -187,5 +187,8 @@
     "body": 7,
     "complexity": 8,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

@@ -70,15 +70,16 @@ class CocktailWorkflow:
             file_path = self.base_dirs['original'] / f"{cocktail.lower().replace(' ', '_').replace('/', '-')}.json"
             
             if not file_path.exists():
+                print(f"Fetching new cocktail: {cocktail}")
                 cocktail_info = self.client.get_cocktail_info(cocktail)
                 if cocktail_info:
                     with open(file_path, 'w', encoding='utf-8') as f:
                         json.dump(cocktail_info.dict(), f, ensure_ascii=False, indent=2)
-                    print(f"Saved {cocktail} to {file_path}")
+                    print(f"Saved new cocktail {cocktail} to {file_path}")
                 else:
-                    print(f"Failed to process {cocktail}")
+                    print(f"Failed to fetch {cocktail}")
             else:
-                print(f"Skipping {cocktail}, file already exists")
+                print(f"Skipping {cocktail}, file already exists in {file_path}")
     
     def generate_ingredient_report(self) -> None:
         """Step 2: Generate ingredient summary report"""
@@ -389,8 +390,19 @@ if __name__ == '__main__':
     # Initialize the workflow
     workflow = CocktailWorkflow()
     
-    # Use the cocktail list from main.py
-    cocktails = [ "Fernandito" ]
+    # Get all cocktail files from the original directory
+    original_dir = workflow.base_dirs['original']
+    cocktail_files = list(original_dir.glob('*.json'))
     
-    # Run the workflow with standardization
-    workflow.run_workflow(cocktails, standardize=True) 
+    if cocktail_files:
+        # Extract cocktail names from filenames
+        cocktails = [f.stem.replace('_', ' ').replace('-', '/') for f in cocktail_files]
+        print(f"Found {len(cocktails)} cocktails to process:")
+        for cocktail in cocktails:
+            print(f"- {cocktail}")
+        
+        # Run the workflow with standardization
+        workflow.run_workflow(cocktails, standardize=True)
+    else:
+        print("No cocktail files found in the original directory.")
+        print("Please add some cocktail files to the data/original directory first.") 

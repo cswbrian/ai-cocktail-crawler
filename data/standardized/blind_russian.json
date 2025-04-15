@@ -74,7 +74,9 @@
         "en": "Adds a rich chocolate and coffee flavor.",
         "zh": "增添濃郁的巧克力和咖啡風味。"
       }
-    },
+    }
+  ],
+  "ingredients": [
     {
       "amount": 50,
       "name": {
@@ -91,7 +93,6 @@
       }
     }
   ],
-  "ingredients": [],
   "flavor_descriptors": [
     {
       "en": "Chocolate",
@@ -117,5 +118,8 @@
     "body": 7,
     "complexity": 6,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

@@ -65,7 +65,9 @@
         "en": "Adds the distinctive blue color and a hint of orange flavor.",
         "zh": "增添獨特的藍色和淡淡的橙子風味。"
       }
-    },
+    }
+  ],
+  "ingredients": [
     {
       "amount": 30,
       "name": {
@@ -80,9 +82,7 @@
         "en": "Adds sweetness and a creamy texture with coconut flavor.",
         "zh": "增加甜味和奶油質地，帶有椰子味。"
       }
-    }
-  ],
-  "ingredients": [
+    },
     {
       "amount": 90,
       "name": {
@@ -128,5 +128,8 @@
     "body": 5,
     "complexity": 4,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

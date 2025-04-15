@@ -64,8 +64,8 @@
     {
       "amount": 90,
       "name": {
-        "en": "Grapefruit Juice, freshly squeezed",
-        "zh": "新鮮的葡萄柚汁"
+        "en": "Grapefruit Juice",
+        "zh": "葡萄柚汁"
       },
       "unit": {
         "en": "ml",
@@ -132,5 +132,8 @@
     "body": 4,
     "complexity": 5,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

@@ -38,8 +38,8 @@
     {
       "amount": 50,
       "name": {
-        "en": "Generic Irish Cream",
-        "zh": "通用愛爾蘭奶油"
+        "en": "Irish Cream",
+        "zh": "愛爾蘭奶油"
       },
       "unit": {
         "en": "ml",
@@ -108,5 +108,8 @@
     "body": 7,
     "complexity": 5,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

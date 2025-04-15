@@ -32,8 +32,8 @@
     {
       "amount": 30,
       "name": {
-        "en": "Tequila (Blanco)",
-        "zh": "龍舌蘭酒（白色）"
+        "en": "Blanco Tequila",
+        "zh": "白龍舌蘭"
       },
       "unit": {
         "en": "ml",
@@ -42,7 +42,21 @@
       "rationale": {
         "en": "Provides the alcoholic base and characteristic agave flavor.",
         "zh": "提供酒精基底和標誌性的龍舌蘭風味。"
-      }
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
     }
   ],
   "liqueurs": [],
@@ -84,5 +98,8 @@
     "body": 3,
     "complexity": 2,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

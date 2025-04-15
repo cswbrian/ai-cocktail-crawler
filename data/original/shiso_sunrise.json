@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Shiso Sunrise",
+    "zh": "紫蘇日出"
+  },
+  "description": {
+    "en": "**A Refreshing and Aromatic Cocktail**\n\nA delightful blend of gin, shiso, and citrus, creating a unique and complex flavor profile:\n*   Shiso adds an herbal and slightly minty note.\n*   Citrus provides a bright and tangy counterpoint.\n*   A touch of grenadine adds sweetness and a vibrant color.",
+    "zh": "**清爽芳香的雞尾酒**\n\n琴酒、紫蘇和柑橘的完美融合，創造出獨特而複雜的風味：\n* 紫蘇增添草本和淡淡的薄荷味。\n* 柑橘提供明亮和濃郁的對比。\n* 少許石榴糖漿增添甜味和鮮豔的色彩。"
+  },
+  "historical_reference": {
+    "en": "The *Shiso Sunrise* is a modern cocktail creation, drawing inspiration from classic gin sours and incorporating the unique flavor of shiso. Its exact origin is undocumented, but it represents a contemporary approach to cocktail design, emphasizing fresh, herbal ingredients and balanced flavors.",
+    "zh": "《*紫蘇日出*》是一款現代雞尾酒，其靈感來自經典琴酒酸酒，並融入了紫蘇的獨特風味。 它的確切起源沒有記載，但它代表了一種現代的雞尾酒設計方法，強調新鮮的草本成分和均衡的風味。"
+  },
+  "technique": {
+    "en": "Muddle shiso leaves, add remaining ingredients, shake with ice, double strain into a chilled coupe glass. Garnish with a shiso leaf.",
+    "zh": "搗碎紫蘇葉，加入剩餘成分，加冰搖晃，雙重過濾到冰鎮的高腳杯中。 用紫蘇葉裝飾。"
+  },
+  "garnish": {
+    "en": "Shiso leaf",
+    "zh": "紫蘇葉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "A vibrant pink-orange gradient with a frothy top.",
+    "zh": "鮮豔的粉橙色漸變，頂部有泡沫。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical base and alcoholic backbone.",
+        "zh": "提供植物基礎和酒精骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral and subtle sweetness.",
+        "zh": "增添花香和微妙的甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Shiso Leaves",
+        "zh": "紫蘇葉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a unique herbal and slightly minty flavor.",
+        "zh": "增添獨特的草本和淡淡的薄荷味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sourness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and color.",
+        "zh": "增加甜度和顏色。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "name": {
+    "en": "Wasabi Whisper",
+    "zh": "芥末低語"
+  },
+  "description": {
+    "en": "**A Refreshing and Spicy Cocktail**\n\nThe Wasabi Whisper is a unique cocktail that combines the smoothness of gin with the subtle heat of wasabi. It features:\n*   A refreshing blend of cucumber and lime.\n*   A hint of wasabi for a spicy kick.\n*   A cucumber garnish for visual appeal.",
+    "zh": "**清爽辛辣的雞尾酒**\n\n芥末低語是一款獨特的雞尾酒，結合了琴酒的順滑口感和芥末的微妙辛辣味。它的特色是：\n*   黃瓜和青檸的清爽混合。\n*   少許芥末帶來辛辣的刺激。\n*   黃瓜裝飾增添視覺吸引力。"
+  },
+  "historical_reference": {
+    "en": "The Wasabi Whisper is a modern creation, inspired by the desire to blend traditional cocktail elements with unique, contemporary flavors. \n\n*   Created as a modern twist on classic gin cocktails.\n*   The cocktail's name evokes a sense of mystery and intrigue.\n*   Wasabi is traditionally used in Japanese cuisine.",
+    "zh": "芥末低語是一款現代創作，其靈感來自於將傳統雞尾酒元素與獨特現代風味相結合的願望。\n\n*   創造為經典琴酒雞尾酒的現代變奏。\n*   這款雞尾酒的名字喚起了一種神秘感和趣味。\n*   芥末傳統上用於日本料理。"
+  },
+  "technique": {
+    "en": "Muddle cucumber, add remaining ingredients, shake with ice, and double strain into a chilled glass.",
+    "zh": "搗碎黃瓜，加入剩餘的材料，與冰塊搖勻，然後雙重過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Cucumber ribbon or slice",
+    "zh": "黃瓜絲或片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale green, slightly cloudy, with a vibrant green garnish.",
+    "zh": "淡綠色，略帶混濁，配以鮮豔的綠色裝飾。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with botanical notes.",
+        "zh": "提供基酒與植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity and spice.",
+        "zh": "增加甜度以平衡酸味和辣味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 4,
+      "name": {
+        "en": "Wasabi Paste",
+        "zh": "芥末醬"
+      },
+      "unit": {
+        "en": "grams",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Provides the spicy element.",
+        "zh": "提供辛辣元素。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Cucumber Slice",
+        "zh": "黃瓜片"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds the freshness and aroma.",
+        "zh": "增加清爽和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

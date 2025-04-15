@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "Cooper Union",
+    "zh": "庫珀聯盟"
+  },
+  "description": {
+    "en": "**A sophisticated Sazerac variation**\n\n* Features Irish whiskey instead of traditional rye or cognac\n* Combines smoky Scotch rinse with floral elderflower liqueur\n* Created by Phil Ward at Death & Co. in 2008",
+    "zh": "**一款精緻的Sazerac變體**\n\n* 使用愛爾蘭威士忌代替傳統的裸麥威士忌或干邑\n* 結合煙燻蘇格蘭威士忌杯壁與花香的接骨木花利口酒\n* 由Phil Ward於2008年在Death & Co.創作"
+  },
+  "historical_reference": {
+    "en": "**The Cooper Union Cocktail - A Modern Classic**\n\n* Created by Phil Ward at Death & Co. in 2008\n* A creative take on the classic Sazerac structure\n* Named after Cooper Union in New York City",
+    "zh": "**庫珀聯盟雞尾酒 - 現代經典**\n\n* 由Phil Ward於2008年在Death & Co.創作\n* 經典Sazerac結構的創新詮釋\n* 以紐約市的庫珀聯盟命名"
+  },
+  "technique": {
+    "en": "Rinse glass with Laphroaig and dump. Stir remaining ingredients with ice until cold, strain into the rinsed glass. Squeeze lemon twist over surface and discard.",
+    "zh": "用拉弗格威士忌沖洗杯子後倒掉。將其餘材料與冰塊攪拌至冰涼，過濾入已沖洗的杯中。擠入檸檬皮精油後丟棄。"
+  },
+  "garnish": {
+    "en": "No garnish (lemon twist expressed and discarded)",
+    "zh": "無裝飾物（檸檬皮擠壓後丟棄）"
+  },
+  "serve_in_glass": {
+    "en": "Double rocks glass",
+    "zh": "大號威士忌杯"
+  },
+  "appearance": {
+    "en": "Clear, light amber liquid",
+    "zh": "清澈淺琥珀色液體"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Irish Whiskey",
+        "zh": "愛爾蘭威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and distinct Irish whiskey flavor",
+        "zh": "提供酒精基底和獨特的愛爾蘭威士忌風味"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Laphroaig 10-year Scotch",
+        "zh": "拉弗格10年蘇格蘭威士忌"
+      },
+      "unit": {
+        "en": "rinse",
+        "zh": "杯壁沖洗"
+      },
+      "rationale": {
+        "en": "Provides smoky, peaty aroma",
+        "zh": "提供煙燻、泥煤香氣"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Elderflower liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a floral and slightly sweet note.",
+        "zh": "增添花香和微甜的味道。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds a citrusy and bitter edge.",
+        "zh": "增添柑橘和苦味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 7,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

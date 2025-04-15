@@ -102,5 +102,9 @@
     "body": 3,
     "complexity": 4,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Tall & Bubbly",
+    "Sweet & Tart"
+  ]
 }

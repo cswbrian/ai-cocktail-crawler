@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Green Tea Garden",
+    "zh": "綠茶花園"
+  },
+  "description": {
+    "en": "A refreshing cocktail that balances the botanical notes of gin with the grassy notes of green tea and a hint of citrus. The egg white adds a silky texture.",
+    "zh": "一款清爽的雞尾酒，平衡了琴酒的植物風味、綠茶的草本味和一絲柑橘味。 蛋白增添了柔滑的口感。"
+  },
+  "historical_reference": {
+    "en": "The Green Tea Garden is a modern creation, inspired by classic sours and tea-infused cocktails. It builds upon the tradition of using tea in cocktails, offering a refreshing and sophisticated twist.",
+    "zh": "綠茶花園是一款現代創意飲品，靈感來自經典的酸味雞尾酒和茶味雞尾酒。 它以在雞尾酒中使用茶的傳統為基礎，提供了一種令人耳目一新的精緻風味。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Strain into a chilled coupe glass.",
+    "zh": "將所有材料乾搖，然後加冰再次搖晃。 倒入冰鎮過的高腳杯中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Pale green, frothy",
+    "zh": "淡綠色，有泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and botanical notes.",
+        "zh": "提供酒精基底和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds floral notes and subtle sweetness.",
+        "zh": "增添花香和微妙的甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Brewed Green Tea, cooled",
+        "zh": "冷卻的綠茶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the tea flavor and a subtle bitterness.",
+        "zh": "提供茶味和淡淡的苦味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice, freshly squeezed",
+        "zh": "新鮮檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balances the sweetness.",
+        "zh": "增加酸度並平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Creates a smooth, silky texture and adds body.",
+        "zh": "創造柔滑的口感並增加酒體。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

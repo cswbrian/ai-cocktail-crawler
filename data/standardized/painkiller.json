@@ -63,7 +63,8 @@
       ]
     }
   ],
-  "liqueurs": [
+  "liqueurs": [],
+  "ingredients": [
     {
       "amount": 30,
       "name": {
@@ -78,9 +79,7 @@
         "en": "Adds sweetness and creamy texture with intense coconut flavor.",
         "zh": "增加甜味和奶油般的質地，帶有濃郁的椰子味。"
       }
-    }
-  ],
-  "ingredients": [
+    },
     {
       "amount": 120,
       "name": {
@@ -126,5 +125,8 @@
     "body": 7,
     "complexity": 6,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

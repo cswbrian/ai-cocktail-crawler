@@ -79,12 +79,14 @@
         "en": "Provides the distinctive blue color and a sweet orange flavor.",
         "zh": "提供獨特的藍色和甜橙味。"
       }
-    },
+    }
+  ],
+  "ingredients": [
     {
       "amount": 15,
       "name": {
         "en": "Cream of Coconut",
-        "zh": "椰奶"
+        "zh": "椰奶霜"
       },
       "unit": {
         "en": "ml",
@@ -94,9 +96,7 @@
         "en": "Adds a rich creaminess and coconut flavor.",
         "zh": "增添濃郁的奶油味和椰子味。"
       }
-    }
-  ],
-  "ingredients": [
+    },
     {
       "amount": 15,
       "name": {
@@ -138,5 +138,8 @@
     "body": 5,
     "complexity": 4,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

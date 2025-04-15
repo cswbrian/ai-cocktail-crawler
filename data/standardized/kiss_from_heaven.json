@@ -1,0 +1,113 @@
+{
+  "name": {
+    "en": "Kiss From Heaven",
+    "zh": "天堂之吻"
+  },
+  "description": {
+    "en": "**Classic Spirit-Forward Cocktail**\n\nA sophisticated blend of herbal, sweet, and brandy notes from the 1940s.\n\n*   Features the honey-herb sweetness of Drambuie balanced with dry vermouth.\n*   Cognac adds depth and complexity.",
+    "zh": "**經典烈酒雞尾酒**\n\n來自1940年代的精緻調配，融合了香草、甜味和白蘭地的風味。\n\n*   以Drambuie的蜂蜜草藥甜味與乾苦艾酒相平衡。\n*   干邑白蘭地增添層次感和複雜度。"
+  },
+  "historical_reference": {
+    "en": "First documented in the 1940 cocktail book 'The How and When', this classic cocktail represents the spirit-forward mixing style of the pre-war era.",
+    "zh": "首次記載於1940年的調酒書《The How and When》，這款經典雞尾酒代表了戰前時期以烈酒為主的調配風格。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled cocktail glass.",
+    "zh": "將所有材料與冰塊攪拌，過濾後倒入預冷的雞尾酒杯中。"
+  },
+  "garnish": {
+    "en": "None",
+    "zh": "無"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass",
+    "zh": "雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, amber",
+    "zh": "清澈，琥珀色"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides depth and grape-based complexity.",
+        "zh": "提供深度和葡萄基底的複雜性。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Drambuie",
+        "zh": "杜林標利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds honey sweetness and herbal complexity.",
+        "zh": "增添蜂蜜甜味和香草複雜性。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides aromatic wine notes and balances the sweetness.",
+        "zh": "提供芳香的葡萄酒味，平衡甜度。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

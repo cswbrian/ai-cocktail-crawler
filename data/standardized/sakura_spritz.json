@@ -1,0 +1,140 @@
+{
+  "name": {
+    "en": "Sakura Spritz",
+    "zh": "櫻花Spritz"
+  },
+  "description": {
+    "en": "**A refreshing and floral Spritz variation**\n\nThis delightful Spritz combines the botanical notes of gin with the delicate sweetness of cherry blossom and the bubbly refreshment of prosecco. A perfect cocktail for spring celebrations or any occasion that calls for a light and elegant drink.\n\n*   Gin provides the base spirit.\n*   Cherry Blossom Liqueur adds floral sweetness.\n*   Prosecco and Soda Water add effervescence and lightness.",
+    "zh": "**清爽且充滿花香的Spritz變奏**\n\n這款令人愉悅的Spritz結合了琴酒的植物香氣、櫻花的精緻甜味以及普羅賽克的氣泡感。 適合春季慶祝活動或任何需要清淡優雅飲品的場合。\n\n* 琴酒提供基酒。\n* 櫻花利口酒增添花香甜味。\n* 普羅賽克和蘇打水增加氣泡感和清爽度。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Sakura Spritz is a contemporary cocktail, inspired by the classic Italian Spritz but adapted with Japanese floral flavors.\n\n*   It leverages the Spritz's inherent adaptability.\n*   Emphasizes the seasonal appeal of cherry blossoms.\n*   Reflects a fusion of cocktail traditions.",
+    "zh": "**現代創作**\n\n櫻花Spritz是一款現代雞尾酒，靈感來自經典的義大利Spritz，但採用了日本花卉風味。\n\n* 它利用了Spritz固有的適應性。\n* 強調櫻花的季節性吸引力。\n* 反映了雞尾酒傳統的融合。"
+  },
+  "technique": {
+    "en": "Build over ice, gently stir to combine. Garnish.",
+    "zh": "在冰上調製，輕輕攪拌均勻。 裝飾。"
+  },
+  "garnish": {
+    "en": "Cherry blossom or edible flower",
+    "zh": "櫻花或食用花"
+  },
+  "serve_in_glass": {
+    "en": "Wine glass or large coupe glass",
+    "zh": "葡萄酒杯或大型碟型香檳杯"
+  },
+  "appearance": {
+    "en": "Pale pink, effervescent, with delicate bubbles",
+    "zh": "淡粉色，有氣泡，帶有細膩的氣泡"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the spirituous backbone and botanical notes.",
+        "zh": "提供酒體骨幹和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Generic Cherry Blossom Liqueur",
+        "zh": "櫻花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes the key cherry blossom flavor and subtle sweetness.",
+        "zh": "貢獻了主要的櫻花風味和微妙的甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Prosecco",
+        "zh": "普羅塞克"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and a light, fruity flavor.",
+        "zh": "增加氣泡感和清淡的果味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a refreshing top note and dilutes the drink slightly.",
+        "zh": "增加清爽的口感，並稍微稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 4,
+    "body": 3,
+    "complexity": 5,
+    "bubbles": true
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

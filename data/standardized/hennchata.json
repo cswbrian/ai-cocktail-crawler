@@ -38,7 +38,7 @@
       "amount": 45,
       "name": {
         "en": "Cognac",
-        "zh": "干邑白蘭地"
+        "zh": "干邑"
       },
       "unit": {
         "en": "ml",
@@ -47,7 +47,17 @@
       "rationale": {
         "en": "Provides the base spirit and adds complexity.",
         "zh": "提供基酒並增加複雜性。"
-      }
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
     }
   ],
   "liqueurs": [],
@@ -123,5 +133,8 @@
     "body": 7,
     "complexity": 6,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

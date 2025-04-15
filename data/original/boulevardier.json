@@ -1,7 +1,7 @@
 {
   "name": {
     "en": "Boulevardier",
-    "zh": "布列瓦迪"
+    "zh": "花花公子"
   },
   "description": {
     "en": "**The Boulevardier: A Whiskey Negroni**\n\nA sophisticated and boozy cocktail that replaces gin in a Negroni with whiskey. The result is a richer, warmer, and more robust cocktail with a pleasant bitter edge.\n\nKey characteristics:\n*   Whiskey base for warmth\n*   Sweet vermouth for sweetness and body\n*   Campari for bitterness and complexity",
@@ -112,5 +112,8 @@
     "body": 7,
     "complexity": 8,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

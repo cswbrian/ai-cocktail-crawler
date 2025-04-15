@@ -61,6 +61,31 @@
     {
       "amount": 30,
       "name": {
+        "en": "Cognac",
+        "zh": "干邑"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds body and rich flavor.",
+        "zh": "增加酒體和濃郁的風味。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
+    },
+    {
+      "amount": 30,
+      "name": {
         "en": "Apple Brandy (Calvados)",
         "zh": "蘋果白蘭地"
       },
@@ -89,21 +114,6 @@
     }
   ],
   "liqueurs": [
-    {
-      "amount": 30,
-      "name": {
-        "en": "Cognac",
-        "zh": "干邑白蘭地"
-      },
-      "unit": {
-        "en": "ml",
-        "zh": "毫升"
-      },
-      "rationale": {
-        "en": "Adds body and rich flavor.",
-        "zh": "增加酒體和濃郁的風味。"
-      }
-    },
     {
       "amount": 15,
       "name": {
@@ -146,5 +156,8 @@
     "body": 5,
     "complexity": 8,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

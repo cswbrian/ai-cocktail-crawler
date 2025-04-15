@@ -154,8 +154,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Generic Triple Sec",
-        "zh": "通用橙皮酒"
+        "en": "Triple Sec",
+        "zh": "橙酒"
       },
       "unit": {
         "en": "ml",
@@ -220,5 +220,8 @@
     "body": 6,
     "complexity": 7,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

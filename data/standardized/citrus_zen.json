@@ -1,0 +1,160 @@
+{
+  "name": {
+    "en": "Citrus Zen",
+    "zh": "柑橘禪"
+  },
+  "description": {
+    "en": "**A Refreshing Citrus and Herbal Cocktail**\n\nThis cocktail is a harmonious blend of citrus and herbal notes, featuring:\n*   Fresh citrus juices for a vibrant and zesty flavor\n*   Herbal liqueur for added complexity\n*   Aromatic bitters for depth",
+    "zh": "**清爽的柑橘和草本雞尾酒**\n\n這款雞尾酒是柑橘和草本香氣的和諧融合，特色：\n*   新鮮的柑橘汁帶來充滿活力和清爽的風味\n*   草本利口酒增添複雜性\n*   芳香苦精帶來深度"
+  },
+  "historical_reference": {
+    "en": "**A Modern Creation**\n\n*   Inspired by classic gin sours and herbal cocktails\n*   Designed to showcase fresh citrus and herbal flavors\n*   No specific historical origin, but adheres to sour/fix cocktail structure.",
+    "zh": "**現代創作**\n\n*   靈感來自經典琴酒酸酒和草本雞尾酒\n*   旨在展示新鮮的柑橘和草本風味\n*   沒有特定的歷史起源，但符合酸酒/費克斯雞尾酒結構。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow with a slight green hue, clear and bright",
+    "zh": "淡黃色帶有輕微的綠色色調，清澈明亮"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the cocktail's primary structure and botanical backbone.",
+        "zh": "提供雞尾酒的主要結構和植物風味基礎。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Herbal Liqueur",
+        "zh": "草本利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a complex herbal and botanical note.",
+        "zh": "增添複雜的草本和植物氣息。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances sweetness.",
+        "zh": "增加酸味並平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Sweetens the cocktail and enhances the other flavors.",
+        "zh": "使雞尾酒變甜並增強其他風味。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Bitters",
+        "zh": "苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds depth and complexity to the flavor profile.",
+        "zh": "增加風味的深度和複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": {
+    "en": "Ume Plum Sour",
+    "zh": "梅子酸酒"
+  },
+  "description": {
+    "en": "**A Refreshing Sour with Asian Flavors**\n\nA delightful twist on the classic gin sour, featuring:\n*   Umeshu for sweetness and plum flavor\n*   Yuzu juice for unique citrus notes\n*   Egg white (optional) for a silky texture",
+    "zh": "**帶有亞洲風味的清爽酸酒**\n\n經典琴酒酸酒的美味變奏，特色：\n*   梅酒帶來甜味和李子風味\n*   柚子汁帶來獨特的柑橘風味\n*   蛋白（可選）帶來絲滑的質感"
+  },
+  "historical_reference": {
+    "en": "While not a historical cocktail in the classic sense, the Ume Plum Sour is a modern creation that draws inspiration from traditional Japanese flavors. It builds upon the classic sour formula, incorporating Umeshu, a popular Japanese plum liqueur, and Yuzu, a fragrant citrus fruit widely used in Japanese cuisine.\n\n*   A modern twist on the classic gin sour\n*   Features Japanese Umeshu and Yuzu",
+    "zh": "雖然不是傳統意義上的歷史雞尾酒，但梅子酸酒是一種現代創意，靈感來自傳統日本風味。它以經典的酸酒配方為基礎，融入了梅酒（一種流行的日本梅子利口酒）和柚子（一種廣泛用於日本料理的芳香柑橘類水果）。\n\n*   經典琴酒酸酒的現代變奏\n*   以日本梅酒和柚子為特色"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice. Strain into a chilled glass. If using egg white, dry shake first.",
+    "zh": "將所有材料與冰塊一起搖勻。 倒入冰鎮的杯子中。 如果使用蛋白，先乾搖。"
+  },
+  "garnish": {
+    "en": "Plum slice or Yuzu peel",
+    "zh": "李子片或柚子皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Sour glass",
+    "zh": "碟型杯或酸酒杯"
+  },
+  "appearance": {
+    "en": "Pale amber, slightly cloudy",
+    "zh": "淡琥珀色，略有混濁"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical and slightly dry base.",
+        "zh": "提供植物性和略乾的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Umeshu (Plum Liqueur)",
+        "zh": "梅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and plum flavor.",
+        "zh": "增加甜味和李子風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Yuzu Juice",
+        "zh": "柚子汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and unique citrus flavor.",
+        "zh": "增加酸度和獨特的柑橘風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White (Optional)",
+        "zh": "蛋白（可選）"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture.",
+        "zh": "增加絲滑的質感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

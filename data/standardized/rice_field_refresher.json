@@ -1,0 +1,134 @@
+{
+  "name": {
+    "en": "Rice Field Refresher",
+    "zh": "稻田清爽飲"
+  },
+  "description": {
+    "en": "**Refreshing and Earthy Cocktail**\n\nA light and revitalizing cocktail inspired by the flavors of a rice field:\n\n*   Sake base provides a smooth, clean profile.\n*   Cucumber and lime add freshness and zest.\n*   A hint of mint provides a cooling aromatic note.",
+    "zh": "**清新而樸實的雞尾酒**\n\n一款受稻田風味啟發的輕盈且充滿活力的雞尾酒：\n\n*   清酒基底提供柔滑、乾淨的口感。\n*   黃瓜和萊姆增添清新和風味。\n*   淡淡的薄荷味帶來清涼的香氣。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Rice Field Refresher is a contemporary cocktail designed to capture the essence of a serene rice field landscape. Its origins are rooted in the desire to showcase the versatility of sake in modern mixology.",
+    "zh": "**現代創作**\n\n稻田清爽飲是一款現代雞尾酒，旨在捕捉寧靜稻田景觀的精髓。 它的起源植根於在現代調酒中展示清酒多功能性的願望。"
+  },
+  "technique": {
+    "en": "Muddle cucumber and mint. Add remaining ingredients and shake with ice. Double strain into glass filled with ice.",
+    "zh": "將黃瓜和薄荷搗碎。 加入剩餘的成分，加入冰塊搖勻。 雙重過濾到裝滿冰塊的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Cucumber ribbon and mint sprig",
+    "zh": "黃瓜絲和薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale green, slightly cloudy",
+    "zh": "淡綠色，略帶混濁"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle floral sweetness.",
+        "zh": "增添微妙的花香甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Sake",
+        "zh": "清酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, rice-based foundation.",
+        "zh": "提供乾淨、米基底的風味。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Cucumber slices",
+        "zh": "黃瓜片"
+      },
+      "unit": {
+        "en": "slices",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds fresh, vegetal notes.",
+        "zh": "增加新鮮的植物風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Mint",
+        "zh": "薄荷"
+      },
+      "unit": {
+        "en": "leaves",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a refreshing, aromatic element.",
+        "zh": "增添清爽的芳香元素。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 6,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

@@ -63,7 +63,7 @@
     {
       "amount": 25,
       "name": {
-        "en": "Generic Coffee Liqueur",
+        "en": "Coffee Liqueur",
         "zh": "咖啡利口酒"
       },
       "unit": {
@@ -98,5 +98,8 @@
     "body": 5,
     "complexity": 4,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

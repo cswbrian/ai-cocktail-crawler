@@ -156,5 +156,8 @@
     "body": 5,
     "complexity": 7,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Tall & Bubbly"
+  ]
 }

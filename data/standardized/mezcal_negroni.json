@@ -33,7 +33,7 @@
       "amount": 30,
       "name": {
         "en": "Mezcal",
-        "zh": "梅茲卡爾"
+        "zh": "梅斯卡爾"
       },
       "unit": {
         "en": "ml",
@@ -103,5 +103,8 @@
     "body": 7,
     "complexity": 9,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

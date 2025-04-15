@@ -43,9 +43,7 @@
         "en": "Provides the agave base and subtle sweetness.",
         "zh": "提供龍舌蘭的基底和微妙的甜味。"
       }
-    }
-  ],
-  "liqueurs": [
+    },
     {
       "amount": 15,
       "name": {
@@ -62,6 +60,7 @@
       }
     }
   ],
+  "liqueurs": [],
   "ingredients": [
     {
       "amount": 15,
@@ -82,7 +81,7 @@
       "amount": 90,
       "name": {
         "en": "Grapefruit Soda",
-        "zh": "葡萄柚汽水"
+        "zh": "葡萄柚蘇打水"
       },
       "unit": {
         "en": "ml",
@@ -138,5 +137,8 @@
     "body": 4,
     "complexity": 6,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

@@ -49,8 +49,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Generic Fruit Liqueur",
-        "zh": "一般水果利口酒"
+        "en": "Fruit Liqueur",
+        "zh": "水果利口酒"
       },
       "unit": {
         "en": "ml",
@@ -104,5 +104,8 @@
     "body": 3,
     "complexity": 4,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

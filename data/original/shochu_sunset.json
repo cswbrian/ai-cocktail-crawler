@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Shochu Sunset",
+    "zh": "燒酎日落"
+  },
+  "description": {
+    "en": "A vibrant and refreshing cocktail inspired by the colors of a sunset. The Shochu Sunset combines the smooth taste of Shochu with the sweetness of fruit juices and a hint of grenadine, creating a balanced and visually appealing drink. \n\n*   **Fruity and Refreshing:** Combines Shochu with fruit flavors\n*   **Visually Stunning:** Creates a layered sunset effect\n*   **Easy to make:** Requires common bar ingredients and techniques",
+    "zh": "一款充滿活力且令人耳目一新的雞尾酒，靈感來自日落的色彩。燒酎日落將燒酎的柔滑口感與果汁的甜味和少許石榴糖漿結合，創造出一種平衡且視覺上吸引人的飲品。\n\n*   **果味和清爽：** 將燒酎與水果風味結合\n*   **視覺效果驚豔：** 創造分層的日落效果\n*   **易於製作：** 需要常見的酒吧原料和技巧"
+  },
+  "historical_reference": {
+    "en": "The Shochu Sunset is a modern cocktail, inspired by the popular Sunset cocktail theme. The concept of creating a layered drink to resemble a sunset has been used in various cocktails, with each variation using different spirits and ingredients to achieve the desired effect. The Shochu Sunset specifically utilizes Shochu as its base spirit, offering a unique twist on the classic concept.\n\n*   **Modern Creation:** A contemporary cocktail designed for visual appeal and balanced flavor.\n*   **Sunset Theme:** Part of a family of cocktails inspired by the colors of a sunset.\n*   **Shochu Twist:** Uses Shochu as the base spirit for a distinct character.",
+    "zh": "燒酎日落是一款現代雞尾酒，靈感來自流行的日落雞尾酒主題。創造一種分層飲料以類似日落的概念已在各種雞尾酒中使用，每種變體都使用不同的烈酒和成分來達到所需的效果。燒酎日落特別使用燒酎作為其基酒，為經典概念提供獨特的風味。\n\n*   **現代創作：** 一種專為視覺吸引力和平衡風味而設計的現代雞尾酒。\n*   **日落主題：** 一系列靈感來自日落色彩的雞尾酒的一部分。\n*   **燒酎風味：** 使用燒酎作為基酒，具有獨特的個性。"
+  },
+  "technique": {
+    "en": "Build. Pour Shochu, orange juice, and pineapple juice into a highball glass filled with ice. Gently pour grenadine down the side of the glass to create a layered effect.",
+    "zh": "直接調和。將燒酎、橙汁和鳳梨汁倒入裝滿冰的高球杯中。輕輕地將石榴糖漿倒入杯子側面，以產生分層效果。"
+  },
+  "garnish": {
+    "en": "Orange slice or cherry",
+    "zh": "橙子片或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Layered shades of red and orange, reminiscent of a sunset",
+    "zh": "分層的紅色和橙色陰影，讓人聯想到日落"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Shochu",
+        "zh": "燒酎"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with a clean, slightly earthy flavor.",
+        "zh": "提供基酒，帶有乾淨、略帶泥土的風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Orange Juice",
+        "zh": "橙汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and citrus notes.",
+        "zh": "增加甜味和柑橘味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "鳳梨汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tropical sweetness.",
+        "zh": "增加熱帶甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and creates the sunset color effect.",
+        "zh": "增加甜味並產生日落顏色效果。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

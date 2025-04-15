@@ -28,23 +28,7 @@
     "zh": "清澈無色"
   },
   "allergens": [],
-  "base_spirits": [
-    {
-      "amount": 75,
-      "name": {
-        "en": "Sake (Junmai or Ginjo)",
-        "zh": "清酒（純米或吟釀）"
-      },
-      "unit": {
-        "en": "ml",
-        "zh": "毫升"
-      },
-      "rationale": {
-        "en": "Forms the base of the cocktail, providing a unique rice-wine flavor.",
-        "zh": "構成雞尾酒的基底，提供獨特的米酒風味。"
-      }
-    }
-  ],
+  "base_spirits": [],
   "liqueurs": [
     {
       "amount": 15,
@@ -62,7 +46,23 @@
       }
     }
   ],
-  "ingredients": [],
+  "ingredients": [
+    {
+      "amount": 75,
+      "name": {
+        "en": "Sake",
+        "zh": "清酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a unique rice-wine flavor.",
+        "zh": "構成雞尾酒的基底，提供獨特的米酒風味。"
+      }
+    }
+  ],
   "flavor_descriptors": [
     {
       "en": "Umami",
@@ -88,5 +88,8 @@
     "body": 5,
     "complexity": 7,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

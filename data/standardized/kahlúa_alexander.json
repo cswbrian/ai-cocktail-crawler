@@ -79,12 +79,14 @@
         "en": "Adds coffee flavor and sweetness.",
         "zh": "增加咖啡風味和甜味。"
       }
-    },
+    }
+  ],
+  "ingredients": [
     {
       "amount": 30,
       "name": {
         "en": "Heavy Cream",
-        "zh": "濃奶油"
+        "zh": "鮮奶油"
       },
       "unit": {
         "en": "ml",
@@ -96,7 +98,6 @@
       }
     }
   ],
-  "ingredients": [],
   "flavor_descriptors": [
     {
       "en": "Coffee",
@@ -122,5 +123,8 @@
     "body": 7,
     "complexity": 6,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

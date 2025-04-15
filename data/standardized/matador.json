@@ -65,8 +65,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Lime Juice (Freshly Squeezed)",
-        "zh": "鮮榨萊姆汁"
+        "en": "Lime Juice",
+        "zh": "青檸汁"
       },
       "unit": {
         "en": "ml",
@@ -103,5 +103,8 @@
     "body": 5,
     "complexity": 6,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
 }

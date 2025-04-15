@@ -1,0 +1,120 @@
+{
+  "name": {
+    "en": "Hojicha Highball",
+    "zh": "焙茶 Highball"
+  },
+  "description": {
+    "en": "**Elegant and Refreshing Highball**\n\nA simple yet sophisticated cocktail featuring:\n*   Whisky for a smooth base\n*   Hojicha tea for a roasted, earthy flavor\n*   Soda water for effervescence",
+    "zh": "**優雅清爽的Highball**\n\n一款簡單而精緻的雞尾酒，特色：\n*   威士忌提供柔滑的基底\n*   焙茶帶來烘焙、泥土風味\n*   蘇打水增加氣泡感"
+  },
+  "historical_reference": {
+    "en": "The Highball is a classic cocktail format dating back to the late 19th century. This variation uses hojicha, a Japanese roasted green tea, to add a unique twist.",
+    "zh": "Highball 是一種可以追溯到 19 世紀末的經典雞尾酒形式。 這種變體使用日本焙茶綠茶，增添了獨特的風味。"
+  },
+  "technique": {
+    "en": "Build over ice. Add whisky and hojicha tea syrup, top with soda water. Gently stir to combine.",
+    "zh": "在冰上調製。 加入威士忌和焙茶糖漿，倒入蘇打水。 輕輕攪拌均勻。"
+  },
+  "garnish": {
+    "en": "Lemon peel or charred orange peel",
+    "zh": "檸檬皮或焦香橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "Highball 杯"
+  },
+  "appearance": {
+    "en": "Light amber with gentle bubbles",
+    "zh": "淡琥珀色與柔和氣泡"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Whisky",
+        "zh": "威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and complexity.",
+        "zh": "提供酒精基底和複雜性。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Hojicha Tea Syrup",
+        "zh": "焙茶糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and the distinctive hojicha flavor.",
+        "zh": "增加甜味和獨特的焙茶風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds volume and effervescence to the cocktail.",
+        "zh": "為雞尾酒增加體積和氣泡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Smoky",
+      "zh": "煙燻"
+    },
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 1,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  },
+  "categories": [
+    "Tall & Bubbly"
+  ]
+}

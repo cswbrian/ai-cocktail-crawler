@@ -103,7 +103,8 @@
       }
     }
   ],
-  "liqueurs": [
+  "liqueurs": [],
+  "ingredients": [
     {
       "amount": 30,
       "name": {
@@ -118,9 +119,7 @@
         "en": "Adds sweetness and a creamy texture.",
         "zh": "增加甜味和奶油般的質地。"
       }
-    }
-  ],
-  "ingredients": [
+    },
     {
       "amount": 30,
       "name": {
@@ -181,5 +180,8 @@
     "body": 6,
     "complexity": 7,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

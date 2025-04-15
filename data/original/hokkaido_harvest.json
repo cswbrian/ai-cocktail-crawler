@@ -1,0 +1,155 @@
+{
+  "name": {
+    "en": "Hokkaido Harvest",
+    "zh": "北海道豐收"
+  },
+  "description": {
+    "en": "**A Refreshing and Herbaceous Cocktail**\n\nThis cocktail combines the botanical notes of gin with the fresh flavors of cucumber and shiso, creating a vibrant and balanced drink. The egg white adds a silky texture, while the lemon juice provides a touch of acidity.",
+    "zh": "**清爽的草本雞尾酒**\n\n這款雞尾酒結合了琴酒的植物香氣與小黃瓜和紫蘇的新鮮風味，創造出一款充滿活力且平衡的飲品。蛋白增添了絲滑的口感，而檸檬汁則帶來一絲酸度。"
+  },
+  "historical_reference": {
+    "en": "This cocktail is a modern creation, inspired by the flavors of Hokkaido, Japan. It seeks to capture the essence of the region's fresh produce and unique botanicals.\n\n*   The use of shiso reflects the influence of Japanese cuisine.\n*   The cucumber provides a cooling and refreshing element.",
+    "zh": "這款雞尾酒是現代的創作，靈感來自日本北海道的風味。它旨在捕捉該地區新鮮農產品和獨特植物的精髓。\n\n*   紫蘇的使用反映了日本料理的影響。\n*   小黃瓜提供清涼和清爽的元素。"
+  },
+  "technique": {
+    "en": "Muddle shiso leaves gently. Add all ingredients to shaker with ice. Shake vigorously until well-chilled. Double strain into chilled glass. Garnish.",
+    "zh": "輕輕搗碎紫蘇葉。將所有材料加入冰塊的搖酒器中。劇烈搖晃至完全冷卻。雙重過濾到冰鎮的杯子中。裝飾。"
+  },
+  "garnish": {
+    "en": "Cucumber ribbon and shiso leaf",
+    "zh": "小黃瓜絲和紫蘇葉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale green with a frothy white head",
+    "zh": "混濁的淡綠色，帶有泡沫狀的白色泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the botanical base and backbone of the cocktail.",
+        "zh": "提供調酒的植物基礎和骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cucumber Juice",
+        "zh": "小黃瓜汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a fresh, vegetal flavor.",
+        "zh": "增添新鮮的蔬菜風味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides acidity and balance.",
+        "zh": "提供酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the acidity.",
+        "zh": "增加甜度以平衡酸度。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質感和泡沫。"
+      }
+    },
+    {
+      "amount": 3,
+      "name": {
+        "en": "Shiso Leaves",
+        "zh": "紫蘇葉"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "片"
+      },
+      "rationale": {
+        "en": "Adds a unique herbal aroma and flavor.",
+        "zh": "增添獨特的草本香氣和風味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Grassy",
+      "zh": "草青"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

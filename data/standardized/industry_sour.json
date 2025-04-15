@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Industry Sour",
+    "zh": "行業酸酒"
+  },
+  "description": {
+    "en": "**Modern Sour Variation**\n\nA well-balanced cocktail featuring:\n*   Rye whiskey for spice\n*   Yellow Chartreuse for herbal complexity\n*   Lemon juice for acidity\n*   Egg white for texture",
+    "zh": "**現代酸味雞尾酒變體**\n\n一款平衡良好的雞尾酒，特色：\n*   黑麥威士忌帶來辛辣味\n*   黃色查特酒帶來草本複雜性\n*   檸檬汁帶來酸度\n*   蛋白帶來質感"
+  },
+  "historical_reference": {
+    "en": "**Modern Classic**\n\n*   Created by bartender Sam Ross at Attaboy in New York City.\n*   A riff on the classic Whiskey Sour, incorporating Yellow Chartreuse.",
+    "zh": "**現代經典**\n\n*   由紐約市Attaboy的調酒師Sam Ross創作。\n*   經典威士忌酸酒的變體，加入了黃色查特酒。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake with ice and double strain into a chilled glass.",
+    "zh": "將所有材料乾搖，然後加冰搖晃，再雙重過濾到冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "3 drops of Angostura bitters floated on top of the foam and a lemon peel",
+    "zh": "3滴安哥斯圖娜苦精浮在泡沫頂部，並附有檸檬皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "淺碟香檳杯或尼克與諾拉杯"
+  },
+  "appearance": {
+    "en": "Cloudy, pale yellow with a frothy white head",
+    "zh": "多雲，淡黃色，帶有泡沫狀的白色泡沫"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Yellow Chartreuse",
+        "zh": "黃色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and slightly sweet notes.",
+        "zh": "增加草本和略帶甜味的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance.",
+        "zh": "增加酸度和平衡感。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the sourness.",
+        "zh": "增加甜度以平衡酸味。"
+      }
+    },
+    {
+      "amount": 22,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加柔滑的質感和泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 6,
+    "complexity": 8,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": {
+    "en": "Ginger Geisha",
+    "zh": "藝伎薑汁"
+  },
+  "description": {
+    "en": "**A Refreshing Asian-Inspired Cocktail**\n\nA delicate and aromatic cocktail, blending vodka with the exotic flavors of ginger, yuzu, and elderflower. The addition of egg white creates a silky texture and a beautiful foamy head.\n\n*   Subtle sweetness balanced by citrus notes\n*   Aromatic ginger and floral hints\n*   Smooth, velvety texture",
+    "zh": "**一杯清爽的亞洲風味雞尾酒**\n\n將伏特加與生薑、柚子和接骨木花的異國風味融合在一起，創造出一款精緻而芳香的雞尾酒。 加入蛋白可產生如絲般的質地和美麗的泡沫。\n\n*   微妙的甜味與柑橘味平衡\n*   芳香的生薑和花香\n*   光滑、如天鵝絨般的質地"
+  },
+  "historical_reference": {
+    "en": "The Ginger Geisha is a modern cocktail, with no established historical background.\n\n*   Created in the early 2000s\n*   Inspired by the flavors of Asian cuisine and mixology",
+    "zh": "藝伎薑汁是一種現代雞尾酒，沒有既定的歷史背景。\n\n*   於2000年代初期創作\n*   靈感來自亞洲美食和調酒的風味"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients vigorously to emulsify the egg white, then add ice and shake again until well-chilled. Strain into a chilled glass.",
+    "zh": "用力乾搖所有材料以乳化蛋白，然後加入冰塊並再次搖晃直至完全冷卻。 濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Candied ginger slice or a thin yuzu peel",
+    "zh": "糖漬薑片或薄柚子皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale gold, slightly hazy, with a delicate foam head",
+    "zh": "淡金色，略帶朦朧，頂部有細膩的泡沫"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean, neutral base for the other flavors to shine.",
+        "zh": "提供乾淨、中性的基底，讓其他風味得以展現。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Elderflower Liqueur",
+        "zh": "接骨木花利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a floral and slightly sweet note.",
+        "zh": "增添花香和微甜的味道。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Fresh Ginger Syrup",
+        "zh": "新鮮薑汁糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a spicy and sweet ginger flavor.",
+        "zh": "增添辛辣和甜薑味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Yuzu Juice",
+        "zh": "柚子汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a unique citrus flavor, more aromatic than lemon or lime.",
+        "zh": "提供獨特的柑橘味，比檸檬或萊姆更香。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and creates a foamy head.",
+        "zh": "增添如絲般的質地並產生泡沫。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

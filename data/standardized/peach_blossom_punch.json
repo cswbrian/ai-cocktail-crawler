@@ -1,0 +1,152 @@
+{
+  "name": {
+    "en": "Peach Blossom Punch",
+    "zh": "桃花潘趣酒"
+  },
+  "description": {
+    "en": "**A Refreshing and Fruity Punch**\n\nA delightful blend perfect for warm weather, featuring:\n*   Gin for a solid base\n*   Peach liqueur and purée for intense peach flavor\n*   Lemon juice for balance\n*   Sparkling wine to add bubbles and lightness",
+    "zh": "**清爽的水果潘趣酒**\n\n非常適合溫暖天氣的美味混合物，特色：\n*   琴酒作為堅實的基礎\n*   桃子利口酒和果泥帶來濃鬱的桃子風味\n*   檸檬汁保持平衡\n*   氣泡酒增添氣泡和輕盈感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Adapted from various peach punch recipes, blending classic punch elements with modern tastes.\n\n*   Inspired by colonial-era punches\n*   Refined with contemporary ingredients and techniques",
+    "zh": "**起源**: 改編自各種桃子潘趣酒食譜，將經典潘趣酒元素與現代口味相結合。\n\n*   靈感來自殖民時代的潘趣酒\n*   採用現代食材和技術進行精製"
+  },
+  "technique": {
+    "en": "Combine gin, peach purée, peach liqueur, and lemon juice in a shaker with ice. Shake well until chilled. Strain into a glass filled with ice. Top with sparkling wine. Garnish with a peach slice and a sprig of mint.",
+    "zh": "將琴酒、桃子果泥、桃子利口酒和檸檬汁與冰塊放入搖酒器中。 充分搖晃直至冷卻。 濾入裝滿冰塊的玻璃杯中。 淋上氣泡酒。 用桃子切片和薄荷枝裝飾。"
+  },
+  "garnish": {
+    "en": "Peach slice and a sprig of mint",
+    "zh": "桃子切片和薄荷枝"
+  },
+  "serve_in_glass": {
+    "en": "Punch glass or wine glass",
+    "zh": "潘趣酒杯或葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Pale pink, slightly cloudy, garnished with a peach slice and a sprig of mint",
+    "zh": "淡粉紅色，略帶混濁，以桃子切片和薄荷枝裝飾"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical base and structure to the punch.",
+        "zh": "為潘趣酒提供植物基底和結構。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Peach Liqueur",
+        "zh": "桃子利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the peach flavor and adds sweetness.",
+        "zh": "增強桃子風味並增加甜度。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Peach Purée",
+        "zh": "桃子果泥"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds natural peach flavor and texture.",
+        "zh": "增添天然桃子風味和口感。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the sweetness and adds acidity.",
+        "zh": "平衡甜度並增加酸度。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Sparkling Wine",
+        "zh": "氣泡酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds bubbles and lightness.",
+        "zh": "增加氣泡和輕盈感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 4,
+    "booziness": 4,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  },
+  "categories": [
+    "Tall & Bubbly",
+    "Sweet & Tart"
+  ]
+}

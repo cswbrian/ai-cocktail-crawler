@@ -92,5 +92,8 @@
     "body": 3,
     "complexity": 2,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Tall & Bubbly"
+  ]
 }

@@ -1,0 +1,127 @@
+{
+  "name": {
+    "en": "French Kiss",
+    "zh": "法式之吻"
+  },
+  "description": {
+    "en": "**A Classic Dessert Cocktail**\n\nA delightful blend of spirits and cream, offering:\n*   A smooth and rich mouthfeel\n*   A balance of sweet and tart flavors\n*   An elegant presentation",
+    "zh": "**經典甜點雞尾酒**\n\n混合了烈酒和奶油，帶來愉悅的口感，特色：\n*   口感柔滑濃郁\n*   甜味和酸味之間的平衡\n*   優雅的呈現方式"
+  },
+  "historical_reference": {
+    "en": "*Origins are debated, possibly dating back to the early 20th century.*\n\n*   Likely created as a decadent after-dinner drink.\n*   Popularized in various cocktail books throughout the mid-20th century.",
+    "zh": "*起源存在爭議，可能可以追溯到20世紀初。*\n\n*   可能被創造為頹廢的餐後飲品。\n*   在20世紀中期的各種雞尾酒書籍中普及。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中"
+  },
+  "garnish": {
+    "en": "Raspberries or a cherry",
+    "zh": "覆盆子或櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "淺碟香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pink, frothy, and elegant.",
+    "zh": "粉紅色、泡沫豐富且優雅"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and adds depth.",
+        "zh": "提供基酒並增加深度"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "aged",
+          "zh": "陳年"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Raspberry Liqueur",
+        "zh": "覆盆子利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds raspberry flavor and sweetness.",
+        "zh": "添加覆盆子風味和甜味"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "鮮奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and creaminess.",
+        "zh": "增加濃郁度和奶油味"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart",
+    "Rich & Creamy"
+  ]
+}

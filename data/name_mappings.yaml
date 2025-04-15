@@ -136,7 +136,21 @@ base_spirits:
         zh: "尊尼獲加紅牌"
       - en: "Johnnie Walker Blue Label"
         zh: "尊尼獲加藍牌"
-        
+  Cognac:
+    standard_en: "Cognac"
+    standard_zh: "干邑"
+    tags:
+      - en: "Brandy"
+        zh: "白蘭地"
+      - en: "aged"
+        zh: "陳年"
+    variants:
+      - en: "Cognac"
+        zh: "干邑"
+      - en: "Cognac"
+        zh: "白蘭地"
+      - en: "Cognac"
+        zh: "干邑白蘭地"
   Tequila:
     standard_en: "Tequila"
     standard_zh: "龍舌蘭"
@@ -164,6 +178,10 @@ base_spirits:
         zh: "蒸餾"
     variants:
       - en: "Blanco Tequila"
+        zh: "白龍舌蘭"
+      - en: "Tequila (Blanco)"
+        zh: "龍舌蘭酒（白色）"
+      - en: "Tequila (Blanco)"
         zh: "白龍舌蘭"
   Reposado Tequila:
     standard_en: "Reposado Tequila"
@@ -306,6 +324,15 @@ base_spirits:
     tags:
       - en: "Pisco"
         zh: "皮斯可"
+  Mezcal:
+    standard_en: "Mezcal"
+    standard_zh: "梅斯卡爾"
+    variants:
+      - en: "Mezcal"
+        zh: "梅斯卡爾"
+      - en: "Generic Mezcal"
+        zh: "通用梅斯卡爾"
+        
 liqueurs:
   Absinthe:
     standard_en: "Absinthe"
@@ -349,10 +376,16 @@ liqueurs:
         zh: "不甜苦艾酒"
       - en: "Dry Vermouth"
         zh: "不甜香艾酒"
+      - en: "Generic Dry Vermouth"
+        zh: "通用 Dry Vermouth"
   Cointreau:
     standard_en: "Cointreau"
     standard_zh: "君度橙酒"
-    variants: []
+    variants:
+      - en: "Cointreau"
+        zh: "君度橙酒"
+      - en: "Orange Liqueur (e.g., Cointreau)"
+        zh: "橙味利口酒（例如：君度橙酒）"
   Triple Sec:
     standard_en: "Triple Sec"
     standard_zh: "橙酒"
@@ -365,6 +398,8 @@ liqueurs:
         zh: "通用橙味利口酒"
       - en: "Grand Marnier"
         zh: "柑曼怡"
+      - en: "Generic Triple Sec"
+        zh: "通用橙皮酒"
   Grand Marnier:
     standard_en: "Grand Marnier"
     standard_zh: "柑曼怡"
@@ -372,7 +407,13 @@ liqueurs:
   Amaretto:
     standard_en: "Amaretto"
     standard_zh: "杏仁酒"
-    variants: []
+    variants:
+      - en: "Amaretto"
+        zh: "杏仁酒"
+      - en: "Generic Amaretto"
+        zh: "通用阿瑪雷托"
+      - en: "Amaretto Liqueur"
+        zh: "杏仁利口酒"
   Frangelico:
     standard_en: "Frangelico"
     standard_zh: "榛果酒"
@@ -452,7 +493,27 @@ liqueurs:
   Coffee Liqueur:
     standard_en: "Coffee Liqueur"
     standard_zh: "咖啡利口酒"
-    variants: []
+    variants:
+      - en: "Coffee Liqueur"
+        zh: "咖啡利口酒"
+      - en: "Generic Coffee Liqueur"
+        zh: "通用咖啡利口酒"
+  Fruit Liqueur:
+    standard_en: "Fruit Liqueur"
+    standard_zh: "水果利口酒"
+    variants:
+      - en: "Fruit Liqueur"
+        zh: "水果利口酒"
+      - en: "Generic Fruit Liqueur"
+        zh: "通用水果利口酒"
+  Irish Cream:
+    standard_en: "Irish Cream"
+    standard_zh: "愛爾蘭奶油"
+    variants:
+      - en: "Irish Cream"
+        zh: "愛爾蘭奶油"
+      - en: "Generic Irish Cream"
+        zh: "通用愛爾蘭奶油"
   Dry Sherry:
     standard_en: "Dry Sherry"
     standard_zh: "不甜雪莉酒"
@@ -484,6 +545,14 @@ liqueurs:
         
 
 ingredients:
+  Cream of Coconut:
+    standard_en: "Cream of Coconut"
+    standard_zh: "椰奶霜"
+    variants:
+      - en: "Cream of Coconut"
+        zh: "椰奶"
+      - en: "Cream of Coconut"
+        zh: "椰奶霜"
   Fresh Cream:
     standard_en: "Fresh Cream"
     standard_zh: "鮮奶油"
@@ -542,6 +611,8 @@ ingredients:
     variants:
       - en: "Sake"
         zh: "清酒"
+      - en: "Sake (Junmai or Ginjo)"
+        zh: "清酒（純米或吟釀）"
   Prosecco:
     standard_en: "Prosecco"
     standard_zh: "普羅塞克"
@@ -564,11 +635,19 @@ ingredients:
     variants:
       - en: "Fresh Lime Juice"
         zh: "新鮮青檸汁"
+      - en: "Lime Juice (Freshly Squeezed)"
+        zh: "鮮榨萊姆汁"
+      - en: "Generic Lime Juice"
+        zh: "通用萊姆汁"
+      - en: "Lime Juice, freshly squeezed"
+        zh: "新鮮現榨萊姆汁"
   Lemon Juice:
     standard_en: "Lemon Juice"
     standard_zh: "檸檬汁"
     variants:
       - en: "Fresh Lemon Juice"
+        zh: "新鮮檸檬汁"
+      - en: "Lemon Juice, freshly squeezed"
         zh: "新鮮檸檬汁"
   Orange Juice:
     standard_en: "Orange Juice"
@@ -578,12 +657,28 @@ ingredients:
         zh: "新鮮柳橙汁"
       - en: "Orange Juice"
         zh: "柳橙汁"
+      - en: "Generic Orange Juice"
+        zh: "通用橙汁"
   Grapefruit Juice:
     standard_en: "Grapefruit Juice"
     standard_zh: "葡萄柚汁"
     variants:
       - en: "Fresh Grapefruit Juice"
         zh: "新鮮葡萄柚汁"
+      - en: "Grapefruit Juice"
+        zh: "葡萄柚汁"
+      - en: "Generic Grapefruit Juice"
+        zh: "通用葡萄柚汁"
+      - en: "Grapefruit Juice, freshly squeezed"
+        zh: "新鮮的葡萄柚汁"
+  Grapefruit Soda:
+    standard_en: "Grapefruit Soda"
+    standard_zh: "葡萄柚蘇打水"
+    variants:
+      - en: "Grapefruit Soda"
+        zh: "葡萄柚汽水"
+      - en: "Grapefruit Soda"
+        zh: "葡萄柚蘇打水"
   Pineapple Juice:
     standard_en: "Pineapple Juice"
     standard_zh: "菠蘿汁"
@@ -592,10 +687,16 @@ ingredients:
         zh: "新鮮鳳梨汁"
       - en: "Pineapple Juice"
         zh: "鳳梨汁"
+      - en: "Generic Pineapple Juice"
+        zh: "通用鳳梨汁"
   Cranberry Juice:
     standard_en: "Cranberry Juice"
     standard_zh: "蔓越莓汁"
-    variants: []
+    variants:
+      - en: "Cranberry Juice"
+        zh: "蔓越莓汁"
+      - en: "Generic Cranberry Juice"
+        zh: "通用蔓越莓汁"
   Simple Syrup:
     standard_en: "Simple Syrup"
     standard_zh: "糖漿"
@@ -614,10 +715,21 @@ ingredients:
         zh: "糖漿"
       - en: "Simple Syrup"
         zh: "簡糖漿"
+      - en: "Generic Simple Syrup"
+        zh: "通用簡糖漿"
   Honey Syrup:
     standard_en: "Honey Syrup"
     standard_zh: "蜂蜜糖漿"
     variants: []
+  Heavy Cream:
+    standard_en: "Heavy Cream"
+    standard_zh: "鮮奶油"
+    variants:
+      - en: "Heavy Cream"
+        zh: "濃奶油"
+      - en: "Heavy Cream"
+        zh: "鮮奶油"
+        
   Agave Syrup:
     standard_en: "Agave Syrup"
     standard_zh: "龍舌蘭糖漿"
@@ -744,6 +856,8 @@ ingredients:
         zh: "少量安格仕苦精"
       - en: "Dash of Angostura Bitters"
         zh: "少量安格仕苦精"
+      - en: "Generic Angostura Bitters"
+        zh: "通用安格仕苦精"
   Orange Bitters:
     standard_en: "Orange Bitters"
     standard_zh: "橙味苦精"

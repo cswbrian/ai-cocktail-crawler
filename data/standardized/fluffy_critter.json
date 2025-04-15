@@ -50,7 +50,8 @@
       }
     }
   ],
-  "liqueurs": [
+  "liqueurs": [],
+  "ingredients": [
     {
       "amount": 30,
       "name": {
@@ -65,9 +66,7 @@
         "en": "Provides creaminess and coconut flavor.",
         "zh": "提供奶油味和椰子風味。"
       }
-    }
-  ],
-  "ingredients": [
+    },
     {
       "amount": 60,
       "name": {
@@ -124,5 +123,8 @@
     "body": 5,
     "complexity": 3,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

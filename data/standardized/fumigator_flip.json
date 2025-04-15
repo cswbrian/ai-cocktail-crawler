@@ -38,7 +38,7 @@
       "amount": 60,
       "name": {
         "en": "Mezcal",
-        "zh": "梅斯卡爾酒"
+        "zh": "梅斯卡爾"
       },
       "unit": {
         "en": "ml",
@@ -127,5 +127,8 @@
     "body": 8,
     "complexity": 7,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

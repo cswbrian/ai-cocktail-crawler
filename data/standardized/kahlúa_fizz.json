@@ -54,8 +54,8 @@
     {
       "amount": 45,
       "name": {
-        "en": "Generic Coffee Liqueur",
-        "zh": "通用咖啡利口酒"
+        "en": "Coffee Liqueur",
+        "zh": "咖啡利口酒"
       },
       "unit": {
         "en": "ml",
@@ -124,5 +124,9 @@
     "body": 5,
     "complexity": 5,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Rich & Creamy",
+    "Tall & Bubbly"
+  ]
 }

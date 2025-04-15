@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Lychee Lantern",
+    "zh": "荔枝燈籠"
+  },
+  "description": {
+    "en": "A refreshing and aromatic cocktail with a balanced sweetness and floral notes. The lychee liqueur and rose syrup create a delicate and fragrant experience, complemented by the spirit's subtle warmth and a touch of citrus from the lemon juice. Served tall and garnished for an elegant presentation.",
+    "zh": "一款清新芳香的雞尾酒，具有均衡的甜味和花香。荔枝酒和玫瑰糖漿營造出精緻而芬芳的體驗，並以烈酒的微妙溫暖和檸檬汁的一絲柑橘味作為補充。以高杯盛裝並加以裝飾，呈現優雅的外觀。"
+  },
+  "historical_reference": {
+    "en": "This is a modern cocktail creation, drawing inspiration from the flavors of Asia. The combination of lychee and rose is designed to create a unique and refreshing drinking experience. *There is no particular historical origin.*",
+    "zh": "這是一款現代雞尾酒，其靈感來自亞洲的風味。 荔枝和玫瑰的結合旨在創造獨特而清新的飲用體驗。 *沒有特定的歷史起源。*"
+  },
+  "technique": {
+    "en": "Shake spirit, lychee liqueur, rose syrup and lemon juice with ice. Strain into a highball glass filled with ice. Top with soda water. Garnish with a lychee fruit and a rose petal.",
+    "zh": "將烈酒、荔枝酒、玫瑰糖漿和檸檬汁與冰塊一起搖勻。 濾入裝滿冰塊的高杯玻璃杯中。 加入蘇打水。 用荔枝果和玫瑰花瓣裝飾。"
+  },
+  "garnish": {
+    "en": "Lychee fruit and a rose petal.",
+    "zh": "荔枝果實和玫瑰花瓣。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高杯玻璃杯"
+  },
+  "appearance": {
+    "en": "Clear, pale pink with a slight effervescence.",
+    "zh": "清澈的淡粉色，略帶氣泡感。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Generic White Spirit",
+        "zh": "通用白色烈酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic base and structure for the cocktail.",
+        "zh": "為雞尾酒提供酒精基底和結構。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Lychee Liqueur",
+        "zh": "荔枝酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the primary lychee flavor and sweetness.",
+        "zh": "提供主要的荔枝風味和甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Generic Rose Syrup",
+        "zh": "通用玫瑰糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the floral notes and adds a touch of sweetness.",
+        "zh": "增強花香，並增添一絲甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and balance to the sweetness of the liqueurs.",
+        "zh": "增加酸度，平衡利口酒的甜味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and dilutes the drink.",
+        "zh": "增加氣泡並稀釋飲料。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": true
+  },
+  "categories": [
+    "Tall & Bubbly"
+  ]
+}

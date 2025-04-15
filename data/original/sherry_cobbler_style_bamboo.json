@@ -1,7 +1,7 @@
 {
   "name": {
-    "en": "Bamboo",
-    "zh": "竹子"
+    "en": "Sherry Cobbler Style Bamboo",
+    "zh": "竹子（雪莉酒調酒風格）"
   },
   "description": {
     "en": "**A refined and delicate aperitivo.**\n\nThe Bamboo cocktail is a simple yet elegant combination of sherry and vermouth, often with a dash of bitters, creating a light and refreshing drink.\n\n*   Low ABV\n*   Easy to prepare\n*   Perfect before dinner",
@@ -123,5 +123,8 @@
     "body": 4,
     "complexity": 6,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

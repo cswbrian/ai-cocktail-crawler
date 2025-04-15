@@ -1,0 +1,137 @@
+{
+  "name": {
+    "en": "Mandarin Moon",
+    "zh": "橘子月亮"
+  },
+  "description": {
+    "en": "**A Refreshing Citrus Cocktail**\n\nThe Mandarin Moon is a bright and aromatic cocktail featuring:\n*   Fresh mandarin juice for a vibrant citrus note.\n*   A touch of herbal liqueur for complexity.\n*   Egg white for a silky texture.",
+    "zh": "**清爽的柑橘雞尾酒**\n\n柑橘月亮是一款明亮而芳香的雞尾酒，特色：\n*   新鮮的柑橘汁帶來鮮明的柑橘味。\n*   少量草本利口酒增添複雜性。\n*   蛋白帶來絲滑的口感。"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\nThe Mandarin Moon is a modern cocktail and does not have a long historical background. It's designed to showcase the unique flavors of mandarin oranges and herbal liqueurs.\n\n*   Developed as a modern twist on classic sours.",
+    "zh": "**現代創作**\n\n柑橘月亮是一種現代雞尾酒，沒有悠久的歷史背景。 它旨在展示柑橘和草本利口酒的獨特風味。\n\n*   作為經典酸酒的現代演變而開發。"
+  },
+  "technique": {
+    "en": "Dry shake all ingredients, then shake again with ice. Double strain into a chilled coupe glass.",
+    "zh": "將所有材料乾搖，然後再次加冰搖晃。 雙重過濾到冰鎮的高腳杯中。"
+  },
+  "garnish": {
+    "en": "Mandarin orange slice",
+    "zh": "橘子片"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Vibrant orange, slightly cloudy, with a frothy top.",
+    "zh": "鮮豔的橙色，略帶混濁，頂部有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical backbone and strength.",
+        "zh": "提供植物風味的骨幹和強度。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Herbal Liqueur",
+        "zh": "草本利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a layer of herbal complexity.",
+        "zh": "增加一層草本的複雜性。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Fresh Mandarin Juice",
+        "zh": "新鮮橘子汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the main citrus flavor.",
+        "zh": "提供主要的柑橘風味。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的口感和泡沫。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the tartness of the citrus.",
+        "zh": "平衡柑橘的酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

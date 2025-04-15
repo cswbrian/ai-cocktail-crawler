@@ -80,8 +80,8 @@
     {
       "amount": 15,
       "name": {
-        "en": "Generic Lime Juice",
-        "zh": "通用青檸汁"
+        "en": "Lime Juice",
+        "zh": "青檸汁"
       },
       "unit": {
         "en": "ml",
@@ -133,5 +133,8 @@
     "body": 5,
     "complexity": 5,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

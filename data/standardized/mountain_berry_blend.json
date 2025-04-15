@@ -1,0 +1,160 @@
+{
+  "name": {
+    "en": "Mountain Berry Blend",
+    "zh": "山間莓果混合"
+  },
+  "description": {
+    "en": "**Vibrant and Fruity Cocktail**\n\nA refreshing blend of mixed berries and citrus, featuring:\n*   Vodka base for a clean taste\n*   Fresh berries for natural sweetness and color\n*   Lemon juice for tartness and balance",
+    "zh": "**充滿活力和果香的雞尾酒**\n\n混合莓果和柑橘的清爽融合，特色：\n*   伏特加基底，帶來清爽口感\n*   新鮮莓果，帶來天然甜味和色彩\n*   檸檬汁，帶來酸味和平衡"
+  },
+  "historical_reference": {
+    "en": "**Modern Creation**\n\n*   A contemporary cocktail designed to showcase fresh berry flavors\n*   Inspired by classic fruit-based cocktails but with a modern twist\n*   Emerged in the late 20th to early 21st century as fresh ingredients became more accessible",
+    "zh": "**現代創作**\n\n*   一款旨在展示新鮮莓果風味的現代雞尾酒\n*   靈感來自經典水果雞尾酒，但帶有現代氣息\n*   隨著新鮮食材變得更容易獲得，於 20 世紀末至 21 世紀初出現"
+  },
+  "technique": {
+    "en": "Muddle berries, add remaining ingredients, shake with ice, strain into glass filled with ice.",
+    "zh": "將莓果搗碎，加入剩餘成分，加冰搖晃，過濾到裝滿冰塊的杯子中。"
+  },
+  "garnish": {
+    "en": "Berry skewer or lemon wedge",
+    "zh": "莓果串或檸檬角"
+  },
+  "serve_in_glass": {
+    "en": "Rocks glass or wine glass",
+    "zh": "岩石杯或葡萄酒杯"
+  },
+  "appearance": {
+    "en": "Deep red with purple hues, slightly cloudy",
+    "zh": "深紅色帶紫色色調，略有混濁"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Vodka",
+        "zh": "伏特加"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a clean alcoholic base that doesn't overpower the berry flavors.",
+        "zh": "提供乾淨的酒精基底，不會蓋過莓果風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "neutral",
+          "zh": "中性"
+        },
+        {
+          "en": "filtration",
+          "zh": "過濾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Berry Liqueur",
+        "zh": "莓果利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Enhances the berry flavor and adds a touch of sweetness.",
+        "zh": "增強莓果風味，增添一絲甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Mixed Berries (strawberries, raspberries, blueberries)",
+        "zh": "混合莓果（草莓、覆盆子、藍莓）"
+      },
+      "unit": {
+        "en": "g",
+        "zh": "克"
+      },
+      "rationale": {
+        "en": "Provides the primary flavor and color of the cocktail.",
+        "zh": "提供雞尾酒的主要風味和顏色。"
+      }
+    },
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness of the berries.",
+        "zh": "增加酸度，以平衡莓果的甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adjusts the overall sweetness of the cocktail.",
+        "zh": "調整雞尾酒的整體甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 5,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

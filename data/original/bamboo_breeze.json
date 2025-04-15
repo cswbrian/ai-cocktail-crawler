@@ -1,0 +1,115 @@
+{
+  "name": {
+    "en": "Bamboo Breeze",
+    "zh": "竹風"
+  },
+  "description": {
+    "en": "A light and refreshing aperitif cocktail featuring dry sherry and dry vermouth.\n\n*   Simple to make and elegant.\n*   Perfect for warm weather.",
+    "zh": "一款清淡且令人耳目一新的開胃雞尾酒，以不甜雪莉酒和不甜苦艾酒為特色。\n\n*   簡單易做，優雅。\n*   適合溫暖天氣。"
+  },
+  "historical_reference": {
+    "en": "Created by Louis Eppinger in the late 19th century.\n\n*   Named after the Bamboo Bar in Yokohama, Japan.\n*   A variation of the Adonis cocktail.",
+    "zh": "由路易斯·艾平格在 19 世紀末創造。\n\n*   以日本橫濱的竹酒吧命名。\n*   阿多尼斯雞尾酒的變體。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into chilled glass.",
+    "zh": "將所有材料與冰塊攪拌，然後濾入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, clear, with a light viscosity.",
+    "zh": "淡黃色，清澈，略帶黏性。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Sherry",
+        "zh": "不甜雪莉酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base and nutty notes.",
+        "zh": "提供基底和堅果風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal and bitter notes.",
+        "zh": "增加草本和苦味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aroma.",
+        "zh": "增加複雜性和香氣。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 4,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

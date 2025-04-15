@@ -57,14 +57,12 @@
           "zh": "蒸餾"
         }
       ]
-    }
-  ],
-  "liqueurs": [
+    },
     {
       "amount": 7,
       "name": {
-        "en": "Generic Mezcal",
-        "zh": "通用梅斯卡爾酒"
+        "en": "Mezcal",
+        "zh": "梅斯卡爾"
       },
       "unit": {
         "en": "ml",
@@ -76,6 +74,7 @@
       }
     }
   ],
+  "liqueurs": [],
   "ingredients": [
     {
       "amount": 15,
@@ -152,5 +151,8 @@
     "body": 4,
     "complexity": 6,
     "bubbles": true
-  }
+  },
+  "categories": [
+    "Tall & Bubbly"
+  ]
 }

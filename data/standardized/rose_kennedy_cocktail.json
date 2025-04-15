@@ -64,8 +64,8 @@
     {
       "amount": 30,
       "name": {
-        "en": "Lime Juice, freshly squeezed",
-        "zh": "新鮮現榨萊姆汁"
+        "en": "Lime Juice",
+        "zh": "青檸汁"
       },
       "unit": {
         "en": "ml",
@@ -113,5 +113,8 @@
     "body": 3,
     "complexity": 4,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

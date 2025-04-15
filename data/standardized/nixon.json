@@ -115,7 +115,7 @@
       "amount": 30,
       "name": {
         "en": "Heavy Cream",
-        "zh": "濃奶油"
+        "zh": "鮮奶油"
       },
       "unit": {
         "en": "ml",
@@ -148,5 +148,8 @@
     "body": 6,
     "complexity": 5,
     "bubbles": false
-  }
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
 }

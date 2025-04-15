@@ -1,6 +1,6 @@
 # Cocktail Crawler Project
 
-This project is a cocktail information crawler that fetches detailed cocktail recipes and information using the Gemini API, with support for standardization and bilingual data processing.
+This project is a cocktail information crawler that fetches detailed cocktail recipes and information using the Gemini API, with support for standardization, bilingual data processing, and automatic cocktail categorization.
 
 ## Prerequisites
 
@@ -49,17 +49,24 @@ Before you begin, ensure you have the following installed:
    - Create a `data/name_mappings.yaml` file for ingredient standardization
    - Define mappings for base spirits, liqueurs, ingredients, and flavor descriptors
 
-7. **Run the project**
-   ```bash
-   python workflow.py
-   ```
+## Adding New Cocktails
+
+There are two ways to add cocktails:
+
+1. **Using main.py (Recommended for specific cocktails)**
+   - Edit `main.py` and add cocktail names to the `new_cocktails` list
+   - Run `python main.py`
+
+2. **Using workflow.py (For processing all cocktails)**
+   - Place cocktail JSON files in `data/original/`
+   - Run `python workflow.py`
 
 ## Project Structure
 
 - `workflow.py`: Main workflow script that handles data processing and standardization
-- `llm_client.py`: Handles API communication with Gemini
+- `llm_client.py`: Handles API communication with Gemini and cocktail categorization
+- `main.py`: Script for adding new cocktails
 - `config.py`: Contains API configuration (you need to create this)
-- `cocktails.json`: Combined output file containing all standardized cocktail data
 - `data/`: Project data directory structure:
   - `original/`: Raw cocktail data from API
   - `standardized/`: Standardized cocktail data
@@ -74,33 +81,51 @@ Before you begin, ensure you have the following installed:
   - Ingredients
   - Preparation techniques
   - Flavor profiles
+  - Categories
+- Automatic cocktail categorization into:
+  - Strong & Spirit-Focused
+  - Sweet & Tart
+  - Tall & Bubbly
+  - Rich & Creamy
 - Standardizes ingredient names and categories
-- Generates detailed reports:
-  - Ingredient usage summary
-  - Name mismatch analysis
 - Supports bilingual information (English and Traditional Chinese)
-- Automatic ingredient categorization and standardization
-- Combines all standardized cocktail data into a single JSON file
+- Generates detailed reports
+
+## Cocktail Categories
+
+Each cocktail is automatically categorized based on its characteristics:
+1. **Strong & Spirit-Focused**: Spirit-forward cocktails
+2. **Sweet & Tart**: Balanced sweet-sour cocktails
+3. **Tall & Bubbly**: Carbonated highballs
+4. **Rich & Creamy**: Creamy/eggy cocktails
+
+Categories are determined by analyzing:
+- The cocktail's description
+- Base spirit and its amount
+- Sweet/sour ingredients
+- Carbonation presence
+- Cream/egg ingredients
 
 ## Requirements
 
 The project uses the following Python packages:
 - google-genai==0.8.4
 - PyYAML==6.0.2
+- pydantic
 - requests==2.31.0
-- python-dotenv==1.0.0
 
 ## Workflow Steps
 
-1. **Data Fetching**: Retrieves cocktail information from the Gemini API
-2. **Name Standardization**: Standardizes ingredient names using predefined mappings
-3. **Report Generation**: 
-   - Generates ingredient usage summaries
-   - Analyzes name mismatches
-   - Creates standardized data files
-4. **Data Combination**: 
-   - Combines all standardized cocktail data into a single cocktails.json file
-   - Located in the project root directory
+1. **Data Fetching**: 
+   - Checks if cocktail exists in data/original/
+   - If not, fetches from Gemini API
+   - Saves new cocktails to data/original/
+2. **Categorization**:
+   - Automatically determines cocktail categories
+   - Uses LLM to analyze cocktail characteristics
+3. **Standardization**:
+   - Standardizes ingredient names
+   - Generates reports and analysis
 
 ## Output Files
 
