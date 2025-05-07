@@ -1,0 +1,106 @@
+{
+  "name": {
+    "en": "Red Eye",
+    "zh": "紅眼"
+  },
+  "description": {
+    "en": "**Simple yet Bold Cocktail**\n\nA rudimentary combination of beer and tomato juice:\n\n*   Layered flavors of malty beer and savory tomato.\n*   Best enjoyed cold and with a palate for the unusual.",
+    "zh": "**簡單而大胆的雞尾酒**\n\n啤酒和番茄汁的初級混合：\n\n*   麥芽啤酒和鹹味番茄的層次風味。\n*   最好冷飲，並帶有對不尋常風味的鑑賞力。"
+  },
+  "historical_reference": {
+    "en": "The Red Eye's origins are murky, with no definitive creator or date. It appears to have emerged as a hangover cure or a 'hair of the dog' remedy. Similar drinks combining beer and tomato juice have existed under different names and variations for several decades. The earliest written reference to this combination seems to date back to the mid-20th century.",
+    "zh": "紅眼雞尾酒的起源很模糊，沒有明確的創造者或日期。它似乎是作為一種宿醉療法或“以毒攻毒”的補救措施而出現的。幾十年來，結合啤酒和番茄汁的類似飲料以不同的名稱和變體存在。關於這種組合最早的書面參考似乎可以追溯到20世紀中葉。"
+  },
+  "technique": {
+    "en": "Pour chilled beer into a glass, then gently add chilled tomato juice. Season with salt.",
+    "zh": "將冰鎮啤酒倒入杯中，然後輕輕加入冰鎮番茄汁。用鹽調味。"
+  },
+  "garnish": {
+    "en": "Optional: Lime wedge or celery stalk",
+    "zh": "可選：檸檬角或芹菜梗"
+  },
+  "serve_in_glass": {
+    "en": "Pint glass or highball glass",
+    "zh": "品脫杯或高球杯"
+  },
+  "appearance": {
+    "en": "Dark brown or reddish-brown, opaque, with minimal head",
+    "zh": "深棕色或紅棕色，不透明，幾乎沒有泡沫"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Light Lager",
+        "zh": "淡啤酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the beer base and body of the drink.",
+        "zh": "提供飲料的啤酒基底和酒體。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 120,
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds savory and tangy flavors to the beer.",
+        "zh": "為啤酒增添鹹味和濃郁的風味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Enhance flavor and give the drink a savory taste.",
+        "zh": "增強風味，使飲品具有鹹味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Umami",
+      "zh": "鮮味"
+    },
+    {
+      "en": "Salty",
+      "zh": "有鹽"
+    },
+    {
+      "en": "Savory",
+      "zh": "鮮味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 2,
+    "sourness": 3,
+    "booziness": 2,
+    "body": 4,
+    "complexity": 3,
+    "bubbles": true
+  },
+  "categories": [
+    "Tall & Bubbly"
+  ]
+}

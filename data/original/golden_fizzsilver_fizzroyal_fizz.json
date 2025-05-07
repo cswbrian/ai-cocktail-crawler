@@ -1,0 +1,142 @@
+{
+  "name": {
+    "en": "Golden Fizz",
+    "zh": "黃金氣泡飲"
+  },
+  "description": {
+    "en": "**A Rich and Bubbly Delight**\n\nThe Golden Fizz is a variation of the classic Gin Fizz, enriched with an egg yolk for added creaminess and a golden hue. It's a refreshing yet decadent cocktail perfect for brunch or a special occasion.\n\n*   Gin-based with citrus notes\n*   Egg yolk for richness and color\n*   Sparkling water adds effervescence",
+    "zh": "**豐富且充滿氣泡的美味**\n\n黃金氣泡飲是經典琴酒氣泡飲的變體，添加了蛋黃，以增加奶油味和金黃色澤。這是一款清爽而又頹廢的雞尾酒，非常適合早午餐或特殊場合。\n\n*   以琴酒為基底，帶有柑橘味\n*   蛋黃增加濃郁度和顏色\n*   氣泡水增添氣泡感"
+  },
+  "historical_reference": {
+    "en": "The Fizz family of cocktails became popular in the late 19th and early 20th centuries. The Golden Fizz, with its addition of egg yolk, is a richer variation that likely emerged during the same period.\n\n*   Evolved from the Gin Fizz\n*   Egg yolk adds richness\n*   Popular in the early 20th century",
+    "zh": "氣泡雞尾酒系列在19世紀末和20世紀初開始流行。黃金氣泡飲添加了蛋黃，是一種更濃郁的變體，可能在同一時期出現。\n\n*   從琴酒氣泡飲演變而來\n*   蛋黃增加濃郁度\n*   20世紀初流行"
+  },
+  "technique": {
+    "en": "Shake gin, lemon juice, simple syrup, and egg yolk with ice. Strain into a highball glass filled with ice. Top with sparkling water and garnish.",
+    "zh": "將琴酒、檸檬汁、簡單糖漿和蛋黃與冰塊一起搖勻。濾入裝滿冰塊的高球杯中。加入氣泡水，然後裝飾。"
+  },
+  "garnish": {
+    "en": "Orange slice or twist",
+    "zh": "橙片或橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, frothy, and effervescent",
+    "zh": "淡黃色，起泡，充滿氣泡"
+  },
+  "allergens": [
+    {
+      "en": "egg white",
+      "zh": "蛋白"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical flavors.",
+        "zh": "提供基酒和植物風味。"
+      }
+    }
+  ],
+  "liqueurs": [],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds tartness and balances the sweetness.",
+        "zh": "增加酸度並平衡甜味。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds richness and a silky texture.",
+        "zh": "增加濃郁度和柔滑的質地。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "簡單糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and balances the sourness.",
+        "zh": "增加甜度並平衡酸味。"
+      }
+    },
+    {
+      "amount": 60,
+      "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds fizz and effervescence.",
+        "zh": "增加氣泡和氣泡感。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 4,
+    "booziness": 5,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": true
+  },
+  "categories": [
+    "Tall & Bubbly",
+    "Rich & Creamy"
+  ]
+}

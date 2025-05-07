@@ -4,24 +4,24 @@
     "zh": "多倫多"
   },
   "description": {
-    "en": "**A Canadian Classic**\n\nA stirred cocktail featuring Canadian rye whisky, Bénédictine, and Angostura bitters.\n\n*   Known for its smooth and slightly sweet profile.\n*   Often enjoyed as an after-dinner drink.",
-    "zh": "**加拿大經典**\n\n一款以加拿大黑麥威士忌、廊酒和安哥斯圖娜苦精調製的攪拌式雞尾酒。\n\n*   以其柔順和微甜的口感而聞名。\n*   經常作為餐後飲品享用。"
+    "en": "**A Canadian Classic**\n\nA stirred cocktail featuring Canadian rye whisky, Fernet-Branca, and Angostura bitters.\n\n*   Known for its whiskey-forward profile with a bitter bite.\n*   Often considered a variation of the Manhattan or Old Fashioned.",
+    "zh": "**加拿大經典**\n\n一款以加拿大黑麥威士忌、菲奈特布蘭卡和安哥斯圖娜苦精調製的攪拌式雞尾酒。\n\n*   以其威士忌主導的風味和苦味尾韻而聞名。\n*   常被視為曼哈頓或古典雞尾酒的變體。"
   },
   "historical_reference": {
-    "en": "**Origin**: Canada\n\n*   Created at the King Edward Hotel in Toronto.\n*   Date of origin is debated, but likely around the mid-20th century.\n*   Named after the city of Toronto.",
-    "zh": "**起源**: 加拿大\n\n*   在多倫多愛德華國王酒店創作。\n*   起源日期存在爭議，但可能在20世紀中葉左右。\n*   以多倫多市命名。"
+    "en": "**Origin**: Canada\n\n*   First appeared in print in Robert Vermeire's 1922 book 'Cocktails: How to Mix Them' as the Fernet Cocktail.\n*   Later renamed to Toronto in David Embury's 'The Fine Art of Mixing Drinks'.\n*   Named after the city of Toronto.",
+    "zh": "**起源**: 加拿大\n\n*   首次出現在1922年Robert Vermeire的著作《Cocktails: How to Mix Them》中，當時名為Fernet Cocktail。\n*   後來在David Embury的《The Fine Art of Mixing Drinks》中更名為Toronto。\n*   以多倫多市命名。"
   },
   "technique": {
-    "en": "Stir with ice and strain into glass.",
-    "zh": "與冰塊攪拌並濾入杯中。"
+    "en": "Stir with ice and strain into a chilled coupe glass.",
+    "zh": "與冰塊攪拌並濾入冰鎮的香檳杯。"
   },
   "garnish": {
-    "en": "Maraschino cherry or lemon twist (optional)",
-    "zh": "馬拉斯奇諾櫻桃或檸檬皮扭花（可選）"
+    "en": "Orange twist",
+    "zh": "橙皮扭花"
   },
   "serve_in_glass": {
-    "en": "Old-fashioned glass or coupe",
-    "zh": "古典杯或高腳杯"
+    "en": "Chilled coupe glass",
+    "zh": "冰鎮香檳杯"
   },
   "appearance": {
     "en": "Clear amber liquid",
@@ -65,22 +65,37 @@
   ],
   "liqueurs": [
     {
-      "amount": 10,
+      "amount": 7.5,
       "name": {
-        "en": "Bénédictine",
-        "zh": "廊酒"
+        "en": "Fernet-Branca",
+        "zh": "芙內布蘭卡香甜利口酒"
       },
       "unit": {
         "en": "ml",
         "zh": "毫升"
       },
       "rationale": {
-        "en": "Adds sweetness and herbal notes.",
-        "zh": "增加甜味和草本味。"
+        "en": "Adds herbal complexity and bitterness.",
+        "zh": "增加草本複雜性和苦味。"
       }
     }
   ],
   "ingredients": [
+    {
+      "amount": 7.5,
+      "name": {
+        "en": "Simple Syrup",
+        "zh": "糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Balances the bitterness of Fernet-Branca.",
+        "zh": "平衡菲奈特布蘭卡的苦味。"
+      }
+    },
     {
       "amount": 2,
       "name": {
@@ -92,8 +107,8 @@
         "zh": "滴"
       },
       "rationale": {
-        "en": "Adds complexity and bitterness.",
-        "zh": "增加複雜性和苦味。"
+        "en": "Adds complexity and aromatic notes.",
+        "zh": "增加複雜性和芳香氣息。"
       }
     }
   ],
@@ -116,11 +131,11 @@
     }
   ],
   "flavor_profile": {
-    "sweetness": 5,
+    "sweetness": 4,
     "sourness": 2,
     "booziness": 7,
     "body": 6,
-    "complexity": 7,
+    "complexity": 8,
     "bubbles": false
   },
   "categories": [

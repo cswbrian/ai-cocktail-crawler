@@ -1,0 +1,125 @@
+{
+  "name": {
+    "en": "Larchmont",
+    "zh": "拉奇蒙特"
+  },
+  "description": {
+    "en": "**A Refreshing and Balanced Classic**\n\nThe Larchmont cocktail is a harmonious blend of gin, lime, and green Chartreuse, resulting in a complex and herbaceous drink.\n\nKey features:\n\n*   Gin provides the foundation with its botanical notes.\n*   Lime juice contributes tartness and brightness.\n*   Green Chartreuse adds depth and herbal complexity.",
+    "zh": "**清新且平衡的經典調酒**\n\n拉奇蒙特雞尾酒是琴酒、萊姆和綠色 Chartreuse 的和諧融合，產生一種複雜且草本的飲品。\n\n主要特點：\n\n*   琴酒以其植物風味為基礎。\n*   萊姆汁貢獻酸味和明亮度。\n*   綠色 Chartreuse 增添深度和草本複雜性。"
+  },
+  "historical_reference": {
+    "en": "The Larchmont cocktail is a relatively modern creation, with no well-established historical background.\n\n*   Origin: Likely created in the late 20th or early 21st century.\n*   Inspiration: Part of the modern cocktail renaissance, emphasizing fresh ingredients and balanced flavors.",
+    "zh": "拉奇蒙特雞尾酒是一種相對現代的創作，沒有明確的歷史背景。\n\n*   起源：可能於 20 世紀末或 21 世紀初創作。\n*   靈感：現代雞尾酒復興的一部分，強調新鮮的食材和平衡的風味。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lime wheel or lime wedge",
+    "zh": "萊姆輪或萊姆角"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "碟型香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Clear, pale yellow with a slight green hue",
+    "zh": "清澈的淡黃色，略帶綠色色調"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Forms the base of the cocktail, providing a botanical foundation.",
+        "zh": "構成雞尾酒的基礎，提供植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Contributes complex herbal notes and a subtle sweetness.",
+        "zh": "貢獻複雜的草本風味和微妙的甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity and tartness, balancing the sweetness.",
+        "zh": "增加酸度和酸澀味，平衡甜味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 8,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
+}

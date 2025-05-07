@@ -1,0 +1,140 @@
+{
+  "name": {
+    "en": "Repose 1912",
+    "zh": "Repose 1912"
+  },
+  "description": {
+    "en": "**A Modern Classic**: Repose 1912 is a balanced cocktail featuring reposado tequila, fresh citrus, and a hint of spice.\n\n*   Inspired by the classic Margarita, but with added complexity.\n*   Named to evoke a sense of vintage elegance.\n*   Perfect balance of sweet, sour, and spice.",
+    "zh": "**現代經典**: Repose 1912 是一款均衡的雞尾酒，以 Reposado 龍舌蘭酒、新鮮柑橘和一絲香料為特色。\n\n*   靈感來自經典瑪格麗特，但增加了複雜性。\n*   命名旨在喚起復古優雅的感覺。\n*   甜、酸和香料的完美平衡。"
+  },
+  "historical_reference": {
+    "en": "**A Fictional History**: Repose 1912 is a cocktail designed to evoke the elegance of the early 20th century, though it doesn't have a verifiable historical origin.\n\n* Imagined as a cocktail that could have been enjoyed in a sophisticated bar in 1912.\n* The name 'Repose' refers to the rested tequila, 'reposado'.\n* The '1912' element adds a touch of historical charm, alluding to a bygone era.",
+    "zh": "**虛構的歷史**: Repose 1912 是一款旨在喚起 20 世紀初優雅氣息的雞尾酒，儘管它沒有可驗證的歷史淵源。\n\n* 想像成一款可能在 1912 年在精緻酒吧中享用的雞尾酒。\n* 名稱“Repose”指的是靜置的龍舌蘭酒“reposado”。\n* “1912”元素增添了一絲歷史魅力，暗示著逝去的時代。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Margarita glass",
+    "zh": "高腳杯或瑪格麗特杯"
+  },
+  "appearance": {
+    "en": "Cloudy, light brown with an orange hue and a frothy top",
+    "zh": "混濁的淺棕色，帶有橙色色調和泡沫頂部"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Reposado Tequila",
+        "zh": "陳年龍舌蘭"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit with rich agave and oak notes.",
+        "zh": "提供豐富龍舌蘭和橡木味的基酒。"
+      },
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Triple Sec",
+        "zh": "橙酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a hint of citrus and sweetness.",
+        "zh": "增添一絲柑橘味和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 22,
+      "name": {
+        "en": "Lime Juice",
+        "zh": "青檸汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the necessary acidity to balance the sweetness.",
+        "zh": "提供必要的酸度來平衡甜度。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭花蜜"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and complements the tequila.",
+        "zh": "增加甜度並與龍舌蘭酒相輔相成。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 7,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
+}

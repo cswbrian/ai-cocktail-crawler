@@ -147,9 +147,9 @@
       "bubbles": true
     },
     "categories": [
-      "Tall & Bubbly",
-      "Sweet & Tart"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "peach-blossom-punch"
   },
   {
     "name": {
@@ -269,7 +269,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "royal-arrival"
   },
   {
     "name": {
@@ -373,7 +374,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "kahlúa-and-cream"
   },
   {
     "name": {
@@ -505,7 +507,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "black-nail"
   },
   {
     "name": {
@@ -649,7 +652,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "mexican-dark-n-stormy"
   },
   {
     "name": {
@@ -804,7 +808,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "cloister"
   },
   {
     "name": {
@@ -898,7 +903,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "negroni-sbagliato"
   },
   {
     "name": {
@@ -1006,9 +1012,9 @@
       "bubbles": true
     },
     "categories": [
-      "Tall & Bubbly",
-      "Sweet & Tart"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "monaco"
   },
   {
     "name": {
@@ -1099,7 +1105,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "fernet-con-coca"
   },
   {
     "name": {
@@ -1208,7 +1215,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "mexican-mule"
   },
   {
     "name": {
@@ -1367,7 +1375,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "mai-tai"
   },
   {
     "name": {
@@ -1531,7 +1540,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "three-wise-men"
   },
   {
     "name": {
@@ -1653,7 +1663,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "blue-hawaii"
   },
   {
     "name": {
@@ -1781,9 +1792,9 @@
       "bubbles": true
     },
     "categories": [
-      "Sweet & Tart",
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "apple-cider-shrub"
   },
   {
     "name": {
@@ -1877,7 +1888,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "springbokkie"
   },
   {
     "name": {
@@ -2021,7 +2033,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gin-sour"
   },
   {
     "name": {
@@ -2121,7 +2134,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kentucky-mule"
   },
   {
     "name": {
@@ -2253,7 +2267,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bumbo"
   },
   {
     "name": {
@@ -2393,7 +2408,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mexican-martini"
   },
   {
     "name": {
@@ -2517,7 +2533,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "french-95"
   },
   {
     "name": {
@@ -2626,8 +2643,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "americano"
   },
   {
     "name": {
@@ -2805,7 +2823,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "old-cuban"
   },
   {
     "name": {
@@ -2950,7 +2969,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "jazmin-sour"
   },
   {
     "name": {
@@ -3056,7 +3076,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mint-julep"
   },
   {
     "name": {
@@ -3177,7 +3198,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "paris-between-the-wars"
   },
   {
     "name": {
@@ -3337,7 +3359,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "shiso-sunrise"
   },
   {
     "name": {
@@ -3506,8 +3529,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "pimms-cup"
   },
   {
     "name": {
@@ -3612,7 +3636,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "chrysanthemum"
   },
   {
     "name": {
@@ -3752,7 +3777,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "enzoni"
   },
   {
     "name": {
@@ -3876,7 +3902,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tequila-sunrise"
   },
   {
     "name": {
@@ -4008,7 +4035,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ti-punch"
   },
   {
     "name": {
@@ -4132,7 +4160,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cardinale"
   },
   {
     "name": {
@@ -4292,7 +4321,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mountain-berry-blend"
   },
   {
     "name": {
@@ -4436,7 +4466,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perfect-brooklyn"
   },
   {
     "name": {
@@ -4537,7 +4568,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "roses-gimlet"
   },
   {
     "name": {
@@ -4631,8 +4663,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "shirley-temple"
   },
   {
     "name": {
@@ -4829,7 +4862,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "clamato-bloody-mary"
   },
   {
     "name": {
@@ -4974,7 +5008,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "breakfast-martini"
   },
   {
     "name": {
@@ -5099,7 +5134,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perfect-liberal"
   },
   {
     "name": {
@@ -5209,7 +5245,124 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blackthorn"
+  },
+  {
+    "name": {
+      "en": "Zacapa Martini",
+      "zh": "薩卡帕馬丁尼"
+    },
+    "description": {
+      "en": "**Luxurious Martini Variation**\n\nA sophisticated twist on the classic martini, emphasizing the rich and nuanced flavors of Zacapa Rum:\n\n*   Uses Zacapa Rum as the primary spirit for a uniquely decadent experience.\n*   A small amount of dry vermouth balances the sweetness of the rum.\n*   Orange bitters add complexity and aromatic depth.",
+      "zh": "**奢華的馬丁尼變奏**\n\n經典馬丁尼的精緻轉變，強調薩卡帕蘭姆酒的豐富而細膩的風味：\n\n*   使用薩卡帕蘭姆酒作為主要烈酒，帶來獨特而頹廢的體驗。\n*   少量乾味美思平衡了蘭姆酒的甜度。\n*   橙味苦精增添了複雜性和芳香深度。"
+    },
+    "historical_reference": {
+      "en": "The Zacapa Martini is a modern variation on the classic martini, designed to showcase the unique characteristics of Zacapa Rum. It builds upon the traditional martini formula but substitutes gin or vodka with a premium aged rum.\n\n*   Evolved from the classic dry martini\n*   Highlights the rum's complexity",
+      "zh": "薩卡帕馬丁尼是經典馬丁尼的現代變奏，旨在展示薩卡帕蘭姆酒的獨特之處。它以傳統馬丁尼的配方為基礎，但用優質陳年蘭姆酒代替了琴酒或伏特加。\n\n*   從經典的乾馬丁尼演變而來\n*   突顯了蘭姆酒的複雜性"
+    },
+    "technique": {
+      "en": "Stir with ice and strain into a chilled glass.",
+      "zh": "與冰塊攪拌後倒入冰鎮的杯子。"
+    },
+    "garnish": {
+      "en": "Orange peel twist",
+      "zh": "橙皮扭花"
+    },
+    "serve_in_glass": {
+      "en": "Chilled martini glass",
+      "zh": "冰鎮馬丁尼杯"
+    },
+    "appearance": {
+      "en": "Clear, deep amber with golden highlights",
+      "zh": "清澈、深琥珀色，帶金色光澤"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Zacapa Rum",
+          "zh": "薩卡帕蘭姆酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the rich, complex base with notes of caramel, vanilla, and dried fruit.",
+          "zh": "提供豐富、複雜的基底，帶有焦糖、香草和乾果的風味。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 10,
+        "name": {
+          "en": "Dry Vermouth",
+          "zh": "不甜苦艾酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a subtle herbal and dry counterpoint to the rum's sweetness.",
+          "zh": "為蘭姆酒的甜味增添微妙的草本和乾燥的對比。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 2,
+        "name": {
+          "en": "Orange Bitters",
+          "zh": "橙味苦精"
+        },
+        "unit": {
+          "en": "dashes",
+          "zh": "滴"
+        },
+        "rationale": {
+          "en": "Enhances the aromatic profile and adds a layer of citrus complexity.",
+          "zh": "增強了芳香氣息，並增加了一層柑橘的複雜性。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Chocolate",
+        "zh": "朱古力"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Woody",
+        "zh": "木質"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 1,
+      "booziness": 8,
+      "body": 7,
+      "complexity": 9,
+      "bubbles": false
+    },
+    "categories": [
+      "Strong & Spirit-Focused"
+    ],
+    "slug": "zacapa-martini"
   },
   {
     "name": {
@@ -5294,8 +5447,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "roy-rogers"
   },
   {
     "name": {
@@ -5425,7 +5579,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rose"
   },
   {
     "name": {
@@ -5606,7 +5761,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spiced-vieux-carré"
   },
   {
     "name": {
@@ -5757,7 +5913,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "aguaymanto-sour"
   },
   {
     "name": {
@@ -5852,7 +6009,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "stinger"
   },
   {
     "name": {
@@ -5967,7 +6125,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-bobby-burns"
   },
   {
     "name": {
@@ -6125,7 +6284,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "queens-park-swizzle"
   },
   {
     "name": {
@@ -6225,8 +6385,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "cape-codder"
   },
   {
     "name": {
@@ -6400,7 +6561,134 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mr-bali-hai"
+  },
+  {
+    "name": {
+      "en": "Larchmont",
+      "zh": "拉奇蒙特"
+    },
+    "description": {
+      "en": "**A Refreshing and Balanced Classic**\n\nThe Larchmont cocktail is a harmonious blend of gin, lime, and green Chartreuse, resulting in a complex and herbaceous drink.\n\nKey features:\n\n*   Gin provides the foundation with its botanical notes.\n*   Lime juice contributes tartness and brightness.\n*   Green Chartreuse adds depth and herbal complexity.",
+      "zh": "**清新且平衡的經典調酒**\n\n拉奇蒙特雞尾酒是琴酒、萊姆和綠色 Chartreuse 的和諧融合，產生一種複雜且草本的飲品。\n\n主要特點：\n\n*   琴酒以其植物風味為基礎。\n*   萊姆汁貢獻酸味和明亮度。\n*   綠色 Chartreuse 增添深度和草本複雜性。"
+    },
+    "historical_reference": {
+      "en": "The Larchmont cocktail is a relatively modern creation, with no well-established historical background.\n\n*   Origin: Likely created in the late 20th or early 21st century.\n*   Inspiration: Part of the modern cocktail renaissance, emphasizing fresh ingredients and balanced flavors.",
+      "zh": "拉奇蒙特雞尾酒是一種相對現代的創作，沒有明確的歷史背景。\n\n*   起源：可能於 20 世紀末或 21 世紀初創作。\n*   靈感：現代雞尾酒復興的一部分，強調新鮮的食材和平衡的風味。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Lime wheel or lime wedge",
+      "zh": "萊姆輪或萊姆角"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or cocktail glass",
+      "zh": "碟型香檳杯或雞尾酒杯"
+    },
+    "appearance": {
+      "en": "Clear, pale yellow with a slight green hue",
+      "zh": "清澈的淡黃色，略帶綠色色調"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Forms the base of the cocktail, providing a botanical foundation.",
+          "zh": "構成雞尾酒的基礎，提供植物風味。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 22,
+        "name": {
+          "en": "Green Chartreuse",
+          "zh": "綠色夏翠絲"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Contributes complex herbal notes and a subtle sweetness.",
+          "zh": "貢獻複雜的草本風味和微妙的甜味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 22,
+        "name": {
+          "en": "Lime Juice",
+          "zh": "青檸汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds acidity and tartness, balancing the sweetness.",
+          "zh": "增加酸度和酸澀味，平衡甜味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Floral",
+        "zh": "花香"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 7,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 8,
+      "bubbles": false
+    },
+    "categories": [
+      "Sweet & Tart"
+    ],
+    "slug": "larchmont"
   },
   {
     "name": {
@@ -6560,7 +6848,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "revelation"
   },
   {
     "name": {
@@ -6670,7 +6959,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bobby-burns"
   },
   {
     "name": {
@@ -6787,7 +7077,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "appletini"
   },
   {
     "name": {
@@ -6924,7 +7215,271 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "agua-de-sevilla"
+  },
+  {
+    "name": {
+      "en": "Zaza",
+      "zh": "札札"
+    },
+    "description": {
+      "en": "*A classic cocktail with a rich and slightly tart flavor.*\n\nThe Zaza is a refreshing and balanced cocktail, showcasing:\n*   The botanical complexity of gin\n*   The delightful sweetness of Dubonnet\n*   Orange bitters for aromatic depth",
+      "zh": "*一款經典雞尾酒，口感濃郁，略帶酸味。*\n\nZaza 是一款清爽且平衡的雞尾酒，展示了：\n*   琴酒的植物複雜性\n*   杜本內酒的令人愉悅的甜味\n*   橙子苦精帶來芳香深度"
+    },
+    "historical_reference": {
+      "en": "**Origin**: Attributed to the Harry's New York Bar in Paris, during the 1920s.\n\n*   The exact origins are debated, named after Zaza, a famous dancer of that time.\n*   Similar to the Adonis cocktail, but using Gin instead of vermouth.",
+      "zh": "**起源**：據說起源於 1920 年代的巴黎 Harry's New York Bar。\n\n*   確切起源存在爭議，以當時著名的舞者 Zaza 命名。\n*   與 Adonis 雞尾酒相似，但使用琴酒代替苦艾酒。"
+    },
+    "technique": {
+      "en": "Stirred, strained.",
+      "zh": "攪拌，過濾。"
+    },
+    "garnish": {
+      "en": "Lemon twist",
+      "zh": "檸檬皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Coupe glass",
+      "zh": "高腳杯"
+    },
+    "appearance": {
+      "en": "Pale yellow, cloudy",
+      "zh": "淡黃色，混濁"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and botanical notes.",
+          "zh": "提供基酒和植物風味。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Dubonnet Rouge",
+          "zh": "杜本內紅酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and a fortified wine flavor.",
+          "zh": "增加甜味和強化葡萄酒的風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 2,
+        "name": {
+          "en": "Orange Bitters",
+          "zh": "橙味苦精"
+        },
+        "unit": {
+          "en": "dashes",
+          "zh": "滴"
+        },
+        "rationale": {
+          "en": "Adds aromatic complexity.",
+          "zh": "增加香氣複雜性。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 4,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 7,
+      "bubbles": false
+    },
+    "categories": [
+      "Sweet & Tart"
+    ],
+    "slug": "zaza"
+  },
+  {
+    "name": {
+      "en": "Honeymoon",
+      "zh": "蜜月"
+    },
+    "description": {
+      "en": "**A Classic Pre-Prohibition Cocktail**\n\nThe Honeymoon is a delightful blend of:\n\n*   Apple brandy for a fruity base\n*   Bénédictine for herbal complexity\n*   Orange curaçao for citrus and sweetness\n*   Lemon juice for balance",
+      "zh": "**經典禁酒令前雞尾酒**\n\n蜜月是一種令人愉悅的混合，包括：\n\n*   蘋果白蘭地，帶來水果風味的基底\n*   Bénédictine，增添草本的複雜性\n*   橙皮酒，帶來柑橘和甜味\n*   檸檬汁，平衡整體口感"
+    },
+    "historical_reference": {
+      "en": "**Origin**: A classic cocktail dating back to the pre-Prohibition era.\n\n*   First appeared in the early 20th century.\n*   Popularized in cocktail books of the 1930s.\n*   Variations exist, but the core ingredients remain consistent.",
+      "zh": "**起源**: 一款可以追溯到禁酒令時代之前的經典雞尾酒。\n\n*   首次出現在20世紀初。\n*   在1930年代的雞尾酒書中廣為流傳。\n*   存在多種變體，但核心成分保持一致。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Lemon twist",
+      "zh": "檸檬皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or cocktail glass",
+      "zh": "淺碟香檳杯或雞尾酒杯"
+    },
+    "appearance": {
+      "en": "Golden amber, clear and bright",
+      "zh": "金黃琥珀色，清澈明亮"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Apple Brandy (Calvados)",
+          "zh": "蘋果白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit, offering a fruity and warm character.",
+          "zh": "提供基酒，帶來水果和溫暖的特性。"
+        },
+        "tags": [
+          {
+            "en": "Brandy",
+            "zh": "白蘭地"
+          },
+          {
+            "en": "apple brandy",
+            "zh": "蘋果白蘭地"
+          },
+          {
+            "en": "calvados",
+            "zh": "卡爾瓦多斯"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Bénédictine",
+          "zh": "廊酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a complex herbal and honeyed sweetness.",
+          "zh": "增加複雜的草本和蜂蜜般的甜味。"
+        }
+      },
+      {
+        "amount": 10,
+        "name": {
+          "en": "Orange Curaçao",
+          "zh": "橙皮酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds orange flavor and sweetness.",
+          "zh": "添加橙子風味和甜度"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Lemon Juice",
+          "zh": "檸檬汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds acidity to balance the sweetness.",
+          "zh": "增加酸度，平衡甜度。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Sweet & Tart",
+        "zh": "酸甜"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 6,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 7,
+      "bubbles": false
+    },
+    "categories": [
+      "Sweet & Tart"
+    ],
+    "slug": "honeymoon"
   },
   {
     "name": {
@@ -7097,7 +7652,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "planters-punch"
   },
   {
     "name": {
@@ -7188,7 +7744,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "chimayó-cocktail"
   },
   {
     "name": {
@@ -7372,7 +7929,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fish-house-punch"
   },
   {
     "name": {
@@ -7498,7 +8056,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mezcal-last-word"
   },
   {
     "name": {
@@ -7692,7 +8251,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "singapore-sling"
   },
   {
     "name": {
@@ -7866,7 +8426,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cobras-fang"
   },
   {
     "name": {
@@ -7944,8 +8505,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cranberry-mimosa"
   },
   {
     "name": {
@@ -8134,7 +8696,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "queen-mary"
   },
   {
     "name": {
@@ -8245,8 +8808,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "cement-mixer"
   },
   {
     "name": {
@@ -8342,7 +8906,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "karsk"
   },
   {
     "name": {
@@ -8507,7 +9072,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "agua-de-valencia"
   },
   {
     "name": {
@@ -8666,7 +9232,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "wasabi-whisper"
   },
   {
     "name": {
@@ -8796,7 +9363,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sazerac"
   },
   {
     "name": {
@@ -8890,7 +9458,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "peach-bellini-mocktail"
   },
   {
     "name": {
@@ -8999,7 +9568,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "strawberry-daiquiri"
   },
   {
     "name": {
@@ -9093,7 +9663,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "kahlúa-stinger"
   },
   {
     "name": {
@@ -9218,7 +9789,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "scotch-sour"
   },
   {
     "name": {
@@ -9332,7 +9904,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-maple-old-fashioned"
   },
   {
     "name": {
@@ -9485,7 +10058,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "death-flip"
   },
   {
     "name": {
@@ -9605,7 +10179,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "gimlet"
   },
   {
     "name": {
@@ -9725,7 +10300,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dukes-martini"
   },
   {
     "name": {
@@ -9835,7 +10411,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "sherry-cobbler"
   },
   {
     "name": {
@@ -9964,7 +10541,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "rourou"
   },
   {
     "name": {
@@ -10080,7 +10658,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rabo-de-galo"
   },
   {
     "name": {
@@ -10185,7 +10764,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "black-russian"
   },
   {
     "name": {
@@ -10312,7 +10892,8 @@
     "categories": [
       "Sweet & Tart",
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "french-kiss"
   },
   {
     "name": {
@@ -10448,7 +11029,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "blue-lagoon"
   },
   {
     "name": {
@@ -10554,7 +11136,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "limoncello-spritz"
   },
   {
     "name": {
@@ -10687,7 +11270,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "calvados-flip"
   },
   {
     "name": {
@@ -10815,8 +11399,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "brut"
   },
   {
     "name": {
@@ -10934,7 +11519,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brandy-alexander"
   },
   {
     "name": {
@@ -11059,7 +11645,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "whiskey-smash"
   },
   {
     "name": {
@@ -11214,7 +11801,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "corpse-reviver-2"
   },
   {
     "name": {
@@ -11345,7 +11933,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "batida"
   },
   {
     "name": {
@@ -11488,7 +12077,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "twelve-mile-limit"
   },
   {
     "name": {
@@ -11609,7 +12199,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cassis-orange"
   },
   {
     "name": {
@@ -11775,7 +12366,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "glögg"
   },
   {
     "name": {
@@ -11911,7 +12503,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spiced-whiskey-sour"
   },
   {
     "name": {
@@ -12016,7 +12609,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "yorsh"
   },
   {
     "name": {
@@ -12117,7 +12711,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "herbsaint-frappé"
   },
   {
     "name": {
@@ -12251,7 +12846,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "old-fashioned"
   },
   {
     "name": {
@@ -12414,8 +13010,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "matcha-mist"
   },
   {
     "name": {
@@ -12540,7 +13137,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perroquet"
   },
   {
     "name": {
@@ -12659,8 +13257,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "moscow-mule"
   },
   {
     "name": {
@@ -12767,7 +13366,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mauresque"
   },
   {
     "name": {
@@ -12872,7 +13472,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "red-russian"
   },
   {
     "name": {
@@ -13020,7 +13621,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-penicillin"
   },
   {
     "name": {
@@ -13180,7 +13782,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "yuzu-blossom"
   },
   {
     "name": {
@@ -13285,7 +13888,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "martini"
   },
   {
     "name": {
@@ -13393,8 +13997,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "champagne-cocktail"
   },
   {
     "name": {
@@ -13520,7 +14125,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "porn-star-martini"
   },
   {
     "name": {
@@ -13635,7 +14241,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baileys-hot-chocolate"
   },
   {
     "name": {
@@ -13823,7 +14430,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rye-vieux-carré"
   },
   {
     "name": {
@@ -13948,7 +14556,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "shochu-sunset"
   },
   {
     "name": {
@@ -14154,8 +14763,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "bloody-mary"
   },
   {
     "name": {
@@ -14324,7 +14934,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blt-cocktail"
   },
   {
     "name": {
@@ -14415,7 +15026,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "garibaldi"
   },
   {
     "name": {
@@ -14622,8 +15234,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "ramos-gin-fizz"
   },
   {
     "name": {
@@ -14748,7 +15361,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "the-blenheim"
   },
   {
     "name": {
@@ -14837,8 +15451,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "bellini"
   },
   {
     "name": {
@@ -14936,8 +15551,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "pineapple-ginger-mocktail"
   },
   {
     "name": {
@@ -15101,7 +15717,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fosbury-flip"
   },
   {
     "name": {
@@ -15259,8 +15876,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "kensington-court"
   },
   {
     "name": {
@@ -15356,8 +15974,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "seven-and-seven"
   },
   {
     "name": {
@@ -15536,7 +16155,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lions-tail"
   },
   {
     "name": {
@@ -15651,7 +16271,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fino-flip"
   },
   {
     "name": {
@@ -15791,7 +16412,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "macuá"
   },
   {
     "name": {
@@ -15882,7 +16504,145 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "godfather"
+  },
+  {
+    "name": {
+      "en": "Coffee Cocktail",
+      "zh": "咖啡雞尾酒"
+    },
+    "description": {
+      "en": "**A Classic Coffee Cocktail**\n\nA rich and decadent cocktail featuring:\n*   Cognac for a smooth base\n*   Port wine for sweetness and body\n*   Egg yolk for a creamy texture\n*   Sugar for added sweetness",
+      "zh": "**經典咖啡雞尾酒**\n\n一款濃郁而頹廢的雞尾酒，特色：\n*   干邑白蘭地提供順滑的基底\n*   波特酒帶來甜味和酒體\n*   蛋黃帶來柔滑的口感\n*   糖增加甜度"
+    },
+    "historical_reference": {
+      "en": "**Origin**: First documented in the 1800s.\n\n*   A historic recipe, the Coffee Cocktail doesn't actually contain any coffee\n*   The name comes from the fact that it is designed to *taste* like coffee",
+      "zh": "**起源**: 首次記載於 1800 年代。\n\n*   咖啡雞尾酒是一款歷史悠久的配方，但實際上並不含任何咖啡。\n*   這個名字的由來是因為它的設計是為了*嚐起來*像咖啡"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Grated nutmeg",
+      "zh": "磨碎的肉豆蔻"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Nick & Nora glass",
+      "zh": "郁金香杯或 Nick & Nora 杯"
+    },
+    "appearance": {
+      "en": "Dark brown, opaque, with a frothy head.",
+      "zh": "深棕色，不透明，帶有泡沫。"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Cognac",
+          "zh": "干邑"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and rich flavor.",
+          "zh": "提供基酒和濃郁的風味。"
+        },
+        "tags": [
+          {
+            "en": "Brandy",
+            "zh": "白蘭地"
+          },
+          {
+            "en": "aged",
+            "zh": "陳年"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 15,
+        "name": {
+          "en": "Tawny Port",
+          "zh": "茶色波特酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness, body, and nutty notes.",
+          "zh": "增加甜度、酒體和堅果風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds creaminess and richness.",
+          "zh": "增加乳脂感和濃郁度。"
+        }
+      },
+      {
+        "amount": 2,
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "unit": {
+          "en": "tsp",
+          "zh": "茶匙"
+        },
+        "rationale": {
+          "en": "Adds sweetness to balance the drink.",
+          "zh": "增加甜度以平衡飲品。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Coffee",
+        "zh": "咖啡"
+      },
+      {
+        "en": "Chocolate",
+        "zh": "朱古力"
+      },
+      {
+        "en": "Nutty",
+        "zh": "堅果"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 1,
+      "booziness": 6,
+      "body": 7,
+      "complexity": 6,
+      "bubbles": false
+    },
+    "categories": [
+      "Rich & Creamy"
+    ],
+    "slug": "coffee-cocktail"
   },
   {
     "name": {
@@ -16009,8 +16769,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "airmail"
   },
   {
     "name": {
@@ -16120,7 +16881,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "horsefeather"
   },
   {
     "name": {
@@ -16235,7 +16997,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kahlúa-sour"
   },
   {
     "name": {
@@ -16340,7 +17103,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dry-martini"
   },
   {
     "name": {
@@ -16455,8 +17219,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "horses-neck"
   },
   {
     "name": {
@@ -16581,7 +17346,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "colorado-bulldog"
   },
   {
     "name": {
@@ -16721,7 +17487,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bramble"
   },
   {
     "name": {
@@ -16832,7 +17599,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "pina-colada"
   },
   {
     "name": {
@@ -16926,8 +17694,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "black-velvet"
   },
   {
     "name": {
@@ -17032,7 +17801,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "woo-woo"
   },
   {
     "name": {
@@ -17157,7 +17927,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "maple-old-fashioned"
   },
   {
     "name": {
@@ -17302,7 +18073,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ume-plum-sour"
   },
   {
     "name": {
@@ -17450,7 +18222,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "oyster-shooter"
   },
   {
     "name": {
@@ -17577,8 +18350,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "smoked-horsefeather"
   },
   {
     "name": {
@@ -17688,7 +18462,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kahlúa-frappe"
   },
   {
     "name": {
@@ -17814,7 +18589,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "atomic-cocktail"
   },
   {
     "name": {
@@ -17953,7 +18729,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "medicina-latina"
   },
   {
     "name": {
@@ -18063,7 +18840,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "liberal-cocktail"
   },
   {
     "name": {
@@ -18216,7 +18994,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-vanilla-espresso-martini"
   },
   {
     "name": {
@@ -18325,7 +19104,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "wściekły-pies-mad-dog"
   },
   {
     "name": {
@@ -18446,7 +19226,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "pineapple-julep"
   },
   {
     "name": {
@@ -18580,8 +19361,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "tom-collins"
   },
   {
     "name": {
@@ -18689,8 +19471,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "qb-cooler"
   },
   {
     "name": {
@@ -18822,7 +19605,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "painkiller"
   },
   {
     "name": {
@@ -18932,8 +19716,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "spritzer"
   },
   {
     "name": {
@@ -19023,8 +19808,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "mimosa-bellini"
   },
   {
     "name": {
@@ -19167,8 +19953,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "smoky-paloma"
   },
   {
     "name": {
@@ -19289,7 +20076,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "strawberry-julep"
   },
   {
     "name": {
@@ -19413,7 +20201,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "calvados-port"
   },
   {
     "name": {
@@ -19576,7 +20365,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "royal-mai-tai"
   },
   {
     "name": {
@@ -19706,7 +20496,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "wolfram"
   },
   {
     "name": {
@@ -19870,7 +20661,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "old-gal"
   },
   {
     "name": {
@@ -20028,8 +20820,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "daisy-de-santiago"
   },
   {
     "name": {
@@ -20205,7 +20998,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "zurracapote"
   },
   {
     "name": {
@@ -20330,7 +21124,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spicy-margarita"
   },
   {
     "name": {
@@ -20450,7 +21245,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "honey-sidecar"
   },
   {
     "name": {
@@ -20560,7 +21356,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tamagozake"
   },
   {
     "name": {
@@ -20675,7 +21472,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "atholl-brose-bobby-burns"
   },
   {
     "name": {
@@ -20789,7 +21587,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "the-left-hand"
   },
   {
     "name": {
@@ -20929,7 +21728,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "grapefruit-corpse-reviver"
   },
   {
     "name": {
@@ -21068,8 +21868,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "juan-collins"
   },
   {
     "name": {
@@ -21224,7 +22025,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "royal-bermuda-yacht-club"
   },
   {
     "name": {
@@ -21364,7 +22166,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "frozen-margarita"
   },
   {
     "name": {
@@ -21511,7 +22314,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "grog"
   },
   {
     "name": {
@@ -21630,8 +22434,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "rose-kennedy"
   },
   {
     "name": {
@@ -21771,7 +22576,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "boston-flip"
   },
   {
     "name": {
@@ -21963,7 +22769,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bloody-maria"
   },
   {
     "name": {
@@ -22113,7 +22920,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "pegu-club"
   },
   {
     "name": {
@@ -22202,8 +23010,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "smoked-peach-bellini"
   },
   {
     "name": {
@@ -22343,7 +23152,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "turf-club-cocktail"
   },
   {
     "name": {
@@ -22469,7 +23279,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "polar-bear"
   },
   {
     "name": {
@@ -22595,7 +23406,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "vodka-mcgovern"
   },
   {
     "name": {
@@ -22735,7 +23547,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "monkey-gland"
   },
   {
     "name": {
@@ -22859,7 +23672,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sloegroni"
   },
   {
     "name": {
@@ -23018,7 +23832,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "the-ribbon"
   },
   {
     "name": {
@@ -23154,7 +23969,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "sex-on-the-beach"
   },
   {
     "name": {
@@ -23294,7 +24110,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "siesta"
   },
   {
     "name": {
@@ -23404,7 +24221,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "matador"
   },
   {
     "name": {
@@ -23519,7 +24337,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "elderflower-spritz"
   },
   {
     "name": {
@@ -23638,7 +24457,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "flying-grasshopper"
   },
   {
     "name": {
@@ -23816,7 +24636,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "red-snapper"
   },
   {
     "name": {
@@ -23911,7 +24732,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "bicicletta"
   },
   {
     "name": {
@@ -24010,7 +24832,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "paloma"
   },
   {
     "name": {
@@ -24169,7 +24992,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "pineapple-mai-tai"
   },
   {
     "name": {
@@ -24294,7 +25118,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "virgin-cosmopolitan"
   },
   {
     "name": {
@@ -24403,7 +25228,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "orgasm"
   },
   {
     "name": {
@@ -24494,7 +25320,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "mimosa"
   },
   {
     "name": {
@@ -24634,7 +25461,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "queens"
   },
   {
     "name": {
@@ -24753,8 +25581,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "sea-breeze"
   },
   {
     "name": {
@@ -24916,8 +25745,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "michelada"
   },
   {
     "name": {
@@ -25058,7 +25888,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "curaçao-punch"
   },
   {
     "name": {
@@ -25203,7 +26034,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "scofflaw"
   },
   {
     "name": {
@@ -25347,7 +26179,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tequila-sour"
   },
   {
     "name": {
@@ -25457,7 +26290,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "little-italy"
   },
   {
     "name": {
@@ -25591,7 +26425,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "boston-sour"
   },
   {
     "name": {
@@ -25701,7 +26536,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bamboo"
   },
   {
     "name": {
@@ -25832,7 +26668,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hot-toddy"
   },
   {
     "name": {
@@ -25933,7 +26770,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "french-connection"
   },
   {
     "name": {
@@ -26063,9 +26901,9 @@
       "bubbles": true
     },
     "categories": [
-      "Rich & Creamy",
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "kahlúa-fizz"
   },
   {
     "name": {
@@ -26169,7 +27007,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "portbuka"
   },
   {
     "name": {
@@ -26302,8 +27141,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "rice-field-refresher"
   },
   {
     "name": {
@@ -26461,7 +27301,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "mojito"
   },
   {
     "name": {
@@ -26630,7 +27471,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hokkaido-harvest"
   },
   {
     "name": {
@@ -26785,7 +27627,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "xyz"
   },
   {
     "name": {
@@ -26925,7 +27768,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "piccadilly-cocktail"
   },
   {
     "name": {
@@ -27036,7 +27880,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dry-rob-roy"
   },
   {
     "name": {
@@ -27186,7 +28031,8 @@
     "categories": [
       "Sweet & Tart",
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "clover-club"
   },
   {
     "name": {
@@ -27321,7 +28167,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "new-york-flip"
   },
   {
     "name": {
@@ -27479,9 +28326,9 @@
       "bubbles": true
     },
     "categories": [
-      "Tall & Bubbly",
-      "Sweet & Tart"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "gin-fizz"
   },
   {
     "name": {
@@ -27590,7 +28437,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gibson"
   },
   {
     "name": {
@@ -27703,7 +28551,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kiss-from-heaven"
   },
   {
     "name": {
@@ -27837,7 +28686,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "fluffy-duck"
   },
   {
     "name": {
@@ -27961,9 +28811,9 @@
       "bubbles": true
     },
     "categories": [
-      "Tall & Bubbly",
-      "Sweet & Tart"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cinderella"
   },
   {
     "name": {
@@ -28146,7 +28996,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "last-of-the-mohicans"
   },
   {
     "name": {
@@ -28270,7 +29121,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "diamondback"
   },
   {
     "name": {
@@ -28425,7 +29277,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "savoy-corpse-reviver-no-2"
   },
   {
     "name": {
@@ -28530,7 +29383,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "wet-martini"
   },
   {
     "name": {
@@ -28636,7 +29490,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "yellow-bird"
   },
   {
     "name": {
@@ -28774,7 +29629,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "angel-face"
   },
   {
     "name": {
@@ -28949,7 +29805,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "million-dollar-cocktail"
   },
   {
     "name": {
@@ -29079,7 +29936,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "amaretto-sour"
   },
   {
     "name": {
@@ -29234,7 +30092,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "nixon"
   },
   {
     "name": {
@@ -29338,8 +30197,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "tequila--tonic"
   },
   {
     "name": {
@@ -29473,8 +30333,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "orange-tundra"
   },
   {
     "name": {
@@ -29588,8 +30449,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "averna-spritz"
   },
   {
     "name": {
@@ -29717,8 +30579,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "trinidad-sour"
   },
   {
     "name": {
@@ -29838,7 +30701,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hanky-panky"
   },
   {
     "name": {
@@ -29992,7 +30856,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "between-the-sheets"
   },
   {
     "name": {
@@ -30113,7 +30978,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "delilah"
   },
   {
     "name": {
@@ -30214,7 +31080,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "amber-moon"
   },
   {
     "name": {
@@ -30456,7 +31323,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "long-island-iced-tea"
   },
   {
     "name": {
@@ -30612,7 +31480,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "revolutionary-flip"
   },
   {
     "name": {
@@ -30771,7 +31640,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-pineapple-margarita"
   },
   {
     "name": {
@@ -30850,7 +31720,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sbagliato"
   },
   {
     "name": {
@@ -30990,8 +31861,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "platinum-blonde"
   },
   {
     "name": {
@@ -31128,7 +32000,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "flipping-good"
   },
   {
     "name": {
@@ -31255,8 +32128,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "floradora"
   },
   {
     "name": {
@@ -31396,7 +32270,159 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "grapefruit-rosemary-paloma"
+  },
+  {
+    "name": {
+      "en": "Starting Over",
+      "zh": "重新開始"
+    },
+    "description": {
+      "en": "**A layered tropical delight**\n\nA visually stunning and refreshing cocktail featuring:\n*   Layered presentation for aesthetic appeal\n*   Blend of tropical flavors for a vacation vibe\n*   Sweet and creamy texture for a luscious experience",
+      "zh": "**分層的熱帶樂趣**\n\n一款視覺上令人驚豔且令人耳目一新的雞尾酒，特色：\n*   分層呈現，美觀大方\n*   混合熱帶風味，營造度假氛圍\n*   香甜滑順的口感，帶來奢華體驗"
+    },
+    "historical_reference": {
+      "en": "The history of layered cocktails is difficult to pinpoint, but they gained popularity in the mid-20th century with the rise of tiki culture.\n\n*   Layered cocktails are visually appealing and allow for a gradual change in flavor as the drink is consumed.\n*   Starting Over is a modern take on this classic technique, emphasizing tropical flavors.",
+      "zh": "分層雞尾酒的歷史很難確定，但它們在 20 世紀中期隨著提基文化的興起而廣受歡迎。\n\n*   分層雞尾酒在視覺上很吸引人，並且可以在飲用時逐漸改變風味。\n*   《重新開始》是對這種經典技術的現代詮釋，強調熱帶風味。"
+    },
+    "technique": {
+      "en": "Layer ingredients carefully by pouring slowly over the back of a spoon, starting with grenadine, then pineapple juice, and finally coconut cream.",
+      "zh": "小心地分層配料，從石榴糖漿開始，然後是鳳梨汁，最後是椰奶，慢慢地倒在湯匙背面。"
+    },
+    "garnish": {
+      "en": "Pineapple wedge and a cherry",
+      "zh": "鳳梨角和櫻桃"
+    },
+    "serve_in_glass": {
+      "en": "Hurricane Glass",
+      "zh": "颶風杯"
+    },
+    "appearance": {
+      "en": "Opaque, layered, with vibrant colors of grenadine at the bottom, pineapple juice in the middle, and coconut cream at the top.",
+      "zh": "不透明，分層，底部是鮮豔的石榴糖漿顏色，中間是鳳梨汁，頂部是椰奶。"
+    },
+    "allergens": [
+      {
+        "en": "None",
+        "zh": "無"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "White Rum",
+          "zh": "白冧酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the alcoholic backbone and tropical notes.",
+          "zh": "提供酒精骨幹和熱帶風味。"
+        },
+        "tags": [
+          {
+            "en": "Rum",
+            "zh": "蘭姆酒"
+          },
+          {
+            "en": "sugarcane",
+            "zh": "甘蔗"
+          },
+          {
+            "en": "tropical",
+            "zh": "熱帶"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Coconut Cream",
+          "zh": "椰奶"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a creamy texture and coconut flavor.",
+          "zh": "增加奶油般的質地和椰子味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Pineapple Juice",
+          "zh": "菠蘿汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a tropical sweetness and tartness.",
+          "zh": "增添熱帶甜味和酸味。"
+        }
+      },
+      {
+        "amount": 30,
+        "name": {
+          "en": "Grenadine",
+          "zh": "石榴糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness, color, and a subtle tartness.",
+          "zh": "增加甜度、顏色和微妙的酸味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Tropical",
+        "zh": "熱帶"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Sweet",
+        "zh": "甜味"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 8,
+      "sourness": 4,
+      "booziness": 4,
+      "body": 6,
+      "complexity": 5,
+      "bubbles": false
+    },
+    "categories": [
+      "Sweet & Tart",
+      "Tall & Bubbly"
+    ],
+    "slug": "starting-over"
   },
   {
     "name": {
@@ -31566,7 +32592,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "revolving-door"
   },
   {
     "name": {
@@ -31675,7 +32702,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "pink-gin"
   },
   {
     "name": {
@@ -31766,7 +32794,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ochsenblut"
   },
   {
     "name": {
@@ -31865,7 +32894,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "virgin-piña-colada"
   },
   {
     "name": {
@@ -31958,8 +32988,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "virgin-mimosa"
   },
   {
     "name": {
@@ -32095,7 +33126,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "harvard-cocktail"
   },
   {
     "name": {
@@ -32221,7 +33253,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "incredible-hulk"
   },
   {
     "name": {
@@ -32371,7 +33404,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "new-york-sour"
   },
   {
     "name": {
@@ -32500,7 +33534,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sherry-cobbler-style-bamboo"
   },
   {
     "name": {
@@ -32689,7 +33724,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "jagertee"
   },
   {
     "name": {
@@ -32829,7 +33865,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mexican-firing-squad"
   },
   {
     "name": {
@@ -32940,7 +33977,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rob-roy"
   },
   {
     "name": {
@@ -33134,7 +34172,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "killer-cocktail"
   },
   {
     "name": {
@@ -33258,8 +34297,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cantarito"
   },
   {
     "name": {
@@ -33466,7 +34506,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "flaming-volcano"
   },
   {
     "name": {
@@ -33591,7 +34632,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "margarita"
   },
   {
     "name": {
@@ -33727,7 +34769,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cognac-sazerac"
   },
   {
     "name": {
@@ -33876,7 +34919,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blueberry-tea-mudslide"
   },
   {
     "name": {
@@ -33985,7 +35029,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gunfire"
   },
   {
     "name": {
@@ -34162,8 +35207,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "strawberry-mojito"
   },
   {
     "name": {
@@ -34257,8 +35303,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "tschunk"
   },
   {
     "name": {
@@ -34402,8 +35449,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "raspberry-collins"
   },
   {
     "name": {
@@ -34509,7 +35557,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "islay-mist"
   },
   {
     "name": {
@@ -34628,7 +35677,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "oaxaca-old-fashioned"
   },
   {
     "name": {
@@ -34815,7 +35865,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "porchcrawler"
   },
   {
     "name": {
@@ -34959,7 +36010,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "illegal"
   },
   {
     "name": {
@@ -35083,8 +36135,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "bay-breeze"
   },
   {
     "name": {
@@ -35260,7 +36313,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "quentão"
   },
   {
     "name": {
@@ -35384,7 +36438,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "chi-chi"
   },
   {
     "name": {
@@ -35503,7 +36558,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kahlúa-hot-chocolate"
   },
   {
     "name": {
@@ -35627,7 +36683,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "diki-diki"
   },
   {
     "name": {
@@ -35750,8 +36807,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "virgin-mojito"
   },
   {
     "name": {
@@ -35869,7 +36927,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "u-boot"
   },
   {
     "name": {
@@ -36008,7 +37067,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "southside"
   },
   {
     "name": {
@@ -36164,7 +37224,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "old-acquaintance"
   },
   {
     "name": {
@@ -36324,7 +37385,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ginger-geisha"
   },
   {
     "name": {
@@ -36443,7 +37505,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "toasted-almond"
   },
   {
     "name": {
@@ -36586,8 +37649,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "paper-plane"
   },
   {
     "name": {
@@ -36712,7 +37776,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "chartreuse-swizzle"
   },
   {
     "name": {
@@ -36845,8 +37910,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "hugo"
   },
   {
     "name": {
@@ -36946,7 +38012,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "reverse-martini"
   },
   {
     "name": {
@@ -37040,7 +38107,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "slippery-nipple"
   },
   {
     "name": {
@@ -37160,7 +38228,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ranch-water"
   },
   {
     "name": {
@@ -37269,8 +38338,166 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "spritz"
+  },
+  {
+    "name": {
+      "en": "Golden Fizz",
+      "zh": "黃金氣泡飲"
+    },
+    "description": {
+      "en": "**A Rich and Bubbly Delight**\n\nThe Golden Fizz is a variation of the classic Gin Fizz, enriched with an egg yolk for added creaminess and a golden hue. It's a refreshing yet decadent cocktail perfect for brunch or a special occasion.\n\n*   Gin-based with citrus notes\n*   Egg yolk for richness and color\n*   Sparkling water adds effervescence",
+      "zh": "**豐富且充滿氣泡的美味**\n\n黃金氣泡飲是經典琴酒氣泡飲的變體，添加了蛋黃，以增加奶油味和金黃色澤。這是一款清爽而又頹廢的雞尾酒，非常適合早午餐或特殊場合。\n\n*   以琴酒為基底，帶有柑橘味\n*   蛋黃增加濃郁度和顏色\n*   氣泡水增添氣泡感"
+    },
+    "historical_reference": {
+      "en": "The Fizz family of cocktails became popular in the late 19th and early 20th centuries. The Golden Fizz, with its addition of egg yolk, is a richer variation that likely emerged during the same period.\n\n*   Evolved from the Gin Fizz\n*   Egg yolk adds richness\n*   Popular in the early 20th century",
+      "zh": "氣泡雞尾酒系列在19世紀末和20世紀初開始流行。黃金氣泡飲添加了蛋黃，是一種更濃郁的變體，可能在同一時期出現。\n\n*   從琴酒氣泡飲演變而來\n*   蛋黃增加濃郁度\n*   20世紀初流行"
+    },
+    "technique": {
+      "en": "Shake gin, lemon juice, simple syrup, and egg yolk with ice. Strain into a highball glass filled with ice. Top with sparkling water and garnish.",
+      "zh": "將琴酒、檸檬汁、簡單糖漿和蛋黃與冰塊一起搖勻。濾入裝滿冰塊的高球杯中。加入氣泡水，然後裝飾。"
+    },
+    "garnish": {
+      "en": "Orange slice or twist",
+      "zh": "橙片或橙皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Highball glass",
+      "zh": "高球杯"
+    },
+    "appearance": {
+      "en": "Pale yellow, frothy, and effervescent",
+      "zh": "淡黃色，起泡，充滿氣泡"
+    },
+    "allergens": [
+      {
+        "en": "egg white",
+        "zh": "蛋白"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit and botanical flavors.",
+          "zh": "提供基酒和植物風味。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Lemon Juice",
+          "zh": "檸檬汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds tartness and balances the sweetness.",
+          "zh": "增加酸度並平衡甜味。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg Yolk",
+          "zh": "蛋黃"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds richness and a silky texture.",
+          "zh": "增加濃郁度和柔滑的質地。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and balances the sourness.",
+          "zh": "增加甜度並平衡酸味。"
+        }
+      },
+      {
+        "amount": 60,
+        "name": {
+          "en": "Sparkling Water",
+          "zh": "氣泡水"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds fizz and effervescence.",
+          "zh": "增加氣泡和氣泡感。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 4,
+      "booziness": 5,
+      "body": 5,
+      "complexity": 6,
+      "bubbles": true
+    },
+    "categories": [
+      "Tall & Bubbly",
+      "Rich & Creamy"
+    ],
+    "slug": "golden-fizz"
   },
   {
     "name": {
@@ -37391,7 +38618,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "chocolate-martini"
   },
   {
     "name": {
@@ -37531,7 +38759,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "last-word"
   },
   {
     "name": {
@@ -37694,7 +38923,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "virgin-bloody-mary"
   },
   {
     "name": {
@@ -37834,7 +39064,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hennchata"
   },
   {
     "name": {
@@ -37961,7 +39192,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cooper-union"
   },
   {
     "name": {
@@ -38110,7 +39342,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "boston-tea-party"
   },
   {
     "name": {
@@ -38265,8 +39498,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cojito"
   },
   {
     "name": {
@@ -38439,7 +39673,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hurricane"
   },
   {
     "name": {
@@ -38564,7 +39799,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "white-russian"
   },
   {
     "name": {
@@ -38746,7 +39982,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hot-buttered-rum"
   },
   {
     "name": {
@@ -38835,7 +40072,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "churchill-martini"
   },
   {
     "name": {
@@ -38987,7 +40225,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sunday-flip"
   },
   {
     "name": {
@@ -39091,8 +40330,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "greyhound"
   },
   {
     "name": {
@@ -39246,7 +40486,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "damn-the-weather"
   },
   {
     "name": {
@@ -39355,8 +40596,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "aperol-spritz"
   },
   {
     "name": {
@@ -39491,7 +40733,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blue-hawaiian"
   },
   {
     "name": {
@@ -39663,8 +40906,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "pineapple-mojito"
   },
   {
     "name": {
@@ -39803,8 +41047,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "lynchburg-lemonade"
   },
   {
     "name": {
@@ -39909,7 +41154,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kamikaze"
   },
   {
     "name": {
@@ -39988,8 +41234,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "sake-bomb"
   },
   {
     "name": {
@@ -40114,7 +41361,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "boulevardier"
   },
   {
     "name": {
@@ -40227,7 +41475,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "b-52"
   },
   {
     "name": {
@@ -40348,7 +41597,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blackberry-julep"
   },
   {
     "name": {
@@ -40447,7 +41697,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "milano-torino"
   },
   {
     "name": {
@@ -40552,7 +41803,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mint-julep-mocktail"
   },
   {
     "name": {
@@ -40715,7 +41967,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "trader-vics-mai-tai"
   },
   {
     "name": {
@@ -40853,8 +42106,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "sangrita"
   },
   {
     "name": {
@@ -40994,7 +42248,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "martinez"
   },
   {
     "name": {
@@ -41118,8 +42373,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "astro-pop"
   },
   {
     "name": {
@@ -41263,7 +42519,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "espresso-martini"
   },
   {
     "name": {
@@ -41426,7 +42683,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ancient-mariner"
   },
   {
     "name": {
@@ -41562,7 +42820,8 @@
     "categories": [
       "Sweet & Tart",
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "ciros-special"
   },
   {
     "name": {
@@ -41718,7 +42977,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "glowtini"
   },
   {
     "name": {
@@ -41847,7 +43107,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bourbon-lancer"
   },
   {
     "name": {
@@ -41995,7 +43256,8 @@
     "categories": [
       "Sweet & Tart",
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "cilantro-pisco-sour"
   },
   {
     "name": {
@@ -42130,7 +43392,149 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "oatmeal-cookie"
+  },
+  {
+    "name": {
+      "en": "Repose 1912",
+      "zh": "Repose 1912"
+    },
+    "description": {
+      "en": "**A Modern Classic**: Repose 1912 is a balanced cocktail featuring reposado tequila, fresh citrus, and a hint of spice.\n\n*   Inspired by the classic Margarita, but with added complexity.\n*   Named to evoke a sense of vintage elegance.\n*   Perfect balance of sweet, sour, and spice.",
+      "zh": "**現代經典**: Repose 1912 是一款均衡的雞尾酒，以 Reposado 龍舌蘭酒、新鮮柑橘和一絲香料為特色。\n\n*   靈感來自經典瑪格麗特，但增加了複雜性。\n*   命名旨在喚起復古優雅的感覺。\n*   甜、酸和香料的完美平衡。"
+    },
+    "historical_reference": {
+      "en": "**A Fictional History**: Repose 1912 is a cocktail designed to evoke the elegance of the early 20th century, though it doesn't have a verifiable historical origin.\n\n* Imagined as a cocktail that could have been enjoyed in a sophisticated bar in 1912.\n* The name 'Repose' refers to the rested tequila, 'reposado'.\n* The '1912' element adds a touch of historical charm, alluding to a bygone era.",
+      "zh": "**虛構的歷史**: Repose 1912 是一款旨在喚起 20 世紀初優雅氣息的雞尾酒，儘管它沒有可驗證的歷史淵源。\n\n* 想像成一款可能在 1912 年在精緻酒吧中享用的雞尾酒。\n* 名稱“Repose”指的是靜置的龍舌蘭酒“reposado”。\n* “1912”元素增添了一絲歷史魅力，暗示著逝去的時代。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的玻璃杯中。"
+    },
+    "garnish": {
+      "en": "Orange peel twist",
+      "zh": "橙皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Margarita glass",
+      "zh": "高腳杯或瑪格麗特杯"
+    },
+    "appearance": {
+      "en": "Cloudy, light brown with an orange hue and a frothy top",
+      "zh": "混濁的淺棕色，帶有橙色色調和泡沫頂部"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Reposado Tequila",
+          "zh": "陳年龍舌蘭"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base spirit with rich agave and oak notes.",
+          "zh": "提供豐富龍舌蘭和橡木味的基酒。"
+        },
+        "tags": [
+          {
+            "en": "Tequila",
+            "zh": "龍舌蘭"
+          },
+          {
+            "en": "mexican",
+            "zh": "墨西哥"
+          },
+          {
+            "en": "distilled",
+            "zh": "蒸餾"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 7,
+        "name": {
+          "en": "Triple Sec",
+          "zh": "橙酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a hint of citrus and sweetness.",
+          "zh": "增添一絲柑橘味和甜味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 22,
+        "name": {
+          "en": "Lime Juice",
+          "zh": "青檸汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the necessary acidity to balance the sweetness.",
+          "zh": "提供必要的酸度來平衡甜度。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Agave Nectar",
+          "zh": "龍舌蘭花蜜"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and complements the tequila.",
+          "zh": "增加甜度並與龍舌蘭酒相輔相成。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 7,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 7,
+      "bubbles": false
+    },
+    "categories": [
+      "Sweet & Tart"
+    ],
+    "slug": "repose-1912"
   },
   {
     "name": {
@@ -42270,7 +43674,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lorraine"
   },
   {
     "name": {
@@ -42419,7 +43824,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "smoked-fig-and-bourbon-sour"
   },
   {
     "name": {
@@ -42559,7 +43965,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "brandy-crusta"
   },
   {
     "name": {
@@ -42661,7 +44068,8 @@
     "categories": [
       "Sweet & Tart",
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "screwdriver"
   },
   {
     "name": {
@@ -42801,7 +44209,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bijou"
   },
   {
     "name": {
@@ -42922,7 +44331,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "paradise"
   },
   {
     "name": {
@@ -43062,7 +44472,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "smash"
   },
   {
     "name": {
@@ -43202,7 +44613,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "blow-my-skull"
   },
   {
     "name": {
@@ -43331,7 +44743,8 @@
     "categories": [
       "Tall & Bubbly",
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "italian-75"
   },
   {
     "name": {
@@ -43461,7 +44874,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "alexander"
   },
   {
     "name": {
@@ -43562,7 +44976,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "piscola"
   },
   {
     "name": {
@@ -43732,7 +45147,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "vieux-carré"
   },
   {
     "name": {
@@ -43861,7 +45277,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mango-lassi"
   },
   {
     "name": {
@@ -43959,8 +45376,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "baileys-and-cream-soda"
   },
   {
     "name": {
@@ -44096,7 +45514,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bronx"
   },
   {
     "name": {
@@ -44235,8 +45654,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "french-cosmo"
   },
   {
     "name": {
@@ -44377,7 +45797,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "great-pumpkin"
   },
   {
     "name": {
@@ -44537,7 +45958,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "citrus-zen"
   },
   {
     "name": {
@@ -44681,7 +46103,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "maidens-prayer"
   },
   {
     "name": {
@@ -44800,8 +46223,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "john-daly"
   },
   {
     "name": {
@@ -44915,7 +46339,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bamboo-breeze"
   },
   {
     "name": {
@@ -45032,7 +46457,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brandy-manhattan"
   },
   {
     "name": {
@@ -45141,7 +46567,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "vodka-martini"
   },
   {
     "name": {
@@ -45256,7 +46683,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "naked-and-famous"
   },
   {
     "name": {
@@ -45408,7 +46836,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lazy-man-flip"
   },
   {
     "name": {
@@ -45518,7 +46947,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tipperary"
   },
   {
     "name": {
@@ -45584,8 +47014,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "black-and-tan"
   },
   {
     "name": {
@@ -45726,7 +47157,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "american-beauty"
   },
   {
     "name": {
@@ -45800,8 +47232,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "chambord-royale"
   },
   {
     "name": {
@@ -45961,7 +47394,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "green-tea-garden"
   },
   {
     "name": {
@@ -46091,7 +47525,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kahlúa-alexander"
   },
   {
     "name": {
@@ -46220,7 +47655,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baileys-alexander"
   },
   {
     "name": {
@@ -46379,7 +47815,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "honeyed-penicillin"
   },
   {
     "name": {
@@ -46498,7 +47935,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bacon-bourbon-manhattan"
   },
   {
     "name": {
@@ -46653,7 +48091,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lucuma-pisco-sour"
   },
   {
     "name": {
@@ -46783,7 +48222,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "chicago-cocktail"
   },
   {
     "name": {
@@ -46912,7 +48352,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baileys-white-russian"
   },
   {
     "name": {
@@ -47007,7 +48448,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "missouri-mule"
   },
   {
     "name": {
@@ -47147,8 +48589,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "mango-sour"
   },
   {
     "name": {
@@ -47359,7 +48802,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "test-pilot"
   },
   {
     "name": {
@@ -47454,7 +48898,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "irish-car-bomb"
   },
   {
     "name": {
@@ -47583,8 +49028,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "sorrentino"
   },
   {
     "name": {
@@ -47724,7 +49170,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hemingway-daiquiri"
   },
   {
     "name": {
@@ -47853,7 +49300,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dirty-martini"
   },
   {
     "name": {
@@ -47970,7 +49418,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spiced-dark-n-stormy"
   },
   {
     "name": {
@@ -48133,7 +49582,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bushwacker"
   },
   {
     "name": {
@@ -48334,7 +49784,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hoppel-poppel"
   },
   {
     "name": {
@@ -48474,7 +49925,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "el-diablo"
   },
   {
     "name": {
@@ -48617,7 +50069,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "banana-daiquiri"
   },
   {
     "name": {
@@ -48776,7 +50229,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "nuclear-daiquiri"
   },
   {
     "name": {
@@ -48906,7 +50360,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perfect-manhattan"
   },
   {
     "name": {
@@ -49055,7 +50510,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lava-flow"
   },
   {
     "name": {
@@ -49206,7 +50662,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rye--cognac-sazerac"
   },
   {
     "name": {
@@ -49307,7 +50764,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kangaroo"
   },
   {
     "name": {
@@ -49448,7 +50906,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "purgatory"
   },
   {
     "name": {
@@ -49616,7 +51075,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "moose-milk"
   },
   {
     "name": {
@@ -49752,7 +51212,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cooperstown"
   },
   {
     "name": {
@@ -49845,8 +51306,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "calimocho"
   },
   {
     "name": {
@@ -49957,7 +51419,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gunsmoke"
   },
   {
     "name": {
@@ -50081,8 +51544,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "lemon-drop"
   },
   {
     "name": {
@@ -50233,7 +51697,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mandarin-moon"
   },
   {
     "name": {
@@ -50361,7 +51826,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spiced-horsefeather"
   },
   {
     "name": {
@@ -50543,7 +52009,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "caesar"
   },
   {
     "name": {
@@ -50683,7 +52150,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "caju-amigo"
   },
   {
     "name": {
@@ -50807,7 +52275,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "jasmine"
   },
   {
     "name": {
@@ -50902,7 +52371,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "saketini"
   },
   {
     "name": {
@@ -51007,7 +52477,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brave-bull"
   },
   {
     "name": {
@@ -51113,7 +52584,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "derby"
   },
   {
     "name": {
@@ -51231,7 +52703,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cuban-sunset"
   },
   {
     "name": {
@@ -51346,7 +52819,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "canelazo-variation"
   },
   {
     "name": {
@@ -51501,7 +52975,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "income-tax-cocktail"
   },
   {
     "name": {
@@ -51601,8 +53076,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "whiskey-and-coke"
   },
   {
     "name": {
@@ -51776,7 +53252,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rum-swizzle"
   },
   {
     "name": {
@@ -51885,7 +53362,285 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "5050-martini"
+  },
+  {
+    "name": {
+      "en": "Opera",
+      "zh": "歌劇"
+    },
+    "description": {
+      "en": "**A delicate, layered cocktail.**\n\nA complex mix of gin, apricot brandy, Dubonnet, and orange juice, resulting in a balanced sweet and tart flavor profile.\n\n*   A sophisticated choice for cocktail enthusiasts.",
+      "zh": "**一款精緻、多層次的雞尾酒。**\n\n琴酒、杏桃白蘭地、杜本內和柳橙汁的複雜混合，帶來平衡的酸甜風味。\n\n*   雞尾酒愛好者的精緻之選。"
+    },
+    "historical_reference": {
+      "en": "**Origins remain obscure**.\n\n*   Credited to Harry Craddock, *The Savoy Cocktail Book*(1930)\n*   Possibly named after the Paris Opera or a specific opera production.",
+      "zh": "**起源仍然不清楚。**\n\n*   歸功於哈利·克拉多克，《*薩伏伊雞尾酒書*》（1930 年）\n*   可能以巴黎歌劇院或特定的歌劇作品命名。"
+    },
+    "technique": {
+      "en": "Shake all ingredients with ice. Strain into a chilled glass.",
+      "zh": "將所有材料與冰塊一起搖勻。倒入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Orange twist",
+      "zh": "橙皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Martini glass",
+      "zh": "高腳杯或馬丁尼杯"
+    },
+    "appearance": {
+      "en": "Pale amber with a slight pink hue",
+      "zh": "淡琥珀色，略帶粉紅色調"
+    },
+    "allergens": [
+      {
+        "en": "None",
+        "zh": "無"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the base and botanical notes.",
+          "zh": "提供基底和植物風味。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Apricot Brandy",
+          "zh": "杏桃白蘭地"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds apricot flavor and sweetness.",
+          "zh": "增加杏桃風味和甜味。"
+        }
+      },
+      {
+        "amount": 20,
+        "name": {
+          "en": "Dubonnet Rouge",
+          "zh": "杜本內紅葡萄酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds herbal and slightly bitter notes.",
+          "zh": "增加草本和略帶苦澀的味道。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 20,
+        "name": {
+          "en": "Orange Juice, Fresh",
+          "zh": "新鮮柳橙汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and citrus notes.",
+          "zh": "增添甜味和柑橘風味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 7,
+      "sourness": 6,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 8,
+      "bubbles": false
+    },
+    "categories": [
+      "Sweet & Tart"
+    ],
+    "slug": "opera"
+  },
+  {
+    "name": {
+      "en": "Deshler",
+      "zh": "德斯勒"
+    },
+    "description": {
+      "en": "**A pre-Prohibition classic**\n\nThe Deshler is a spirit-forward cocktail that highlights the rich and spicy notes of rye whiskey, complemented by the herbal complexity of vermouth and the subtle sweetness of maraschino liqueur. A dash of orange bitters adds a bright citrus aroma.",
+      "zh": "**禁酒令之前的經典之作**\n\nDeshler是一款以烈酒為主的雞尾酒，突顯黑麥威士忌的濃郁和辛辣味，並以苦艾酒的草本複雜性和黑櫻桃利口酒的微妙甜味做為輔助。少許的橙味苦精增添了明亮的柑橘香氣。"
+    },
+    "historical_reference": {
+      "en": "**Created by Jacques Straub, a bartender at the Pendennis Club in Louisville, Kentucky**\n\n* Named after a prominent member of the club, John G. Deshler.\n* Dates back to the late 19th century.",
+      "zh": "**由肯塔基州路易斯維爾Pendennis俱樂部的調酒師Jacques Straub創作**\n\n* 以俱樂部的著名成員John G. Deshler命名。\n* 歷史可以追溯到19世紀後期。"
+    },
+    "technique": {
+      "en": "Stir all ingredients with ice and strain into a chilled glass.",
+      "zh": "將所有材料與冰塊攪拌均勻，然後過濾到冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Orange peel",
+      "zh": "柳橙皮"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Martini glass",
+      "zh": "碟型香檳杯或馬丁尼杯"
+    },
+    "appearance": {
+      "en": "Clear, deep amber",
+      "zh": "清澈，深琥珀色"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Rye Whiskey",
+          "zh": "黑麥威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a spicy and robust base.",
+          "zh": "提供辛辣和濃郁的基底。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 7,
+        "name": {
+          "en": "Maraschino Liqueur",
+          "zh": "黑櫻桃利口酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a subtle cherry sweetness.",
+          "zh": "增加微妙的櫻桃甜味。"
+        }
+      },
+      {
+        "amount": 15,
+        "name": {
+          "en": "Sweet Vermouth",
+          "zh": "甜苦艾酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds herbal complexity and sweetness.",
+          "zh": "增加草本的複雜性和甜味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 2,
+        "name": {
+          "en": "Orange Bitters",
+          "zh": "橙味苦精"
+        },
+        "unit": {
+          "en": "dash",
+          "zh": "少許"
+        },
+        "rationale": {
+          "en": "Adds a citrusy aroma and balances the drink.",
+          "zh": "增添柑橘香氣並平衡飲品。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Citrus",
+        "zh": "柑橘"
+      },
+      {
+        "en": "Woody",
+        "zh": "木質"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 4,
+      "sourness": 2,
+      "booziness": 8,
+      "body": 7,
+      "complexity": 7,
+      "bubbles": false
+    },
+    "categories": [
+      "Strong & Spirit-Focused"
+    ],
+    "slug": "deshler"
   },
   {
     "name": {
@@ -52029,7 +53784,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "penicillin"
   },
   {
     "name": {
@@ -52169,7 +53925,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "savoy-affair"
   },
   {
     "name": {
@@ -52282,7 +54039,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dark-n-stormy"
   },
   {
     "name": {
@@ -52373,7 +54131,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fernandito"
   },
   {
     "name": {
@@ -52483,7 +54242,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tommys-margarita"
   },
   {
     "name": {
@@ -52618,8 +54378,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "dirty-shirley"
   },
   {
     "name": {
@@ -52724,8 +54485,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "tintoretto"
   },
   {
     "name": {
@@ -52850,7 +54612,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "harvey-wallbanger"
   },
   {
     "name": {
@@ -52978,7 +54741,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "white-negroni"
   },
   {
     "name": {
@@ -53098,8 +54862,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "sparkling-cranberry-spritzer"
   },
   {
     "name": {
@@ -53229,7 +54994,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "whiskey-sour"
   },
   {
     "name": {
@@ -53374,7 +55140,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "russian-quaalude"
   },
   {
     "name": {
@@ -53519,7 +55286,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "prince-of-wales"
   },
   {
     "name": {
@@ -53658,7 +55426,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-rosemary-gimlet"
   },
   {
     "name": {
@@ -53772,7 +55541,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baileys-mudslide"
   },
   {
     "name": {
@@ -53873,7 +55643,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "pickleback"
   },
   {
     "name": {
@@ -54057,7 +55828,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tomate"
   },
   {
     "name": {
@@ -54148,7 +55920,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "whisky-mac"
   },
   {
     "name": {
@@ -54274,7 +56047,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ward-eight"
   },
   {
     "name": {
@@ -54412,8 +56186,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "french-collins"
   },
   {
     "name": {
@@ -54538,7 +56313,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "negroni"
   },
   {
     "name": {
@@ -54677,7 +56453,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cucumber-gimlet"
   },
   {
     "name": {
@@ -54817,7 +56594,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "division-bell"
   },
   {
     "name": {
@@ -54953,7 +56731,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "moon-river"
   },
   {
     "name": {
@@ -55078,7 +56857,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "remember-the-maine"
   },
   {
     "name": {
@@ -55179,7 +56959,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rusty-nail"
   },
   {
     "name": {
@@ -55317,7 +57098,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "vesper"
   },
   {
     "name": {
@@ -55408,7 +57190,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kir"
   },
   {
     "name": {
@@ -55499,7 +57282,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "irish-mule"
   },
   {
     "name": {
@@ -55603,8 +57387,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "jack-rose"
   },
   {
     "name": {
@@ -55733,8 +57518,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "my-fair-lady"
   },
   {
     "name": {
@@ -55879,7 +57665,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "20th-century"
   },
   {
     "name": {
@@ -56027,7 +57814,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sumatra-kula"
   },
   {
     "name": {
@@ -56081,8 +57869,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "grapefruit-mimosa"
   },
   {
     "name": {
@@ -56192,7 +57981,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "adonis"
   },
   {
     "name": {
@@ -56317,7 +58107,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perfect-bobby-burns"
   },
   {
     "name": {
@@ -56415,8 +58206,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "rebujito"
   },
   {
     "name": {
@@ -56520,7 +58312,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "baileys-and-milk"
   },
   {
     "name": {
@@ -56638,7 +58431,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "baileys-and-vodka-shot"
   },
   {
     "name": {
@@ -56755,7 +58549,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "sidecar"
   },
   {
     "name": {
@@ -56886,7 +58681,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "four-score"
   },
   {
     "name": {
@@ -57036,7 +58832,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "quick-fuck"
   },
   {
     "name": {
@@ -57195,7 +58992,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "jungle-bird"
   },
   {
     "name": {
@@ -57319,7 +59117,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "bees-knees"
   },
   {
     "name": {
@@ -57448,7 +59247,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "aged-rum-between-the-sheets"
   },
   {
     "name": {
@@ -57544,7 +59344,8 @@
     "categories": [
       "Tall & Bubbly",
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "death-in-the-afternoon"
   },
   {
     "name": {
@@ -57702,7 +59503,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "smoked-paloma"
   },
   {
     "name": {
@@ -57828,7 +59630,8 @@
     "categories": [
       "Strong & Spirit-Focused",
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "churchill"
   },
   {
     "name": {
@@ -57963,7 +59766,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "virgin-sangria"
   },
   {
     "name": {
@@ -58083,7 +59887,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "caipiroska"
   },
   {
     "name": {
@@ -58203,7 +60008,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "old-etonian"
   },
   {
     "name": {
@@ -58336,7 +60142,118 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "byculla"
+  },
+  {
+    "name": {
+      "en": "Dubonnet Cocktail",
+      "zh": "杜本內雞尾酒"
+    },
+    "description": {
+      "en": "A simple and classic cocktail combining gin and Dubonnet, often enjoyed as an aperitif. It's favored for its balance of sweetness, bitterness, and herbal notes. The Dubonnet adds a distinctive character that complements the gin's botanicals.",
+      "zh": "一款簡單而經典的雞尾酒，結合了琴酒和杜本內，通常作為開胃酒享用。 它以其甜味、苦味和草本風味的平衡而聞名。 杜本內增添了獨特的風味，與琴酒的植物風味相得益彰。"
+    },
+    "historical_reference": {
+      "en": "The Dubonnet cocktail gained popularity in the early to mid-20th century and was notably favored by Queen Elizabeth, The Queen Mother. It's a simple yet elegant drink that has stood the test of time.\n\n*   **Origin:** Attributed to bartenders seeking a palatable way to serve gin.\n*   **Popularity:** Increased significantly due to royal endorsement.",
+      "zh": "杜本內雞尾酒在 20 世紀初至中期開始流行，並受到伊莉莎白女王的母親的青睞。 這是一款簡單而優雅的飲品，經受住了時間的考驗。\n\n*   **起源：** 歸因於調酒師們尋找一種可口的方式來供應琴酒。\n*   **受歡迎程度：** 由於皇室的認可而顯著增加。"
+    },
+    "technique": {
+      "en": "Stir with ice and strain into a chilled glass.",
+      "zh": "與冰攪拌後倒入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Lemon twist or orange slice",
+      "zh": "檸檬皮或柳橙片"
+    },
+    "serve_in_glass": {
+      "en": "Cocktail glass or rocks glass",
+      "zh": "雞尾酒杯或古典杯"
+    },
+    "appearance": {
+      "en": "Clear, deep red-amber",
+      "zh": "清澈、深紅琥珀色"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 50,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a botanical backbone and dry counterpoint to the Dubonnet.",
+          "zh": "提供植物風味的骨幹，並與杜本內形成乾爽的對比。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 25,
+        "name": {
+          "en": "Dubonnet Rouge",
+          "zh": "杜本內紅葡萄酒開胃酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds a fortified wine base, sweetness, and herbal complexity.",
+          "zh": "添加強化葡萄酒的基底，甜味和草本複雜性。"
+        }
+      }
+    ],
+    "ingredients": [],
+    "flavor_descriptors": [
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      },
+      {
+        "en": "Fruity",
+        "zh": "果香"
+      },
+      {
+        "en": "Woody",
+        "zh": "木質"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 5,
+      "sourness": 2,
+      "booziness": 6,
+      "body": 5,
+      "complexity": 6,
+      "bubbles": false
+    },
+    "categories": [
+      "Strong & Spirit-Focused"
+    ],
+    "slug": "dubonnet-cocktail"
   },
   {
     "name": {
@@ -58426,7 +60343,8 @@
     },
     "categories": [
       "Tall & Bubbly"
-    ]
+    ],
+    "slug": "rossini"
   },
   {
     "name": {
@@ -58550,7 +60468,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "widows-kiss"
   },
   {
     "name": {
@@ -58708,8 +60627,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "vampiro"
   },
   {
     "name": {
@@ -58834,7 +60754,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "irish-coffee"
   },
   {
     "name": {
@@ -58935,7 +60856,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "godmother"
   },
   {
     "name": {
@@ -59025,7 +60947,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "japanese-slipper"
   },
   {
     "name": {
@@ -59233,8 +61156,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "bloody-margaret"
   },
   {
     "name": {
@@ -59360,7 +61284,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blood-and-sand"
   },
   {
     "name": {
@@ -59449,8 +61374,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "tinto-de-verano"
   },
   {
     "name": {
@@ -59528,8 +61454,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "campari-spritz"
   },
   {
     "name": {
@@ -59632,7 +61559,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "redheaded-slut"
   },
   {
     "name": {
@@ -59733,7 +61661,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dark-n-sunny"
   },
   {
     "name": {
@@ -59867,7 +61796,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "piña-colada"
   },
   {
     "name": {
@@ -59986,8 +61916,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "grapefruit-spritzer"
   },
   {
     "name": {
@@ -60107,7 +62038,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baileys-and-ice-cream"
   },
   {
     "name": {
@@ -60115,24 +62047,24 @@
       "zh": "多倫多"
     },
     "description": {
-      "en": "**A Canadian Classic**\n\nA stirred cocktail featuring Canadian rye whisky, Bénédictine, and Angostura bitters.\n\n*   Known for its smooth and slightly sweet profile.\n*   Often enjoyed as an after-dinner drink.",
-      "zh": "**加拿大經典**\n\n一款以加拿大黑麥威士忌、廊酒和安哥斯圖娜苦精調製的攪拌式雞尾酒。\n\n*   以其柔順和微甜的口感而聞名。\n*   經常作為餐後飲品享用。"
+      "en": "**A Canadian Classic**\n\nA stirred cocktail featuring Canadian rye whisky, Fernet-Branca, and Angostura bitters.\n\n*   Known for its whiskey-forward profile with a bitter bite.\n*   Often considered a variation of the Manhattan or Old Fashioned.",
+      "zh": "**加拿大經典**\n\n一款以加拿大黑麥威士忌、菲奈特布蘭卡和安哥斯圖娜苦精調製的攪拌式雞尾酒。\n\n*   以其威士忌主導的風味和苦味尾韻而聞名。\n*   常被視為曼哈頓或古典雞尾酒的變體。"
     },
     "historical_reference": {
-      "en": "**Origin**: Canada\n\n*   Created at the King Edward Hotel in Toronto.\n*   Date of origin is debated, but likely around the mid-20th century.\n*   Named after the city of Toronto.",
-      "zh": "**起源**: 加拿大\n\n*   在多倫多愛德華國王酒店創作。\n*   起源日期存在爭議，但可能在20世紀中葉左右。\n*   以多倫多市命名。"
+      "en": "**Origin**: Canada\n\n*   First appeared in print in Robert Vermeire's 1922 book 'Cocktails: How to Mix Them' as the Fernet Cocktail.\n*   Later renamed to Toronto in David Embury's 'The Fine Art of Mixing Drinks'.\n*   Named after the city of Toronto.",
+      "zh": "**起源**: 加拿大\n\n*   首次出現在1922年Robert Vermeire的著作《Cocktails: How to Mix Them》中，當時名為Fernet Cocktail。\n*   後來在David Embury的《The Fine Art of Mixing Drinks》中更名為Toronto。\n*   以多倫多市命名。"
     },
     "technique": {
-      "en": "Stir with ice and strain into glass.",
-      "zh": "與冰塊攪拌並濾入杯中。"
+      "en": "Stir with ice and strain into a chilled coupe glass.",
+      "zh": "與冰塊攪拌並濾入冰鎮的香檳杯。"
     },
     "garnish": {
-      "en": "Maraschino cherry or lemon twist (optional)",
-      "zh": "馬拉斯奇諾櫻桃或檸檬皮扭花（可選）"
+      "en": "Orange twist",
+      "zh": "橙皮扭花"
     },
     "serve_in_glass": {
-      "en": "Old-fashioned glass or coupe",
-      "zh": "古典杯或高腳杯"
+      "en": "Chilled coupe glass",
+      "zh": "冰鎮香檳杯"
     },
     "appearance": {
       "en": "Clear amber liquid",
@@ -60176,22 +62108,37 @@
     ],
     "liqueurs": [
       {
-        "amount": 10,
+        "amount": 7.5,
         "name": {
-          "en": "Bénédictine",
-          "zh": "廊酒"
+          "en": "Fernet-Branca",
+          "zh": "芙內布蘭卡香甜利口酒"
         },
         "unit": {
           "en": "ml",
           "zh": "毫升"
         },
         "rationale": {
-          "en": "Adds sweetness and herbal notes.",
-          "zh": "增加甜味和草本味。"
+          "en": "Adds herbal complexity and bitterness.",
+          "zh": "增加草本複雜性和苦味。"
         }
       }
     ],
     "ingredients": [
+      {
+        "amount": 7.5,
+        "name": {
+          "en": "Simple Syrup",
+          "zh": "糖漿"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Balances the bitterness of Fernet-Branca.",
+          "zh": "平衡菲奈特布蘭卡的苦味。"
+        }
+      },
       {
         "amount": 2,
         "name": {
@@ -60203,8 +62150,8 @@
           "zh": "滴"
         },
         "rationale": {
-          "en": "Adds complexity and bitterness.",
-          "zh": "增加複雜性和苦味。"
+          "en": "Adds complexity and aromatic notes.",
+          "zh": "增加複雜性和芳香氣息。"
         }
       }
     ],
@@ -60227,16 +62174,17 @@
       }
     ],
     "flavor_profile": {
-      "sweetness": 5,
+      "sweetness": 4,
       "sourness": 2,
       "booziness": 7,
       "body": 6,
-      "complexity": 7,
+      "complexity": 8,
       "bubbles": false
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "toronto"
   },
   {
     "name": {
@@ -60391,7 +62339,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "maracuya-pisco-sour"
   },
   {
     "name": {
@@ -60516,7 +62465,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "green-beast"
   },
   {
     "name": {
@@ -60641,7 +62591,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "batanga"
   },
   {
     "name": {
@@ -60757,7 +62708,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "silent-third"
   },
   {
     "name": {
@@ -60872,7 +62824,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cynar-flip"
   },
   {
     "name": {
@@ -61027,7 +62980,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spicy-paloma"
   },
   {
     "name": {
@@ -61166,8 +63120,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "sakura-spritz"
   },
   {
     "name": {
@@ -61386,7 +63341,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "egg-nog"
   },
   {
     "name": {
@@ -61521,7 +63477,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gaelic-flip"
   },
   {
     "name": {
@@ -61631,7 +63588,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gin-pahit"
   },
   {
     "name": {
@@ -61747,7 +63705,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "silver-streak"
   },
   {
     "name": {
@@ -61848,7 +63807,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dirty-mother"
   },
   {
     "name": {
@@ -61970,7 +63930,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ward-8"
   },
   {
     "name": {
@@ -62080,7 +64041,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brooklyn"
   },
   {
     "name": {
@@ -62221,7 +64183,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "flip"
   },
   {
     "name": {
@@ -62331,8 +64294,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "barracuda"
   },
   {
     "name": {
@@ -62422,8 +64386,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "kir-royale"
   },
   {
     "name": {
@@ -62558,8 +64523,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "flirtini"
   },
   {
     "name": {
@@ -62655,7 +64621,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fuzzy-navel"
   },
   {
     "name": {
@@ -62752,8 +64719,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "shandy"
   },
   {
     "name": {
@@ -62877,7 +64845,174 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lavender-75"
+  },
+  {
+    "name": {
+      "en": "Cacao Fizz",
+      "zh": "可可氣泡飲"
+    },
+    "description": {
+      "en": "**A Delightful Chocolate Cocktail**\n\nThe Cacao Fizz is a creamy and refreshing cocktail that blends the richness of chocolate with the effervescence of soda water.\n\n*   Smooth and creamy texture\n*   Subtle chocolate flavor balanced by the botanicals of gin.\n*   Perfect for a dessert cocktail or a light, indulgent treat.",
+      "zh": "**令人愉悅的巧克力雞尾酒**\n\n可可氣泡飲是一種奶油味十足、清爽的雞尾酒，將巧克力的濃郁與蘇打水的氣泡融合在一起。\n\n*   口感柔滑細膩\n*   微妙的巧克力風味與琴酒的植物風味相平衡。\n*   非常適合作為甜點雞尾酒或清淡、放縱的享受。"
+    },
+    "historical_reference": {
+      "en": "**Origin and Evolution**\n\n*   Variations of chocolate-flavored cocktails have existed since the late 19th century.\n*   The Cacao Fizz likely emerged as a popular variation on other gin-based fizzes.\n*   It gained prominence in cocktail books during the mid-20th century.",
+      "zh": "**起源與演變**\n\n*   自19世紀末以來，就存在各種巧克力風味的雞尾酒。\n*   可可氣泡飲很可能作為其他以琴酒為基礎的氣泡飲的流行變體而出現。\n*   它在20世紀中期的雞尾酒書籍中廣為流行。"
+    },
+    "technique": {
+      "en": "Dry shake gin, chocolate liqueur, cream, and egg white. Add ice and shake again until well-chilled. Strain into a highball glass filled with ice and top with soda water. Garnish with grated chocolate.",
+      "zh": "將琴酒、巧克力利口酒、奶油和蛋白進行乾式搖盪。加入冰塊並再次搖盪至完全冰鎮。濾入裝滿冰塊的高球杯中，並倒入蘇打水。用磨碎的巧克力裝飾。"
+    },
+    "garnish": {
+      "en": "Grated chocolate or a chocolate shaving.",
+      "zh": "磨碎的巧克力或巧克力屑。"
+    },
+    "serve_in_glass": {
+      "en": "Highball glass",
+      "zh": "高球杯"
+    },
+    "appearance": {
+      "en": "Frothy, light brown to beige color, with a creamy texture.",
+      "zh": "起泡的淺棕色至米色，具有奶油般的質地。"
+    },
+    "allergens": [
+      {
+        "en": "Dairy (milk, cream)",
+        "zh": "乳製品（牛奶，奶油）"
+      },
+      {
+        "en": "Eggs (egg white)",
+        "zh": "雞蛋（蛋白）"
+      }
+    ],
+    "base_spirits": [
+      {
+        "amount": 45,
+        "name": {
+          "en": "Gin",
+          "zh": "琴酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a botanical and alcoholic backbone to the cocktail.",
+          "zh": "為雞尾酒提供植物性和酒精骨幹。"
+        },
+        "tags": [
+          {
+            "en": "clear spirit",
+            "zh": "清澈烈酒"
+          },
+          {
+            "en": "juniper",
+            "zh": "杜松子"
+          },
+          {
+            "en": "botanical",
+            "zh": "植物香料"
+          }
+        ]
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Chocolate Liqueur (e.g., Crème de Cacao)",
+          "zh": "巧克力利口酒（例如，可可奶油）"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a concentrated chocolate flavor.",
+          "zh": "提供濃郁的巧克力風味。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Heavy Cream",
+          "zh": "鮮奶油"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds richness and a creamy texture.",
+          "zh": "增加豐富度和奶油般的質地。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Egg White",
+          "zh": "蛋白"
+        },
+        "unit": {
+          "en": "pc",
+          "zh": "個"
+        },
+        "rationale": {
+          "en": "Adds a silky texture and frothy head.",
+          "zh": "增加絲滑的質地和泡沫。"
+        }
+      },
+      {
+        "amount": 90,
+        "name": {
+          "en": "Soda Water",
+          "zh": "梳打水"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds effervescence and lightens the cocktail.",
+          "zh": "增加氣泡並使雞尾酒更清淡。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Chocolate",
+        "zh": "朱古力"
+      },
+      {
+        "en": "Creamy",
+        "zh": "乳脂"
+      },
+      {
+        "en": "Vanilla",
+        "zh": "香草"
+      },
+      {
+        "en": "Floral",
+        "zh": "花香"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 6,
+      "sourness": 3,
+      "booziness": 5,
+      "body": 7,
+      "complexity": 6,
+      "bubbles": true
+    },
+    "categories": [
+      "Rich & Creamy",
+      "Tall & Bubbly"
+    ],
+    "slug": "cacao-fizz"
   },
   {
     "name": {
@@ -63006,7 +65141,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lapsang-souchong-martini"
   },
   {
     "name": {
@@ -63131,7 +65267,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "yale-cocktail"
   },
   {
     "name": {
@@ -63241,7 +65378,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "smoked-old-fashioned"
   },
   {
     "name": {
@@ -63346,7 +65484,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tequila-slammer"
   },
   {
     "name": {
@@ -63491,7 +65630,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "la-louisiane"
   },
   {
     "name": {
@@ -63625,7 +65765,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fumigator-flip"
   },
   {
     "name": {
@@ -63755,7 +65896,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ideal-cocktail"
   },
   {
     "name": {
@@ -63865,7 +66007,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "grasshopper"
   },
   {
     "name": {
@@ -63973,8 +66116,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "vargtass"
   },
   {
     "name": {
@@ -64069,7 +66213,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "scotch-and-soda"
   },
   {
     "name": {
@@ -64195,7 +66340,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spicy-fifty"
   },
   {
     "name": {
@@ -64321,7 +66467,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blue-blazer"
   },
   {
     "name": {
@@ -64446,7 +66593,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kentucky-buck"
   },
   {
     "name": {
@@ -64580,8 +66728,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cheeky-vimto"
   },
   {
     "name": {
@@ -64721,7 +66870,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "aviation"
   },
   {
     "name": {
@@ -64940,8 +67090,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "chipotle-bloody-mary"
   },
   {
     "name": {
@@ -65084,8 +67235,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "john-collins"
   },
   {
     "name": {
@@ -65248,7 +67400,115 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "corpse-reviver-1"
+  },
+  {
+    "name": {
+      "en": "Red Eye",
+      "zh": "紅眼"
+    },
+    "description": {
+      "en": "**Simple yet Bold Cocktail**\n\nA rudimentary combination of beer and tomato juice:\n\n*   Layered flavors of malty beer and savory tomato.\n*   Best enjoyed cold and with a palate for the unusual.",
+      "zh": "**簡單而大胆的雞尾酒**\n\n啤酒和番茄汁的初級混合：\n\n*   麥芽啤酒和鹹味番茄的層次風味。\n*   最好冷飲，並帶有對不尋常風味的鑑賞力。"
+    },
+    "historical_reference": {
+      "en": "The Red Eye's origins are murky, with no definitive creator or date. It appears to have emerged as a hangover cure or a 'hair of the dog' remedy. Similar drinks combining beer and tomato juice have existed under different names and variations for several decades. The earliest written reference to this combination seems to date back to the mid-20th century.",
+      "zh": "紅眼雞尾酒的起源很模糊，沒有明確的創造者或日期。它似乎是作為一種宿醉療法或“以毒攻毒”的補救措施而出現的。幾十年來，結合啤酒和番茄汁的類似飲料以不同的名稱和變體存在。關於這種組合最早的書面參考似乎可以追溯到20世紀中葉。"
+    },
+    "technique": {
+      "en": "Pour chilled beer into a glass, then gently add chilled tomato juice. Season with salt.",
+      "zh": "將冰鎮啤酒倒入杯中，然後輕輕加入冰鎮番茄汁。用鹽調味。"
+    },
+    "garnish": {
+      "en": "Optional: Lime wedge or celery stalk",
+      "zh": "可選：檸檬角或芹菜梗"
+    },
+    "serve_in_glass": {
+      "en": "Pint glass or highball glass",
+      "zh": "品脫杯或高球杯"
+    },
+    "appearance": {
+      "en": "Dark brown or reddish-brown, opaque, with minimal head",
+      "zh": "深棕色或紅棕色，不透明，幾乎沒有泡沫"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 120,
+        "name": {
+          "en": "Light Lager",
+          "zh": "淡啤酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides the beer base and body of the drink.",
+          "zh": "提供飲料的啤酒基底和酒體。"
+        }
+      }
+    ],
+    "liqueurs": [],
+    "ingredients": [
+      {
+        "amount": 120,
+        "name": {
+          "en": "Tomato Juice",
+          "zh": "番茄汁"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds savory and tangy flavors to the beer.",
+          "zh": "為啤酒增添鹹味和濃郁的風味。"
+        }
+      },
+      {
+        "amount": 1,
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "unit": {
+          "en": "dash",
+          "zh": "少許"
+        },
+        "rationale": {
+          "en": "Enhance flavor and give the drink a savory taste.",
+          "zh": "增強風味，使飲品具有鹹味。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Umami",
+        "zh": "鮮味"
+      },
+      {
+        "en": "Salty",
+        "zh": "鹹味"
+      },
+      {
+        "en": "Savory",
+        "zh": "鮮味"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 2,
+      "sourness": 3,
+      "booziness": 2,
+      "body": 4,
+      "complexity": 3,
+      "bubbles": true
+    },
+    "categories": [
+      "Tall & Bubbly"
+    ],
+    "slug": "red-eye"
   },
   {
     "name": {
@@ -65368,7 +67628,120 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perfect-martini"
+  },
+  {
+    "name": {
+      "en": "Berlin Station Chief",
+      "zh": "柏林站長"
+    },
+    "description": {
+      "en": "**Bold and Boozy Classic**\n\nA rye whiskey-forward cocktail, highlighting:\n*   The spiciness of rye whiskey.\n*   Subtle bitterness from the vermouth.\n*   A hint of sweetness to balance the flavors.",
+      "zh": "**大膽濃烈的經典之作**\n\n一款以黑麥威士忌為主導的雞尾酒，突顯：\n*   黑麥威士忌的辛辣味。\n*   來自苦艾酒的微妙苦味。\n*   一絲甜味以平衡風味。"
+    },
+    "historical_reference": {
+      "en": "Although the exact origin is unclear, it resembles classic whiskey cocktails like the Manhattan but with a more pronounced rye whiskey character.",
+      "zh": "雖然確切的起源尚不清楚，但它類似於曼哈頓等經典威士忌雞尾酒，但具有更明顯的黑麥威士忌特色。"
+    },
+    "technique": {
+      "en": "Stir with ice and strain into a chilled glass.",
+      "zh": "與冰塊攪拌，然後濾入冰鎮的杯子中。"
+    },
+    "garnish": {
+      "en": "Orange peel twist",
+      "zh": "橙皮扭轉"
+    },
+    "serve_in_glass": {
+      "en": "Coupe or Martini glass",
+      "zh": "高腳杯或馬丁尼杯"
+    },
+    "appearance": {
+      "en": "Clear, deep amber",
+      "zh": "清澈的深琥珀色"
+    },
+    "allergens": [],
+    "base_spirits": [
+      {
+        "amount": 60,
+        "name": {
+          "en": "Rye Whiskey",
+          "zh": "黑麥威士忌"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Provides a spicy and robust backbone for the cocktail.",
+          "zh": "為這款雞尾酒提供辛辣和濃郁的骨幹。"
+        }
+      }
+    ],
+    "liqueurs": [
+      {
+        "amount": 30,
+        "name": {
+          "en": "Sweet Vermouth",
+          "zh": "甜苦艾酒"
+        },
+        "unit": {
+          "en": "ml",
+          "zh": "毫升"
+        },
+        "rationale": {
+          "en": "Adds sweetness and herbal notes, softening the whiskey's edge.",
+          "zh": "增添甜味和草本味，軟化威士忌的邊緣。"
+        }
+      }
+    ],
+    "ingredients": [
+      {
+        "amount": 2,
+        "name": {
+          "en": "Dashes of Aromatic Bitters",
+          "zh": "少量芳香苦精"
+        },
+        "unit": {
+          "en": "dash",
+          "zh": "滴"
+        },
+        "rationale": {
+          "en": "Adds complexity and aromatic depth.",
+          "zh": "增加複雜性和芳香深度。"
+        }
+      }
+    ],
+    "flavor_descriptors": [
+      {
+        "en": "Spicy",
+        "zh": "辛辣"
+      },
+      {
+        "en": "Bitter",
+        "zh": "苦味"
+      },
+      {
+        "en": "Woody",
+        "zh": "木質"
+      },
+      {
+        "en": "Herbal",
+        "zh": "草本"
+      }
+    ],
+    "flavor_profile": {
+      "sweetness": 3,
+      "sourness": 2,
+      "booziness": 9,
+      "body": 7,
+      "complexity": 8,
+      "bubbles": false
+    },
+    "categories": [
+      "Strong & Spirit-Focused"
+    ],
+    "slug": "berlin-station-chief"
   },
   {
     "name": {
@@ -65493,7 +67866,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "ford-cocktail"
   },
   {
     "name": {
@@ -65641,7 +68015,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spiced-pineapple-colada"
   },
   {
     "name": {
@@ -65762,7 +68137,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lavender-gimlet"
   },
   {
     "name": {
@@ -65927,7 +68303,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bull-shot"
   },
   {
     "name": {
@@ -66047,7 +68424,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "vodka-gimlet"
   },
   {
     "name": {
@@ -66202,7 +68580,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "reverends-daughter"
   },
   {
     "name": {
@@ -66322,7 +68701,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "salty-dog"
   },
   {
     "name": {
@@ -66444,7 +68824,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "raspberry-cosmo"
   },
   {
     "name": {
@@ -66553,7 +68934,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "english-marmalade"
   },
   {
     "name": {
@@ -66658,7 +69040,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tequila-screwdriver"
   },
   {
     "name": {
@@ -66793,8 +69176,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "elderflower-cosmo"
   },
   {
     "name": {
@@ -66914,7 +69298,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "lime-rickey"
   },
   {
     "name": {
@@ -67057,7 +69442,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mary-pickford"
   },
   {
     "name": {
@@ -67181,8 +69567,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "vodka-and-grapefruit"
   },
   {
     "name": {
@@ -67298,7 +69685,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "caipirinha"
   },
   {
     "name": {
@@ -67407,8 +69795,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cynar-spritz"
   },
   {
     "name": {
@@ -67504,7 +69893,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fernet--coke"
   },
   {
     "name": {
@@ -67630,7 +70020,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "campfire-cocktail"
   },
   {
     "name": {
@@ -67781,7 +70172,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "trumptini"
   },
   {
     "name": {
@@ -67901,8 +70293,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "kyoto-cooler"
   },
   {
     "name": {
@@ -68012,7 +70405,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "harlem-mugger"
   },
   {
     "name": {
@@ -68142,7 +70536,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mezcal-margarita"
   },
   {
     "name": {
@@ -68262,7 +70657,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "strawberry-lemonade"
   },
   {
     "name": {
@@ -68400,7 +70796,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "vesper-martini"
   },
   {
     "name": {
@@ -68526,7 +70923,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "irish-maid"
   },
   {
     "name": {
@@ -68636,7 +71034,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "old-pal"
   },
   {
     "name": {
@@ -68862,7 +71261,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "zombie"
   },
   {
     "name": {
@@ -69002,7 +71402,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "pisco-sour"
   },
   {
     "name": {
@@ -69093,7 +71494,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "snakebite"
   },
   {
     "name": {
@@ -69202,7 +71604,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gibson-martini"
   },
   {
     "name": {
@@ -69362,7 +71765,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "suffering-bastard"
   },
   {
     "name": {
@@ -69499,7 +71903,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "leite-de-onça"
   },
   {
     "name": {
@@ -69604,7 +72009,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gypsy"
   },
   {
     "name": {
@@ -69749,7 +72155,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "honey-sazerac"
   },
   {
     "name": {
@@ -69874,7 +72281,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dry-brooklyn"
   },
   {
     "name": {
@@ -70052,8 +72460,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "coconut-mojito"
   },
   {
     "name": {
@@ -70200,7 +72609,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "spiced-pear-old-fashioned"
   },
   {
     "name": {
@@ -70328,7 +72738,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "french-75"
   },
   {
     "name": {
@@ -70454,7 +72865,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "farnell"
   },
   {
     "name": {
@@ -70532,8 +72944,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "peach-mimosa"
   },
   {
     "name": {
@@ -70658,7 +73071,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dry-bamboo"
   },
   {
     "name": {
@@ -70775,7 +73189,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mind-eraser"
   },
   {
     "name": {
@@ -70901,7 +73316,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "alabama-slammer"
   },
   {
     "name": {
@@ -71059,7 +73475,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "virgin-mary"
   },
   {
     "name": {
@@ -71189,7 +73606,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fluffy-critter"
   },
   {
     "name": {
@@ -71338,7 +73756,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "white-lady"
   },
   {
     "name": {
@@ -71479,7 +73898,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brandy-flip"
   },
   {
     "name": {
@@ -71594,7 +74014,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "black-manhattan"
   },
   {
     "name": {
@@ -71756,7 +74177,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "cremat"
   },
   {
     "name": {
@@ -71865,7 +74287,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "dry-martini"
   },
   {
     "name": {
@@ -71984,7 +74407,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "porto-flip"
   },
   {
     "name": {
@@ -72094,7 +74518,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "greenpoint"
   },
   {
     "name": {
@@ -72239,7 +74664,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "link-up"
   },
   {
     "name": {
@@ -72349,7 +74775,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "perfect-bamboo"
   },
   {
     "name": {
@@ -72473,7 +74900,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "daiquiri"
   },
   {
     "name": {
@@ -72619,7 +75047,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "industry-sour"
   },
   {
     "name": {
@@ -72745,7 +75174,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "cosmopolitan"
   },
   {
     "name": {
@@ -72919,7 +75349,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "pink-lady"
   },
   {
     "name": {
@@ -73067,7 +75498,8 @@
     },
     "categories": [
       "Rich & Creamy"
-    ]
+    ],
+    "slug": "canary-flip"
   },
   {
     "name": {
@@ -73194,7 +75626,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "strawberry-caipirinha"
   },
   {
     "name": {
@@ -73338,7 +75771,8 @@
     },
     "categories": [
       "Sweet & Tart"
-    ]
+    ],
+    "slug": "spiced-penicillin"
   },
   {
     "name": {
@@ -73435,7 +75869,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bacardi-white-rum"
   },
   {
     "name": {
@@ -73663,7 +76098,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "hangmans-blood"
   },
   {
     "name": {
@@ -73772,7 +76208,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "upside-down-martini"
   },
   {
     "name": {
@@ -73921,7 +76358,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "takumis-aviation"
   },
   {
     "name": {
@@ -74042,7 +76480,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "manhattan"
   },
   {
     "name": {
@@ -74159,7 +76598,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "gold-rush"
   },
   {
     "name": {
@@ -74294,7 +76734,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brandy-old-fashioned"
   },
   {
     "name": {
@@ -74449,7 +76890,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "up-to-date"
   },
   {
     "name": {
@@ -74637,13 +77079,14 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "claret-cup"
   },
   {
     "name": {
-      "en": "Mojito",
-      "zh": "莫希托"
+      "en": "Mojito Blanco",
+      "zh": "莫希托白蘭姆"
     },
     "description": {
       "en": "**Classic Cuban Cocktail**\n\nA refreshing and vibrant cocktail:\n*   Muddled mint and lime release essential oils.\n*   Rum provides the alcoholic backbone.\n*   Soda water adds fizz and dilutes the sweetness.",
@@ -74789,8 +77232,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "mojito-blanco"
   },
   {
     "name": {
@@ -74894,8 +77338,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "gin-and-tonic"
   },
   {
     "name": {
@@ -75065,7 +77510,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "12-mile-limit"
   },
   {
     "name": {
@@ -75188,8 +77634,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "cuba-libre"
   },
   {
     "name": {
@@ -75283,8 +77730,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "spaghett"
   },
   {
     "name": {
@@ -75388,8 +77836,9 @@
       "bubbles": false
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Sweet & Tart"
+    ],
+    "slug": "virgin-margarita"
   },
   {
     "name": {
@@ -75518,7 +77967,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baileys-frappé"
   },
   {
     "name": {
@@ -75643,7 +78093,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "blind-russian"
   },
   {
     "name": {
@@ -75771,7 +78222,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "caipirissima"
   },
   {
     "name": {
@@ -75890,7 +78342,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "kahlúa-mudslide"
   },
   {
     "name": {
@@ -76029,7 +78482,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "grapefruit-horsefeather"
   },
   {
     "name": {
@@ -76256,7 +78710,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "three-mile-long-island-iced-tea"
   },
   {
     "name": {
@@ -76392,7 +78847,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "bronx-cocktail"
   },
   {
     "name": {
@@ -76547,7 +79003,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "sesame-seed-swirl"
   },
   {
     "name": {
@@ -76679,7 +79136,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "brandy-sour"
   },
   {
     "name": {
@@ -76789,7 +79247,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "charred-orange-paloma"
   },
   {
     "name": {
@@ -76914,8 +79373,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "hojicha-highball"
   },
   {
     "name": {
@@ -77069,7 +79529,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "watermelon-refresher"
   },
   {
     "name": {
@@ -77163,7 +79624,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "baby-guinness"
   },
   {
     "name": {
@@ -77303,8 +79765,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "lychee-lantern"
   },
   {
     "name": {
@@ -77444,7 +79907,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tuxedo"
   },
   {
     "name": {
@@ -77588,7 +80052,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "el-presidente"
   },
   {
     "name": {
@@ -77722,7 +80187,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "flaming-doctor-pepper"
   },
   {
     "name": {
@@ -77867,7 +80333,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "casino"
   },
   {
     "name": {
@@ -77962,8 +80429,9 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "kir-royale"
   },
   {
     "name": {
@@ -78120,7 +80588,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "rum-flip"
   },
   {
     "name": {
@@ -78305,7 +80774,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tia-mia"
   },
   {
     "name": {
@@ -78415,7 +80885,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "mezcal-negroni"
   },
   {
     "name": {
@@ -78622,7 +81093,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "tom-and-jerry"
   },
   {
     "name": {
@@ -78723,7 +81195,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "boilermaker"
   },
   {
     "name": {
@@ -78862,7 +81335,8 @@
     },
     "categories": [
       "Strong & Spirit-Focused"
-    ]
+    ],
+    "slug": "fitzgerald"
   },
   {
     "name": {
@@ -78987,7 +81461,8 @@
       "bubbles": true
     },
     "categories": [
-      "Strong & Spirit-Focused"
-    ]
+      "Tall & Bubbly"
+    ],
+    "slug": "sloe-gin-fizz"
   }
 ]

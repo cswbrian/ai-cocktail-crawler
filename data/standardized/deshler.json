@@ -1,0 +1,130 @@
+{
+  "name": {
+    "en": "Deshler",
+    "zh": "德斯勒"
+  },
+  "description": {
+    "en": "**A pre-Prohibition classic**\n\nThe Deshler is a spirit-forward cocktail that highlights the rich and spicy notes of rye whiskey, complemented by the herbal complexity of vermouth and the subtle sweetness of maraschino liqueur. A dash of orange bitters adds a bright citrus aroma.",
+    "zh": "**禁酒令之前的經典之作**\n\nDeshler是一款以烈酒為主的雞尾酒，突顯黑麥威士忌的濃郁和辛辣味，並以苦艾酒的草本複雜性和黑櫻桃利口酒的微妙甜味做為輔助。少許的橙味苦精增添了明亮的柑橘香氣。"
+  },
+  "historical_reference": {
+    "en": "**Created by Jacques Straub, a bartender at the Pendennis Club in Louisville, Kentucky**\n\n* Named after a prominent member of the club, John G. Deshler.\n* Dates back to the late 19th century.",
+    "zh": "**由肯塔基州路易斯維爾Pendennis俱樂部的調酒師Jacques Straub創作**\n\n* 以俱樂部的著名成員John G. Deshler命名。\n* 歷史可以追溯到19世紀後期。"
+  },
+  "technique": {
+    "en": "Stir all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊攪拌均勻，然後過濾到冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel",
+    "zh": "柳橙皮"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "碟型香檳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈，深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust base.",
+        "zh": "提供辛辣和濃郁的基底。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 7,
+      "name": {
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle cherry sweetness.",
+        "zh": "增加微妙的櫻桃甜味。"
+      }
+    },
+    {
+      "amount": 15,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds herbal complexity and sweetness.",
+        "zh": "增加草本的複雜性和甜味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "少許"
+      },
+      "rationale": {
+        "en": "Adds a citrusy aroma and balances the drink.",
+        "zh": "增添柑橘香氣並平衡飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 4,
+    "sourness": 2,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

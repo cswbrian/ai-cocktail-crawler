@@ -5,10 +5,12 @@ from typing import List, Dict, Set, Optional
 from collections import defaultdict
 import yaml
 from llm_client import LLMClient, CocktailInfo
+from supabase_client import SupabaseClient
 
 class CocktailWorkflow:
     def __init__(self):
         self.client = LLMClient()
+        self.supabase = SupabaseClient()
         self.base_dirs = {
             'original': Path('data/original'),
             'standardized': Path('data/standardized'),
@@ -354,6 +356,16 @@ class CocktailWorkflow:
         for json_file in json_files:
             with open(json_file, 'r', encoding='utf-8') as f:
                 cocktail_data = json.load(f)
+                
+                # Generate slug from filename if not present
+                if 'slug' not in cocktail_data:
+                    # Create a slug from the English name
+                    name = cocktail_data['name']['en'].lower()
+                    # Replace spaces with hyphens and remove non-word characters
+                    import re
+                    slug = re.sub(r'[^\w-]+', '', name.replace(' ', '-'))
+                    cocktail_data['slug'] = slug
+                
                 cocktails.append(cocktail_data)
         
         # Save the combined list to cocktails.json in the reports directory
@@ -363,6 +375,43 @@ class CocktailWorkflow:
         
         print(f"Combined {len(cocktails)} cocktails into {output_file}")
     
+    def sync_to_database(self) -> None:
+        """Sync all standardized cocktails to the database"""
+        # Load the combined cocktails file
+        combined_file = self.base_dirs['reports'] / 'cocktails.json'
+        if not combined_file.exists():
+            print("No combined cocktails file found. Please run the workflow first.")
+            return
+        
+        with open(combined_file, 'r', encoding='utf-8') as f:
+            cocktails = json.load(f)
+        
+        success_count = 0
+        error_count = 0
+        
+        for cocktail in cocktails:
+            # Generate slug if not present
+            if 'slug' not in cocktail:
+                # Create a slug from the English name
+                name = cocktail['name']['en'].lower()
+                # Replace spaces with hyphens and remove non-word characters
+                import re
+                slug = re.sub(r'[^\w-]+', '', name.replace(' ', '-'))
+                cocktail['slug'] = slug
+            
+            # Upsert to database
+            result = self.supabase.upsert_cocktail(cocktail)
+            if result:
+                success_count += 1
+                print(f"Successfully synced {cocktail['name']['en']} to database")
+            else:
+                error_count += 1
+                print(f"Failed to sync {cocktail['name']['en']} to database")
+        
+        print(f"\nDatabase sync completed:")
+        print(f"Successfully synced: {success_count}")
+        print(f"Failed to sync: {error_count}")
+
     def run_workflow(self, cocktail_names: List[str], standardize: bool = False) -> None:
         """Run the complete workflow"""
         print("Step 1: Fetching cocktail data...")
@@ -383,6 +432,9 @@ class CocktailWorkflow:
         
         print("Step 5: Combining cocktails into single file...")
         self.combine_cocktails()
+        
+        print("Step 6: Syncing to database...")
+        self.sync_to_database()
         
         print("Workflow completed!")
 

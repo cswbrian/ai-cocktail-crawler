@@ -1,0 +1,109 @@
+{
+  "name": {
+    "en": "Dubonnet Cocktail",
+    "zh": "杜本內雞尾酒"
+  },
+  "description": {
+    "en": "A simple and classic cocktail combining gin and Dubonnet, often enjoyed as an aperitif. It's favored for its balance of sweetness, bitterness, and herbal notes. The Dubonnet adds a distinctive character that complements the gin's botanicals.",
+    "zh": "一款簡單而經典的雞尾酒，結合了琴酒和杜本內，通常作為開胃酒享用。 它以其甜味、苦味和草本風味的平衡而聞名。 杜本內增添了獨特的風味，與琴酒的植物風味相得益彰。"
+  },
+  "historical_reference": {
+    "en": "The Dubonnet cocktail gained popularity in the early to mid-20th century and was notably favored by Queen Elizabeth, The Queen Mother. It's a simple yet elegant drink that has stood the test of time.\n\n*   **Origin:** Attributed to bartenders seeking a palatable way to serve gin.\n*   **Popularity:** Increased significantly due to royal endorsement.",
+    "zh": "杜本內雞尾酒在 20 世紀初至中期開始流行，並受到伊莉莎白女王的母親的青睞。 這是一款簡單而優雅的飲品，經受住了時間的考驗。\n\n*   **起源：** 歸因於調酒師們尋找一種可口的方式來供應琴酒。\n*   **受歡迎程度：** 由於皇室的認可而顯著增加。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰攪拌後倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist or orange slice",
+    "zh": "檸檬皮或柳橙片"
+  },
+  "serve_in_glass": {
+    "en": "Cocktail glass or rocks glass",
+    "zh": "雞尾酒杯或古典杯"
+  },
+  "appearance": {
+    "en": "Clear, deep red-amber",
+    "zh": "清澈、深紅琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 50,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical backbone and dry counterpoint to the Dubonnet.",
+        "zh": "提供植物風味的骨幹，並與杜本內形成乾爽的對比。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 25,
+      "name": {
+        "en": "Dubonnet Rouge",
+        "zh": "杜本內紅葡萄酒開胃酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a fortified wine base, sweetness, and herbal complexity.",
+        "zh": "添加強化葡萄酒的基底，甜味和草本複雜性。"
+      }
+    }
+  ],
+  "ingredients": [],
+  "flavor_descriptors": [
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 2,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

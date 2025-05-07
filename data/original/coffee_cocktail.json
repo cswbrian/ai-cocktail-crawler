@@ -1,0 +1,126 @@
+{
+  "name": {
+    "en": "Coffee Cocktail",
+    "zh": "咖啡雞尾酒"
+  },
+  "description": {
+    "en": "**A Classic Coffee Cocktail**\n\nA rich and decadent cocktail featuring:\n*   Cognac for a smooth base\n*   Port wine for sweetness and body\n*   Egg yolk for a creamy texture\n*   Sugar for added sweetness",
+    "zh": "**經典咖啡雞尾酒**\n\n一款濃郁而頹廢的雞尾酒，特色：\n*   干邑白蘭地提供順滑的基底\n*   波特酒帶來甜味和酒體\n*   蛋黃帶來柔滑的口感\n*   糖增加甜度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: First documented in the 1800s.\n\n*   A historic recipe, the Coffee Cocktail doesn't actually contain any coffee\n*   The name comes from the fact that it is designed to *taste* like coffee",
+    "zh": "**起源**: 首次記載於 1800 年代。\n\n*   咖啡雞尾酒是一款歷史悠久的配方，但實際上並不含任何咖啡。\n*   這個名字的由來是因為它的設計是為了*嚐起來*像咖啡"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Grated nutmeg",
+    "zh": "磨碎的肉豆蔻"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Nick & Nora glass",
+    "zh": "郁金香杯或 Nick & Nora 杯"
+  },
+  "appearance": {
+    "en": "Dark brown, opaque, with a frothy head.",
+    "zh": "深棕色，不透明，帶有泡沫。"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Cognac",
+        "zh": "干邑白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and rich flavor.",
+        "zh": "提供基酒和濃郁的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Tawny Port",
+        "zh": "茶色波特酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, body, and nutty notes.",
+        "zh": "增加甜度、酒體和堅果風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds creaminess and richness.",
+        "zh": "增加乳脂感和濃郁度。"
+      }
+    },
+    {
+      "amount": 2,
+      "name": {
+        "en": "Sugar",
+        "zh": "糖"
+      },
+      "unit": {
+        "en": "tsp",
+        "zh": "茶匙"
+      },
+      "rationale": {
+        "en": "Adds sweetness to balance the drink.",
+        "zh": "增加甜度以平衡飲品。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Coffee",
+      "zh": "咖啡"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 1,
+    "booziness": 6,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": false
+  },
+  "categories": [
+    "Rich & Creamy"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": {
+    "en": "Zacapa Martini",
+    "zh": "薩卡帕馬丁尼"
+  },
+  "description": {
+    "en": "**Luxurious Martini Variation**\n\nA sophisticated twist on the classic martini, emphasizing the rich and nuanced flavors of Zacapa Rum:\n\n*   Uses Zacapa Rum as the primary spirit for a uniquely decadent experience.\n*   A small amount of dry vermouth balances the sweetness of the rum.\n*   Orange bitters add complexity and aromatic depth.",
+    "zh": "**奢華的馬丁尼變奏**\n\n經典馬丁尼的精緻轉變，強調薩卡帕蘭姆酒的豐富而細膩的風味：\n\n*   使用薩卡帕蘭姆酒作為主要烈酒，帶來獨特而頹廢的體驗。\n*   少量乾味美思平衡了蘭姆酒的甜度。\n*   橙味苦精增添了複雜性和芳香深度。"
+  },
+  "historical_reference": {
+    "en": "The Zacapa Martini is a modern variation on the classic martini, designed to showcase the unique characteristics of Zacapa Rum. It builds upon the traditional martini formula but substitutes gin or vodka with a premium aged rum.\n\n*   Evolved from the classic dry martini\n*   Highlights the rum's complexity",
+    "zh": "薩卡帕馬丁尼是經典馬丁尼的現代變奏，旨在展示薩卡帕蘭姆酒的獨特之處。它以傳統馬丁尼的配方為基礎，但用優質陳年蘭姆酒代替了琴酒或伏特加。\n\n*   從經典的乾馬丁尼演變而來\n*   突顯了蘭姆酒的複雜性"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌後倒入冰鎮的杯子。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭花"
+  },
+  "serve_in_glass": {
+    "en": "Chilled martini glass",
+    "zh": "冰鎮馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber with golden highlights",
+    "zh": "清澈、深琥珀色，帶金色光澤"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Zacapa Rum",
+        "zh": "薩卡帕蘭姆酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the rich, complex base with notes of caramel, vanilla, and dried fruit.",
+        "zh": "提供豐富、複雜的基底，帶有焦糖、香草和乾果的風味。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 10,
+      "name": {
+        "en": "Dry Vermouth",
+        "zh": "不甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a subtle herbal and dry counterpoint to the rum's sweetness.",
+        "zh": "為蘭姆酒的甜味增添微妙的草本和乾燥的對比。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Enhances the aromatic profile and adds a layer of citrus complexity.",
+        "zh": "增強了芳香氣息，並增加了一層柑橘的複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Nutty",
+      "zh": "堅果"
+    },
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 5,
+    "sourness": 1,
+    "booziness": 8,
+    "body": 7,
+    "complexity": 9,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

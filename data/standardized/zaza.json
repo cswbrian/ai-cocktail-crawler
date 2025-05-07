@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Zaza",
+    "zh": "札札"
+  },
+  "description": {
+    "en": "*A classic cocktail with a rich and slightly tart flavor.*\n\nThe Zaza is a refreshing and balanced cocktail, showcasing:\n*   The botanical complexity of gin\n*   The delightful sweetness of Dubonnet\n*   Orange bitters for aromatic depth",
+    "zh": "*一款經典雞尾酒，口感濃郁，略帶酸味。*\n\nZaza 是一款清爽且平衡的雞尾酒，展示了：\n*   琴酒的植物複雜性\n*   杜本內酒的令人愉悅的甜味\n*   橙子苦精帶來芳香深度"
+  },
+  "historical_reference": {
+    "en": "**Origin**: Attributed to the Harry's New York Bar in Paris, during the 1920s.\n\n*   The exact origins are debated, named after Zaza, a famous dancer of that time.\n*   Similar to the Adonis cocktail, but using Gin instead of vermouth.",
+    "zh": "**起源**：據說起源於 1920 年代的巴黎 Harry's New York Bar。\n\n*   確切起源存在爭議，以當時著名的舞者 Zaza 命名。\n*   與 Adonis 雞尾酒相似，但使用琴酒代替苦艾酒。"
+  },
+  "technique": {
+    "en": "Stirred, strained.",
+    "zh": "攪拌，過濾。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe glass",
+    "zh": "高腳杯"
+  },
+  "appearance": {
+    "en": "Pale yellow, cloudy",
+    "zh": "淡黃色，混濁"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit and botanical notes.",
+        "zh": "提供基酒和植物風味。"
+      },
+      "tags": [
+        {
+          "en": "clear spirit",
+          "zh": "清澈烈酒"
+        },
+        {
+          "en": "juniper",
+          "zh": "杜松子"
+        },
+        {
+          "en": "botanical",
+          "zh": "植物香料"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Dubonnet Rouge",
+        "zh": "杜本內紅酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and a fortified wine flavor.",
+        "zh": "增加甜味和強化葡萄酒的風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Orange Bitters",
+        "zh": "橙味苦精"
+      },
+      "unit": {
+        "en": "dashes",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds aromatic complexity.",
+        "zh": "增加香氣複雜性。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 4,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
+}

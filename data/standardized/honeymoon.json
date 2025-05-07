@@ -1,0 +1,140 @@
+{
+  "name": {
+    "en": "Honeymoon",
+    "zh": "蜜月"
+  },
+  "description": {
+    "en": "**A Classic Pre-Prohibition Cocktail**\n\nThe Honeymoon is a delightful blend of:\n\n*   Apple brandy for a fruity base\n*   Bénédictine for herbal complexity\n*   Orange curaçao for citrus and sweetness\n*   Lemon juice for balance",
+    "zh": "**經典禁酒令前雞尾酒**\n\n蜜月是一種令人愉悅的混合，包括：\n\n*   蘋果白蘭地，帶來水果風味的基底\n*   Bénédictine，增添草本的複雜性\n*   橙皮酒，帶來柑橘和甜味\n*   檸檬汁，平衡整體口感"
+  },
+  "historical_reference": {
+    "en": "**Origin**: A classic cocktail dating back to the pre-Prohibition era.\n\n*   First appeared in the early 20th century.\n*   Popularized in cocktail books of the 1930s.\n*   Variations exist, but the core ingredients remain consistent.",
+    "zh": "**起源**: 一款可以追溯到禁酒令時代之前的經典雞尾酒。\n\n*   首次出現在20世紀初。\n*   在1930年代的雞尾酒書中廣為流傳。\n*   存在多種變體，但核心成分保持一致。"
+  },
+  "technique": {
+    "en": "Shake all ingredients with ice and strain into a chilled glass.",
+    "zh": "將所有材料與冰塊搖勻，然後倒入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Lemon twist",
+    "zh": "檸檬皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or cocktail glass",
+    "zh": "淺碟香檳杯或雞尾酒杯"
+  },
+  "appearance": {
+    "en": "Golden amber, clear and bright",
+    "zh": "金黃琥珀色，清澈明亮"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Apple Brandy (Calvados)",
+        "zh": "蘋果白蘭地"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the base spirit, offering a fruity and warm character.",
+        "zh": "提供基酒，帶來水果和溫暖的特性。"
+      },
+      "tags": [
+        {
+          "en": "Brandy",
+          "zh": "白蘭地"
+        },
+        {
+          "en": "apple brandy",
+          "zh": "蘋果白蘭地"
+        },
+        {
+          "en": "calvados",
+          "zh": "卡爾瓦多斯"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 15,
+      "name": {
+        "en": "Bénédictine",
+        "zh": "廊酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a complex herbal and honeyed sweetness.",
+        "zh": "增加複雜的草本和蜂蜜般的甜味。"
+      }
+    },
+    {
+      "amount": 10,
+      "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙皮酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds orange flavor and sweetness.",
+        "zh": "添加橙子風味和甜度"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 20,
+      "name": {
+        "en": "Lemon Juice",
+        "zh": "檸檬汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds acidity to balance the sweetness.",
+        "zh": "增加酸度，平衡甜度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Citrus",
+      "zh": "柑橘"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    },
+    {
+      "en": "Sweet & Tart",
+      "zh": "酸甜"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 7,
+    "sourness": 6,
+    "booziness": 6,
+    "body": 5,
+    "complexity": 7,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart"
+  ]
+}

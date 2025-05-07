@@ -5,7 +5,7 @@
         "en": "Gin",
         "zh": "琴酒"
       },
-      "count": 142,
+      "count": 148,
       "tags": [
         {
           "en": "botanical",
@@ -72,7 +72,7 @@
         "en": "Rye Whiskey",
         "zh": "黑麥威士忌"
       },
-      "count": 32,
+      "count": 34,
       "tags": []
     },
     {
@@ -80,7 +80,7 @@
         "en": "White Rum",
         "zh": "白冧酒"
       },
-      "count": 25,
+      "count": 26,
       "tags": [
         {
           "en": "Rum",
@@ -113,7 +113,7 @@
         "en": "Cognac",
         "zh": "干邑"
       },
-      "count": 20,
+      "count": 21,
       "tags": [
         {
           "en": "Brandy",
@@ -251,7 +251,7 @@
         "en": "Apple Brandy (Calvados)",
         "zh": "蘋果白蘭地"
       },
-      "count": 8,
+      "count": 9,
       "tags": [
         {
           "en": "Brandy",
@@ -439,6 +439,27 @@
     },
     {
       "name": {
+        "en": "Reposado Tequila",
+        "zh": "陳年龍舌蘭"
+      },
+      "count": 2,
+      "tags": [
+        {
+          "en": "Tequila",
+          "zh": "龍舌蘭"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        },
+        {
+          "en": "mexican",
+          "zh": "墨西哥"
+        }
+      ]
+    },
+    {
+      "name": {
         "en": "Rye Whisky",
         "zh": "黑麥威士忌"
       },
@@ -601,6 +622,14 @@
     },
     {
       "name": {
+        "en": "Light Lager",
+        "zh": "淡啤酒"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Martinique Rhum Agricole",
         "zh": "馬提尼克農業蘭姆酒"
       },
@@ -689,27 +718,6 @@
     },
     {
       "name": {
-        "en": "Reposado Tequila",
-        "zh": "陳年龍舌蘭"
-      },
-      "count": 1,
-      "tags": [
-        {
-          "en": "Tequila",
-          "zh": "龍舌蘭"
-        },
-        {
-          "en": "distilled",
-          "zh": "蒸餾"
-        },
-        {
-          "en": "mexican",
-          "zh": "墨西哥"
-        }
-      ]
-    },
-    {
-      "name": {
         "en": "Rhum Agricole",
         "zh": "農業蘭姆酒"
       },
@@ -787,6 +795,14 @@
       },
       "count": 1,
       "tags": []
+    },
+    {
+      "name": {
+        "en": "Zacapa Rum",
+        "zh": "薩卡帕蘭姆酒"
+      },
+      "count": 1,
+      "tags": []
     }
   ],
   "liqueurs": [
@@ -795,7 +811,7 @@
         "en": "Dry Vermouth",
         "zh": "不甜苦艾酒"
       },
-      "count": 47,
+      "count": 48,
       "tags": []
     },
     {
@@ -803,7 +819,7 @@
         "en": "Sweet Vermouth",
         "zh": "甜苦艾酒"
       },
-      "count": 41,
+      "count": 43,
       "tags": []
     },
     {
@@ -819,7 +835,7 @@
         "en": "Triple Sec",
         "zh": "橙酒"
       },
-      "count": 23,
+      "count": 24,
       "tags": []
     },
     {
@@ -832,16 +848,16 @@
     },
     {
       "name": {
-        "en": "Irish Cream Liqueur",
-        "zh": "愛爾蘭奶油利口酒"
+        "en": "Maraschino Liqueur",
+        "zh": "黑櫻桃利口酒"
       },
-      "count": 17,
+      "count": 18,
       "tags": []
     },
     {
       "name": {
-        "en": "Maraschino Liqueur",
-        "zh": "黑櫻桃利口酒"
+        "en": "Irish Cream Liqueur",
+        "zh": "愛爾蘭奶油利口酒"
       },
       "count": 17,
       "tags": []
@@ -880,16 +896,16 @@
     },
     {
       "name": {
-        "en": "Cointreau",
-        "zh": "君度橙酒"
+        "en": "Green Chartreuse",
+        "zh": "綠色夏翠絲"
       },
-      "count": 8,
+      "count": 9,
       "tags": []
     },
     {
       "name": {
-        "en": "Green Chartreuse",
-        "zh": "綠色夏翠絲"
+        "en": "Cointreau",
+        "zh": "君度橙酒"
       },
       "count": 8,
       "tags": []
@@ -914,6 +930,14 @@
       "name": {
         "en": "Apricot Liqueur",
         "zh": "杏桃利口酒"
+      },
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
       },
       "count": 5,
       "tags": []
@@ -960,6 +984,14 @@
     },
     {
       "name": {
+        "en": "Apricot Brandy",
+        "zh": "杏桃白蘭地"
+      },
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Chocolate Liqueur",
         "zh": "巧克力利口酒"
       },
@@ -968,16 +1000,16 @@
     },
     {
       "name": {
-        "en": "Coconut Cream",
-        "zh": "椰奶"
+        "en": "Falernum",
+        "zh": "法勒南香甜酒"
       },
       "count": 4,
       "tags": []
     },
     {
       "name": {
-        "en": "Falernum",
-        "zh": "法勒南香甜酒"
+        "en": "Fernet-Branca",
+        "zh": "芙內布蘭卡香甜利口酒"
       },
       "count": 4,
       "tags": []
@@ -1004,14 +1036,6 @@
         "zh": "杏仁糖漿"
       },
       "count": 4,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Apricot Brandy",
-        "zh": "杏桃白蘭地"
-      },
-      "count": 3,
       "tags": []
     },
     {
@@ -1058,14 +1082,6 @@
       "name": {
         "en": "Crème de Cassis",
         "zh": "黑醋栗酒"
-      },
-      "count": 3,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Fernet-Branca",
-        "zh": "芙內布蘭卡香甜利口酒"
       },
       "count": 3,
       "tags": []
@@ -1376,6 +1392,14 @@
     },
     {
       "name": {
+        "en": "Chocolate Liqueur (e.g., Crème de Cacao)",
+        "zh": "巧克力利口酒（例如，可可奶油）"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Cider",
         "zh": "蘋果酒"
       },
@@ -1514,6 +1538,30 @@
       "name": {
         "en": "Dry Red Wine (Cabernet Sauvignon or Shiraz)",
         "zh": "乾紅葡萄酒（卡本內蘇維翁或希拉）"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Dubonnet Rouge",
+        "zh": "杜本內紅酒"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Dubonnet Rouge",
+        "zh": "杜本內紅葡萄酒"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Dubonnet Rouge",
+        "zh": "杜本內紅葡萄酒開胃酒"
       },
       "count": 1,
       "tags": []
@@ -1784,6 +1832,14 @@
     },
     {
       "name": {
+        "en": "Orange Curaçao",
+        "zh": "橙皮酒"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Orange Flavored Liqueur",
         "zh": "橙味利口酒"
       },
@@ -2000,6 +2056,14 @@
     },
     {
       "name": {
+        "en": "Tawny Port",
+        "zh": "茶色波特酒"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Triple Sec (Cointreau)",
         "zh": "橙皮甜酒（君度橙酒）"
       },
@@ -2045,7 +2109,7 @@
         "en": "Lemon Juice",
         "zh": "檸檬汁"
       },
-      "count": 113,
+      "count": 115,
       "tags": []
     },
     {
@@ -2053,7 +2117,7 @@
         "en": "Lime Juice",
         "zh": "青檸汁"
       },
-      "count": 109,
+      "count": 111,
       "tags": []
     },
     {
@@ -2061,7 +2125,7 @@
         "en": "Simple Syrup",
         "zh": "糖漿"
       },
-      "count": 104,
+      "count": 106,
       "tags": []
     },
     {
@@ -2077,7 +2141,7 @@
         "en": "Egg White",
         "zh": "蛋白"
       },
-      "count": 35,
+      "count": 36,
       "tags": []
     },
     {
@@ -2093,7 +2157,7 @@
         "en": "Pineapple Juice",
         "zh": "菠蘿汁"
       },
-      "count": 29,
+      "count": 30,
       "tags": []
     },
     {
@@ -2101,15 +2165,7 @@
         "en": "Sugar",
         "zh": "糖"
       },
-      "count": 29,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Soda Water",
-        "zh": "梳打水"
-      },
-      "count": 24,
+      "count": 30,
       "tags": []
     },
     {
@@ -2117,7 +2173,15 @@
         "en": "Orange Bitters",
         "zh": "橙味苦精"
       },
-      "count": 23,
+      "count": 26,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Soda Water",
+        "zh": "梳打水"
+      },
+      "count": 25,
       "tags": []
     },
     {
@@ -2149,13 +2213,29 @@
         "en": "Heavy Cream",
         "zh": "鮮奶油"
       },
-      "count": 14,
+      "count": 15,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Egg Yolk",
+        "zh": "蛋黃"
+      },
+      "count": 13,
       "tags": []
     },
     {
       "name": {
         "en": "Prosecco",
         "zh": "普羅塞克"
+      },
+      "count": 13,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Tomato Juice",
+        "zh": "番茄汁"
       },
       "count": 13,
       "tags": []
@@ -2178,24 +2258,8 @@
     },
     {
       "name": {
-        "en": "Tomato Juice",
-        "zh": "番茄汁"
-      },
-      "count": 12,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Cola",
         "zh": "可樂"
-      },
-      "count": 11,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Egg Yolk",
-        "zh": "蛋黃"
       },
       "count": 11,
       "tags": []
@@ -2250,6 +2314,14 @@
     },
     {
       "name": {
+        "en": "Sparkling Water",
+        "zh": "氣泡水"
+      },
+      "count": 8,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Cream of Coconut",
         "zh": "椰奶霜"
       },
@@ -2260,14 +2332,6 @@
       "name": {
         "en": "Red Wine",
         "zh": "紅酒"
-      },
-      "count": 7,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Sparkling Water",
-        "zh": "氣泡水"
       },
       "count": 7,
       "tags": []
@@ -2306,6 +2370,14 @@
     },
     {
       "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "count": 6,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Ice",
         "zh": "冰塊"
       },
@@ -2316,6 +2388,14 @@
       "name": {
         "en": "Orgeat Syrup",
         "zh": "杏仁糖漿"
+      },
+      "count": 6,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Salt",
+        "zh": "鹽"
       },
       "count": 6,
       "tags": []
@@ -2378,24 +2458,8 @@
     },
     {
       "name": {
-        "en": "Grenadine",
-        "zh": "石榴糖漿"
-      },
-      "count": 5,
-      "tags": []
-    },
-    {
-      "name": {
         "en": "Lime",
         "zh": "萊姆"
-      },
-      "count": 5,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Salt",
-        "zh": "鹽"
       },
       "count": 5,
       "tags": []
@@ -2558,6 +2622,14 @@
         "zh": "柚子汁"
       },
       "count": 3,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Agave Nectar",
+        "zh": "龍舌蘭花蜜"
+      },
+      "count": 2,
       "tags": []
     },
     {
@@ -2878,14 +2950,6 @@
         "zh": "安格式苦精"
       },
       "count": 2,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Agave Nectar",
-        "zh": "龍舌蘭花蜜"
-      },
-      "count": 1,
       "tags": []
     },
     {
@@ -3228,6 +3292,14 @@
       "name": {
         "en": "Dashes Bitters",
         "zh": "苦精"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Dashes of Aromatic Bitters",
+        "zh": "少量芳香苦精"
       },
       "count": 1,
       "tags": []
@@ -3738,6 +3810,14 @@
     },
     {
       "name": {
+        "en": "Orange Juice, Fresh",
+        "zh": "新鮮柳橙汁"
+      },
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": {
         "en": "Orange Marmalade",
         "zh": "橙皮果醬"
       },
@@ -4215,7 +4295,7 @@
         "en": "Citrus",
         "zh": "柑橘"
       },
-      "count": 374,
+      "count": 380,
       "tags": []
     },
     {
@@ -4223,7 +4303,7 @@
         "en": "Fruity",
         "zh": "果香"
       },
-      "count": 350,
+      "count": 359,
       "tags": []
     },
     {
@@ -4231,7 +4311,7 @@
         "en": "Herbal",
         "zh": "草本"
       },
-      "count": 337,
+      "count": 346,
       "tags": []
     },
     {
@@ -4239,7 +4319,7 @@
         "en": "Bitter",
         "zh": "苦味"
       },
-      "count": 205,
+      "count": 209,
       "tags": []
     },
     {
@@ -4247,7 +4327,7 @@
         "en": "Spicy",
         "zh": "辛辣"
       },
-      "count": 174,
+      "count": 177,
       "tags": []
     },
     {
@@ -4255,7 +4335,7 @@
         "en": "Vanilla",
         "zh": "香草"
       },
-      "count": 116,
+      "count": 118,
       "tags": []
     },
     {
@@ -4263,7 +4343,7 @@
         "en": "Floral",
         "zh": "花香"
       },
-      "count": 113,
+      "count": 115,
       "tags": []
     },
     {
@@ -4271,7 +4351,7 @@
         "en": "Tropical",
         "zh": "熱帶"
       },
-      "count": 113,
+      "count": 114,
       "tags": []
     },
     {
@@ -4279,7 +4359,7 @@
         "en": "Creamy",
         "zh": "乳脂"
       },
-      "count": 100,
+      "count": 104,
       "tags": []
     },
     {
@@ -4287,7 +4367,7 @@
         "en": "Woody",
         "zh": "木質"
       },
-      "count": 85,
+      "count": 89,
       "tags": []
     },
     {
@@ -4295,7 +4375,7 @@
         "en": "Nutty",
         "zh": "堅果"
       },
-      "count": 77,
+      "count": 79,
       "tags": []
     },
     {
@@ -4311,7 +4391,7 @@
         "en": "Chocolate",
         "zh": "朱古力"
       },
-      "count": 45,
+      "count": 48,
       "tags": []
     },
     {
@@ -4319,7 +4399,7 @@
         "en": "Salty",
         "zh": "鹹味"
       },
-      "count": 45,
+      "count": 46,
       "tags": []
     },
     {
@@ -4327,21 +4407,21 @@
         "en": "Coffee",
         "zh": "咖啡"
       },
-      "count": 44,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Grassy",
-        "zh": "草青"
-      },
-      "count": 31,
+      "count": 45,
       "tags": []
     },
     {
       "name": {
         "en": "Umami",
         "zh": "鮮味"
+      },
+      "count": 32,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Grassy",
+        "zh": "草青"
       },
       "count": 31,
       "tags": []
@@ -4359,21 +4439,21 @@
         "en": "Savory",
         "zh": "鮮味"
       },
-      "count": 16,
-      "tags": []
-    },
-    {
-      "name": {
-        "en": "Sour",
-        "zh": "酸味"
-      },
-      "count": 12,
+      "count": 17,
       "tags": []
     },
     {
       "name": {
         "en": "Sweet",
         "zh": "甜味"
+      },
+      "count": 13,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Sour",
+        "zh": "酸味"
       },
       "count": 12,
       "tags": []
@@ -4400,6 +4480,14 @@
         "zh": "甜味"
       },
       "count": 2,
+      "tags": []
+    },
+    {
+      "name": {
+        "en": "Sweet & Tart",
+        "zh": "酸甜"
+      },
+      "count": 1,
       "tags": []
     }
   ]

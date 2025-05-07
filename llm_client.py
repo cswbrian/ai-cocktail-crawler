@@ -76,7 +76,7 @@ Example responses:
 ["Strong & Spirit-Focused", "Sweet & Tart"]  # ONLY if truly has two equally dominant characteristics"""
 
             response = self.client.models.generate_content(
-                model='gemini-2.0-flash',
+                model='gemini-2.5-flash',
                 contents=prompt,
                 config={ 
                     'response_mime_type': 'application/json',

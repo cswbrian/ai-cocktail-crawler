@@ -1,0 +1,111 @@
+{
+  "name": {
+    "en": "Berlin Station Chief",
+    "zh": "柏林站長"
+  },
+  "description": {
+    "en": "**Bold and Boozy Classic**\n\nA rye whiskey-forward cocktail, highlighting:\n*   The spiciness of rye whiskey.\n*   Subtle bitterness from the vermouth.\n*   A hint of sweetness to balance the flavors.",
+    "zh": "**大膽濃烈的經典之作**\n\n一款以黑麥威士忌為主導的雞尾酒，突顯：\n*   黑麥威士忌的辛辣味。\n*   來自苦艾酒的微妙苦味。\n*   一絲甜味以平衡風味。"
+  },
+  "historical_reference": {
+    "en": "Although the exact origin is unclear, it resembles classic whiskey cocktails like the Manhattan but with a more pronounced rye whiskey character.",
+    "zh": "雖然確切的起源尚不清楚，但它類似於曼哈頓等經典威士忌雞尾酒，但具有更明顯的黑麥威士忌特色。"
+  },
+  "technique": {
+    "en": "Stir with ice and strain into a chilled glass.",
+    "zh": "與冰塊攪拌，然後濾入冰鎮的杯子中。"
+  },
+  "garnish": {
+    "en": "Orange peel twist",
+    "zh": "橙皮扭轉"
+  },
+  "serve_in_glass": {
+    "en": "Coupe or Martini glass",
+    "zh": "高腳杯或馬丁尼杯"
+  },
+  "appearance": {
+    "en": "Clear, deep amber",
+    "zh": "清澈的深琥珀色"
+  },
+  "allergens": [],
+  "base_spirits": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Rye Whiskey",
+        "zh": "黑麥威士忌"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a spicy and robust backbone for the cocktail.",
+        "zh": "為這款雞尾酒提供辛辣和濃郁的骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Sweet Vermouth",
+        "zh": "甜苦艾酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness and herbal notes, softening the whiskey's edge.",
+        "zh": "增添甜味和草本味，軟化威士忌的邊緣。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 2,
+      "name": {
+        "en": "Dashes of Aromatic Bitters",
+        "zh": "少量芳香苦精"
+      },
+      "unit": {
+        "en": "dash",
+        "zh": "滴"
+      },
+      "rationale": {
+        "en": "Adds complexity and aromatic depth.",
+        "zh": "增加複雜性和芳香深度。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Spicy",
+      "zh": "辛辣"
+    },
+    {
+      "en": "Bitter",
+      "zh": "苦味"
+    },
+    {
+      "en": "Woody",
+      "zh": "木質"
+    },
+    {
+      "en": "Herbal",
+      "zh": "草本"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 3,
+    "sourness": 2,
+    "booziness": 9,
+    "body": 7,
+    "complexity": 8,
+    "bubbles": false
+  },
+  "categories": [
+    "Strong & Spirit-Focused"
+  ]
+}

@@ -9,6 +9,44 @@ Before you begin, ensure you have the following installed:
 - Python 3.7 or higher
 - pip (Python package manager)
 
+## Database Integration
+
+The project uses Supabase as its database backend. The database schema is designed for maintainability and scalability, featuring:
+
+- UUID-based primary keys for all tables
+- Normalized table structure for efficient data management
+- Support for multilingual content (English and Traditional Chinese)
+- Comprehensive cocktail information storage including:
+  - Base spirits and liqueurs
+  - Ingredients and measurements
+  - Preparation techniques
+  - Flavor profiles
+  - Categories and tags
+
+### Database Setup
+
+1. Create a Supabase project at https://supabase.com
+2. Set up your environment variables:
+   - Create a `.env` file in the project root
+   - Add your Supabase credentials:
+     ```
+     SUPABASE_URL=your_supabase_project_url
+     SUPABASE_KEY=your_supabase_anon_key
+     ```
+
+### Database Schema
+
+The database consists of the following tables:
+- `cocktails`: Main cocktail information
+- `base_spirits`: Base spirit types and details
+- `liqueurs`: Liqueur types and details
+- `ingredients`: Standardized ingredient information
+- `cocktail_ingredients`: Junction table for cocktail-ingredient relationships
+- `preparation_techniques`: Standardized preparation methods
+- `flavor_profiles`: Cocktail flavor characteristics
+- `categories`: Cocktail categories
+- `cocktail_categories`: Junction table for cocktail-category relationships
+
 ## Setup Instructions
 
 1. **Clone the repository**

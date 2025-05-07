@@ -1,14 +1,34 @@
+import os
 from workflow import CocktailWorkflow
+from dotenv import load_dotenv
 
 if __name__ == '__main__':
+    # Load environment variables
+    load_dotenv()
+    
+    # Verify Supabase configuration
+    if not os.getenv("SUPABASE_URL") or not os.getenv("SUPABASE_KEY"):
+        print("Error: SUPABASE_URL and SUPABASE_KEY environment variables must be set")
+        print("Please create a .env file with these variables or set them in your environment")
+        exit(1)
+    
     # Initialize the workflow
     workflow = CocktailWorkflow()
     
     # Add your new cocktails here
     new_cocktails = [
-        "French Kiss",
-        "Mojito",
-        "Margarita",
+        "Deshler",
+        "Opera",
+        "Dubonnet Cocktail",
+        "Larchmont",
+        "Honeymoon",
+        "Golden Fizz"
+        "Silver Fizz"
+        "Royal Fizz",
+        "Berlin Station Chief",
+        "Starting Over",
+        "Repose 1912",
+        "Coffee Cocktail",
         # Add more cocktails here, one per line
     ]
     

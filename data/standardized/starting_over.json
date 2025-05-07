@@ -1,0 +1,150 @@
+{
+  "name": {
+    "en": "Starting Over",
+    "zh": "重新開始"
+  },
+  "description": {
+    "en": "**A layered tropical delight**\n\nA visually stunning and refreshing cocktail featuring:\n*   Layered presentation for aesthetic appeal\n*   Blend of tropical flavors for a vacation vibe\n*   Sweet and creamy texture for a luscious experience",
+    "zh": "**分層的熱帶樂趣**\n\n一款視覺上令人驚豔且令人耳目一新的雞尾酒，特色：\n*   分層呈現，美觀大方\n*   混合熱帶風味，營造度假氛圍\n*   香甜滑順的口感，帶來奢華體驗"
+  },
+  "historical_reference": {
+    "en": "The history of layered cocktails is difficult to pinpoint, but they gained popularity in the mid-20th century with the rise of tiki culture.\n\n*   Layered cocktails are visually appealing and allow for a gradual change in flavor as the drink is consumed.\n*   Starting Over is a modern take on this classic technique, emphasizing tropical flavors.",
+    "zh": "分層雞尾酒的歷史很難確定，但它們在 20 世紀中期隨著提基文化的興起而廣受歡迎。\n\n*   分層雞尾酒在視覺上很吸引人，並且可以在飲用時逐漸改變風味。\n*   《重新開始》是對這種經典技術的現代詮釋，強調熱帶風味。"
+  },
+  "technique": {
+    "en": "Layer ingredients carefully by pouring slowly over the back of a spoon, starting with grenadine, then pineapple juice, and finally coconut cream.",
+    "zh": "小心地分層配料，從石榴糖漿開始，然後是鳳梨汁，最後是椰奶，慢慢地倒在湯匙背面。"
+  },
+  "garnish": {
+    "en": "Pineapple wedge and a cherry",
+    "zh": "鳳梨角和櫻桃"
+  },
+  "serve_in_glass": {
+    "en": "Hurricane Glass",
+    "zh": "颶風杯"
+  },
+  "appearance": {
+    "en": "Opaque, layered, with vibrant colors of grenadine at the bottom, pineapple juice in the middle, and coconut cream at the top.",
+    "zh": "不透明，分層，底部是鮮豔的石榴糖漿顏色，中間是鳳梨汁，頂部是椰奶。"
+  },
+  "allergens": [
+    {
+      "en": "None",
+      "zh": "無"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "White Rum",
+        "zh": "白冧酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides the alcoholic backbone and tropical notes.",
+        "zh": "提供酒精骨幹和熱帶風味。"
+      },
+      "tags": [
+        {
+          "en": "Rum",
+          "zh": "蘭姆酒"
+        },
+        {
+          "en": "sugarcane",
+          "zh": "甘蔗"
+        },
+        {
+          "en": "tropical",
+          "zh": "熱帶"
+        },
+        {
+          "en": "distilled",
+          "zh": "蒸餾"
+        }
+      ]
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Coconut Cream",
+        "zh": "椰奶"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a creamy texture and coconut flavor.",
+        "zh": "增加奶油般的質地和椰子味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 60,
+      "name": {
+        "en": "Pineapple Juice",
+        "zh": "菠蘿汁"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds a tropical sweetness and tartness.",
+        "zh": "增添熱帶甜味和酸味。"
+      }
+    },
+    {
+      "amount": 30,
+      "name": {
+        "en": "Grenadine",
+        "zh": "石榴糖漿"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds sweetness, color, and a subtle tartness.",
+        "zh": "增加甜度、顏色和微妙的酸味。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Tropical",
+      "zh": "熱帶"
+    },
+    {
+      "en": "Fruity",
+      "zh": "果香"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Sweet",
+      "zh": "甜味"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 8,
+    "sourness": 4,
+    "booziness": 4,
+    "body": 6,
+    "complexity": 5,
+    "bubbles": false
+  },
+  "categories": [
+    "Sweet & Tart",
+    "Tall & Bubbly"
+  ]
+}

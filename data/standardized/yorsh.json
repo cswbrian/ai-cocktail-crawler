@@ -1,7 +1,7 @@
 {
   "name": {
     "en": "Yorsh",
-    "zh": "約爾什"
+    "zh": "约尔什"
   },
   "description": {
     "en": "**Simple and Potent Combination**\n\nThe Yorsh is a rudimentary mix of beer and vodka, often consumed for its high alcoholic content and ease of preparation.\n\n*   Typically uses lager-style beer.\n*   Ratio can vary based on preference.\n*   Consumed quickly.",
@@ -100,6 +100,6 @@
     "bubbles": true
   },
   "categories": [
-    "Tall & Bubbly"
+    "Strong & Spirit-Focused"
   ]
 }

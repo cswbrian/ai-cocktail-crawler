@@ -1,0 +1,151 @@
+{
+  "name": {
+    "en": "Cacao Fizz",
+    "zh": "可可氣泡飲"
+  },
+  "description": {
+    "en": "**A Delightful Chocolate Cocktail**\n\nThe Cacao Fizz is a creamy and refreshing cocktail that blends the richness of chocolate with the effervescence of soda water.\n\n*   Smooth and creamy texture\n*   Subtle chocolate flavor balanced by the botanicals of gin.\n*   Perfect for a dessert cocktail or a light, indulgent treat.",
+    "zh": "**令人愉悅的巧克力雞尾酒**\n\n可可氣泡飲是一種奶油味十足、清爽的雞尾酒，將巧克力的濃郁與蘇打水的氣泡融合在一起。\n\n*   口感柔滑細膩\n*   微妙的巧克力風味與琴酒的植物風味相平衡。\n*   非常適合作為甜點雞尾酒或清淡、放縱的享受。"
+  },
+  "historical_reference": {
+    "en": "**Origin and Evolution**\n\n*   Variations of chocolate-flavored cocktails have existed since the late 19th century.\n*   The Cacao Fizz likely emerged as a popular variation on other gin-based fizzes.\n*   It gained prominence in cocktail books during the mid-20th century.",
+    "zh": "**起源與演變**\n\n*   自19世紀末以來，就存在各種巧克力風味的雞尾酒。\n*   可可氣泡飲很可能作為其他以琴酒為基礎的氣泡飲的流行變體而出現。\n*   它在20世紀中期的雞尾酒書籍中廣為流行。"
+  },
+  "technique": {
+    "en": "Dry shake gin, chocolate liqueur, cream, and egg white. Add ice and shake again until well-chilled. Strain into a highball glass filled with ice and top with soda water. Garnish with grated chocolate.",
+    "zh": "將琴酒、巧克力利口酒、奶油和蛋白進行乾式搖盪。加入冰塊並再次搖盪至完全冰鎮。濾入裝滿冰塊的高球杯中，並倒入蘇打水。用磨碎的巧克力裝飾。"
+  },
+  "garnish": {
+    "en": "Grated chocolate or a chocolate shaving.",
+    "zh": "磨碎的巧克力或巧克力屑。"
+  },
+  "serve_in_glass": {
+    "en": "Highball glass",
+    "zh": "高球杯"
+  },
+  "appearance": {
+    "en": "Frothy, light brown to beige color, with a creamy texture.",
+    "zh": "起泡的淺棕色至米色，具有奶油般的質地。"
+  },
+  "allergens": [
+    {
+      "en": "Dairy (milk, cream)",
+      "zh": "乳製品（牛奶，奶油）"
+    },
+    {
+      "en": "Eggs (egg white)",
+      "zh": "雞蛋（蛋白）"
+    }
+  ],
+  "base_spirits": [
+    {
+      "amount": 45,
+      "name": {
+        "en": "Gin",
+        "zh": "琴酒"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a botanical and alcoholic backbone to the cocktail.",
+        "zh": "為雞尾酒提供植物性和酒精骨幹。"
+      }
+    }
+  ],
+  "liqueurs": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Chocolate Liqueur (e.g., Crème de Cacao)",
+        "zh": "巧克力利口酒（例如，可可奶油）"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Provides a concentrated chocolate flavor.",
+        "zh": "提供濃郁的巧克力風味。"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 30,
+      "name": {
+        "en": "Heavy Cream",
+        "zh": "濃奶油"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds richness and a creamy texture.",
+        "zh": "增加豐富度和奶油般的質地。"
+      }
+    },
+    {
+      "amount": 1,
+      "name": {
+        "en": "Egg White",
+        "zh": "蛋白"
+      },
+      "unit": {
+        "en": "pc",
+        "zh": "個"
+      },
+      "rationale": {
+        "en": "Adds a silky texture and frothy head.",
+        "zh": "增加絲滑的質地和泡沫。"
+      }
+    },
+    {
+      "amount": 90,
+      "name": {
+        "en": "Soda Water",
+        "zh": "蘇打水"
+      },
+      "unit": {
+        "en": "ml",
+        "zh": "毫升"
+      },
+      "rationale": {
+        "en": "Adds effervescence and lightens the cocktail.",
+        "zh": "增加氣泡並使雞尾酒更清淡。"
+      }
+    }
+  ],
+  "flavor_descriptors": [
+    {
+      "en": "Chocolate",
+      "zh": "朱古力"
+    },
+    {
+      "en": "Creamy",
+      "zh": "乳脂"
+    },
+    {
+      "en": "Vanilla",
+      "zh": "香草"
+    },
+    {
+      "en": "Floral",
+      "zh": "花香"
+    }
+  ],
+  "flavor_profile": {
+    "sweetness": 6,
+    "sourness": 3,
+    "booziness": 5,
+    "body": 7,
+    "complexity": 6,
+    "bubbles": true
+  },
+  "categories": [
+    "Rich & Creamy",
+    "Tall & Bubbly"
+  ]
+}
