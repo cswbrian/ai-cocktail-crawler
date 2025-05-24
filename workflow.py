@@ -329,6 +329,21 @@ class CocktailWorkflow:
                         flavor['en'] = standard['en']
                         flavor['zh'] = standard['zh']
             
+            # Ensure all required fields are present
+            if 'name' not in standardized_cocktail:
+                standardized_cocktail['name'] = {
+                    'en': standardized_cocktail.get('name_en', ''),
+                    'zh': standardized_cocktail.get('name_zh', '')
+                }
+            
+            # Ensure all ingredients have required fields
+            for category in ['base_spirits', 'liqueurs', 'ingredients']:
+                for item in standardized_cocktail.get(category, []):
+                    if 'amount' not in item:
+                        item['amount'] = 0
+                    if 'unit' not in item:
+                        item['unit'] = {'en': 'oz', 'zh': '盎司'}
+            
             # Save the standardized cocktail data
             standardized_file = self.base_dirs['standardized'] / file_path.name
             with open(standardized_file, 'w', encoding='utf-8') as f:
@@ -356,16 +371,6 @@ class CocktailWorkflow:
         for json_file in json_files:
             with open(json_file, 'r', encoding='utf-8') as f:
                 cocktail_data = json.load(f)
-                
-                # Generate slug from filename if not present
-                if 'slug' not in cocktail_data:
-                    # Create a slug from the English name
-                    name = cocktail_data['name']['en'].lower()
-                    # Replace spaces with hyphens and remove non-word characters
-                    import re
-                    slug = re.sub(r'[^\w-]+', '', name.replace(' ', '-'))
-                    cocktail_data['slug'] = slug
-                
                 cocktails.append(cocktail_data)
         
         # Save the combined list to cocktails.json in the reports directory
@@ -390,15 +395,6 @@ class CocktailWorkflow:
         error_count = 0
         
         for cocktail in cocktails:
-            # Generate slug if not present
-            if 'slug' not in cocktail:
-                # Create a slug from the English name
-                name = cocktail['name']['en'].lower()
-                # Replace spaces with hyphens and remove non-word characters
-                import re
-                slug = re.sub(r'[^\w-]+', '', name.replace(' ', '-'))
-                cocktail['slug'] = slug
-            
             # Upsert to database
             result = self.supabase.upsert_cocktail(cocktail)
             if result:
